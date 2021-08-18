@@ -54,138 +54,8 @@
    |-----------------+----------------+--------|
    | Weekly          | Participation  |    15% |
    | Before midterms | Protocol       |    15% |
-   | TBD             | Presentation   |    40% |
-   | Last week       | AI application |    30% |
-
-*** Grading table
-
-    This table is used to convert completion rates into letter
-    grades. For the midterm results, letter grades still carry signs,
-    while for the term results, only straight letters are given (by
-    rounding up).
-
-    |--------+-----------------+---------------|
-    |    *%* | *Midterm Grade* | *Final Grade* |
-    |--------+-----------------+---------------|
-    | 100-98 | A+              |               |
-    |  97-96 | A               | A             |
-    |  95-90 | A-              |               |
-    |--------+-----------------+---------------|
-    |  89-86 | B+              |               |
-    |  85-80 | B               | B             |
-    |  79-76 | B-              |               |
-    |--------+-----------------+---------------|
-    |  75-70 | C+              |               |
-    |  69-66 | C               | C             |
-    |  65-60 | C-              |               |
-    |--------+-----------------+---------------|
-    |  59-56 | D+              |               |
-    |  55-50 | D               | D             |
-    |--------+-----------------+---------------|
-    |   49-0 | F               | F             |
-    |--------+-----------------+---------------|
-
-
-*** Presentation 40%)
-
-    * Present part of a chapter from AIMA, OR
-    * Review and present an AI research paper, OR
-    * Research and present an AI application.
-
-*** Application (30%)
-
-    * Identify an AI application area, AND
-    * Research how AI could be used, AND
-    * Present your application idea in class.
-
-*** Protocol (15%)
-
-    * Record a classroom session, AND
-    * Create a protocol of the session, AND
-    * Upload the protocol to GitHub.
-
-*** Participation (15%)
-
-    * Participate in group discussions, OR
-    * Participate in class discussion, OR
-    * Present a glossary term, OR
-    * Present an interesting AI application.
-
-*** Grading examples
-
-ng system
-
-   | WHEN            | DESCRIPTION    | IMPACT |
-   |-----------------+----------------+--------|
-   | Weekly          | Participation  |    15% |
-   | Before midterms | Protocol       |    15% |
-   | TBD             | Presentation   |    40% |
-   | Last week       | AI application |    30% |
-
-*** Grading table
-
-    This table is used to convert completion rates into letter
-    grades. For the midterm results, letter grades still carry signs,
-    while for the term results, only straight letters are given (by
-    rounding up).
-
-    |--------+-----------------+---------------|
-    |    *%* | *Midterm Grade* | *Final Grade* |
-    |--------+-----------------+---------------|
-    | 100-98 | A+              |               |
-    |  97-96 | A               | A             |
-    |  95-90 | A-              |               |
-    |--------+-----------------+---------------|
-    |  89-86 | B+              |               |
-    |  85-80 | B               | B             |
-    |  79-76 | B-              |               |
-    |--------+-----------------+---------------|
-    |  75-70 | C+              |               |
-    |  69-66 | C               | C             |
-    |  65-60 | C-              |               |
-    |--------+-----------------+---------------|
-    |  59-56 | D+              |               |
-    |  55-50 | D               | D             |
-    |--------+-----------------+---------------|
-    |   49-0 | F               | F             |
-    |--------+-----------------+---------------|
-
-
-*** Presentation 40%)
-
-    * Present part of a chapter from AIMA, OR
-    * Review and present an AI research paper, OR
-    * Research and present an AI application.
-
-*** Application (30%)
-
-    * Identify an AI application area, AND
-    * Research how AI could be used, AND
-    * Present your application idea in class.
-
-*** Protocol (15%)
-
-    * Record a classroom session, AND
-    * Create a protocol of the session, AND
-    * Upload the protocol to GitHub.
-
-*** Participation (15%)
-
-    * Participate in group discussions, OR
-    * Participate in class discussion, OR
-    * Present a glossary term, OR
-    * Present an interesting AI application.
-
-*** Grading examples
-
-ng system
-
-   | WHEN            | DESCRIPTION    | IMPACT |
-   |-----------------+----------------+--------|
-   | Weekly          | Participation  |    15% |
-   | Before midterms | Protocol       |    15% |
-   | TBD             | Presentation   |    40% |
-   | Last week       | AI application |    30% |
+   | TBD             | Presentation   |    30% |
+   | Last week       | AI application |    40% |
 
 *** Grading table
 
@@ -226,7 +96,8 @@ ng system
 
     * Identify an AI application area, AND
     * Research how AI could be used, AND
-    * Present your application idea in class.
+    * Present briefly at sprint reviews, AND
+    * Present your application idea at the end of term.
 
 *** Protocol (15%)
 
@@ -256,14 +127,14 @@ ng system
 
      # #+begin_src R :session :results output
      #   ## midterm weights (only practice and participation)
-     #   weight_m <- c("practice"=0.5,
+     #   weight_m <- c("protocol"=0.5,
      #                 "participation"=0.5)
      #   ## results vector
-     #   result_m <- c("practice"=80,
+     #   result_m <- c("protocol"=80,
      #                 "participation"=90)
      #   ## midterm grade
      #   grade_m <-
-     #     weight_m["practice"] * result_m["practice"] +
+     #     weight_m["protocol"] * result_m["protocol"] +
      #     weight_m["participation"] * result_m["participation"]
      #   names(grade_m) <- NULL
      #   grade_m
@@ -280,31 +151,31 @@ ng system
 
      | GRADE PART           | WEIGHT | RESULT |
      |----------------------+--------+--------|
-     | Final application    |    40% |    95% |
-     | Final presentation   |    30% |    95% |
-     | Weekly practice      |    15% |    80% |
+     | Session protocol     |    15% |    80% |
      | Weekly participation |    15% |    90% |
+     | Presentation         |    30% |    95% |
+     | Final application    |    40% |    95% |
 
-     # Student X's midterm result is computed as follows:
+     # # Student X's midterm result is computed as follows:
 
      # #+begin_src R :session :results output
      #   ## full term weight vector according to grading table
-     #   weight <- c("exam"= 0.3,
-     #               "essay"=0.4,
-     #               "practice"=0.15,
+     #   weight <- c("presentation"= 0.3,
+     #               "application"=0.4,
+     #               "protocol"=0.15,
      #               "participation"=0.15)
      #   ## results vector
-     #   result <- c("exam"=95,
-     #               "essay"=95,
-     #               "practice"=80,
+     #   result <- c("presentation"=95,
+     #               "application"=95,
+     #               "protocol"=80,
      #               "participation"=90)
      #   ## midterm grade
      #   grade <-
-     #     weight["exam"] * result["exam"] +
-     #     weight["essay"] * result["essay"] +
-     #     weight["practice"] * result["practice"] +
+     #     weight["presentation"] * result["presentation"] +
+     #     weight["application"] * result["application"] +
+     #     weight["protocol"] * result["protocol"] +
      #     weight["participation"] * result["participation"]
-     #   names(grade) <- NULLp
+     #   names(grade) <- NULL
      #   grade
      # #+end_src
 
@@ -312,7 +183,6 @@ ng system
      # : [1] 92
 
      Student X's midterm result is an "A" (~92%~).
-
 
 * Standard Policies
 ** Honor Code
@@ -447,7 +317,7 @@ ng system
    | December 6-10  | Final exams                                |
    | December 15    | Final grades due                           |
 
-** Schedule and session content
+** Schedule and session contenty
 
    | DATE       | AIMA                     | PROJECTS          |
    |------------+--------------------------+-------------------|
@@ -455,22 +325,22 @@ ng system
    | Fri-20-Aug |                          |                   |
    |------------+--------------------------+-------------------|
    | Mon-23-Aug | What is AI?              |                   |
-   | Wed-25-Aug |                          |                   |
-   | Fri-27-Aug |                          |                   |
+   | Wed-25-Aug |                          | Protocol          |
+   | Fri-27-Aug |                          | Protocol          |
    |------------+--------------------------+-------------------|
    | Mon-30-Aug | History of AI            |                   |
-   | Wed-1-Sep  |                          |                   |
-   | Fri-3-Sep  |                          |                   |
+   | Wed-1-Sep  |                          | Protocol          |
+   | Fri-3-Sep  |                          | Protocol          |
    |------------+--------------------------+-------------------|
    | Mon-6-Sep  | LABOR DAY                |                   |
    | Wed-8-Sep  | State of the Art of AI   |                   |
    | Fri-10-Sep |                          | 1st sprint review |
    |------------+--------------------------+-------------------|
    | Mon-13-Sep | Risks and benefits of AI |                   |
-   | Wed-15-Sep |                          |                   |
-   | Fri-17-Sep |                          |                   |
+   | Wed-15-Sep |                          | Protocol          |
+   | Fri-17-Sep |                          | Protocol          |
    |------------+--------------------------+-------------------|
-   | Mon-20-Sep |                          |                   |
+   | Mon-20-Sep | Introduction summary     | Protocol          |
    | Wed-22-Sep |                          |                   |
    | Fri-24-Sep |                          |                   |
    |------------+--------------------------+-------------------|

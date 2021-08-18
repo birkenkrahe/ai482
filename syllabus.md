@@ -88,410 +88,14 @@ ethics.
 <tr>
 <td class="org-left">TBD</td>
 <td class="org-left">Presentation</td>
-<td class="org-right">40%</td>
+<td class="org-right">30%</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Last week</td>
 <td class="org-left">AI application</td>
-<td class="org-right">30%</td>
-</tr>
-</tbody>
-</table>
-
-
-### Grading table
-
-This table is used to convert completion rates into letter
-grades. For the midterm results, letter grades still carry signs,
-while for the term results, only straight letters are given (by
-rounding up).
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-right" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-right">**%**</th>
-<th scope="col" class="org-left">**Midterm Grade**</th>
-<th scope="col" class="org-left">**Final Grade**</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-right">100-98</td>
-<td class="org-left">A+</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-right">97-96</td>
-<td class="org-left">A</td>
-<td class="org-left">A</td>
-</tr>
-
-
-<tr>
-<td class="org-right">95-90</td>
-<td class="org-left">A-</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-<td class="org-right">89-86</td>
-<td class="org-left">B+</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-right">85-80</td>
-<td class="org-left">B</td>
-<td class="org-left">B</td>
-</tr>
-
-
-<tr>
-<td class="org-right">79-76</td>
-<td class="org-left">B-</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-<td class="org-right">75-70</td>
-<td class="org-left">C+</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-right">69-66</td>
-<td class="org-left">C</td>
-<td class="org-left">C</td>
-</tr>
-
-
-<tr>
-<td class="org-right">65-60</td>
-<td class="org-left">C-</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-<td class="org-right">59-56</td>
-<td class="org-left">D+</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-right">55-50</td>
-<td class="org-left">D</td>
-<td class="org-left">D</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-<td class="org-right">49-0</td>
-<td class="org-left">F</td>
-<td class="org-left">F</td>
-</tr>
-</tbody>
-</table>
-
-
-### Presentation 40%)
-
--   Present part of a chapter from AIMA, OR
--   Review and present an AI research paper, OR
--   Research and present an AI application.
-
-
-### Application (30%)
-
--   Identify an AI application area, AND
--   Research how AI could be used, AND
--   Present your application idea in class.
-
-
-### Protocol (15%)
-
--   Record a classroom session, AND
--   Create a protocol of the session, AND
--   Upload the protocol to GitHub.
-
-
-### Participation (15%)
-
--   Participate in group discussions, OR
--   Participate in class discussion, OR
--   Present a glossary term, OR
--   Present an interesting AI application.
-
-
-### Grading examples
-
-ng system
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-right" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">WHEN</th>
-<th scope="col" class="org-left">DESCRIPTION</th>
-<th scope="col" class="org-right">IMPACT</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-left">Weekly</td>
-<td class="org-left">Participation</td>
-<td class="org-right">15%</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Before midterms</td>
-<td class="org-left">Protocol</td>
-<td class="org-right">15%</td>
-</tr>
-
-
-<tr>
-<td class="org-left">TBD</td>
-<td class="org-left">Presentation</td>
 <td class="org-right">40%</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Last week</td>
-<td class="org-left">AI application</td>
-<td class="org-right">30%</td>
-</tr>
-</tbody>
-</table>
-
-
-### Grading table
-
-This table is used to convert completion rates into letter
-grades. For the midterm results, letter grades still carry signs,
-while for the term results, only straight letters are given (by
-rounding up).
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-right" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-right">**%**</th>
-<th scope="col" class="org-left">**Midterm Grade**</th>
-<th scope="col" class="org-left">**Final Grade**</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-right">100-98</td>
-<td class="org-left">A+</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-right">97-96</td>
-<td class="org-left">A</td>
-<td class="org-left">A</td>
-</tr>
-
-
-<tr>
-<td class="org-right">95-90</td>
-<td class="org-left">A-</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-<td class="org-right">89-86</td>
-<td class="org-left">B+</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-right">85-80</td>
-<td class="org-left">B</td>
-<td class="org-left">B</td>
-</tr>
-
-
-<tr>
-<td class="org-right">79-76</td>
-<td class="org-left">B-</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-<td class="org-right">75-70</td>
-<td class="org-left">C+</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-right">69-66</td>
-<td class="org-left">C</td>
-<td class="org-left">C</td>
-</tr>
-
-
-<tr>
-<td class="org-right">65-60</td>
-<td class="org-left">C-</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-<td class="org-right">59-56</td>
-<td class="org-left">D+</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-right">55-50</td>
-<td class="org-left">D</td>
-<td class="org-left">D</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-<td class="org-right">49-0</td>
-<td class="org-left">F</td>
-<td class="org-left">F</td>
-</tr>
-</tbody>
-</table>
-
-
-### Presentation 40%)
-
--   Present part of a chapter from AIMA, OR
--   Review and present an AI research paper, OR
--   Research and present an AI application.
-
-
-### Application (30%)
-
--   Identify an AI application area, AND
--   Research how AI could be used, AND
--   Present your application idea in class.
-
-
-### Protocol (15%)
-
--   Record a classroom session, AND
--   Create a protocol of the session, AND
--   Upload the protocol to GitHub.
-
-
-### Participation (15%)
-
--   Participate in group discussions, OR
--   Participate in class discussion, OR
--   Present a glossary term, OR
--   Present an interesting AI application.
-
-
-### Grading examples
-
-ng system
-
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-right" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">WHEN</th>
-<th scope="col" class="org-left">DESCRIPTION</th>
-<th scope="col" class="org-right">IMPACT</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-left">Weekly</td>
-<td class="org-left">Participation</td>
-<td class="org-right">15%</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Before midterms</td>
-<td class="org-left">Protocol</td>
-<td class="org-right">15%</td>
-</tr>
-
-
-<tr>
-<td class="org-left">TBD</td>
-<td class="org-left">Presentation</td>
-<td class="org-right">40%</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Last week</td>
-<td class="org-left">AI application</td>
-<td class="org-right">30%</td>
 </tr>
 </tbody>
 </table>
@@ -624,7 +228,8 @@ rounding up).
 
 -   Identify an AI application area, AND
 -   Research how AI could be used, AND
--   Present your application idea in class.
+-   Present briefly at sprint reviews, AND
+-   Present your application idea at the end of term.
 
 
 ### Protocol (15%)
@@ -708,21 +313,7 @@ rounding up).
     
     <tbody>
     <tr>
-    <td class="org-left">Final application</td>
-    <td class="org-right">40%</td>
-    <td class="org-right">95%</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">Final presentation</td>
-    <td class="org-right">30%</td>
-    <td class="org-right">95%</td>
-    </tr>
-    
-    
-    <tr>
-    <td class="org-left">Weekly practice</td>
+    <td class="org-left">Session protocol</td>
     <td class="org-right">15%</td>
     <td class="org-right">80%</td>
     </tr>
@@ -732,6 +323,20 @@ rounding up).
     <td class="org-left">Weekly participation</td>
     <td class="org-right">15%</td>
     <td class="org-right">90%</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Presentation</td>
+    <td class="org-right">30%</td>
+    <td class="org-right">95%</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Final application</td>
+    <td class="org-right">40%</td>
+    <td class="org-right">95%</td>
     </tr>
     </tbody>
     </table>
@@ -947,7 +552,7 @@ scheduled time, and we can make arrangements when you return.
 </table>
 
 
-## Schedule and session content
+## Schedule and session contenty
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -993,14 +598,14 @@ scheduled time, and we can make arrangements when you return.
 <tr>
 <td class="org-left">Wed-25-Aug</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Protocol</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Fri-27-Aug</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Protocol</td>
 </tr>
 </tbody>
 
@@ -1015,14 +620,14 @@ scheduled time, and we can make arrangements when you return.
 <tr>
 <td class="org-left">Wed-1-Sep</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Protocol</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Fri-3-Sep</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Protocol</td>
 </tr>
 </tbody>
 
@@ -1059,22 +664,22 @@ scheduled time, and we can make arrangements when you return.
 <tr>
 <td class="org-left">Wed-15-Sep</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Protocol</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Fri-17-Sep</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Protocol</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
 <td class="org-left">Mon-20-Sep</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Introduction summary</td>
+<td class="org-left">Protocol</td>
 </tr>
 
 
