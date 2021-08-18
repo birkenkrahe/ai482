@@ -17,5 +17,5 @@
 
 ## [Syllabus](https://github.com/birkenkrahe/ai482/blob/main/syllabus.md)
 
-![img](/home/marcus/GitHub/ai482/1_overview/img/risks.jpg)
+![img](https://github.com/birkenkrahe/ai482/blob/main/1_overview/img/books.jpg)
 
