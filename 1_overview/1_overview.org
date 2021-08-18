@@ -1,0 +1,247 @@
+#+TITLE: Course overview
+#+AUTHOR: Marcus Birkenkrahe
+#+Subtitle: Artificial Intelligence
+#+STARTUP: hideblocks
+#+OPTIONS: toc:nil num:nil ^:nil
+#+reveal_theme: black
+#+reveal_init_options: transition:'cube'
+#+INFOJS_OPT: :view:info
+* What're you going to learn today?
+
+  * Who is your lecturer?
+  * Who are you and what do you want?
+  * Which topics will we cover?
+  * How will we do it?
+  * What do you have to do to pass?
+  * What's next?
+
+* Who am I?
+
+  #+attr_html: :width 300px
+  [[./img/marcus.jpg]]
+
+** Science
+
+   #+attr_html: :height 300px
+   #+attr_latex: :width 300px
+   [[./img/feynman.jpg]]
+
+   * Development of WWW
+   * PhD theoretical particle physics
+   * 60 research publications
+   * Assoc. Ed. Int. J. of Data Science
+   * Ed. Board Int. J. of Big Data Mgmt.
+   * Scientific member [[https://www.hwr-berlin.de/en/research/research-centres-and-institutes/][d-cube@Berlin]]
+
+** Industry
+
+   #+attr_html: :height 300px
+   #+attr_latex: :width 300px
+   [[./img/freud.jpg]]
+
+   * Executive at Accenture & Shell
+   * Coach and consultant
+   * Certified psychotherapist
+   * Startup mentor
+
+** Teaching
+
+   #+attr_html: :height 300px
+   #+attr_latex: :width 300px
+   [[./img/teaching.jpeg]]
+
+   * Business informatics [[https://www.hwr-berlin.de/en/][@HWR Berlin]]
+   * Visiting professor of data science @Lyon
+   * Adviser for [[https://catholicpolytechnic.org/][CPU @LA]]
+   * Internship supervision
+
+** Pleasure
+
+   #+attr_html: :height 300px
+   #+attr_latex: :width 300px
+   [[./img/valhalla.jpg]]
+
+   * Playing: [[https://en.wikipedia.org/wiki/Assassin%27s_Creed_Valhalla][Assassin's Creed Valhalla]] (2020)
+   * Reading: [[https://en.wikipedia.org/wiki/Sword_of_Honour][Waugh, Sword of Honour]] (1952-1961)
+   * Watching: [[https://en.wikipedia.org/wiki/The_Middle_(TV_series)][The Middle]] (2009-2018)
+
+* [[https://ideaboardz.com/for/AI%20seminar%20expectations/4049030][What are your expectations?]]
+
+  * What do you want to learn here?
+  * What would you like to avoid?
+  * What did you take away from another course?
+  * What did you really not like in another course?
+
+* Which topics will we cover?
+
+  #+attr_html: :height 500px
+  [[./img/lavaflow.gif]]
+
+** Modern approach to AI
+
+   #+attr_html: :height 400px
+   [[./img/aima.jpg]]
+
+   Source: [[http://aima.cs.berkeley.edu/][AIMA, 10th ed.]] (2021)
+
+** What is AI?
+
+   #+attr_html: :width 600px
+   [[./img/neuron.png]]
+
+** History of AI
+
+   #+attr_html: :height 500px
+   [[./img/shrdlu.png]]
+
+** State of the Art of AI
+
+   #+attr_html: :height 450px
+   [[./img/deeplearning.jpg]]
+
+** Risks and benefits of AI
+
+    #+attr_html: :height 500px
+    [[./img/risks.jpg]]
+
+    Source: [[https://www.qulix.com/about/benefits-and-risks-of-ai/][qulix.com]] (22 May 2020)
+
+** Agile management
+
+    #+attr_html: :width 600px
+    [[./img/burndown.jpg]]
+
+    Image: [[https://scrum.org][Scrum]] burndown chart
+
+** Causation
+
+    #+attr_html: :width 600px
+    [[./img/whybook.jpg]]
+
+** Schedule (see [[https://github.com/birkenkrahe/ai482/blob/main/syllabus.md][Syllabus]])
+
+    #+attr_html: :width 600px
+    [[./img/seminar.jpg]]
+
+   Image: [[https://www.princeton.edu/news/2018/12/03/life-unpacked-freshman-seminar-explores-search-meaningful-life][Princeton U.]]
+
+* How will we do it?
+
+  #+attr_html: :height 500px
+  [[./img/deer.gif]]
+
+** Classroom sessions
+
+   #+attr_html: :height 500px
+   [[./img/classroom.png]]
+
+** Lecture scripts with exercises ([[https://github.com/birkenkrahe/mod482][GitHub]])
+
+   #+attr_html: :width 600px
+   [[./img/github.png]]
+
+** Reading assignments
+
+   #+attr_html: :width 600px
+   [[./img/books.jpeg]]
+
+   * Image: Unsplash ([[https://unsplash.com/photos/9BoqXzEeQqM][@tomhermans]])
+
+** Lab sessions
+
+   #+attr_html: :width 600px
+   [[./img/lab.jpeg]]
+
+   * Image: Unsplash ([[https://unsplash.com/photos/MD2_srN-02o][@Emin Baycan]])
+
+** Stuff you bring to class
+
+   #+attr_html: :width 600px
+   [[./img/scrapyard.jpg]]
+
+   * Image: Unsplash ([[https://unsplash.com/photos/HGCqL-tRcac][@Evan Demicoli]])
+
+
+* TODO What do you have to do to pass?
+
+  #+attr_html: :height 500px
+  [[./img/oceanrock.gif]]
+
+** Weekly lab practice (> 50%)
+
+   #+attr_html: :width 600px
+   [[./img/lab.jpeg]]
+
+** Weekly participation (> 50%)
+
+   #+attr_html: :width 600px
+   [[./img/seminar.jpg]]
+
+** Final essay (> 50%)
+
+   #+attr_html: :width 600px
+   [[./img/essay.jpg]]
+
+   Source: Unsplash ([[https://unsplash.com/photos/y02jEX_B0O0][@Aaron Burden]])
+
+*** What constitutes an essay?
+
+    * IMRaD structure ([[https://youtu.be/dip7UwZ3wUM][video]])
+    * Research question
+    * Literature review
+    * Methodology
+    * Results (e.g. glossary)
+    * Discussion with limitations
+    * References
+
+*** Do you have essay examples?
+    
+    * Chapters in "Model thinking"
+    * (Parts of) Research papers
+    * Scientific or industry blogs
+
+*** Can I write a scientific essay?
+
+    * Keep It Simply Scientific (IMRaD)
+    * Read and take notes (see [[https://github.com/birkenkrahe/org/blob/master/FAQ.md][FAQ]])
+    * Researchers are beginners
+
+** Final exam (> 50%)
+
+   #+attr_html: :width 600px
+   [[./img/exam.jpg]]
+
+   Final exam: date TBD
+
+
+* TODO What's next?
+
+  #+attr_html: :height 500px
+  [[./img/river.gif]]
+
+** In the course
+
+   * Lecture "Decision intelligence"
+   * Lab discussion "many-model thinking"
+   * Data vs. models (2 articles)
+   * What is a model anyway?
+
+** Your challenges
+
+   | What?                            | When?  |
+   |----------------------------------+--------|
+   | Read "Many-model thinking"       | Aug 19 |
+   | Complete test challenge          | Aug 24 |
+   | List possible research questions | Sep 2  |
+   | Check FAQs x 2 in GitHub         | n.d.   |
+   | Ask questions (class/GitHub)     | n.d.   |
+
+   /*) do this every week until December/
+
+
+* Any questions?
+
+  #+attr_html: :width 500px
+  [[./img/robot.gif]]
+
+  [[https://github.com/birkenkrahe/mod482/tree/main/1_overview][This presentation is available online.]]
