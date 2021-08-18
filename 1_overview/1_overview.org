@@ -135,24 +135,22 @@
    #+attr_html: :height 500px
    [[./img/classroom.png]]
 
-** Lecture scripts with exercises ([[https://github.com/birkenkrahe/mod482][GitHub]])
+** Lecture scripts with exercises ([[https://github.com/birkenkrahe/ai482][GitHub]])
 
    #+attr_html: :width 600px
    [[./img/github.png]]
 
-** Reading assignments
+** Your presentations
+
+   #+attr_html: :height 400px
+   [[./img/aima.jpg]]
+
+** Your protocols
 
    #+attr_html: :width 600px
-   [[./img/books.jpeg]]
+   [[./img/record.jpg]]
 
-   * Image: Unsplash ([[https://unsplash.com/photos/9BoqXzEeQqM][@tomhermans]])
-
-** Lab sessions
-
-   #+attr_html: :width 600px
-   [[./img/lab.jpeg]]
-
-   * Image: Unsplash ([[https://unsplash.com/photos/MD2_srN-02o][@Emin Baycan]])
+   * Image: Unsplash ([[https://unsplash.com/photos/jAQKshrauDQ][@Ryan Arnst]])
 
 ** Stuff you bring to class
 
@@ -161,80 +159,79 @@
 
    * Image: Unsplash ([[https://unsplash.com/photos/HGCqL-tRcac][@Evan Demicoli]])
 
-
 * TODO What do you have to do to pass?
 
   #+attr_html: :height 500px
   [[./img/oceanrock.gif]]
 
-** Weekly lab practice (> 50%)
+** AIMA presentation (> 50%)
+
+   #+attr_html: :height 400px
+   [[./img/aima.jpg]]
+
+** Session protocol (> 50%)
 
    #+attr_html: :width 600px
-   [[./img/lab.jpeg]]
+   [[./img/record.jpg]]
+
+   * Image: Unsplash ([[https://unsplash.com/photos/jAQKshrauDQ][@Ryan Arnst]])
 
 ** Weekly participation (> 50%)
 
    #+attr_html: :width 600px
    [[./img/seminar.jpg]]
 
-** Final essay (> 50%)
+** Final AI application (> 50%)
 
    #+attr_html: :width 600px
-   [[./img/essay.jpg]]
+   [[./img/app.jpg]]
 
-   Source: Unsplash ([[https://unsplash.com/photos/y02jEX_B0O0][@Aaron Burden]])
+   Source: Unsplash ([[https://unsplash.com/photos/HI6gy-p-WBI][@Minh Pham]])
 
-*** What constitutes an essay?
+*** What constitutes an application?
 
     * IMRaD structure ([[https://youtu.be/dip7UwZ3wUM][video]])
-    * Research question
+    * Problem to be solved
     * Literature review
     * Methodology
-    * Results (e.g. glossary)
+    * Results / Idea / Business model
     * Discussion with limitations
     * References
 
-*** Do you have essay examples?
+*** Do you have examples for applications?
     
-    * Chapters in "Model thinking"
+    * Chapters in AIMA
     * (Parts of) Research papers
     * Scientific or industry blogs
 
-*** Can I write a scientific essay?
+*** Can I design an application?
 
     * Keep It Simply Scientific (IMRaD)
     * Read and take notes (see [[https://github.com/birkenkrahe/org/blob/master/FAQ.md][FAQ]])
     * Researchers are beginners
+    * Designers are creators
 
-** Final exam (> 50%)
-
-   #+attr_html: :width 600px
-   [[./img/exam.jpg]]
-
-   Final exam: date TBD
-
-
-* TODO What's next?
+* What's next?
 
   #+attr_html: :height 500px
   [[./img/river.gif]]
 
 ** In the course
 
-   * Lecture "Decision intelligence"
-   * Lab discussion "many-model thinking"
-   * Data vs. models (2 articles)
-   * What is a model anyway?
+   * Lecture "What is AI?"
+   * Lab discussion and questions
+   * Come up with application ideas
+   * Schedule protocol and presentation
 
 ** Your challenges
 
-   | What?                            | When?  |
-   |----------------------------------+--------|
-   | Read "Many-model thinking"       | Aug 19 |
-   | Complete test challenge          | Aug 24 |
-   | List possible research questions | Sep 2  |
-   | Check FAQs x 2 in GitHub         | n.d.   |
-   | Ask questions (class/GitHub)     | n.d.   |
+   | What?                          | When?  |
+   |--------------------------------+--------|
+   | Get AIMA                       | ASAP   |
+   | Schedule protocol/presentation | Aug 30 |
+   | 1st sprint review              | Sep 10 |
+   | Check FAQs x 2 in GitHub       | n.d.   |
+n  | Ask questions (class/GitHub)   | n.d.   |
 
    /*) do this every week until December/
 
@@ -244,4 +241,4 @@
   #+attr_html: :width 500px
   [[./img/robot.gif]]
 
-  [[https://github.com/birkenkrahe/mod482/tree/main/1_overview][This presentation is available online.]]
+  [[https://github.com/birkenkrahe/ai482/tree/main/1_overview][This presentation is available online.]]
