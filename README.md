@@ -2,7 +2,7 @@
 
 # What's in this repo?
 
--   Repository for DSC 482.02 - Data modeling.
+-   Repository for DSC 482.01 - Artificial Intelligence
 -   Emacs Org-mode files are rendered as Markdown.
 
 
