@@ -29,7 +29,8 @@ technical aspects of AI.
 
 ## Student Learning Outcomes
 
-Students who complete DSC 482.01 "Artificial Intelligence", be able to:
+Students who complete DSC 482.01 "Artificial Intelligence", will be
+able to:
 
 -   understand the history and importance of AI for society
 -   know how to solve problems in complex environments
@@ -216,28 +217,28 @@ rounding up).
 </table>
 
 
-### TODO Presentation 40%)
+### Presentation 40%)
 
 -   Present part of a chapter from AIMA, OR
 -   Review and present an AI research paper, OR
 -   Research and present an AI application.
 
 
-### TODO Application (30%)
+### Application (30%)
 
 -   Identify an AI application area, AND
 -   Research how AI could be used, AND
 -   Present your application idea in class.
 
 
-### TODO Protocol (15%)
+### Protocol (15%)
 
 -   Record a classroom session, AND
 -   Create a protocol of the session, AND
 -   Upload the protocol to GitHub.
 
 
-### TODO Participation (15%)
+### Participation (15%)
 
 -   Participate in group discussions, OR
 -   Participate in class discussion, OR
@@ -385,8 +386,8 @@ scheduled time, and we can make arrangements when you return.
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">**Date**</th>
-<th scope="col" class="org-left">**Description**</th>
+<th scope="col" class="org-left">DATE</th>
+<th scope="col" class="org-left">DESCRIPTION</th>
 </tr>
 </thead>
 
@@ -469,7 +470,7 @@ scheduled time, and we can make arrangements when you return.
 <tr>
 <th scope="col" class="org-left">DATE</th>
 <th scope="col" class="org-left">AIMA</th>
-<th scope="col" class="org-left">**PROJECTS**</th>
+<th scope="col" class="org-left">PROJECTS</th>
 </tr>
 </thead>
 
