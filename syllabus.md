@@ -79,7 +79,7 @@ ethics.
 
 
 <tr>
-<td class="org-left">TBD</td>
+<td class="org-left">Before midterms</td>
 <td class="org-left">Protocol</td>
 <td class="org-right">15%</td>
 </tr>
@@ -244,6 +244,499 @@ rounding up).
 -   Participate in class discussion, OR
 -   Present a glossary term, OR
 -   Present an interesting AI application.
+
+
+### Grading examples
+
+ng system
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">WHEN</th>
+<th scope="col" class="org-left">DESCRIPTION</th>
+<th scope="col" class="org-right">IMPACT</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Weekly</td>
+<td class="org-left">Participation</td>
+<td class="org-right">15%</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Before midterms</td>
+<td class="org-left">Protocol</td>
+<td class="org-right">15%</td>
+</tr>
+
+
+<tr>
+<td class="org-left">TBD</td>
+<td class="org-left">Presentation</td>
+<td class="org-right">40%</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Last week</td>
+<td class="org-left">AI application</td>
+<td class="org-right">30%</td>
+</tr>
+</tbody>
+</table>
+
+
+### Grading table
+
+This table is used to convert completion rates into letter
+grades. For the midterm results, letter grades still carry signs,
+while for the term results, only straight letters are given (by
+rounding up).
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">**%**</th>
+<th scope="col" class="org-left">**Midterm Grade**</th>
+<th scope="col" class="org-left">**Final Grade**</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-right">100-98</td>
+<td class="org-left">A+</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">97-96</td>
+<td class="org-left">A</td>
+<td class="org-left">A</td>
+</tr>
+
+
+<tr>
+<td class="org-right">95-90</td>
+<td class="org-left">A-</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-right">89-86</td>
+<td class="org-left">B+</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">85-80</td>
+<td class="org-left">B</td>
+<td class="org-left">B</td>
+</tr>
+
+
+<tr>
+<td class="org-right">79-76</td>
+<td class="org-left">B-</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-right">75-70</td>
+<td class="org-left">C+</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">69-66</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+</tr>
+
+
+<tr>
+<td class="org-right">65-60</td>
+<td class="org-left">C-</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-right">59-56</td>
+<td class="org-left">D+</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">55-50</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-right">49-0</td>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+</tr>
+</tbody>
+</table>
+
+
+### Presentation 40%)
+
+-   Present part of a chapter from AIMA, OR
+-   Review and present an AI research paper, OR
+-   Research and present an AI application.
+
+
+### Application (30%)
+
+-   Identify an AI application area, AND
+-   Research how AI could be used, AND
+-   Present your application idea in class.
+
+
+### Protocol (15%)
+
+-   Record a classroom session, AND
+-   Create a protocol of the session, AND
+-   Upload the protocol to GitHub.
+
+
+### Participation (15%)
+
+-   Participate in group discussions, OR
+-   Participate in class discussion, OR
+-   Present a glossary term, OR
+-   Present an interesting AI application.
+
+
+### Grading examples
+
+ng system
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">WHEN</th>
+<th scope="col" class="org-left">DESCRIPTION</th>
+<th scope="col" class="org-right">IMPACT</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Weekly</td>
+<td class="org-left">Participation</td>
+<td class="org-right">15%</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Before midterms</td>
+<td class="org-left">Protocol</td>
+<td class="org-right">15%</td>
+</tr>
+
+
+<tr>
+<td class="org-left">TBD</td>
+<td class="org-left">Presentation</td>
+<td class="org-right">40%</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Last week</td>
+<td class="org-left">AI application</td>
+<td class="org-right">30%</td>
+</tr>
+</tbody>
+</table>
+
+
+### Grading table
+
+This table is used to convert completion rates into letter
+grades. For the midterm results, letter grades still carry signs,
+while for the term results, only straight letters are given (by
+rounding up).
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">**%**</th>
+<th scope="col" class="org-left">**Midterm Grade**</th>
+<th scope="col" class="org-left">**Final Grade**</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-right">100-98</td>
+<td class="org-left">A+</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">97-96</td>
+<td class="org-left">A</td>
+<td class="org-left">A</td>
+</tr>
+
+
+<tr>
+<td class="org-right">95-90</td>
+<td class="org-left">A-</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-right">89-86</td>
+<td class="org-left">B+</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">85-80</td>
+<td class="org-left">B</td>
+<td class="org-left">B</td>
+</tr>
+
+
+<tr>
+<td class="org-right">79-76</td>
+<td class="org-left">B-</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-right">75-70</td>
+<td class="org-left">C+</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">69-66</td>
+<td class="org-left">C</td>
+<td class="org-left">C</td>
+</tr>
+
+
+<tr>
+<td class="org-right">65-60</td>
+<td class="org-left">C-</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-right">59-56</td>
+<td class="org-left">D+</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-right">55-50</td>
+<td class="org-left">D</td>
+<td class="org-left">D</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-right">49-0</td>
+<td class="org-left">F</td>
+<td class="org-left">F</td>
+</tr>
+</tbody>
+</table>
+
+
+### Presentation (30%)
+
+-   Present part of a chapter from AIMA, OR
+-   Review and present an AI research paper, OR
+-   Research and present an AI application.
+
+
+### Application (40%)
+
+-   Identify an AI application area, AND
+-   Research how AI could be used, AND
+-   Present your application idea in class.
+
+
+### Protocol (15%)
+
+-   Record a classroom session, AND
+-   Create a protocol of the session, AND
+-   Upload the protocol to GitHub.
+
+
+### Participation (15%)
+
+-   Participate in group discussions, OR
+-   Participate in class discussion, OR
+-   Present a glossary term, OR
+-   Present an interesting AI application.
+
+
+### Grading examples
+
+1.  Example - Midterm grade
+
+    At midterms, student X has achieved the following results:
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-right" />
+    
+    <col  class="org-right" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">GRADE PART</th>
+    <th scope="col" class="org-right">WEIGHT</th>
+    <th scope="col" class="org-right">RESULT</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Session Protocol</td>
+    <td class="org-right">15%</td>
+    <td class="org-right">80%</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Weekly participation</td>
+    <td class="org-right">15%</td>
+    <td class="org-right">90%</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    Student X's midterm result is a "B" (`85%`).
+
+2.  Example - Final grade
+
+    After the finals, student X has achieved the following results:
+    
+    <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+    
+    
+    <colgroup>
+    <col  class="org-left" />
+    
+    <col  class="org-right" />
+    
+    <col  class="org-right" />
+    </colgroup>
+    <thead>
+    <tr>
+    <th scope="col" class="org-left">GRADE PART</th>
+    <th scope="col" class="org-right">WEIGHT</th>
+    <th scope="col" class="org-right">RESULT</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    <tr>
+    <td class="org-left">Final application</td>
+    <td class="org-right">40%</td>
+    <td class="org-right">95%</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Final presentation</td>
+    <td class="org-right">30%</td>
+    <td class="org-right">95%</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Weekly practice</td>
+    <td class="org-right">15%</td>
+    <td class="org-right">80%</td>
+    </tr>
+    
+    
+    <tr>
+    <td class="org-left">Weekly participation</td>
+    <td class="org-right">15%</td>
+    <td class="org-right">90%</td>
+    </tr>
+    </tbody>
+    </table>
+    
+    Student X's midterm result is an "A" (`92%`).
 
 
 # Standard Policies

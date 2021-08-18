@@ -50,12 +50,12 @@
 
 ** Grading system
 
-   | WHEN      | DESCRIPTION    | IMPACT |
-   |-----------+----------------+--------+
-   | Weekly    | Participation  |    15% |
-   | TBD       | Protocol       |    15% |
-   | TBD       | Presentation   |    40% |
-   | Last week | AI application |    30% |
+   | WHEN            | DESCRIPTION    | IMPACT |
+   |-----------------+----------------+--------|
+   | Weekly          | Participation  |    15% |
+   | Before midterms | Protocol       |    15% |
+   | TBD             | Presentation   |    40% |
+   | Last week       | AI application |    30% |
 
 *** Grading table
 
@@ -110,6 +110,209 @@
     * Participate in class discussion, OR
     * Present a glossary term, OR
     * Present an interesting AI application.
+
+*** Grading examples
+
+ng system
+
+   | WHEN            | DESCRIPTION    | IMPACT |
+   |-----------------+----------------+--------|
+   | Weekly          | Participation  |    15% |
+   | Before midterms | Protocol       |    15% |
+   | TBD             | Presentation   |    40% |
+   | Last week       | AI application |    30% |
+
+*** Grading table
+
+    This table is used to convert completion rates into letter
+    grades. For the midterm results, letter grades still carry signs,
+    while for the term results, only straight letters are given (by
+    rounding up).
+
+    |--------+-----------------+---------------|
+    |    *%* | *Midterm Grade* | *Final Grade* |
+    |--------+-----------------+---------------|
+    | 100-98 | A+              |               |
+    |  97-96 | A               | A             |
+    |  95-90 | A-              |               |
+    |--------+-----------------+---------------|
+    |  89-86 | B+              |               |
+    |  85-80 | B               | B             |
+    |  79-76 | B-              |               |
+    |--------+-----------------+---------------|
+    |  75-70 | C+              |               |
+    |  69-66 | C               | C             |
+    |  65-60 | C-              |               |
+    |--------+-----------------+---------------|
+    |  59-56 | D+              |               |
+    |  55-50 | D               | D             |
+    |--------+-----------------+---------------|
+    |   49-0 | F               | F             |
+    |--------+-----------------+---------------|
+
+
+*** Presentation 40%)
+
+    * Present part of a chapter from AIMA, OR
+    * Review and present an AI research paper, OR
+    * Research and present an AI application.
+
+*** Application (30%)
+
+    * Identify an AI application area, AND
+    * Research how AI could be used, AND
+    * Present your application idea in class.
+
+*** Protocol (15%)
+
+    * Record a classroom session, AND
+    * Create a protocol of the session, AND
+    * Upload the protocol to GitHub.
+
+*** Participation (15%)
+
+    * Participate in group discussions, OR
+    * Participate in class discussion, OR
+    * Present a glossary term, OR
+    * Present an interesting AI application.
+
+*** Grading examples
+
+ng system
+
+   | WHEN            | DESCRIPTION    | IMPACT |
+   |-----------------+----------------+--------|
+   | Weekly          | Participation  |    15% |
+   | Before midterms | Protocol       |    15% |
+   | TBD             | Presentation   |    40% |
+   | Last week       | AI application |    30% |
+
+*** Grading table
+
+    This table is used to convert completion rates into letter
+    grades. For the midterm results, letter grades still carry signs,
+    while for the term results, only straight letters are given (by
+    rounding up).
+
+    |--------+-----------------+---------------|
+    |    *%* | *Midterm Grade* | *Final Grade* |
+    |--------+-----------------+---------------|
+    | 100-98 | A+              |               |
+    |  97-96 | A               | A             |
+    |  95-90 | A-              |               |
+    |--------+-----------------+---------------|
+    |  89-86 | B+              |               |
+    |  85-80 | B               | B             |
+    |  79-76 | B-              |               |
+    |--------+-----------------+---------------|
+    |  75-70 | C+              |               |
+    |  69-66 | C               | C             |
+    |  65-60 | C-              |               |
+    |--------+-----------------+---------------|
+    |  59-56 | D+              |               |
+    |  55-50 | D               | D             |
+    |--------+-----------------+---------------|
+    |   49-0 | F               | F             |
+    |--------+-----------------+---------------|
+
+
+*** Presentation (30%)
+
+    * Present part of a chapter from AIMA, OR
+    * Review and present an AI research paper, OR
+    * Research and present an AI application.
+
+*** Application (40%)
+
+    * Identify an AI application area, AND
+    * Research how AI could be used, AND
+    * Present your application idea in class.
+
+*** Protocol (15%)
+
+    * Record a classroom session, AND
+    * Create a protocol of the session, AND
+    * Upload the protocol to GitHub.
+
+*** Participation (15%)
+
+    * Participate in group discussions, OR
+    * Participate in class discussion, OR
+    * Present a glossary term, OR
+    * Present an interesting AI application.
+
+*** Grading examples
+
+**** Example - Midterm grade
+
+     At midterms, student X has achieved the following results:
+
+     | GRADE PART           | WEIGHT   | RESULT   |
+     |----------------------+----------+----------|
+     | Session Protocol     |      15% |      80% |
+     | Weekly participation |      15% |      90% |
+
+     # Student X's midterm result is computed as follows:
+
+     # #+begin_src R :session :results output
+     #   ## midterm weights (only practice and participation)
+     #   weight_m <- c("practice"=0.5,
+     #                 "participation"=0.5)
+     #   ## results vector
+     #   result_m <- c("practice"=80,
+     #                 "participation"=90)
+     #   ## midterm grade
+     #   grade_m <-
+     #     weight_m["practice"] * result_m["practice"] +
+     #     weight_m["participation"] * result_m["participation"]
+     #   names(grade_m) <- NULL
+     #   grade_m
+     # #+end_src
+
+     # #+RESULTS:
+     # : [1] 85
+
+     Student X's midterm result is a "B" (~85%~).
+
+**** Example - Final grade
+
+     After the finals, student X has achieved the following results:
+
+     | GRADE PART           | WEIGHT | RESULT |
+     |----------------------+--------+--------|
+     | Final application    |    40% |    95% |
+     | Final presentation   |    30% |    95% |
+     | Weekly practice      |    15% |    80% |
+     | Weekly participation |    15% |    90% |
+
+     # Student X's midterm result is computed as follows:
+
+     # #+begin_src R :session :results output
+     #   ## full term weight vector according to grading table
+     #   weight <- c("exam"= 0.3,
+     #               "essay"=0.4,
+     #               "practice"=0.15,
+     #               "participation"=0.15)
+     #   ## results vector
+     #   result <- c("exam"=95,
+     #               "essay"=95,
+     #               "practice"=80,
+     #               "participation"=90)
+     #   ## midterm grade
+     #   grade <-
+     #     weight["exam"] * result["exam"] +
+     #     weight["essay"] * result["essay"] +
+     #     weight["practice"] * result["practice"] +
+     #     weight["participation"] * result["participation"]
+     #   names(grade) <- NULLp
+     #   grade
+     # #+end_src
+
+     # #+RESULTS:
+     # : [1] 92
+
+     Student X's midterm result is an "A" (~92%~).
+
 
 * Standard Policies
 ** Honor Code
