@@ -17,5 +17,13 @@
 
 ## [Syllabus](https://github.com/birkenkrahe/ai482/blob/main/syllabus.md)
 
+
+## History
+
+First offered @Lyon: Fall 2021 (Undergrad). 
+
+
+## Books
+
 ![img](https://github.com/birkenkrahe/ai482/blob/main/1_overview/img/books.jpg)
 
