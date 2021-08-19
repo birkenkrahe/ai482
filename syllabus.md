@@ -3,7 +3,7 @@
 # General Course Information
 
 -   Meeting Times: Monday/Wednesday/Friday, 09:00-09:50 hrs
--   Meeting place: Derby Center 021
+-   Meeting place: Derby Center 209 (computer lab)
 -   Professor: Marcus Birkenkrahe
 -   Office: Derby 210
 -   Phone: (870) 307-7254
