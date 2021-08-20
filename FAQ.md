@@ -1,10 +1,12 @@
 
 # Table of Contents
 
-1.  [What is this?](#orge3789ce)
+1.  [What is this?](#orgb784890)
+2.  [Can we use any AI application for our presentation?](#org9a7b6e4)
+3.  [References](#org3b5c47d)
 
 
-<a id="orge3789ce"></a>
+<a id="orgb784890"></a>
 
 # What is this?
 
@@ -12,6 +14,8 @@ This is a Frequently Asked Questions (FAQ) file for the special
 seminar on "Artificial Intelligence" (CSC 482.01). For the FAQs
 across courses, see the [org repo](https://github.com/birkenkrahe/org).
 
+
+<a id="org9a7b6e4"></a>
 
 # Can we use any AI application for our presentation?
 
@@ -24,10 +28,10 @@ Several alternatives were listed in the syllabus:
 -   Present a (sub)chapter from AIMA (or from another book),
     e.g. chapter 13.5 on "Causal Networks". These few pages pack a
     punch, and to understand and unpack them, you may need to read
-    some of the "Book of Why" by Judeah Pearl ([Pearl, 2018](#orgfa48818))
+    some of the "Book of Why" by Judeah Pearl ([Pearl, 2018](#org8610bc1))
 -   Review and present an AI research paper - this could e.g. be a
     historical article, like Samuel's seminal paper on AI ([Samuel,
-    1957](#org94dea3e)).
+    1957](#orgcc2c0df)).
 -   Find an interesting application and research it. Your emphasis
     could be technical ("how/why does it work?"), commercial
     ("what's the business model?"), philosophical ("what does this
@@ -40,11 +44,13 @@ Several alternatives were listed in the syllabus:
     be possible - but you have to research it systematically.
 
 
+<a id="org3b5c47d"></a>
+
 # References
 
-<a id="orgfa48818"></a> [Pearl J, Mackenzie D (2018). The Book of Why. Penguin.](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/1541698967/)
+<a id="org8610bc1"></a> [Pearl J, Mackenzie D (2018). The Book of Why. Penguin.](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/1541698967/)
 
-<a id="org94dea3e"></a> [Samuel A L (1959). Some Studies in Machine Learning
+<a id="orgcc2c0df"></a> [Samuel A L (1959). Some Studies in Machine Learning
 Using the Game of Checkers. IBM Journal 3(3) 1959:535-554.](https://www.cs.virginia.edu/~evans/greatworks/samuel.pdf)
 
 
