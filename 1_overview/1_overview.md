@@ -1,44 +1,44 @@
 
 # Table of Contents
 
--   [What're you going to learn today?](#org89fbcf4)
--   [Who am I?](#orgd3a6939)
-    -   [Science](#org5f8bcd5)
-    -   [Industry](#org6f90b53)
-    -   [Teaching](#orgefdae08)
-    -   [Pleasure](#org2079db2)
--   [What are your expectations?](#org8f4fb43)
--   [Which topics will we cover?](#org1d3a33c)
-    -   [Modern approach to AI](#orgd86e66b)
-    -   [What is AI?](#org67e13f5)
-    -   [History of AI](#org53014f1)
-    -   [State of the Art of AI](#org6d9aa63)
-    -   [Risks and benefits of AI](#orgd55b87c)
-    -   [Agile management](#org40f583a)
-    -   [Causation](#orged92cdf)
-    -   [Schedule (see Syllabus)](#org014cac1)
--   [How will we do it?](#org2b1ccb1)
-    -   [Classroom sessions](#orgb55b7d6)
-    -   [Lecture scripts with exercises (GitHub)](#org8f0cfbf)
-    -   [Your presentations](#orgaf6e5c5)
-    -   [Your protocols](#org0a3afaf)
-    -   [Stuff you bring to class](#orgc9d1a52)
--   [What do you have to do to pass?](#org2b8bbde)
-    -   [AIMA presentation (> 50%)](#org45cf3ce)
-    -   [Session protocol (> 50%)](#org7b5dfbe)
-    -   [Weekly participation (> 50%)](#orge83fd2b)
-    -   [Final AI application (> 50%)](#orgb9ad774)
-        -   [What constitutes an application?](#org7fb0eec)
-        -   [Do you have examples for applications?](#org03ac32e)
-        -   [Can I design an application?](#org5715a84)
--   [What's next?](#orge9db7bb)
-    -   [In the course](#orge4a015b)
-    -   [Your challenges](#org32cfb01)
--   [Any questions?](#orgfe43841)
+-   [What're you going to learn today?](#orgda14e42)
+-   [Who am I?](#orgc2cd49a)
+    -   [Science](#orga52a1b9)
+    -   [Industry](#orgf635766)
+    -   [Teaching](#org028953f)
+    -   [Pleasure](#orgd0448da)
+-   [What are your expectations?](#orgceed9f1)
+-   [Which topics will we cover?](#orgd12a131)
+    -   [Modern approach to AI](#org365ae61)
+    -   [What is AI?](#orgae2d894)
+    -   [History of AI](#orga3f95e5)
+    -   [State of the Art of AI](#org8646fa2)
+    -   [Risks and benefits of AI](#org475738d)
+    -   [Agile management](#orga6e185b)
+    -   [Causation](#org9e4eb25)
+    -   [Schedule (see Syllabus)](#org49b444c)
+-   [How will we do it?](#orgd0c68b3)
+    -   [Classroom sessions](#org25c247a)
+    -   [Lecture scripts with exercises (GitHub)](#orga1ac55f)
+    -   [Your presentations](#org952cd89)
+    -   [Your protocols](#org94415cb)
+    -   [Stuff you bring to class](#org8101303)
+-   [What do you have to do to pass?](#org024447d)
+    -   [AIMA presentation (> 50%)](#orgeadc9b1)
+    -   [Session protocol (> 50%)](#org9ffad8c)
+    -   [Weekly participation (> 50%)](#org23be3ad)
+    -   [Final AI application (> 50%)](#orgec45d48)
+        -   [What constitutes an application?](#org26ae198)
+        -   [Do you have examples for applications?](#org0f8c836)
+        -   [Can I design an application?](#org493ea8c)
+-   [What's next?](#orgcedad51)
+    -   [In the course](#org338b1bc)
+    -   [Your challenges](#org999b286)
+-   [Any questions?](#org8e56cad)
 
 
 
-<a id="org89fbcf4"></a>
+<a id="orgda14e42"></a>
 
 # What're you going to learn today?
 
@@ -50,14 +50,14 @@
 -   What's next?
 
 
-<a id="orgd3a6939"></a>
+<a id="orgc2cd49a"></a>
 
 # Who am I?
 
 ![img](./img/marcus.jpg)
 
 
-<a id="org5f8bcd5"></a>
+<a id="orga52a1b9"></a>
 
 ## Science
 
@@ -71,7 +71,7 @@
 -   Scientific member [d-cube@Berlin](https://www.hwr-berlin.de/en/research/research-centres-and-institutes/)
 
 
-<a id="org6f90b53"></a>
+<a id="orgf635766"></a>
 
 ## Industry
 
@@ -83,7 +83,7 @@
 -   Startup mentor
 
 
-<a id="orgefdae08"></a>
+<a id="org028953f"></a>
 
 ## Teaching
 
@@ -95,7 +95,7 @@
 -   Internship supervision
 
 
-<a id="org2079db2"></a>
+<a id="orgd0448da"></a>
 
 ## Pleasure
 
@@ -106,7 +106,7 @@
 -   Watching: [The Middle](https://en.wikipedia.org/wiki/The_Middle_(TV_series)) (2009-2018)
 
 
-<a id="org8f4fb43"></a>
+<a id="orgceed9f1"></a>
 
 # [What are your expectations?](https://ideaboardz.com/for/AI%20seminar%20expectations/4049030)
 
@@ -116,14 +116,14 @@
 -   What did you really not like in another course?
 
 
-<a id="org1d3a33c"></a>
+<a id="orgd12a131"></a>
 
 # Which topics will we cover?
 
 ![img](./img/lavaflow.gif)
 
 
-<a id="orgd86e66b"></a>
+<a id="org365ae61"></a>
 
 ## Modern approach to AI
 
@@ -132,28 +132,28 @@
 Source: [AIMA, 10th ed.](http://aima.cs.berkeley.edu/) (2021)
 
 
-<a id="org67e13f5"></a>
+<a id="orgae2d894"></a>
 
 ## What is AI?
 
 ![img](./img/neuron.png)
 
 
-<a id="org53014f1"></a>
+<a id="orga3f95e5"></a>
 
 ## History of AI
 
 ![img](./img/shrdlu.png)
 
 
-<a id="org6d9aa63"></a>
+<a id="org8646fa2"></a>
 
 ## State of the Art of AI
 
 ![img](./img/deeplearning.jpg)
 
 
-<a id="orgd55b87c"></a>
+<a id="org475738d"></a>
 
 ## Risks and benefits of AI
 
@@ -162,7 +162,7 @@ Source: [AIMA, 10th ed.](http://aima.cs.berkeley.edu/) (2021)
 Source: [qulix.com](https://www.qulix.com/about/benefits-and-risks-of-ai/) (22 May 2020)
 
 
-<a id="org40f583a"></a>
+<a id="orga6e185b"></a>
 
 ## Agile management
 
@@ -171,14 +171,14 @@ Source: [qulix.com](https://www.qulix.com/about/benefits-and-risks-of-ai/) (22 M
 Image: [Scrum](https://scrum.org) burndown chart
 
 
-<a id="orged92cdf"></a>
+<a id="org9e4eb25"></a>
 
 ## Causation
 
 ![img](./img/whybook.jpg)
 
 
-<a id="org014cac1"></a>
+<a id="org49b444c"></a>
 
 ## Schedule (see [Syllabus](https://github.com/birkenkrahe/ai482/blob/main/syllabus.md))
 
@@ -187,35 +187,35 @@ Image: [Scrum](https://scrum.org) burndown chart
 Image: [Princeton U.](https://www.princeton.edu/news/2018/12/03/life-unpacked-freshman-seminar-explores-search-meaningful-life)
 
 
-<a id="org2b1ccb1"></a>
+<a id="orgd0c68b3"></a>
 
 # How will we do it?
 
 ![img](./img/deer.gif)
 
 
-<a id="orgb55b7d6"></a>
+<a id="org25c247a"></a>
 
 ## Classroom sessions
 
 ![img](./img/classroom.png)
 
 
-<a id="org8f0cfbf"></a>
+<a id="orga1ac55f"></a>
 
 ## Lecture scripts with exercises ([GitHub](https://github.com/birkenkrahe/ai482))
 
 ![img](./img/github.png)
 
 
-<a id="orgaf6e5c5"></a>
+<a id="org952cd89"></a>
 
 ## Your presentations
 
 ![img](./img/aima.jpg)
 
 
-<a id="org0a3afaf"></a>
+<a id="org94415cb"></a>
 
 ## Your protocols
 
@@ -224,7 +224,7 @@ Image: [Princeton U.](https://www.princeton.edu/news/2018/12/03/life-unpacked-fr
 -   Image: Unsplash ([@Ryan Arnst](https://unsplash.com/photos/jAQKshrauDQ))
 
 
-<a id="orgc9d1a52"></a>
+<a id="org8101303"></a>
 
 ## Stuff you bring to class
 
@@ -233,21 +233,21 @@ Image: [Princeton U.](https://www.princeton.edu/news/2018/12/03/life-unpacked-fr
 -   Image: Unsplash ([@Evan Demicoli](https://unsplash.com/photos/HGCqL-tRcac))
 
 
-<a id="org2b8bbde"></a>
+<a id="org024447d"></a>
 
-# TODO What do you have to do to pass?
+# What do you have to do to pass?
 
 ![img](./img/oceanrock.gif)
 
 
-<a id="org45cf3ce"></a>
+<a id="orgeadc9b1"></a>
 
 ## AIMA presentation (> 50%)
 
 ![img](./img/aima.jpg)
 
 
-<a id="org7b5dfbe"></a>
+<a id="org9ffad8c"></a>
 
 ## Session protocol (> 50%)
 
@@ -256,14 +256,14 @@ Image: [Princeton U.](https://www.princeton.edu/news/2018/12/03/life-unpacked-fr
 -   Image: Unsplash ([@Ryan Arnst](https://unsplash.com/photos/jAQKshrauDQ))
 
 
-<a id="orge83fd2b"></a>
+<a id="org23be3ad"></a>
 
 ## Weekly participation (> 50%)
 
 ![img](./img/seminar.jpg)
 
 
-<a id="orgb9ad774"></a>
+<a id="orgec45d48"></a>
 
 ## Final AI application (> 50%)
 
@@ -272,7 +272,7 @@ Image: [Princeton U.](https://www.princeton.edu/news/2018/12/03/life-unpacked-fr
 Source: Unsplash ([@Minh Pham](https://unsplash.com/photos/HI6gy-p-WBI))
 
 
-<a id="org7fb0eec"></a>
+<a id="org26ae198"></a>
 
 ### What constitutes an application?
 
@@ -285,7 +285,7 @@ Source: Unsplash ([@Minh Pham](https://unsplash.com/photos/HI6gy-p-WBI))
 -   References
 
 
-<a id="org03ac32e"></a>
+<a id="org0f8c836"></a>
 
 ### Do you have examples for applications?
 
@@ -294,7 +294,7 @@ Source: Unsplash ([@Minh Pham](https://unsplash.com/photos/HI6gy-p-WBI))
 -   Scientific or industry blogs
 
 
-<a id="org5715a84"></a>
+<a id="org493ea8c"></a>
 
 ### Can I design an application?
 
@@ -304,14 +304,14 @@ Source: Unsplash ([@Minh Pham](https://unsplash.com/photos/HI6gy-p-WBI))
 -   Designers are creators
 
 
-<a id="orge9db7bb"></a>
+<a id="orgcedad51"></a>
 
 # What's next?
 
 ![img](./img/river.gif)
 
 
-<a id="orge4a015b"></a>
+<a id="org338b1bc"></a>
 
 ## In the course
 
@@ -321,7 +321,7 @@ Source: Unsplash ([@Minh Pham](https://unsplash.com/photos/HI6gy-p-WBI))
 -   Schedule protocol and presentation
 
 
-<a id="org32cfb01"></a>
+<a id="org999b286"></a>
 
 ## Your challenges
 
@@ -342,7 +342,7 @@ Source: Unsplash ([@Minh Pham](https://unsplash.com/photos/HI6gy-p-WBI))
 
 <tbody>
 <tr>
-<td class="org-left">Get AIMA</td>
+<td class="org-left">Get AIMA ([3rd ed.](http://aima.eecs.berkeley.edu/3rd-ed/)/ [4th ed.](http://aima.cs.berkeley.edu/))</td>
 <td class="org-left">ASAP</td>
 </tr>
 
@@ -371,7 +371,7 @@ n  | Ask questions (class/GitHub)   | n.d.   |
 *\*) do this every week until December*
 
 
-<a id="orgfe43841"></a>
+<a id="org8e56cad"></a>
 
 # Any questions?
 
