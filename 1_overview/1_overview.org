@@ -3,8 +3,6 @@
 #+Subtitle: Artificial Intelligence
 #+STARTUP: hideblocks
 #+OPTIONS: toc:nil num:nil ^:nil
-#+reveal_theme: black
-#+reveal_init_options: transition:'cube'
 #+INFOJS_OPT: :view:info
 * What're you going to learn today?
 
@@ -159,7 +157,7 @@
 
    * Image: Unsplash ([[https://unsplash.com/photos/HGCqL-tRcac][@Evan Demicoli]])
 
-* TODO What do you have to do to pass?
+* What do you have to do to pass?
 
   #+attr_html: :height 500px
   [[./img/oceanrock.gif]]
@@ -227,14 +225,13 @@
 
    | What?                          | When?  |
    |--------------------------------+--------|
-   | Get AIMA                       | ASAP   |
+   | Get AIMA ([[http://aima.eecs.berkeley.edu/3rd-ed/][3rd ed.]]/ [[http://aima.cs.berkeley.edu/][4th ed.]])    | ASAP   |
    | Schedule protocol/presentation | Aug 30 |
    | 1st sprint review              | Sep 10 |
    | Check FAQs x 2 in GitHub       | n.d.   |
 n  | Ask questions (class/GitHub)   | n.d.   |
 
    /*) do this every week until December/
-
 
 * Any questions?
 
