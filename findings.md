@@ -1,24 +1,18 @@
 
 # Table of Contents
 
-1.  [Findings](#org584b4a3)
-    1.  [AI explainability](#orgc684370)
-        1.  [Source: McDermid JA, Jia Y, Porter Z, Habli I. 2021 Artificial](#org7fb83ec)
+1.  [AI explainability](#org5d5bd6e)
+    1.  [Source: McDermid JA, Jia Y, Porter Z, Habli I. 2021 Artificial](#orgb37d8d9)
 
 
-<a id="org584b4a3"></a>
+<a id="org5d5bd6e"></a>
 
-# Findings
-
-
-<a id="orgc684370"></a>
-
-## AI explainability
+# AI explainability
 
 
-<a id="org7fb83ec"></a>
+<a id="orgb37d8d9"></a>
 
-### Source: McDermid JA, Jia Y, Porter Z, Habli I. 2021 Artificial
+## Source: McDermid JA, Jia Y, Porter Z, Habli I. 2021 Artificial
 
 intelligence explainability: the technical and ethical
 dimensions.Phil. Trans. R. Soc. A 379: 20200363.
