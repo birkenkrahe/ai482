@@ -1,13 +1,13 @@
 
 # Table of Contents
 
-1.  [What is this about?](#orgf577ddb)
-2.  [Machine Learning's crumbling foundations (Lvl=0)](#org1e4ad51)
-3.  [AI explainability (Lvl=1)](#org00664f4)
-4.  [Use of AI in smart buildings (LvL=2)](#org5025f23)
+1.  [What is this about?](#org053ebc2)
+2.  [Machine Learning's crumbling foundations (Lvl=0)](#org04b88c8)
+3.  [AI explainability (Lvl=1)](#org3401439)
+4.  [Use of AI in smart buildings (LvL=2)](#org982e085)
 
 
-<a id="orgf577ddb"></a>
+<a id="org053ebc2"></a>
 
 # What is this about?
 
@@ -26,7 +26,7 @@ you find any of these interesting and want to use them for your
 research, you might ask me why I assigned a particular level.
 
 
-<a id="org1e4ad51"></a>
+<a id="org04b88c8"></a>
 
 # Machine Learning's crumbling foundations (Lvl=0)
 
@@ -41,7 +41,7 @@ foundations. Doing 'data science' with bad data [Blog]. Online:
 > frameworks.«
 
 
-<a id="org00664f4"></a>
+<a id="org3401439"></a>
 
 # AI explainability (Lvl=1)
 
@@ -56,19 +56,11 @@ dimensions. In: Phil. Trans. R. Soc. A 379: 20200363.
 > confidence, in critical systems employing ML.«
 
 
-<a id="org5025f23"></a>
+<a id="org982e085"></a>
 
 # Use of AI in smart buildings (LvL=2)
 
-_Literature reviews are among the most important papers, both for
-beginners (to get an overview), and for experts (to keep their
-overview) - because they wade through and evaluate many articles in
-one fell swoop. You may still have to go back to the original
-source, but no matter what, you'll have saved a lot of time, and
-learnt a lot, because the authors of literature reviews are often
-experts themselves (or becoming experts, by writing a literature
-review). Also, a literature review should be a part of every paper
-you write, and of every presentation you give.
+*Literature reviews are among the most important papers, both for beginners (to get an overview), and for experts (to keep their overview) - because they wade through and evaluate many articles in one fell swoop. You may still have to go back to the original source, but no matter what, you'll have saved a lot of time, and learnt a lot, because the authors of literature reviews are often experts themselves (or becoming experts, by writing a literature review). Also, a literature review should be a part of every paper you write, and of every presentation you give.*
 
 Source: Aguilar et al (2021). A systematic literature review on the
 use of artificial intelligence in energy self-management in smart
