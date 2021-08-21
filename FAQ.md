@@ -1,12 +1,12 @@
 
 # Table of Contents
 
-1.  [What is this?](#orgb784890)
-2.  [Can we use any AI application for our presentation?](#org9a7b6e4)
-3.  [References](#org3b5c47d)
+1.  [What is this?](#org800f6f1)
+2.  [Can we use any AI application for our presentation?](#orgcd0b13f)
+3.  [References](#orgaf94122)
 
 
-<a id="orgb784890"></a>
+<a id="org800f6f1"></a>
 
 # What is this?
 
@@ -15,7 +15,7 @@ seminar on "Artificial Intelligence" (CSC 482.01). For the FAQs
 across courses, see the [org repo](https://github.com/birkenkrahe/org).
 
 
-<a id="org9a7b6e4"></a>
+<a id="orgcd0b13f"></a>
 
 # Can we use any AI application for our presentation?
 
@@ -28,10 +28,10 @@ Several alternatives were listed in the syllabus:
 -   Present a (sub)chapter from AIMA (or from another book),
     e.g. chapter 13.5 on "Causal Networks". These few pages pack a
     punch, and to understand and unpack them, you may need to read
-    some of the "Book of Why" by Judeah Pearl ([Pearl, 2018](#org8610bc1))
+    some of the "Book of Why" by Judeah Pearl ([Pearl, 2018](#orgeb705b1))
 -   Review and present an AI research paper - this could e.g. be a
     historical article, like Samuel's seminal paper on AI ([Samuel,
-    1957](#orgcc2c0df)).
+    1957](#org96dc382)).
 -   Find an interesting application and research it. Your emphasis
     could be technical ("how/why does it work?"), commercial
     ("what's the business model?"), philosophical ("what does this
@@ -43,14 +43,18 @@ Several alternatives were listed in the syllabus:
     something more fantastical and speculative (like sci-fi) would
     be possible - but you have to research it systematically.
 
+To give you ideas, I have started [this file with bookmarks](https://github.com/birkenkrahe/ai482/blob/main/bookmarks.md) of
+interesting articles that you might use for your presentation. Check
+it out.
 
-<a id="org3b5c47d"></a>
+
+<a id="orgaf94122"></a>
 
 # References
 
-<a id="org8610bc1"></a> [Pearl J, Mackenzie D (2018). The Book of Why. Penguin.](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/1541698967/)
+<a id="orgeb705b1"></a> [Pearl J, Mackenzie D (2018). The Book of Why. Penguin.](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/1541698967/)
 
-<a id="orgcc2c0df"></a> [Samuel A L (1959). Some Studies in Machine Learning
+<a id="org96dc382"></a> [Samuel A L (1959). Some Studies in Machine Learning
 Using the Game of Checkers. IBM Journal 3(3) 1959:535-554.](https://www.cs.virginia.edu/~evans/greatworks/samuel.pdf)
 
 
