@@ -1,11 +1,12 @@
 
 # Table of Contents
 
-1.  [What is this about?](#orgaef1542)
-2.  [AI explainability (Lvl=1)](#org0c156d4)
+1.  [What is this about?](#org37be795)
+2.  [AI explainability (Lvl=1)](#orgcc9d3a2)
+3.  [Machine Learning's crumbling foundations (Lvl=0)](#org7cd52e0)
 
 
-<a id="orgaef1542"></a>
+<a id="org37be795"></a>
 
 # What is this about?
 
@@ -24,7 +25,7 @@ you find any of these interesting and want to use them for your
 research, you might ask me why I assigned a particular level.
 
 
-<a id="org0c156d4"></a>
+<a id="orgcc9d3a2"></a>
 
 # AI explainability (Lvl=1)
 
@@ -37,4 +38,19 @@ dimensions.Phil. Trans. R. Soc. A 379: 20200363.
 > questions about when, and whether, we should trust them. AI explainability (XAI) methods are
 > part of the answer. The use of XAI methods can contribute to building assurance, or justified
 > confidence, in critical systems employing ML.«
+
+
+<a id="org7cd52e0"></a>
+
+# Machine Learning's crumbling foundations (Lvl=0)
+
+Source: Doctorow, C (19 Aug 2021). Machine learning's crumbling
+foundations. Doing 'data science' with bad data [Blog]. Online:
+[doctorow.medium.com](https://doctorow.medium.com/machine-learnings-crumbling-foundations-bd11efa22b0).
+
+> »Technological debt is insidious, a kind of socio-infrastructural
+> subprime crisis that’s unfolding around us in slow motion. Our digital
+> infrastructure is built atop layers and layers and layers of code
+> that’s insecure due to a combination of bad practices and bad
+> frameworks.«
 
