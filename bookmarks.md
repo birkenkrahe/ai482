@@ -1,14 +1,20 @@
 
 # Table of Contents
 
-1.  [AI explainability](#orgd65ad2c)
+1.  [What is this about?](#orge30eb30)
+2.  [AI explainability](#org4d6293b)
+
+
+<a id="orge30eb30"></a>
+
+# What is this about?
 
 When I find an interesting article or video, I share it here. Most
 of these are possible starting points for a short presentation, or
-may be useful for your application research. 
+may be useful for your application research.
 
 
-<a id="orgd65ad2c"></a>
+<a id="org4d6293b"></a>
 
 # AI explainability
 
