@@ -325,55 +325,55 @@
    | Fri-20-Aug |                          |                   |
    |------------+--------------------------+-------------------|
    | Mon-23-Aug | What is AI?              |                   |
-   | Wed-25-Aug |                          | Protocol          |
-   | Fri-27-Aug |                          | Protocol          |
+   | Wed-25-Aug |                          | Protocol 1        |
+   | Fri-27-Aug |                          | Protocol 2        |
    |------------+--------------------------+-------------------|
    | Mon-30-Aug | History of AI            |                   |
-   | Wed-1-Sep  |                          | Protocol          |
-   | Fri-3-Sep  |                          | Protocol          |
+   | Wed-1-Sep  |                          | Protocol 3        |
+   | Fri-3-Sep  |                          | Protocol 4        |
    |------------+--------------------------+-------------------|
    | Mon-6-Sep  | LABOR DAY                |                   |
    | Wed-8-Sep  | State of the Art of AI   |                   |
-   | Fri-10-Sep |                          | 1st sprint review |
+   | Fri-10-Sep | APPLICATIONS             | 1st sprint review |
    |------------+--------------------------+-------------------|
    | Mon-13-Sep | Risks and benefits of AI |                   |
-   | Wed-15-Sep |                          | Protocol          |
-   | Fri-17-Sep |                          | Protocol          |
+   | Wed-15-Sep |                          | Protocol 5        |
+   | Fri-17-Sep |                          | Protocol 6        |
    |------------+--------------------------+-------------------|
-   | Mon-20-Sep | Introduction summary     | Protocol          |
-   | Wed-22-Sep |                          |                   |
-   | Fri-24-Sep |                          |                   |
+   | Mon-20-Sep | Introduction summary     |                   |
+   | Wed-22-Sep | Presentation 1           | Protocol 7        |
+   | Fri-24-Sep | Presentation 2           | Protocol 8        |
    |------------+--------------------------+-------------------|
-   | Mon-27-Sep |                          |                   |
-   | Wed-29-Sep |                          |                   |
-   | Fri-1-Oct  |                          |                   |
+   | Mon-27-Sep |                          | Protocol 9        |
+   | Wed-29-Sep | Presentation 3           | Protocol 10       |
+   | Fri-1-Oct  | Presentation 4           | Protocol 11       |
    |------------+--------------------------+-------------------|
    | Mon-4-Oct  | FALL BREAK               |                   |
-   | Wed-6-Oct  |                          |                   |
-   | Fri-8-Oct  |                          | 2nd sprint review |
+   | Wed-6-Oct  | Presentation 5           | Protocol 12(X)    |
+   | Fri-8-Oct  | APPLICATIONS             | 2nd sprint review |
    |------------+--------------------------+-------------------|
    | Mon-11-Oct |                          |                   |
-   | Wed-13-Oct |                          |                   |
+   | Wed-13-Oct | Presentation 6           | Protocol 13(X)    |
    | Fri-15-Oct |                          |                   |
    |------------+--------------------------+-------------------|
    | Mon-18-Oct |                          |                   |
    | Wed-20-Oct | SERVICE DAY              |                   |
-   | Fri-22-Oct |                          |                   |
+   | Fri-22-Oct | Presentation 7           | Protocol 14(X)    |
    |------------+--------------------------+-------------------|
    | Mon-25-Oct |                          |                   |
-   | Wed-27-Oct |                          |                   |
+   | Wed-27-Oct | Presentation 8           | Protocol 15(X)    |
    | Fri-29-Oct |                          |                   |
    |------------+--------------------------+-------------------|
    | Mon-1-Nov  |                          |                   |
-   | Wed-3-Nov  |                          |                   |
-   | Fri-5-Nov  |                          | 3rd sprint review |
+   | Wed-3-Nov  | Presentation 9           | Protocol 16(X)    |
+   | Fri-5-Nov  | APPLICATIONS             | 3rd sprint review |
    |------------+--------------------------+-------------------|
    | Mon-8-Nov  |                          |                   |
-   | Wed-10-Nov |                          |                   |
+   | Wed-10-Nov | Presentation 10          | Protocol 17(X)    |
    | Fri-12-Nov |                          |                   |
    |------------+--------------------------+-------------------|
    | Mon-15-Nov |                          |                   |
-   | Wed-17-Nov |                          |                   |
+   | Wed-17-Nov | Presentation 11          | Protocol 18(X)    |
    | Fri-19-Nov |                          |                   |
    |------------+--------------------------+-------------------|
    | 22-Nov     |                          |                   |
@@ -385,3 +385,4 @@
    | 3-Dec      | PROJECT PRESENTATIONS    |                   |
    |------------+--------------------------+-------------------|
 
+   (X) = Extra credit
