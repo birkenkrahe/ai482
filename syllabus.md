@@ -552,7 +552,7 @@ scheduled time, and we can make arrangements when you return.
 </table>
 
 
-## Schedule and session contenty
+## Schedule and session content
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -598,14 +598,14 @@ scheduled time, and we can make arrangements when you return.
 <tr>
 <td class="org-left">Wed-25-Aug</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">Protocol 1</td>
+<td class="org-left">Session Protocol 1</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Fri-27-Aug</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">Protocol 2</td>
+<td class="org-left">Session Protocol 2</td>
 </tr>
 </tbody>
 
@@ -620,14 +620,14 @@ scheduled time, and we can make arrangements when you return.
 <tr>
 <td class="org-left">Wed-1-Sep</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">Protocol 3</td>
+<td class="org-left">Session Protocol 3</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Fri-3-Sep</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">Protocol 4</td>
+<td class="org-left">Session Protocol 4</td>
 </tr>
 </tbody>
 
@@ -664,14 +664,14 @@ scheduled time, and we can make arrangements when you return.
 <tr>
 <td class="org-left">Wed-15-Sep</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">Protocol 5</td>
+<td class="org-left">Session Protocol 5</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Fri-17-Sep</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">Protocol 6</td>
+<td class="org-left">Session Protocol 6</td>
 </tr>
 </tbody>
 
@@ -685,15 +685,15 @@ scheduled time, and we can make arrangements when you return.
 
 <tr>
 <td class="org-left">Wed-22-Sep</td>
-<td class="org-left">Presentation 1</td>
-<td class="org-left">Protocol 7</td>
+<td class="org-left">Topical Presentation 1</td>
+<td class="org-left">Session Protocol 7</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Fri-24-Sep</td>
-<td class="org-left">Presentation 2</td>
-<td class="org-left">Protocol 8</td>
+<td class="org-left">Topical Presentation 2</td>
+<td class="org-left">Session Protocol 8</td>
 </tr>
 </tbody>
 
@@ -701,21 +701,21 @@ scheduled time, and we can make arrangements when you return.
 <tr>
 <td class="org-left">Mon-27-Sep</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">Protocol 9</td>
+<td class="org-left">Session Protocol 9</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Wed-29-Sep</td>
-<td class="org-left">Presentation 3</td>
-<td class="org-left">Protocol 10</td>
+<td class="org-left">Topical Presentation 3</td>
+<td class="org-left">Session Protocol 10</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Fri-1-Oct</td>
-<td class="org-left">Presentation 4</td>
-<td class="org-left">Protocol 11</td>
+<td class="org-left">Topical Presentation 4</td>
+<td class="org-left">Session Protocol 11</td>
 </tr>
 </tbody>
 
@@ -729,8 +729,8 @@ scheduled time, and we can make arrangements when you return.
 
 <tr>
 <td class="org-left">Wed-6-Oct</td>
-<td class="org-left">Presentation 5</td>
-<td class="org-left">Protocol 12(X)</td>
+<td class="org-left">Topical Presentation 5</td>
+<td class="org-left">Session Protocol 12(X)</td>
 </tr>
 
 
@@ -751,8 +751,8 @@ scheduled time, and we can make arrangements when you return.
 
 <tr>
 <td class="org-left">Wed-13-Oct</td>
-<td class="org-left">Presentation 6</td>
-<td class="org-left">Protocol 13(X)</td>
+<td class="org-left">Topical Presentation 6</td>
+<td class="org-left">Session Protocol 13(X)</td>
 </tr>
 
 
@@ -780,8 +780,8 @@ scheduled time, and we can make arrangements when you return.
 
 <tr>
 <td class="org-left">Fri-22-Oct</td>
-<td class="org-left">Presentation 7</td>
-<td class="org-left">Protocol 14(X)</td>
+<td class="org-left">Topical Presentation 7</td>
+<td class="org-left">Session Protocol 14(X)</td>
 </tr>
 </tbody>
 
@@ -795,8 +795,8 @@ scheduled time, and we can make arrangements when you return.
 
 <tr>
 <td class="org-left">Wed-27-Oct</td>
-<td class="org-left">Presentation 8</td>
-<td class="org-left">Protocol 15(X)</td>
+<td class="org-left">Topical Presentation 8</td>
+<td class="org-left">Session Protocol 15(X)</td>
 </tr>
 
 
@@ -817,8 +817,8 @@ scheduled time, and we can make arrangements when you return.
 
 <tr>
 <td class="org-left">Wed-3-Nov</td>
-<td class="org-left">Presentation 9</td>
-<td class="org-left">Protocol 16(X)</td>
+<td class="org-left">Topical Presentation 9</td>
+<td class="org-left">Session Protocol 16(X)</td>
 </tr>
 
 
@@ -839,8 +839,8 @@ scheduled time, and we can make arrangements when you return.
 
 <tr>
 <td class="org-left">Wed-10-Nov</td>
-<td class="org-left">Presentation 10</td>
-<td class="org-left">Protocol 17(X)</td>
+<td class="org-left">Topical Presentation 10</td>
+<td class="org-left">Session Protocol 17(X)</td>
 </tr>
 
 
@@ -861,8 +861,8 @@ scheduled time, and we can make arrangements when you return.
 
 <tr>
 <td class="org-left">Wed-17-Nov</td>
-<td class="org-left">Presentation 11</td>
-<td class="org-left">Protocol 18(X)</td>
+<td class="org-left">Topical Presentation 11</td>
+<td class="org-left">Session Protocol 18(X)</td>
 </tr>
 
 
