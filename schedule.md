@@ -115,7 +115,7 @@
 <tr>
 <td class="org-left">Fri-17-Sep</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">Hakeem Yatim</td>
+<td class="org-left">Session Protocol 6</td>
 </tr>
 </tbody>
 
@@ -137,7 +137,7 @@
 <tr>
 <td class="org-left">Fri-24-Sep</td>
 <td class="org-left">Topical Presentation 2</td>
-<td class="org-left">Session Protocol 8</td>
+<td class="org-left">Hakeem Yatim</td>
 </tr>
 </tbody>
 
