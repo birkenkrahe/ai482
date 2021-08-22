@@ -159,7 +159,7 @@
 <tr>
 <td class="org-left">Fri-1-Oct</td>
 <td class="org-left">Topical Presentation 4</td>
-<td class="org-left">Session Protocol 11</td>
+<td class="org-left">Jacob Sampley</td>
 </tr>
 </tbody>
 
@@ -195,7 +195,7 @@
 
 <tr>
 <td class="org-left">Wed-13-Oct</td>
-<td class="org-left">Topical Presentation 6</td>
+<td class="org-left">Jacob Sampley</td>
 <td class="org-left">Session Protocol 13(X)</td>
 </tr>
 
