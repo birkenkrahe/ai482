@@ -42,7 +42,7 @@
 <tr>
 <td class="org-left">Wed-25-Aug</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">Session Protocol 1</td>
+<td class="org-left">Wyatt Frerichs</td>
 </tr>
 
 
