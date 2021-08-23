@@ -1,28 +1,30 @@
 
 # Table of Contents
 
-1.  [What're you going to learn?](#org2f12318)
-2.  [What is intelligence?](#org7696105)
-    1.  [Search patterns](#orge8825bf)
-    2.  [Group work](#org8b798f0)
-3.  [Different approaches to AI](#org8c3f12c)
-    1.  [Fields of inquiry](#org2fff310)
-    2.  [Dimensions of inquiry](#orgf987fcd)
-    3.  [Four approaches](#org5cb84a5)
-        1.  [Acting humanly ("Turing test" approach)](#orgf9d911f)
-        2.  [Thinking humanly ("cognitive modeling" approach)](#org893af96)
-        3.  [Thinking rationally ("laws of thought" approach)](#org5761ac7)
-        4.  [Acting rationally ("rational agent" approach)](#org8473b75)
-4.  [Major issues](#orgd8d8d99)
-    1.  [Bounded rationality](#orgaf7dc3c)
-    2.  [Value alignment](#org9f4bd25)
-5.  [What's next?](#orgee546fe)
-6.  [Any questions?](#org2a0611f)
-7.  [References](#org48968dd)
+-   [What're you going to learn?](#org73b9b9e)
+-   [What is intelligence?](#orgefb0015)
+    -   [Search patterns](#org581dbaa)
+    -   [Group work](#orgbc8ea03)
+-   [Different approaches to AI](#org2a8b731)
+    -   [Fields of systematic inquiry](#orga0c8591)
+    -   [Fundamental questions](#orgeafc869)
+    -   [Four approaches](#org7e19d17)
+        -   [Four scenarios](#orgfb187d9)
+        -   [Acting humanly ("Turing test" approach)](#orgd6d81b5)
+        -   [Thinking humanly ("cognitive modeling" approach)](#orgc7387a7)
+        -   [Thinking rationally ("laws of thought" approach)](#org4404023)
+        -   [Acting rationally ("rational agent" approach)](#orgb4bc1ca)
+-   [Major issues](#org7474a62)
+    -   [Bounded rationality](#orgacb037a)
+    -   [Value alignment](#orgec7c6b7)
+-   [Asimov's robot laws](#org7cb4e85)
+-   [What's next?](#orgead60e1)
+-   [Any questions?](#org8e29be5)
+-   [References](#org2ffa870)
 
 
 
-<a id="org2f12318"></a>
+<a id="org73b9b9e"></a>
 
 # What're you going to learn?
 
@@ -34,21 +36,21 @@
 -   What's next?
 
 
-<a id="org7696105"></a>
+<a id="orgefb0015"></a>
 
 # What is intelligence?
 
 ![img](./img/intelligence.gif)
 
 
-<a id="orge8825bf"></a>
+<a id="org581dbaa"></a>
 
 ## Search patterns
 
 ![img](./img/googletrends.png)
 
 
-<a id="org8b798f0"></a>
+<a id="orgbc8ea03"></a>
 
 ## Group work
 
@@ -60,7 +62,7 @@
 -   Briefly present your results (10')
 
 
-<a id="org8c3f12c"></a>
+<a id="org2a8b731"></a>
 
 # Different approaches to AI
 
@@ -69,9 +71,9 @@
 Which fields of inquiry (= disciplines) to use?
 
 
-<a id="org2fff310"></a>
+<a id="orga0c8591"></a>
 
-## Fields of inquiry
+## Fields of systematic inquiry
 
 ![img](./img/fields.gif)
 
@@ -81,9 +83,9 @@ Which fields of inquiry (= disciplines) to use?
 -   History
 
 
-<a id="orgf987fcd"></a>
+<a id="orgeafc869"></a>
 
-## Dimensions of inquiry
+## Fundamental questions
 
 ![img](./img/humanmachine.jpg)
 
@@ -91,7 +93,7 @@ Which fields of inquiry (= disciplines) to use?
 -   Should we focus on machines?
 
 
-<a id="org5cb84a5"></a>
+<a id="org7e19d17"></a>
 
 ## Four approaches
 
@@ -108,8 +110,8 @@ Which fields of inquiry (= disciplines) to use?
 <thead>
 <tr>
 <th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">THOUGHT / LOGIC</th>
-<th scope="col" class="org-left">BEHAVIOR / ACTION</th>
+<th scope="col" class="org-left">**THOUGHT / LOGIC**</th>
+<th scope="col" class="org-left">**BEHAVIOR / ACTION**</th>
 </tr>
 </thead>
 
@@ -130,52 +132,171 @@ Which fields of inquiry (= disciplines) to use?
 </table>
 
 
-<a id="orgf9d911f"></a>
+<a id="orgfb187d9"></a>
+
+### Four scenarios
+
+![img](./img/approaches1.png)
+
+
+<a id="orgd6d81b5"></a>
 
 ### Acting humanly ("Turing test" approach)
 
--   Natural language processing
--   Knowledge representation
--   Automated reasoning
--   Machine learning
--   Computer vision
--   Robotics
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<a id="org893af96"></a>
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Natural language processing</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Knowledge representation</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Automated reasoning</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Machine learning</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Computer vision</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Robotics</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="orgc7387a7"></a>
 
 ### Thinking humanly ("cognitive modeling" approach)
 
--   Introspection
--   Psychological experiments
--   Brain imaging
--   Cognitive science
--   Algorithms
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<a id="org5761ac7"></a>
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Introspection</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Psychological experiments</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Brain imaging</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Cognitive science</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Algorithms</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="org4404023"></a>
 
 ### Thinking rationally ("laws of thought" approach)
 
--   Syllogistic reasoning
--   Logic
--   Expert systems
--   Uncertainty
--   Probability
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<a id="org8473b75"></a>
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Syllogistic reasoning</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Logic</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Expert systems</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Uncertainty</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Probability</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="orgb4bc1ca"></a>
 
 ### Acting rationally ("rational agent" approach)
 
--   Combination approach
--   Constructivist
--   Doing the right thing
--   Standard model
--   Control theory
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<a id="orgd8d8d99"></a>
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Combination approach</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Constructivist</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Doing the right thing</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Standard model</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Control theory</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="org7474a62"></a>
 
 # Major issues
 
@@ -185,16 +306,16 @@ Which fields of inquiry (= disciplines) to use?
 -   Value alignment problem
 
 
-<a id="orgaf7dc3c"></a>
+<a id="orgacb037a"></a>
 
 ## Bounded rationality
 
 ![img](./img/bakopoulos.png)
 
-Image: [Bakopoulos, 1985](#org277196c)
+Image: [Bakopoulos, 1985](#org70b3f3c)
 
 
-<a id="org9f4bd25"></a>
+<a id="orgec7c6b7"></a>
 
 ## Value alignment
 
@@ -203,7 +324,16 @@ Image: [Bakopoulos, 1985](#org277196c)
 Image: [The Mechanical Turk](https://www.amazon.com/Turk-Famous-Eighteenth-Century-Chess-Playing-Machine/dp/B000HWZ28Q)
 
 
-<a id="orgee546fe"></a>
+<a id="org7cb4e85"></a>
+
+# [Asimov's robot laws](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
+
+![img](./img/asimov.jpg)
+
+Image: cover of "I, Robot" by Isaac Asimov (1940)
+
+
+<a id="orgead60e1"></a>
 
 # What's next?
 
@@ -212,7 +342,7 @@ Image: [The Mechanical Turk](https://www.amazon.com/Turk-Famous-Eighteenth-Centu
 -   Scientific foundations of AI
 
 
-<a id="org2a0611f"></a>
+<a id="org8e29be5"></a>
 
 # Any questions?
 
@@ -221,11 +351,11 @@ Image: [The Mechanical Turk](https://www.amazon.com/Turk-Famous-Eighteenth-Centu
 [This presentation is available online.](https://github.com/birkenkrahe/ai482/tree/main/2_what_is_ai)
 
 
-<a id="org48968dd"></a>
+<a id="org2ffa870"></a>
 
 # References
 
-<a id="org277196c"></a> Bakopoulos, J. Yannis, "Toward a More Precise
+<a id="org70b3f3c"></a> Bakopoulos, J. Yannis, "Toward a More Precise
 Concept of Information Technology" (1985). ICIS 1985 Proceedings. 4.
 <http://aisel.aisnet.org/icis1985/4>
 
