@@ -1,29 +1,28 @@
 
 # Table of Contents
 
-1.  [What're you going to learn?](#orgcf778ef)
-2.  [What is intelligence?](#org93ccf2b)
-    1.  [Search patterns](#org1a0e13c)
-    2.  [Group work](#org382e513)
-3.  [Different approaches to AI](#orgceed051)
-    1.  [Fields of inquiry](#org2c923a1)
-    2.  [Dimensions of inquiry](#orge75383f)
-    3.  [Four approaches](#orgfeaca8d)
-        1.  [Acting humanly ("Turing test" approach)](#org7251579)
-        2.  [Thinking humanly ("cognitive modeling" approach)](#org85d0447)
-        3.  [Thinking rationally ("laws of thought" approach)](#org5c4912a)
-        4.  [Acting rationally ("rational agent" approach)](#org07d59c8)
-4.  [Major issues](#orgd65c4dd)
-    1.  [Bounded rationality](#orgdc9b565)
-    2.  [Value alignment](#orgf63b4fb)
-5.  [What's next?](#org7afe88f)
-6.  [Any questions?](#org0a0ed22)
-7.  [References](#org4472ca4)
-
-\##+OPTIONS: toc:nil num:nil ^:nil
+1.  [What're you going to learn?](#org2f12318)
+2.  [What is intelligence?](#org7696105)
+    1.  [Search patterns](#orge8825bf)
+    2.  [Group work](#org8b798f0)
+3.  [Different approaches to AI](#org8c3f12c)
+    1.  [Fields of inquiry](#org2fff310)
+    2.  [Dimensions of inquiry](#orgf987fcd)
+    3.  [Four approaches](#org5cb84a5)
+        1.  [Acting humanly ("Turing test" approach)](#orgf9d911f)
+        2.  [Thinking humanly ("cognitive modeling" approach)](#org893af96)
+        3.  [Thinking rationally ("laws of thought" approach)](#org5761ac7)
+        4.  [Acting rationally ("rational agent" approach)](#org8473b75)
+4.  [Major issues](#orgd8d8d99)
+    1.  [Bounded rationality](#orgaf7dc3c)
+    2.  [Value alignment](#org9f4bd25)
+5.  [What's next?](#orgee546fe)
+6.  [Any questions?](#org2a0611f)
+7.  [References](#org48968dd)
 
 
-<a id="orgcf778ef"></a>
+
+<a id="org2f12318"></a>
 
 # What're you going to learn?
 
@@ -35,21 +34,21 @@
 -   What's next?
 
 
-<a id="org93ccf2b"></a>
+<a id="org7696105"></a>
 
 # What is intelligence?
 
 ![img](./img/intelligence.gif)
 
 
-<a id="org1a0e13c"></a>
+<a id="orge8825bf"></a>
 
 ## Search patterns
 
 ![img](./img/googletrends.png)
 
 
-<a id="org382e513"></a>
+<a id="org8b798f0"></a>
 
 ## Group work
 
@@ -61,7 +60,7 @@
 -   Briefly present your results (10')
 
 
-<a id="orgceed051"></a>
+<a id="org8c3f12c"></a>
 
 # Different approaches to AI
 
@@ -70,7 +69,7 @@
 Which fields of inquiry (= disciplines) to use?
 
 
-<a id="org2c923a1"></a>
+<a id="org2fff310"></a>
 
 ## Fields of inquiry
 
@@ -82,7 +81,7 @@ Which fields of inquiry (= disciplines) to use?
 -   History
 
 
-<a id="orge75383f"></a>
+<a id="orgf987fcd"></a>
 
 ## Dimensions of inquiry
 
@@ -92,7 +91,7 @@ Which fields of inquiry (= disciplines) to use?
 -   Should we focus on machines?
 
 
-<a id="orgfeaca8d"></a>
+<a id="org5cb84a5"></a>
 
 ## Four approaches
 
@@ -131,7 +130,7 @@ Which fields of inquiry (= disciplines) to use?
 </table>
 
 
-<a id="org7251579"></a>
+<a id="orgf9d911f"></a>
 
 ### Acting humanly ("Turing test" approach)
 
@@ -143,7 +142,7 @@ Which fields of inquiry (= disciplines) to use?
 -   Robotics
 
 
-<a id="org85d0447"></a>
+<a id="org893af96"></a>
 
 ### Thinking humanly ("cognitive modeling" approach)
 
@@ -154,7 +153,7 @@ Which fields of inquiry (= disciplines) to use?
 -   Algorithms
 
 
-<a id="org5c4912a"></a>
+<a id="org5761ac7"></a>
 
 ### Thinking rationally ("laws of thought" approach)
 
@@ -165,7 +164,7 @@ Which fields of inquiry (= disciplines) to use?
 -   Probability
 
 
-<a id="org07d59c8"></a>
+<a id="org8473b75"></a>
 
 ### Acting rationally ("rational agent" approach)
 
@@ -176,7 +175,7 @@ Which fields of inquiry (= disciplines) to use?
 -   Control theory
 
 
-<a id="orgd65c4dd"></a>
+<a id="orgd8d8d99"></a>
 
 # Major issues
 
@@ -186,16 +185,16 @@ Which fields of inquiry (= disciplines) to use?
 -   Value alignment problem
 
 
-<a id="orgdc9b565"></a>
+<a id="orgaf7dc3c"></a>
 
 ## Bounded rationality
 
 ![img](./img/bakopoulos.png)
 
-Image: [Bakopoulos, 1985](#org059a05d)
+Image: [Bakopoulos, 1985](#org277196c)
 
 
-<a id="orgf63b4fb"></a>
+<a id="org9f4bd25"></a>
 
 ## Value alignment
 
@@ -204,7 +203,7 @@ Image: [Bakopoulos, 1985](#org059a05d)
 Image: [The Mechanical Turk](https://www.amazon.com/Turk-Famous-Eighteenth-Century-Chess-Playing-Machine/dp/B000HWZ28Q)
 
 
-<a id="org7afe88f"></a>
+<a id="orgee546fe"></a>
 
 # What's next?
 
@@ -213,7 +212,7 @@ Image: [The Mechanical Turk](https://www.amazon.com/Turk-Famous-Eighteenth-Centu
 -   Scientific foundations of AI
 
 
-<a id="org0a0ed22"></a>
+<a id="org2a0611f"></a>
 
 # Any questions?
 
@@ -222,11 +221,11 @@ Image: [The Mechanical Turk](https://www.amazon.com/Turk-Famous-Eighteenth-Centu
 [This presentation is available online.](https://github.com/birkenkrahe/ai482/tree/main/2_what_is_ai)
 
 
-<a id="org4472ca4"></a>
+<a id="org48968dd"></a>
 
 # References
 
-<a id="org059a05d"></a> Bakopoulos, J. Yannis, "Toward a More Precise
+<a id="org277196c"></a> Bakopoulos, J. Yannis, "Toward a More Precise
 Concept of Information Technology" (1985). ICIS 1985 Proceedings. 4.
 <http://aisel.aisnet.org/icis1985/4>
 
