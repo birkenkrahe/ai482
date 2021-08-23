@@ -174,7 +174,7 @@
 <tr>
 <td class="org-left">Wed-6-Oct</td>
 <td class="org-left">Topical Presentation 5</td>
-<td class="org-left">Session Protocol 12(X)</td>
+<td class="org-left">Malcolm Howard(X)</td>
 </tr>
 
 
