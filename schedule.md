@@ -239,7 +239,7 @@
 
 <tr>
 <td class="org-left">Wed-27-Oct</td>
-<td class="org-left">Topical Presentation 8</td>
+<td class="org-left">Malcolm Howard</td>
 <td class="org-left">Session Protocol 15(X)</td>
 </tr>
 
