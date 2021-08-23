@@ -6,16 +6,19 @@
 -   Emacs Org-mode files are rendered as Markdown.
 
 
-## [Course diary](https://github.com/birkenkrahe/ai482/blob/main/diary.md)
+## [AI Bookmarks](https://github.com/birkenkrahe/ai482/blob/main/bookmarks.md)
 
 
-## [Discussion forums](https://github.com/birkenkrahe/ai482/discussions)
+## [AI Course diary](https://github.com/birkenkrahe/ai482/blob/main/diary.md)
 
 
-## [Frequently Asked Questions (FAQ)](https://github.com/birkenkrahe/ai482/blob/main/FAQ.md)
+## [AI Discussion forums](https://github.com/birkenkrahe/ai482/discussions)
 
 
-## [Syllabus](https://github.com/birkenkrahe/ai482/blob/main/syllabus.md)
+## [AI Frequently Asked Questions (FAQ)](https://github.com/birkenkrahe/ai482/blob/main/FAQ.md)
+
+
+## [AI Syllabus](https://github.com/birkenkrahe/ai482/blob/main/syllabus.md)
 
 
 ## History
