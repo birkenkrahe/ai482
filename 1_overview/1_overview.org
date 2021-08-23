@@ -2,6 +2,8 @@
 #+AUTHOR: Marcus Birkenkrahe
 #+Subtitle: Artificial Intelligence
 #+STARTUP: hideblocks
+#+reveal_theme: black
+#+reveal_init_options: transition:'cube'
 #+OPTIONS: toc:nil num:nil ^:nil
 #+INFOJS_OPT: :view:info
 * What're you going to learn today?
