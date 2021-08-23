@@ -2,9 +2,9 @@
 #+AUTHOR: Marcus Birkenkrahe
 #+Subtitle: Seminar on Artificial Intelligence
 #+STARTUP: hideblocks
+#+options: num:nil toc:nil
 #+reveal_theme: black
 #+reveal_init_options: transition:'cube'
-#+OPTIONS: toc:nil num:nil ^:nil
 #+INFOJS_OPT: :view:info
 * What're you going to learn?
 
@@ -37,12 +37,12 @@
 
 * Different approaches to AI
 
-  #+attr_html: :height 400px
+  #+attr_html: :height 300px
   [[./img/fields.gif]]
 
   Which fields of inquiry (= disciplines) to use?
 
-** Fields of inquiry
+** Fields of systematic inquiry
 
    #+attr_html: :height 200px
    [[./img/fields.gif]]
@@ -52,7 +52,7 @@
    * Science
    * History
 
-** Dimensions of inquiry
+** Fundamental questions
 
    #+attr_html: :width 500px
    [[./img/humanmachine.jpg]]
@@ -62,48 +62,53 @@
 
 ** Four approaches
 
-   |             | THOUGHT / LOGIC          | BEHAVIOR / ACTION     |
-   |-------------+--------------------------+-----------------------|
-   | *HUMANITY*  | /Cognitive modeling/     | /Turing Test/         |
-   | *RATIONALITY* | /Laws of Thought/        | /Rational Agents/     |
+   |               | *THOUGHT / LOGIC*    | *BEHAVIOR / ACTION* |
+   |---------------+----------------------+---------------------|
+   | *HUMANITY*    | /Cognitive modeling/ | /Turing Test/       |
+   | *RATIONALITY* | /Laws of Thought/    | /Rational Agents/   |
+
+*** Four scenarios
+
+    #+attr_html: :height 500px
+    [[./img/approaches1.png]]
 
 *** Acting humanly ("Turing test" approach)
 
-    * Natural language processing
-    * Knowledge representation
-    * Automated reasoning
-    * Machine learning
-    * Computer vision
-    * Robotics
+   | Natural language processing |
+   | Knowledge representation    |
+   | Automated reasoning         |
+   | Machine learning            |
+   | Computer vision             |
+   | Robotics                    |
 
 *** Thinking humanly ("cognitive modeling" approach)
 
-    * Introspection
-    * Psychological experiments
-    * Brain imaging
-    * Cognitive science
-    * Algorithms
+    |  Introspection              |
+    |  Psychological experiments  |
+    |  Brain imaging              |
+    |  Cognitive science          |
+    |  Algorithms                 |
 
 *** Thinking rationally ("laws of thought" approach)
 
-    * Syllogistic reasoning
-    * Logic
-    * Expert systems
-    * Uncertainty
-    * Probability
+    |  Syllogistic reasoning  |
+    |  Logic                  |
+    |  Expert systems         |
+    |  Uncertainty            |
+    |  Probability            |
 
 *** Acting rationally ("rational agent" approach)
 
-    * Combination approach
-    * Constructivist
-    * Doing the right thing
-    * Standard model
-    * Control theory
+    |  Combination approach   |
+    |  Constructivist         |
+    |  Doing the right thing  |
+    |  Standard model         |
+    |  Control theory         |
 
 * Major issues
 
-   #+attr_html: :height 200px
-   [[./img/issues.gif]]
+  #+attr_html: :height 200px
+  [[./img/issues.gif]]
 
   * Bounded Rationality
   * Value alignment problem
@@ -121,6 +126,13 @@
    [[./img/mechanicalturk.png]]
 
    Image: [[https://www.amazon.com/Turk-Famous-Eighteenth-Century-Chess-Playing-Machine/dp/B000HWZ28Q][The Mechanical Turk]]
+
+* [[https://en.wikipedia.org/wiki/Three_Laws_of_Robotics][Asimov's robot laws]]
+
+  #+attr_html: :height 400px
+  [[./img/asimov.jpg]]
+
+  Image: cover of "I, Robot" by Isaac Asimov (1940)
 
 * What's next?
 
