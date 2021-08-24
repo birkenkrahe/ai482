@@ -24,14 +24,14 @@
 <tbody>
 <tr>
 <td class="org-left">Wed-18-Aug</td>
-<td class="org-left">Course overview</td>
+<td class="org-left">Course overview (MB)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Fri-20-Aug</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Course overview (MB)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
