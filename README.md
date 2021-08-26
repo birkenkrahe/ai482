@@ -6,6 +6,9 @@
 -   Emacs Org-mode files are rendered as Markdown.
 
 
+## [Agenda](https://github.com/birkenkrahe/ai482/blob/main/agenda.md)
+
+
 ## [AI Bookmarks](https://github.com/birkenkrahe/ai482/blob/main/bookmarks.md)
 
 
