@@ -7,6 +7,7 @@
   * Repository for DSC 482.01 - Artificial Intelligence
   * Emacs Org-mode files are rendered as Markdown.
 
+** [[https://github.com/birkenkrahe/ai482/blob/main/agenda.md][Agenda]]
 ** [[https://github.com/birkenkrahe/ai482/blob/main/bookmarks.md][AI Bookmarks]]
 ** [[https://github.com/birkenkrahe/ai482/blob/main/diary.md][AI Course diary]]
 ** [[https://github.com/birkenkrahe/ai482/discussions][AI Discussion forums]]
