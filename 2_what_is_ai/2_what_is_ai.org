@@ -74,12 +74,12 @@
 
 *** Acting humanly ("Turing test" approach)
 
-   | Natural language processing |
-   | Knowledge representation    |
-   | Automated reasoning         |
-   | Machine learning            |
-   | Computer vision             |
-   | Robotics                    |
+    | Natural language processing |
+    | Knowledge representation    |
+    | Automated reasoning         |
+    | Machine learning            |
+    | Computer vision             |
+    | Robotics                    |
 
 *** Thinking humanly ("cognitive modeling" approach)
 
@@ -115,17 +115,37 @@
 
 ** Bounded rationality
 
-   #+attr_html: :width 500px
+   #+attr_html: :width 300px
    [[./img/bakopoulos.png]]
 
    Image: [[bakopoulos1985][Bakopoulos, 1985]]
 
+   #+begin_quote
+   AIMA: "For perfect rationality, the computational demands are just
+   too high."
+   #+end_quote
+
 ** Value alignment
 
-   #+attr_html: :width 400px
+   #+attr_html: :width 200px
    [[./img/mechanicalturk.png]]
 
    Image: [[https://www.amazon.com/Turk-Famous-Eighteenth-Century-Chess-Playing-Machine/dp/B000HWZ28Q][The Mechanical Turk]]
+
+   #+begin_quote
+   AIMA: "The values or objectives put into the machine must be
+   aligned with those of the human."
+   #+end_quote
+
+** Group work
+
+   #+attr_html: :height 200px
+   [[./img/groupwork.gif]]
+
+   * Get together in groups of 2-3
+   * Each group covers one approach
+   * List pros and cons of your approach
+   * Put your results [[https://ideaboardz.com/for/AI%20approaches%20pros%20&amp;%20cons/4063343][on the Kanban board]]
 
 * [[https://en.wikipedia.org/wiki/Three_Laws_of_Robotics][Asimov's robot laws]]
 
@@ -133,6 +153,15 @@
   [[./img/asimov.jpg]]
 
   Image: cover of "I, Robot" by Isaac Asimov (1940)
+
+** Which appoach fits these laws?
+
+   1) A robot may not injure a human being or, through inaction, allow
+      a human being to come to harm.
+   2) A robot must obey the orders given it by human beings except
+      where such orders would conflict with the First Law.
+   3) A robot must protect its own existence as long as such
+      protection does not conflict with the First or Second Law.
 
 * What's next?
 
