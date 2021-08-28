@@ -44,7 +44,18 @@
    H.L. Dreyfus, "What Computers Still Can't Do" ([[dreyfus1992][1992]]), a pessimistic
    account of the progress of AI since its beginnings. Here is a
    conversation with Dreyfus on "why machines cannot become human."
-   ([[dreyfus2008][UCTV, 2008]])[fn:2].
+   ([[dreyfus2008][UCTV, 2008]])[fn:2]:
+
+   #+begin_quote
+   "At a time when researchers were proposing grand plans for general
+   problem solvers and automatic translation machines, Dreyfus predicted
+   that they would fail because their conception of mental functioning
+   was naive, and he suggested that they would do well to acquaint
+   themselves with modern philosophical approaches to human beings. What
+   Computers Can't Do was widely attacked but quietly studied. Dreyfus's
+   arguments are still provocative and focus our attention once again on
+   what it is that makes human beings unique." ([[https://mitpress.mit.edu/books/what-computers-still-cant-do][mitpress.edu]])
+   #+end_quote
 
    "Computers and Thought" is a scientific monograph with articles by
    some of the greats of the field - Turing (the article I already
