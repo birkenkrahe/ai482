@@ -41,10 +41,10 @@
    and Thought" ([[feigenbaum63][Feigenbaum/Feldman eds., 1963]]).
 
    I had only been aware of one book on the philosophy of AI, by
-   H.L. Dreyfus, "What Computers Can't Do" (1972), a pessimistic
-   account of the progress of AI since its beginnings. Here is a 1
-   hour conversation with Dreyfus on "why machines cannot become
-   human." ([[dreyfus2008][UCTV, 2008]])[fn:2].
+   H.L. Dreyfus, "What Computers Still Can't Do" ([[dreyfus1992][1992]]), a pessimistic
+   account of the progress of AI since its beginnings. Here is a
+   conversation with Dreyfus on "why machines cannot become human."
+   ([[dreyfus2008][UCTV, 2008]])[fn:2].
 
    "Computers and Thought" is a scientific monograph with articles by
    some of the greats of the field - Turing (the article I already
@@ -96,9 +96,13 @@
   <<copeland1993>> [[https://www.wiley.com/en-us/Artificial+Intelligence%3A+A+Philosophical+Introduction-p-9780631183853][Copeland J (1993). Artificial Intelligence> A
   Philosophical Introduction. Wiley-Blackwell.]]
 
-  <<dreyfus1972>> Dreyfus, H L (1972). What Computers Can't Do.
+<<dreyfus72>>
 
-  <<feigenbaum63>>
+  <<dreyfus1992>> [[https://mitpress.mit.edu/books/what-computers-still-cant-do][Dreyfus, H L. What Computers Still Can't Do. MIT
+  Press (1992).]]
+
+  <<feigenbaum63>> Feigenbaum EA, Feldman J (eds.). Computers and
+  thought. New York: McGraw-Hill (1963). [[https://archive.org/details/computersthought00feig][Online: archive.org.]]
 
   <<dreyfus2008>> [[https://youtu.be/-CHgt2Szk-I][University of California Television (1 May
   2008). Conversations with History: Hubert Dreyfus [Video]. Online:
@@ -107,10 +111,12 @@
 
 * Footnotes
 
-[fn:2]Dreyfus and I share a love for the religious philosopher Soren
-Kierkegaard, and an awe of the German phenomenologist
-Heidegger. Dreyfus' YouTube lectures on these guys are pretty
-fascinating.
+[fn:2]The 1992 book is an update of the classic "What Computers Can't
+Do" ([[dreyfus72][1972]]), which was the earliest philosophical attack on AI. Twenty years
+later, the author remained unrelenting in his critique of AI. Dreyfus
+and I share a love for the religious philosopher Soren Kierkegaard,
+and an awe of the German phenomenologist Heidegger. Dreyfus' YouTube
+lectures on these guys are pretty fascinating.
 
 [fn:1]In fact, a student had fallen asleep on a couch. He was cradling
 his laptop. After a few minutes, he got up with the words: "I fell
