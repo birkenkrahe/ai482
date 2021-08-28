@@ -1,32 +1,32 @@
 
 # Table of Contents
 
--   [What're you going to learn?](#org8c59f4d)
--   [What is intelligence?](#org622236b)
-    -   [Search patterns](#orgb6e2ff3)
-    -   [Group work](#org5905eb2)
--   [Different approaches to AI](#orgb197369)
-    -   [Fields of systematic inquiry](#org6ed4ff5)
-    -   [Fundamental questions](#orge4c7878)
-    -   [Four approaches](#org796d690)
-        -   [Four scenarios](#org026b3ba)
-        -   [Acting humanly ("Turing test" approach)](#org4e75988)
-        -   [Thinking humanly ("cognitive modeling" approach)](#org5d53495)
-        -   [Thinking rationally ("laws of thought" approach)](#orgcc55c9d)
-        -   [Acting rationally ("rational agent" approach)](#orgacfdfd8)
--   [Major issues](#org6d367cc)
-    -   [Bounded rationality](#org828c479)
-    -   [Value alignment](#orgb0f6cf7)
-    -   [Group work](#orga8315bd)
--   [Asimov's robot laws](#orgb027a1b)
-    -   [Which appoach fits these laws?](#orgbf36cea)
--   [What's next?](#org2503c7b)
--   [Any questions?](#org816ca5b)
--   [References](#org795a489)
+-   [What're you going to learn?](#orgb8675dd)
+-   [What is intelligence?](#org2f6b0ff)
+    -   [Search patterns](#org3d07957)
+    -   [Group work](#org5418322)
+-   [Different approaches to AI](#org5bba785)
+    -   [Fields of systematic inquiry](#orga19458f)
+    -   [Fundamental questions](#org44fa873)
+    -   [Four approaches](#org3169f16)
+        -   [Four scenarios](#org581578a)
+        -   [Acting humanly ("Turing test" approach)](#org10ce736)
+        -   [Thinking humanly ("cognitive modeling" approach)](#orgde158ea)
+        -   [Thinking rationally ("laws of thought" approach)](#orgc98e77b)
+        -   [Acting rationally ("rational agent" approach)](#orgc3b16ff)
+    -   [Major issues](#orge297bcb)
+    -   [Bounded rationality](#org2927f2e)
+    -   [Value alignment](#orge0e1377)
+    -   [Pros and cons](#org7703bfe)
+    -   [Asimov's robot laws](#orgd6842d8)
+        -   [Which approach fits these laws best?](#org1050221)
+-   [What's next?](#org3e9cd42)
+-   [Any questions?](#orgdb58bce)
+-   [References](#org3817263)
 
 
 
-<a id="org8c59f4d"></a>
+<a id="orgb8675dd"></a>
 
 # What're you going to learn?
 
@@ -35,24 +35,25 @@
 -   The standard model of AI
 -   Bounded rationality
 -   The Value alignment problem
+-   Asimov's Robot Laws
 -   What's next?
 
 
-<a id="org622236b"></a>
+<a id="org2f6b0ff"></a>
 
 # What is intelligence?
 
 ![img](./img/intelligence.gif)
 
 
-<a id="orgb6e2ff3"></a>
+<a id="org3d07957"></a>
 
 ## Search patterns
 
 ![img](./img/googletrends.png)
 
 
-<a id="org5905eb2"></a>
+<a id="org5418322"></a>
 
 ## Group work
 
@@ -64,7 +65,7 @@
 -   Briefly present your results (10')
 
 
-<a id="orgb197369"></a>
+<a id="org5bba785"></a>
 
 # Different approaches to AI
 
@@ -73,7 +74,7 @@
 Which fields of inquiry (= disciplines) to use?
 
 
-<a id="org6ed4ff5"></a>
+<a id="orga19458f"></a>
 
 ## Fields of systematic inquiry
 
@@ -85,7 +86,7 @@ Which fields of inquiry (= disciplines) to use?
 -   History
 
 
-<a id="orge4c7878"></a>
+<a id="org44fa873"></a>
 
 ## Fundamental questions
 
@@ -95,7 +96,7 @@ Which fields of inquiry (= disciplines) to use?
 -   Should we focus on machines?
 
 
-<a id="org796d690"></a>
+<a id="org3169f16"></a>
 
 ## Four approaches
 
@@ -112,36 +113,36 @@ Which fields of inquiry (= disciplines) to use?
 <thead>
 <tr>
 <th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">**THOUGHT / LOGIC**</th>
-<th scope="col" class="org-left">**BEHAVIOR / ACTION**</th>
+<th scope="col" class="org-left">THOUGHT / LOGIC</th>
+<th scope="col" class="org-left">BEHAVIOR / ACTION</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td class="org-left">**HUMANITY**</td>
-<td class="org-left">*Cognitive modeling*</td>
-<td class="org-left">*Turing Test*</td>
+<td class="org-left">HUMANITY</td>
+<td class="org-left">Cognitive modeling</td>
+<td class="org-left">Turing Test</td>
 </tr>
 
 
 <tr>
-<td class="org-left">**RATIONALITY**</td>
-<td class="org-left">*Laws of Thought*</td>
-<td class="org-left">*Rational Agents*</td>
+<td class="org-left">RATIONALITY</td>
+<td class="org-left">Laws of Thought</td>
+<td class="org-left">Rational Agents</td>
 </tr>
 </tbody>
 </table>
 
 
-<a id="org026b3ba"></a>
+<a id="org581578a"></a>
 
 ### Four scenarios
 
 ![img](./img/approaches1.png)
 
 
-<a id="org4e75988"></a>
+<a id="org10ce736"></a>
 
 ### Acting humanly ("Turing test" approach)
 
@@ -184,7 +185,7 @@ Which fields of inquiry (= disciplines) to use?
 </table>
 
 
-<a id="org5d53495"></a>
+<a id="orgde158ea"></a>
 
 ### Thinking humanly ("cognitive modeling" approach)
 
@@ -222,7 +223,7 @@ Which fields of inquiry (= disciplines) to use?
 </table>
 
 
-<a id="orgcc55c9d"></a>
+<a id="orgc98e77b"></a>
 
 ### Thinking rationally ("laws of thought" approach)
 
@@ -260,7 +261,7 @@ Which fields of inquiry (= disciplines) to use?
 </table>
 
 
-<a id="orgacfdfd8"></a>
+<a id="orgc3b16ff"></a>
 
 ### Acting rationally ("rational agent" approach)
 
@@ -298,9 +299,9 @@ Which fields of inquiry (= disciplines) to use?
 </table>
 
 
-<a id="org6d367cc"></a>
+<a id="orge297bcb"></a>
 
-# Major issues
+## Major issues
 
 ![img](./img/issues.gif)
 
@@ -308,19 +309,43 @@ Which fields of inquiry (= disciplines) to use?
 -   Value alignment problem
 
 
-<a id="org828c479"></a>
+<a id="org2927f2e"></a>
 
 ## Bounded rationality
 
 ![img](./img/bakopoulos.png)
 
-Image: [Bakopoulos, 1985](#org4339862)
+Image: [Bakopoulos, 1985](#orgb9660a9)
 
 > AIMA: "For perfect rationality, the computational demands are just
 > too high."
 
+<div class="notes">
+The article by [Bakopoulos (1985)](#orgb9660a9) helped to move IT from an arcane
+discipline for technologists and nerds to a mainstream service
+industry. To do this, Bakopoulos capitalized on the notion that
+humans are not perfectly rational, that their rationality is
+bounded by their humanity: "Data has no value unless put in the
+context of the appropriate models, a process taxing the human
+capacities to communicate, memorize and process information, and
+thus leading to *bounded rationality*, which is a central concept
+in organizational behavior theory."
 
-<a id="orgb0f6cf7"></a>
+I worked through this article a while back for a lecture I was
+preparing, and found it remarkably difficult for such an old paper,
+with a lot of connections in different directions - technology,
+business, information theory, and philosophy.
+
+Bakopoulos' result that information systems have no (or only
+little) value without being properly integrated into business, and
+that IT is useless if it does not 'speak" to people in ways that
+they can understand and with results that they can measure, is
+wonderfully relevant for the future development of AI, too.
+
+</div>
+
+
+<a id="orge0e1377"></a>
 
 ## Value alignment
 
@@ -331,10 +356,26 @@ Image: [The Mechanical Turk](https://www.amazon.com/Turk-Famous-Eighteenth-Centu
 > AIMA: "The values or objectives put into the machine must be
 > aligned with those of the human."
 
+<div class="notes">
+This kind of "alignment" sounds like an engineering task, but
+actually it is a lot more complicated (or actually complex in a
+technical sense): if rational agents are supposed to "do the right
+thing", then their actions have to be not just logical, but
+appropriate and moral. There is no algorithm for that - both
+appropriateness (e.g. to a situation) and morality depend on the
+circumstances. Take the example of Grace, the "ultra-lifelike
+robotic nurse" from Hanson Robotics: she was designed for a certain
+set of circumstances and both by, and for a particular set of moral
+values. Will she do equally well in Japan and in Belgium, the
+country with the "[world's most liberal euthanasia law](https://www.pbs.org/newshour/show/right-die-belgium-inside-worlds-liberal-euthanasia-laws)", and
+therefore possibly a different approach to caring for the elderly?
 
-<a id="orga8315bd"></a>
+</div>
 
-## Group work
+
+<a id="org7703bfe"></a>
+
+## Pros and cons
 
 ![img](./img/groupwork.gif)
 
@@ -344,18 +385,18 @@ Image: [The Mechanical Turk](https://www.amazon.com/Turk-Famous-Eighteenth-Centu
 -   Put your results [on the Kanban board](https://ideaboardz.com/for/AI%20approaches%20pros%20&amp;%20cons/4063343)
 
 
-<a id="orgb027a1b"></a>
+<a id="orgd6842d8"></a>
 
-# [Asimov's robot laws](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
+## [Asimov's robot laws](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
 
 ![img](./img/asimov.jpg)
 
 Image: cover of "I, Robot" by Isaac Asimov (1940)
 
 
-<a id="orgbf36cea"></a>
+<a id="org1050221"></a>
 
-## Which appoach fits these laws?
+### Which approach fits these laws best?
 
 1.  A robot may not injure a human being or, through inaction, allow
     a human being to come to harm.
@@ -365,16 +406,17 @@ Image: cover of "I, Robot" by Isaac Asimov (1940)
     protection does not conflict with the First or Second Law.
 
 
-<a id="org2503c7b"></a>
+<a id="org3e9cd42"></a>
 
 # What's next?
 
 ![img](./img/river.gif)
 
 -   Scientific foundations of AI
+-   History of AI
 
 
-<a id="org816ca5b"></a>
+<a id="orgdb58bce"></a>
 
 # Any questions?
 
@@ -383,11 +425,11 @@ Image: cover of "I, Robot" by Isaac Asimov (1940)
 [This presentation is available online.](https://github.com/birkenkrahe/ai482/tree/main/2_what_is_ai)
 
 
-<a id="org795a489"></a>
+<a id="org3817263"></a>
 
 # References
 
-<a id="org4339862"></a> Bakopoulos, J. Yannis, "Toward a More Precise
+<a id="orgb9660a9"></a> Bakopoulos, J. Yannis, "Toward a More Precise
 Concept of Information Technology" (1985). ICIS 1985 Proceedings. 4.
 <http://aisel.aisnet.org/icis1985/4>
 

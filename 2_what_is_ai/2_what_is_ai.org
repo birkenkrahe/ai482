@@ -2,9 +2,9 @@
 #+AUTHOR: Marcus Birkenkrahe
 #+Subtitle: Seminar on Artificial Intelligence
 #+STARTUP: hideblocks
-#+options: num:nil toc:nil
 #+reveal_theme: black
 #+reveal_init_options: transition:'cube'
+#+OPTIONS: toc:nil num:nil ^:nil
 #+INFOJS_OPT: :view:info
 * What're you going to learn?
 
@@ -13,6 +13,7 @@
   * The standard model of AI
   * Bounded rationality
   * The Value alignment problem
+  * Asimov's Robot Laws
   * What's next?
 
 * What is intelligence?
@@ -62,10 +63,10 @@
 
 ** Four approaches
 
-   |               | *THOUGHT / LOGIC*    | *BEHAVIOR / ACTION* |
+   |               | THOUGHT / LOGIC      | BEHAVIOR / ACTION   |
    |---------------+----------------------+---------------------|
-   | *HUMANITY*    | /Cognitive modeling/ | /Turing Test/       |
-   | *RATIONALITY* | /Laws of Thought/    | /Rational Agents/   |
+   | HUMANITY      | Cognitive modeling   | Turing Test         |
+   | RATIONALITY   | Laws of Thought      | Rational Agents     |
 
 *** Four scenarios
 
@@ -105,13 +106,13 @@
     |  Standard model         |
     |  Control theory         |
 
-* Major issues
+** Major issues
 
-  #+attr_html: :height 200px
-  [[./img/issues.gif]]
+   #+attr_html: :height 200px
+   [[./img/issues.gif]]
 
-  * Bounded Rationality
-  * Value alignment problem
+   * Bounded Rationality
+   * Value alignment problem
 
 ** Bounded rationality
 
@@ -125,6 +126,30 @@
    too high."
    #+end_quote
 
+   #+begin_notes
+   The article by [[bakopoulos1985][Bakopoulos (1985)]] helped to move IT from an arcane
+   discipline for technologists and nerds to a mainstream service
+   industry. To do this, Bakopoulos capitalized on the notion that
+   humans are not perfectly rational, that their rationality is
+   bounded by their humanity: "Data has no value unless put in the
+   context of the appropriate models, a process taxing the human
+   capacities to communicate, memorize and process information, and
+   thus leading to /bounded rationality/, which is a central concept
+   in organizational behavior theory."
+
+   I worked through this article a while back for a lecture I was
+   preparing, and found it remarkably difficult for such an old paper,
+   with a lot of connections in different directions - technology,
+   business, information theory, and philosophy.
+
+   Bakopoulos' result that information systems have no (or only
+   little) value without being properly integrated into business, and
+   that IT is useless if it does not 'speak" to people in ways that
+   they can understand and with results that they can measure, is
+   wonderfully relevant for the future development of AI, too.
+   
+   #+end_notes
+
 ** Value alignment
 
    #+attr_html: :width 200px
@@ -137,7 +162,22 @@
    aligned with those of the human."
    #+end_quote
 
-** Group work
+   #+begin_notes
+   This kind of "alignment" sounds like an engineering task, but
+   actually it is a lot more complicated (or actually complex in a
+   technical sense): if rational agents are supposed to "do the right
+   thing", then their actions have to be not just logical, but
+   appropriate and moral. There is no algorithm for that - both
+   appropriateness (e.g. to a situation) and morality depend on the
+   circumstances. Take the example of Grace, the "ultra-lifelike
+   robotic nurse" from Hanson Robotics: she was designed for a certain
+   set of circumstances and both by, and for a particular set of moral
+   values. Will she do equally well in Japan and in Belgium, the
+   country with the "[[https://www.pbs.org/newshour/show/right-die-belgium-inside-worlds-liberal-euthanasia-laws][world's most liberal euthanasia law]]", and
+   therefore possibly a different approach to caring for the elderly?
+   #+end_notes
+
+** Pros and cons
 
    #+attr_html: :height 200px
    [[./img/groupwork.gif]]
@@ -147,21 +187,21 @@
    * List pros and cons of your approach
    * Put your results [[https://ideaboardz.com/for/AI%20approaches%20pros%20&amp;%20cons/4063343][on the Kanban board]]
 
-* [[https://en.wikipedia.org/wiki/Three_Laws_of_Robotics][Asimov's robot laws]]
+** [[https://en.wikipedia.org/wiki/Three_Laws_of_Robotics][Asimov's robot laws]]
 
-  #+attr_html: :height 400px
-  [[./img/asimov.jpg]]
+   #+attr_html: :height 400px
+   [[./img/asimov.jpg]]
 
-  Image: cover of "I, Robot" by Isaac Asimov (1940)
+   Image: cover of "I, Robot" by Isaac Asimov (1940)
 
-** Which appoach fits these laws?
+*** Which approach fits these laws best?
 
-   1) A robot may not injure a human being or, through inaction, allow
-      a human being to come to harm.
-   2) A robot must obey the orders given it by human beings except
-      where such orders would conflict with the First Law.
-   3) A robot must protect its own existence as long as such
-      protection does not conflict with the First or Second Law.
+    1) A robot may not injure a human being or, through inaction, allow
+       a human being to come to harm.
+    2) A robot must obey the orders given it by human beings except
+       where such orders would conflict with the First Law.
+    3) A robot must protect its own existence as long as such
+       protection does not conflict with the First or Second Law.
 
 * What's next?
 
@@ -169,6 +209,7 @@
   [[./img/river.gif]]
 
   * Scientific foundations of AI
+  * History of AI
 
 * Any questions?
 
