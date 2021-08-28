@@ -12,23 +12,23 @@
 
 * Friday, August 27 - Books and Games
 
-** The Salty Dog
+** At the Salty Dog
 
    After class today, I went over to the Salty Dog to treat myself to a
    much-deserved cappuccino + cinnamon bun. This combo is excellent and
    did much to improve my mood (which had already been good anyway).
 
-** The Library
+** At the Library
 
    Once the bun had been handed over to my abdomen, I headed to the
    library to drink my coffee: the armchairs near the entrance are
    fantastic[fn:1]. Since I was in a library, I put my phone away and
    picked up a magazine. Guess what I found? An really interesting
-   article on AI: "Bot Doc", on a miniature surgical robot.[[https://drive.google.com/drive/folders/1pi3qw5vlkWoChkLqOwOTXOewcGJ2hXrc?usp=sharing][I took
-   pictures]] but, of course, to have the full experience, you should go
-   to the library! This is an example for a new AI application that
-   you could feature in a presentation and/or for your own AI
-   application project.
+   article on AI: "Bot Doc", on a miniature surgical robot
+   ([[feldman21][Feldman/Pratap, 2021]]). [[https://drive.google.com/drive/folders/1pi3qw5vlkWoChkLqOwOTXOewcGJ2hXrc?usp=sharing][I took pictures]] but, of course, to have the
+   full experience, you should go to the library! This is an example
+   for a new AI application that you could feature in a presentation
+   and/or for your own AI application project[fn:3].
 
 ** AI Books
 
@@ -72,7 +72,7 @@
    #+end_quote
 
    I'll dive into these over the weekend when I prepare my upcoming
-   lectures. 
+   lectures.
 
 ** Games industry in Arkansas?
 
@@ -96,14 +96,14 @@
    documents, do a visual test, and minutes later you walk out, a
    freshly printed license and full ID in hand. It's a little like
    moving from a Kafka novel into a story where suddenly everything
-   makes a little more sense. 
+   makes a little more sense.
 
 * References
 
   <<copeland1993>> [[https://www.wiley.com/en-us/Artificial+Intelligence%3A+A+Philosophical+Introduction-p-9780631183853][Copeland J (1993). Artificial Intelligence> A
   Philosophical Introduction. Wiley-Blackwell.]]
 
-<<dreyfus72>>
+  <<dreyfus72>>
 
   <<dreyfus1992>> [[https://mitpress.mit.edu/books/what-computers-still-cant-do][Dreyfus, H L. What Computers Still Can't Do. MIT
   Press (1992).]]
@@ -111,12 +111,19 @@
   <<feigenbaum63>> Feigenbaum EA, Feldman J (eds.). Computers and
   thought. New York: McGraw-Hill (1963). [[https://archive.org/details/computersthought00feig][Online: archive.org.]]
 
+  <<feldman21>> Feldman A/Pratap A (2021). Bot Doc. In: Forbes,
+  August/September 2021:37-39.
+
   <<dreyfus2008>> [[https://youtu.be/-CHgt2Szk-I][University of California Television (1 May
   2008). Conversations with History: Hubert Dreyfus [Video]. Online:
   YouTube.]]
 
 
 * Footnotes
+
+[fn:3]The article contains a few medical terms that I did not know,
+like "bariatric surgeon" and "laparoscopy". So much for having studied
+Latin and Greek, I suppose. Where are the words when you need them?
 
 [fn:2]The 1992 book is an update of the classic "What Computers Can't
 Do" ([[dreyfus72][1972]]), which was the earliest philosophical attack on AI. Twenty years
