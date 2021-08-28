@@ -1,21 +1,22 @@
 
 # Table of Contents
 
-1.  [Bookmarks](#org373fa0f)
-    1.  [What is this about?](#org7c9cfd8)
-    2.  [Machine Learning's crumbling foundations (Lvl=0)](#org81228f3)
-    3.  [AI explainability (Lvl=1)](#org962bec1)
-    4.  [Use of AI in smart buildings (LvL=2)](#orgc0adb7e)
-    5.  [Computing Machinery and Intelligence (1947)](#org3c70e35)
-    6.  [AI Trends 2021](#orgc1de930)
+1.  [Bookmarks](#orgc4312b9)
+    1.  [What is this about?](#org34e3091)
+    2.  [Machine Learning's crumbling foundations (Lvl=0)](#orgd98b628)
+    3.  [AI explainability (Lvl=1)](#org7dfe73b)
+    4.  [Use of AI in smart buildings (LvL=2)](#orge26ca20)
+    5.  [Computing Machinery and Intelligence (1947) (Lvl=1)](#org0e4e8b9)
+    6.  [AI Trends 2021 (Lvl=1)](#org7d6088e)
+    7.  [Bot Doc (Lvl=0)](#orgc8eb4b3)
 
 
-<a id="org373fa0f"></a>
+<a id="orgc4312b9"></a>
 
 # Bookmarks
 
 
-<a id="org7c9cfd8"></a>
+<a id="org34e3091"></a>
 
 ## What is this about?
 
@@ -34,7 +35,7 @@ you find any of these interesting and want to use them for your
 research, you might ask me why I assigned a particular level.
 
 
-<a id="org81228f3"></a>
+<a id="orgd98b628"></a>
 
 ## Machine Learning's crumbling foundations (Lvl=0)
 
@@ -49,7 +50,7 @@ foundations. Doing 'data science' with bad data [Blog]. Online:
 > frameworks.«
 
 
-<a id="org962bec1"></a>
+<a id="org7dfe73b"></a>
 
 ## AI explainability (Lvl=1)
 
@@ -64,7 +65,7 @@ dimensions. In: Phil. Trans. R. Soc. A 379: 20200363.
 > confidence, in critical systems employing ML.«
 
 
-<a id="orgc0adb7e"></a>
+<a id="orge26ca20"></a>
 
 ## Use of AI in smart buildings (LvL=2)
 
@@ -86,9 +87,9 @@ Reviews 151. <https://doi.org/10.1016/j.rser.2021.111530>
 > artificial intelligence techniques.«
 
 
-<a id="org3c70e35"></a>
+<a id="org0e4e8b9"></a>
 
-## Computing Machinery and Intelligence (1947)
+## Computing Machinery and Intelligence (1947) (Lvl=1)
 
 [Turing AM (1950). Computing Machinery and Intelligence. Mind 49:
 433-460.](https://www.csee.umbc.edu/courses/471/papers/turing.pdf)
@@ -102,9 +103,9 @@ Reviews 151. <https://doi.org/10.1016/j.rser.2021.111530>
 > statistical survey such as a Gallup poll. But this is absurd.«
 
 
-<a id="orgc1de930"></a>
+<a id="org7d6088e"></a>
 
-## AI Trends 2021
+## AI Trends 2021 (Lvl=1)
 
 Stanford University, Institute for Human-centered Artificial
 Intelligence (2021). AI Index Report. [Online: aiindex.stanford.edu.](https://aiindex.stanford.edu/report/)
@@ -119,4 +120,19 @@ Intelligence (2021). AI Index Report. [Online: aiindex.stanford.edu.](https://ai
 > people participating in AI research conferences, as the pandemic
 > forced conferences to shift to virtual formats, which in turn led to
 > significant spikes in attendance."
+
+
+<a id="orgc8eb4b3"></a>
+
+## Bot Doc (Lvl=0)
+
+Feldman A/Pratap A (2021). Bot Doc. In: Forbes, August/September
+2021:37-39.
+
+> "Two zoung MIT grads and a bariatric surgeon are gambling on a new
+> miniature surgical robot to make abdominal surgery faster, safer
+> and cheaper - and beat the industry's goliath."
+
+*I read this in the library and thought it was very interesting, with lots of potential for clarification. The article is very short and focuses mainly on the commercial and market issues. In some
+ways, this is a typical startup story.*
 

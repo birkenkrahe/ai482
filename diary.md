@@ -1,13 +1,13 @@
 
 # Table of Contents
 
-1.  [What is this?](#orgd1c4717)
-2.  [Friday, August 27 - Books and Games](#orge704a4b)
-3.  [References](#orgbe7456d)
+1.  [What is this?](#org600ee11)
+2.  [Friday, August 27 - Books and Games](#orgaeb245d)
+3.  [References](#org883aea7)
 
 
 
-<a id="orgd1c4717"></a>
+<a id="org600ee11"></a>
 
 # What is this?
 
@@ -17,29 +17,29 @@ Intelligence", mostly to avoid lengthy emails and to park content
 that I may want to develop later on, if I find the time.
 
 
-<a id="orge704a4b"></a>
+<a id="orgaeb245d"></a>
 
 # Friday, August 27 - Books and Games
 
 
-## The Salty Dog
+## At the Salty Dog
 
 After class today, I went over to the Salty Dog to treat myself to a
 much-deserved cappuccino + cinnamon bun. This combo is excellent and
 did much to improve my mood (which had already been good anyway).
 
 
-## The Library
+## At the Library
 
 Once the bun had been handed over to my abdomen, I headed to the
 library to drink my coffee: the armchairs near the entrance are
 fantastic<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>. Since I was in a library, I put my phone away and
 picked up a magazine. Guess what I found? An really interesting
-article on AI: "Bot Doc", on a miniature surgical robot.[I took
-pictures](https://drive.google.com/drive/folders/1pi3qw5vlkWoChkLqOwOTXOewcGJ2hXrc?usp=sharing) but, of course, to have the full experience, you should go
-to the library! This is an example for a new AI application that
-you could feature in a presentation and/or for your own AI
-application project.
+article on AI: "Bot Doc", on a miniature surgical robot
+([Feldman/Pratap, 2021](#org4398171)). [I took pictures](https://drive.google.com/drive/folders/1pi3qw5vlkWoChkLqOwOTXOewcGJ2hXrc?usp=sharing) but, of course, to have the
+full experience, you should go to the library! This is an example
+for a new AI application that you could feature in a presentation
+and/or for your own AI application project<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>.
 
 
 ## AI Books
@@ -48,15 +48,15 @@ You should do that in any case: they have a great collection of
 books on AI. I really don't know why! The books are mostly dated,
 but that does not matter so much. I borrowed two, which are
 relevant to the next few weeks - "AI - A Philosophical
-Introduction" ([Copeland, 1993](#org749e962)), by a professor of logic (now you
+Introduction" ([Copeland, 1993](#org92e8119)), by a professor of logic (now you
 know in which quadrant of the graph we are, right?), and "Computers
-and Thought" ([Feigenbaum/Feldman eds., 1963](#org34da789)).
+and Thought" ([Feigenbaum/Feldman eds., 1963](#orgfd8b651)).
 
 I had only been aware of one book on the philosophy of AI, by
-H.L. Dreyfus, "What Computers Still Can't Do" ([1992](#orgaa260be)), a pessimistic
+H.L. Dreyfus, "What Computers Still Can't Do" ([1992](#org1e4bfe4)), a pessimistic
 account of the progress of AI since its beginnings. Here is a
 conversation with Dreyfus on "why machines cannot become human."
-([UCTV, 2008](#orgd809449))<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>.
+([UCTV, 2008](#org98aec66))<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>.
 
 "Computers and Thought" is a scientific monograph with articles by
 some of the greats of the field - Turing (the article I already
@@ -82,7 +82,7 @@ of our graph):
 > and concept formation are also included." ([aaai.org](https://www.aaai.org/Press/Books/feigenbaum.php))
 
 I'll dive into these over the weekend when I prepare my upcoming
-lectures. 
+lectures.
 
 
 ## Games industry in Arkansas?
@@ -108,25 +108,28 @@ it to you via surface mail. In Batesville, you present your
 documents, do a visual test, and minutes later you walk out, a
 freshly printed license and full ID in hand. It's a little like
 moving from a Kafka novel into a story where suddenly everything
-makes a little more sense. 
+makes a little more sense.
 
 
-<a id="orgbe7456d"></a>
+<a id="org883aea7"></a>
 
 # References
 
-<a id="org749e962"></a> [Copeland J (1993). Artificial Intelligence> A
+<a id="org92e8119"></a> [Copeland J (1993). Artificial Intelligence> A
 Philosophical Introduction. Wiley-Blackwell.](https://www.wiley.com/en-us/Artificial+Intelligence%3A+A+Philosophical+Introduction-p-9780631183853)
 
-<a id="org2391468"></a>
+<a id="org13d751d"></a>
 
-<a id="orgaa260be"></a> [Dreyfus, H L. What Computers Still Can't Do. MIT
+<a id="org1e4bfe4"></a> [Dreyfus, H L. What Computers Still Can't Do. MIT
 Press (1992).](https://mitpress.mit.edu/books/what-computers-still-cant-do)
 
-<a id="org34da789"></a> Feigenbaum EA, Feldman J (eds.). Computers and
+<a id="orgfd8b651"></a> Feigenbaum EA, Feldman J (eds.). Computers and
 thought. New York: McGraw-Hill (1963). [Online: archive.org.](https://archive.org/details/computersthought00feig)
 
-<a id="orgd809449"></a> [University of California Television (1 May
+<a id="org4398171"></a> Feldman A/Pratap A (2021). Bot Doc. In: Forbes,
+August/September 2021:37-39.
+
+<a id="org98aec66"></a> [University of California Television (1 May
 2008). Conversations with History: Hubert Dreyfus [Video]. Online:
 YouTube.](https://youtu.be/-CHgt2Szk-I)
 
@@ -143,8 +146,12 @@ walked around in Paris for hours and hours, I was tired like a dog,
 fell asleep on one of those couches, and awoke only on the next
 morning: evidently, they had found me and let me sleep there.
 
-<sup><a id="fn.2" href="#fnr.2">2</a></sup> The 1992 book is an update of the classic "What Computers Can't
-Do" ([1972](#org2391468)), which was the earliest philosophical attack on AI. Twenty years
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> The article contains a few medical terms that I did not know,
+like "bariatric surgeon" and "laparoscopy". So much for having studied
+Latin and Greek, I suppose. Where are the words when you need them?
+
+<sup><a id="fn.3" href="#fnr.3">3</a></sup> The 1992 book is an update of the classic "What Computers Can't
+Do" ([1972](#org13d751d)), which was the earliest philosophical attack on AI. Twenty years
 later, the author remained unrelenting in his critique of AI. Dreyfus
 and I share a love for the religious philosopher Soren Kierkegaard,
 and an awe of the German phenomenologist Heidegger. Dreyfus' YouTube
