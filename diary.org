@@ -1,0 +1,123 @@
+#+TITLE:DSC101 Diary
+#+AUTHOR: Marcus Birkenkrahe
+#+SUBTITLE: DSC101 Diary
+#+STARTUP: hideblocks
+#+options: ^:nil toc:1
+* What is this?
+
+  A place for irregular articles of possible interest to students of
+  the DSC 482.01 course, a special seminar on "Artificial
+  Intelligence", mostly to avoid lengthy emails and to park content
+  that I may want to develop later on, if I find the time.
+
+* Friday, August 27 - Books and Games
+
+** The Salty Dog
+
+   After class today, I went over to the Salty Dog to treat myself to a
+   much-deserved cappuccino + cinnamon bun. This combo is excellent and
+   did much to improve my mood (which had already been good anyway).
+
+** The Library
+
+   Once the bun had been handed over to my abdomen, I headed to the
+   library to drink my coffee: the armchairs near the entrance are
+   fantastic[fn:1]. Since I was in a library, I put my phone away and
+   picked up a magazine. Guess what I found? An really interesting
+   article on AI: "Bot Doc", on a miniature surgical robot.[[https://drive.google.com/drive/folders/1pi3qw5vlkWoChkLqOwOTXOewcGJ2hXrc?usp=sharing][I took
+   pictures]] but, of course, to have the full experience, you should go
+   to the library! This is an example for a new AI application that
+   you could feature in a presentation and/or for your own AI
+   application project.
+
+** AI Books
+
+   You should do that in any case: they have a great collection of
+   books on AI. I really don't know why! The books are mostly dated,
+   but that does not matter so much. I borrowed two, which are
+   relevant to the next few weeks - "AI - A Philosophical
+   Introduction" ([[copeland1993][Copeland, 1993]]), by a professor of logic (now you
+   know in which quadrant of the graph we are, right?), and "Computers
+   and Thought" ([[feigenbaum63][Feigenbaum/Feldman eds., 1963]]).
+
+   I had only been aware of one book on the philosophy of AI, by
+   H.L. Dreyfus, "What Computers Can't Do" (1972), a pessimistic
+   account of the progress of AI since its beginnings. Here is a 1
+   hour conversation with Dreyfus on "why machines cannot become
+   human." ([[dreyfus2008][UCTV, 2008]])[fn:2].
+
+   "Computers and Thought" is a scientific monograph with articles by
+   some of the greats of the field - Turing (the article I already
+   recommended to you, from 1947), Simon, Newell (both creators of the
+   "General Problem-solver", another AI attempt in the logic quadrant
+   of our graph):
+
+   #+begin_quote
+   "Computers and Thought showcases the work of the scientists who not
+   only defined the field of artificial intelligence, but who are
+   responsible for having developed it into what it is
+   today. Originally published in 1963, this collection includes
+   twenty classic papers by such pioneers as A. M. Turing and Marvin
+   Minsky who were behind the pivotal advances in artificially
+   simulating human thought processes with computers. Among the now
+   hard-to-find articles are reports of computer programs that play
+   chess and checkers, prove theorems in logic and geometry, solve
+   problems in calculus, balance assembly lines, recognize visual
+   temporal patterns, and communicate in natural language. The reports
+   of simulation of cognitive processes include computer models of
+   human behavior in logic problems, deciding on common stock
+   portfolios, and carrying out social interaction. Models of verbal
+   learning behavior, predictive behavior in two-choice experiments,
+   and concept formation are also included." ([[https://www.aaai.org/Press/Books/feigenbaum.php][aaai.org]])
+   #+end_quote
+
+   I'll dive into these over the weekend when I prepare my upcoming
+   lectures. 
+
+** Games industry in Arkansas?
+
+   I had a nice conversation with an internship student, who turned
+   out to like similar video games like I - the Dark Souls series, and
+   other titles. From what she told me, there may be quite a pool of
+   students at Lyon interested in video games. I'm inspired to think
+   about ways in which one could use this talent for a gaming industry
+   startup. This could be fun, and it could potentially be great for
+   Lyon and for Batesville. There already is a thriving esports
+   program at the college, and this might fit right in. Also: I need
+   to get my hands on a PS5!
+
+** Community
+
+   On a losely related note: I got my Arkansas drivers license today!
+   Beginning to feel like a full member of this community. 
+
+* References
+
+  <<copeland1993>> [[https://www.wiley.com/en-us/Artificial+Intelligence%3A+A+Philosophical+Introduction-p-9780631183853][Copeland J (1993). Artificial Intelligence> A
+  Philosophical Introduction. Wiley-Blackwell.]]
+
+  <<dreyfus1972>> Dreyfus, H L (1972). What Computers Can't Do.
+
+  <<feigenbaum63>>
+
+  <<dreyfus2008>> [[https://youtu.be/-CHgt2Szk-I][University of California Television (1 May
+  2008). Conversations with History: Hubert Dreyfus [Video]. Online:
+  YouTube.]]
+
+
+* Footnotes
+
+[fn:2]Dreyfus and I share a love for the religious philosopher Soren
+Kierkegaard, and an awe of the German phenomenologist
+Heidegger. Dreyfus' YouTube lectures on these guys are pretty
+fascinating.
+
+[fn:1]In fact, a student had fallen asleep on a couch. He was cradling
+his laptop. After a few minutes, he got up with the words: "I fell
+asleep. What a bad idea." It reminded me of a visit in Paris when I
+was 19 or so: there's a famous bookshop, Shakespeare's & Co, across
+from the church Notre Dame. I used to go there late at night. The
+upper stories had velvet-covered chaise longues. Once, after having
+walked around in Paris for hours and hours, I was tired like a dog,
+fell asleep on one of those couches, and awoke only on the next
+morning: evidently, they had found me and let me sleep there.

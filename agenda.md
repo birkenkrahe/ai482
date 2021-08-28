@@ -1,12 +1,12 @@
 
 # Table of Contents
 
--   [Week 2 - 25 August](#org7f35dc5)
--   [Week 2 - 27 August](#org8ec9025)
+-   [Week 2 - 25 August](#org9cec498)
+-   [Week 2 - 27 August](#org64b61d0)
 
 
 
-<a id="org7f35dc5"></a>
+<a id="org9cec498"></a>
 
 # Week 2 - 25 August
 
@@ -27,18 +27,17 @@
     -   Agendas will be posted
 
 
-<a id="org8ec9025"></a>
+<a id="org64b61d0"></a>
 
 # Week 2 - 27 August
 
 ![img](./img/grace.png)
 
 -   Housekeeping
--   Approaches: pros and cons
--   Major issues: benefits
--   Robot laws
+-   Ration agents
+-   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org4182b59))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org293afad))*
 
 
 ## Housekeeping
@@ -55,7 +54,7 @@
 ### [Curated] AI blogs
 
 -   [Top 10 blogs and sites (2021)](https://blog.feedspot.com/ai_blogs/)
--   [10 Best Artificial Intelligence Blogs To Follow (2017)](https://blog.education-ecosystem.com/10-artificial-intelligence-blogs/)
+-   [10 Best AI Blogs To Follow (2017)](https://blog.education-ecosystem.com/10-artificial-intelligence-blogs/)
 -   [Google AI Blog](https://ai.googleblog.com/)
 -   [Microsoft AI Blog](https://blogs.microsoft.com/ai/)
 -   [Amazon AI Blog](https://aws.amazon.com/blogs/machine-learning/)
@@ -63,6 +62,6 @@
 
 ## References
 
-<a id="org4182b59"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="org293afad"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
