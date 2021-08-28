@@ -1,10 +1,23 @@
 
 # Table of Contents
 
-1.  [Friday, August 27 - Books and Games](#org803ba03)
+1.  [What is this?](#org38aabc0)
+2.  [Friday, August 27 - Books and Games](#org02b685d)
+3.  [References](#org5a79be1)
 
 
-<a id="org803ba03"></a>
+
+<a id="org38aabc0"></a>
+
+# What is this?
+
+A place for irregular articles of possible interest to students of
+the DSC 482.01 course, a special seminar on "Artificial
+Intelligence", mostly to avoid lengthy emails and to park content
+that I may want to develop later on, if I find the time.
+
+
+<a id="org02b685d"></a>
 
 # Friday, August 27 - Books and Games
 
@@ -29,6 +42,88 @@ you could feature in a presentation and/or for your own AI
 application project.
 
 
+## AI Books
+
+You should do that in any case: they have a great collection of
+books on AI. I really don't know why! The books are mostly dated,
+but that does not matter so much. I borrowed two, which are
+relevant to the next few weeks - "AI - A Philosophical
+Introduction" ([Copeland, 1993](#orgea5a55a)), by a professor of logic (now you
+know in which quadrant of the graph we are, right?), and "Computers
+and Thought" ([Feigenbaum/Feldman eds., 1963](#org2c3cb50)).
+
+I had only been aware of one book on the philosophy of AI, by
+H.L. Dreyfus, "What Computers Still Can't Do" ([1992](#org5b5f37d)), a pessimistic
+account of the progress of AI since its beginnings. Here is a
+conversation with Dreyfus on "why machines cannot become human."
+([UCTV, 2008](#org8cdf42e))<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>.
+
+"Computers and Thought" is a scientific monograph with articles by
+some of the greats of the field - Turing (the article I already
+recommended to you, from 1947), Simon, Newell (both creators of the
+"General Problem-solver", another AI attempt in the logic quadrant
+of our graph):
+
+> "Computers and Thought showcases the work of the scientists who not
+> only defined the field of artificial intelligence, but who are
+> responsible for having developed it into what it is
+> today. Originally published in 1963, this collection includes
+> twenty classic papers by such pioneers as A. M. Turing and Marvin
+> Minsky who were behind the pivotal advances in artificially
+> simulating human thought processes with computers. Among the now
+> hard-to-find articles are reports of computer programs that play
+> chess and checkers, prove theorems in logic and geometry, solve
+> problems in calculus, balance assembly lines, recognize visual
+> temporal patterns, and communicate in natural language. The reports
+> of simulation of cognitive processes include computer models of
+> human behavior in logic problems, deciding on common stock
+> portfolios, and carrying out social interaction. Models of verbal
+> learning behavior, predictive behavior in two-choice experiments,
+> and concept formation are also included." ([aaai.org](https://www.aaai.org/Press/Books/feigenbaum.php))
+
+I'll dive into these over the weekend when I prepare my upcoming
+lectures. 
+
+
+## Games industry in Arkansas?
+
+I had a nice conversation with an internship student, who turned
+out to like similar video games like I - the Dark Souls series, and
+other titles. From what she told me, there may be quite a pool of
+students at Lyon interested in video games. I'm inspired to think
+about ways in which one could use this talent for a gaming industry
+startup. This could be fun, and it could potentially be great for
+Lyon and for Batesville. There already is a thriving esports
+program at the college, and this might fit right in. Also: I need
+to get my hands on a PS5!
+
+
+## Community
+
+On a losely related note: I got my Arkansas drivers license today!
+Beginning to feel like a full member of this community. 
+
+
+<a id="org5a79be1"></a>
+
+# References
+
+<a id="orgea5a55a"></a> [Copeland J (1993). Artificial Intelligence> A
+Philosophical Introduction. Wiley-Blackwell.](https://www.wiley.com/en-us/Artificial+Intelligence%3A+A+Philosophical+Introduction-p-9780631183853)
+
+<a id="org333bb1b"></a>
+
+<a id="org5b5f37d"></a> [Dreyfus, H L. What Computers Still Can't Do. MIT
+Press (1992).](https://mitpress.mit.edu/books/what-computers-still-cant-do)
+
+<a id="org2c3cb50"></a> Feigenbaum EA, Feldman J (eds.). Computers and
+thought. New York: McGraw-Hill (1963). [Online: archive.org.](https://archive.org/details/computersthought00feig)
+
+<a id="org8cdf42e"></a> [University of California Television (1 May
+2008). Conversations with History: Hubert Dreyfus [Video]. Online:
+YouTube.](https://youtu.be/-CHgt2Szk-I)
+
+
 # Footnotes
 
 <sup><a id="fn.1" href="#fnr.1">1</a></sup> In fact, a student had fallen asleep on a couch. He was cradling
@@ -40,3 +135,10 @@ upper stories had velvet-covered chaise longues. Once, after having
 walked around in Paris for hours and hours, I was tired like a dog,
 fell asleep on one of those couches, and awoke only on the next
 morning: evidently, they had found me and let me sleep there.
+
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> The 1992 book is an update of the classic "What Computers Can't
+Do" ([1972](#org333bb1b)), which was the earliest philosophical attack on AI. Twenty years
+later, the author remained unrelenting in his critique of AI. Dreyfus
+and I share a love for the religious philosopher Soren Kierkegaard,
+and an awe of the German phenomenologist Heidegger. Dreyfus' YouTube
+lectures on these guys are pretty fascinating.
