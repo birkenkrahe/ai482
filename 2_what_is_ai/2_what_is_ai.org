@@ -175,6 +175,14 @@
    values. Will she do equally well in Japan and in Belgium, the
    country with the "[[https://www.pbs.org/newshour/show/right-die-belgium-inside-worlds-liberal-euthanasia-laws][world's most liberal euthanasia law]]", and
    therefore possibly a different approach to caring for the elderly?
+
+   The example of an 'unethical rational agent' chosen by AIMA, which
+   relates to the "Mechanical Turk", a chess machine that was operated
+   by a human hidden inside the machine, is admittedly a lot less
+   critical than when taking care of the sick and elderly is at
+   stake. However, the age of AI that dazzled us by beating chess
+   champions is long behind us, and the age of robots like Grace is
+   upon us!
    #+end_notes
 
 ** Pros and cons

@@ -1,32 +1,32 @@
 
 # Table of Contents
 
--   [What're you going to learn?](#orgb8675dd)
--   [What is intelligence?](#org2f6b0ff)
-    -   [Search patterns](#org3d07957)
-    -   [Group work](#org5418322)
--   [Different approaches to AI](#org5bba785)
-    -   [Fields of systematic inquiry](#orga19458f)
-    -   [Fundamental questions](#org44fa873)
-    -   [Four approaches](#org3169f16)
-        -   [Four scenarios](#org581578a)
-        -   [Acting humanly ("Turing test" approach)](#org10ce736)
-        -   [Thinking humanly ("cognitive modeling" approach)](#orgde158ea)
-        -   [Thinking rationally ("laws of thought" approach)](#orgc98e77b)
-        -   [Acting rationally ("rational agent" approach)](#orgc3b16ff)
-    -   [Major issues](#orge297bcb)
-    -   [Bounded rationality](#org2927f2e)
-    -   [Value alignment](#orge0e1377)
-    -   [Pros and cons](#org7703bfe)
-    -   [Asimov's robot laws](#orgd6842d8)
-        -   [Which approach fits these laws best?](#org1050221)
--   [What's next?](#org3e9cd42)
--   [Any questions?](#orgdb58bce)
--   [References](#org3817263)
+-   [What're you going to learn?](#org25939da)
+-   [What is intelligence?](#org4ed8b13)
+    -   [Search patterns](#org14acddf)
+    -   [Group work](#org7cce8d3)
+-   [Different approaches to AI](#orgefcd26b)
+    -   [Fields of systematic inquiry](#org7403188)
+    -   [Fundamental questions](#org91ca191)
+    -   [Four approaches](#orga5ecd67)
+        -   [Four scenarios](#org5d3ae15)
+        -   [Acting humanly ("Turing test" approach)](#org2a44a1f)
+        -   [Thinking humanly ("cognitive modeling" approach)](#org3f2c110)
+        -   [Thinking rationally ("laws of thought" approach)](#orgd94e04f)
+        -   [Acting rationally ("rational agent" approach)](#org6c6ad54)
+    -   [Major issues](#orgd2566f1)
+    -   [Bounded rationality](#org2060f26)
+    -   [Value alignment](#org0c8c969)
+    -   [Pros and cons](#orga4ff1bf)
+    -   [Asimov's robot laws](#org664f955)
+        -   [Which approach fits these laws best?](#org6111bec)
+-   [What's next?](#org1e37919)
+-   [Any questions?](#org369e96e)
+-   [References](#org6cbee69)
 
 
 
-<a id="orgb8675dd"></a>
+<a id="org25939da"></a>
 
 # What're you going to learn?
 
@@ -39,21 +39,21 @@
 -   What's next?
 
 
-<a id="org2f6b0ff"></a>
+<a id="org4ed8b13"></a>
 
 # What is intelligence?
 
 ![img](./img/intelligence.gif)
 
 
-<a id="org3d07957"></a>
+<a id="org14acddf"></a>
 
 ## Search patterns
 
 ![img](./img/googletrends.png)
 
 
-<a id="org5418322"></a>
+<a id="org7cce8d3"></a>
 
 ## Group work
 
@@ -65,7 +65,7 @@
 -   Briefly present your results (10')
 
 
-<a id="org5bba785"></a>
+<a id="orgefcd26b"></a>
 
 # Different approaches to AI
 
@@ -74,7 +74,7 @@
 Which fields of inquiry (= disciplines) to use?
 
 
-<a id="orga19458f"></a>
+<a id="org7403188"></a>
 
 ## Fields of systematic inquiry
 
@@ -86,7 +86,7 @@ Which fields of inquiry (= disciplines) to use?
 -   History
 
 
-<a id="org44fa873"></a>
+<a id="org91ca191"></a>
 
 ## Fundamental questions
 
@@ -96,7 +96,7 @@ Which fields of inquiry (= disciplines) to use?
 -   Should we focus on machines?
 
 
-<a id="org3169f16"></a>
+<a id="orga5ecd67"></a>
 
 ## Four approaches
 
@@ -135,14 +135,14 @@ Which fields of inquiry (= disciplines) to use?
 </table>
 
 
-<a id="org581578a"></a>
+<a id="org5d3ae15"></a>
 
 ### Four scenarios
 
 ![img](./img/approaches1.png)
 
 
-<a id="org10ce736"></a>
+<a id="org2a44a1f"></a>
 
 ### Acting humanly ("Turing test" approach)
 
@@ -185,7 +185,7 @@ Which fields of inquiry (= disciplines) to use?
 </table>
 
 
-<a id="orgde158ea"></a>
+<a id="org3f2c110"></a>
 
 ### Thinking humanly ("cognitive modeling" approach)
 
@@ -223,7 +223,7 @@ Which fields of inquiry (= disciplines) to use?
 </table>
 
 
-<a id="orgc98e77b"></a>
+<a id="orgd94e04f"></a>
 
 ### Thinking rationally ("laws of thought" approach)
 
@@ -261,7 +261,7 @@ Which fields of inquiry (= disciplines) to use?
 </table>
 
 
-<a id="orgc3b16ff"></a>
+<a id="org6c6ad54"></a>
 
 ### Acting rationally ("rational agent" approach)
 
@@ -299,7 +299,7 @@ Which fields of inquiry (= disciplines) to use?
 </table>
 
 
-<a id="orge297bcb"></a>
+<a id="orgd2566f1"></a>
 
 ## Major issues
 
@@ -309,19 +309,19 @@ Which fields of inquiry (= disciplines) to use?
 -   Value alignment problem
 
 
-<a id="org2927f2e"></a>
+<a id="org2060f26"></a>
 
 ## Bounded rationality
 
 ![img](./img/bakopoulos.png)
 
-Image: [Bakopoulos, 1985](#orgb9660a9)
+Image: [Bakopoulos, 1985](#org26c5438)
 
 > AIMA: "For perfect rationality, the computational demands are just
 > too high."
 
 <div class="notes">
-The article by [Bakopoulos (1985)](#orgb9660a9) helped to move IT from an arcane
+The article by [Bakopoulos (1985)](#org26c5438) helped to move IT from an arcane
 discipline for technologists and nerds to a mainstream service
 industry. To do this, Bakopoulos capitalized on the notion that
 humans are not perfectly rational, that their rationality is
@@ -345,7 +345,7 @@ wonderfully relevant for the future development of AI, too.
 </div>
 
 
-<a id="orge0e1377"></a>
+<a id="org0c8c969"></a>
 
 ## Value alignment
 
@@ -370,10 +370,18 @@ values. Will she do equally well in Japan and in Belgium, the
 country with the "[world's most liberal euthanasia law](https://www.pbs.org/newshour/show/right-die-belgium-inside-worlds-liberal-euthanasia-laws)", and
 therefore possibly a different approach to caring for the elderly?
 
+The example of an 'unethical rational agent' chosen by AIMA, which
+relates to the "Mechanical Turk", a chess machine that was operated
+by a human hidden inside the machine, is admittedly a lot less
+critical than when taking care of the sick and elderly is at
+stake. However, the age of AI that dazzled us by beating chess
+champions is long behind us, and the age of robots like Grace is
+upon us!
+
 </div>
 
 
-<a id="org7703bfe"></a>
+<a id="orga4ff1bf"></a>
 
 ## Pros and cons
 
@@ -385,7 +393,7 @@ therefore possibly a different approach to caring for the elderly?
 -   Put your results [on the Kanban board](https://ideaboardz.com/for/AI%20approaches%20pros%20&amp;%20cons/4063343)
 
 
-<a id="orgd6842d8"></a>
+<a id="org664f955"></a>
 
 ## [Asimov's robot laws](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
 
@@ -394,7 +402,7 @@ therefore possibly a different approach to caring for the elderly?
 Image: cover of "I, Robot" by Isaac Asimov (1940)
 
 
-<a id="org1050221"></a>
+<a id="org6111bec"></a>
 
 ### Which approach fits these laws best?
 
@@ -406,7 +414,7 @@ Image: cover of "I, Robot" by Isaac Asimov (1940)
     protection does not conflict with the First or Second Law.
 
 
-<a id="org3e9cd42"></a>
+<a id="org1e37919"></a>
 
 # What's next?
 
@@ -416,7 +424,7 @@ Image: cover of "I, Robot" by Isaac Asimov (1940)
 -   History of AI
 
 
-<a id="orgdb58bce"></a>
+<a id="org369e96e"></a>
 
 # Any questions?
 
@@ -425,11 +433,11 @@ Image: cover of "I, Robot" by Isaac Asimov (1940)
 [This presentation is available online.](https://github.com/birkenkrahe/ai482/tree/main/2_what_is_ai)
 
 
-<a id="org3817263"></a>
+<a id="org6cbee69"></a>
 
 # References
 
-<a id="orgb9660a9"></a> Bakopoulos, J. Yannis, "Toward a More Precise
+<a id="org26c5438"></a> Bakopoulos, J. Yannis, "Toward a More Precise
 Concept of Information Technology" (1985). ICIS 1985 Proceedings. 4.
 <http://aisel.aisnet.org/icis1985/4>
 
