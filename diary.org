@@ -10,7 +10,7 @@
   Intelligence", mostly to avoid lengthy emails and to park content
   that I may want to develop later on, if I find the time.
 
-* Friday, August 27 - Books and Games
+* Friday, August 27 - Buns, Books, Games and the Arkansas Experience
 
 ** At the Salty Dog
 
@@ -48,13 +48,14 @@
 
    #+begin_quote
    "At a time when researchers were proposing grand plans for general
-   problem solvers and automatic translation machines, Dreyfus predicted
-   that they would fail because their conception of mental functioning
-   was naive, and he suggested that they would do well to acquaint
-   themselves with modern philosophical approaches to human beings. What
-   Computers Can't Do was widely attacked but quietly studied. Dreyfus's
-   arguments are still provocative and focus our attention once again on
-   what it is that makes human beings unique." ([[https://mitpress.mit.edu/books/what-computers-still-cant-do][mitpress.edu]])
+   problem solvers and automatic translation machines, Dreyfus
+   predicted that they would fail because their conception of mental
+   functioning was naive, and he suggested that they would do well to
+   acquaint themselves with modern philosophical approaches to human
+   beings. What Computers Can't Do was widely attacked but quietly
+   studied. Dreyfus's arguments are still provocative and focus our
+   attention once again on what it is that makes human beings unique."
+   ([[https://mitpress.mit.edu/books/what-computers-still-cant-do][mitpress.edu]])
    #+end_quote
 
    "Computers and Thought" is a scientific monograph with articles by

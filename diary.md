@@ -1,13 +1,13 @@
 
 # Table of Contents
 
-1.  [What is this?](#orgc3e9f91)
-2.  [Friday, August 27 - Books and Games](#org191dc67)
-3.  [References](#orgbac1baa)
+1.  [What is this?](#orgdf90473)
+2.  [Friday, August 27 - Buns, Books, Games and the Arkansas Experience](#org69726bf)
+3.  [References](#org244e530)
 
 
 
-<a id="orgc3e9f91"></a>
+<a id="orgdf90473"></a>
 
 # What is this?
 
@@ -17,9 +17,9 @@ Intelligence", mostly to avoid lengthy emails and to park content
 that I may want to develop later on, if I find the time.
 
 
-<a id="org191dc67"></a>
+<a id="org69726bf"></a>
 
-# Friday, August 27 - Books and Games
+# Friday, August 27 - Buns, Books, Games and the Arkansas Experience
 
 
 ## At the Salty Dog
@@ -36,7 +36,7 @@ library to drink my coffee: the armchairs near the entrance are
 fantastic<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>. Since I was in a library, I put my phone away and
 picked up a magazine. Guess what I found? An really interesting
 article on AI: "Bot Doc", on a miniature surgical robot
-([Feldman/Pratap, 2021](#orgb6fa39b)). [I took pictures](https://drive.google.com/drive/folders/1pi3qw5vlkWoChkLqOwOTXOewcGJ2hXrc?usp=sharing) but, of course, to have the
+([Feldman/Pratap, 2021](#org8d70cec)). [I took pictures](https://drive.google.com/drive/folders/1pi3qw5vlkWoChkLqOwOTXOewcGJ2hXrc?usp=sharing) but, of course, to have the
 full experience, you should go to the library! This is an example
 for a new AI application that you could feature in a presentation
 and/or for your own AI application project<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>.
@@ -48,15 +48,15 @@ You should do that in any case: they have a great collection of
 books on AI. I really don't know why! The books are mostly dated,
 but that does not matter so much. I borrowed two, which are
 relevant to the next few weeks - "AI - A Philosophical
-Introduction" ([Copeland, 1993](#org7794099)), by a professor of logic (now you
+Introduction" ([Copeland, 1993](#org0c2074f)), by a professor of logic (now you
 know in which quadrant of the graph we are, right?), and "Computers
-and Thought" ([Feigenbaum/Feldman eds., 1963](#org5dbd515)).
+and Thought" ([Feigenbaum/Feldman eds., 1963](#org6f58436)).
 
 I had only been aware of one book on the philosophy of AI, by
-H.L. Dreyfus, "What Computers Still Can't Do" ([1992](#orgb9cf747)), a pessimistic
+H.L. Dreyfus, "What Computers Still Can't Do" ([1992](#org13811f1)), a pessimistic
 account of the progress of AI since its beginnings. Here is a
 conversation with Dreyfus on "why machines cannot become human."
-([UCTV, 2008](#org9e03e1b))<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>:
+([UCTV, 2008](#org33f6c26))<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>:
 
 > "At a time when researchers were proposing grand plans for general
 > problem solvers and automatic translation machines, Dreyfus
@@ -121,25 +121,25 @@ moving from a Kafka novel into a story where suddenly everything
 makes a little more sense.
 
 
-<a id="orgbac1baa"></a>
+<a id="org244e530"></a>
 
 # References
 
-<a id="org7794099"></a> [Copeland J (1993). Artificial Intelligence> A
+<a id="org0c2074f"></a> [Copeland J (1993). Artificial Intelligence> A
 Philosophical Introduction. Wiley-Blackwell.](https://www.wiley.com/en-us/Artificial+Intelligence%3A+A+Philosophical+Introduction-p-9780631183853)
 
-<a id="orgea5f4e5"></a>
+<a id="org6fd7f54"></a>
 
-<a id="orgb9cf747"></a> [Dreyfus, H L. What Computers Still Can't Do. MIT
+<a id="org13811f1"></a> [Dreyfus, H L. What Computers Still Can't Do. MIT
 Press (1992).](https://mitpress.mit.edu/books/what-computers-still-cant-do)
 
-<a id="org5dbd515"></a> Feigenbaum EA, Feldman J (eds.). Computers and
+<a id="org6f58436"></a> Feigenbaum EA, Feldman J (eds.). Computers and
 thought. New York: McGraw-Hill (1963). [Online: archive.org.](https://archive.org/details/computersthought00feig)
 
-<a id="orgb6fa39b"></a> Feldman A/Pratap A (2021). Bot Doc. In: Forbes,
+<a id="org8d70cec"></a> Feldman A/Pratap A (2021). Bot Doc. In: Forbes,
 August/September 2021:37-39.
 
-<a id="org9e03e1b"></a> [University of California Television (1 May
+<a id="org33f6c26"></a> [University of California Television (1 May
 2008). Conversations with History: Hubert Dreyfus [Video]. Online:
 YouTube.](https://youtu.be/-CHgt2Szk-I)
 
@@ -161,7 +161,7 @@ like "bariatric surgeon" and "laparoscopy". So much for having studied
 Latin and Greek, I suppose. Where are the words when you need them?
 
 <sup><a id="fn.3" href="#fnr.3">3</a></sup> The 1992 book is an update of the classic "What Computers Can't
-Do" ([1972](#orgea5f4e5)), which was the earliest philosophical attack on AI. Twenty years
+Do" ([1972](#org6fd7f54)), which was the earliest philosophical attack on AI. Twenty years
 later, the author remained unrelenting in his critique of AI. Dreyfus
 and I share a love for the religious philosopher Soren Kierkegaard,
 and an awe of the German phenomenologist Heidegger. Dreyfus' YouTube
