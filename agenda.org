@@ -30,9 +30,8 @@
   [[./img/grace.png]]
 
   * Housekeeping
-  * Approaches: pros and cons
-  * Major issues: benefits
-  * Robot laws
+  * Ration agents
+  * Major issues
 
    /Image: "Grace, the ultra-lifelike nurse robot" ([[cairns21][Cairns, 2021]])/
 
@@ -50,7 +49,7 @@
 *** [Curated] AI blogs
 
     * [[https://blog.feedspot.com/ai_blogs/][Top 10 blogs and sites (2021)]]
-    * [[https://blog.education-ecosystem.com/10-artificial-intelligence-blogs/][10 Best Artificial Intelligence Blogs To Follow (2017)]]
+    * [[https://blog.education-ecosystem.com/10-artificial-intelligence-blogs/][10 Best AI Blogs To Follow (2017)]]
     * [[https://ai.googleblog.com/][Google AI Blog]]
     * [[https://blogs.microsoft.com/ai/][Microsoft AI Blog]]
     * [[https://aws.amazon.com/blogs/machine-learning/][Amazon AI Blog]]
