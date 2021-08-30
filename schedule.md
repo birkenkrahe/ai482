@@ -101,7 +101,7 @@
 
 <tr>
 <td class="org-left">Wed-8-Sep</td>
-<td class="org-left">State of the Art of AI (MB)</td>
+<td class="org-left">Foundations of AI (MB)</td>
 <td class="org-left">Fortunato Hernandez</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -118,7 +118,7 @@
 <tbody>
 <tr>
 <td class="org-left">Mon-13-Sep</td>
-<td class="org-left">State of the Art of AI (MB)</td>
+<td class="org-left">History of AI (MB)</td>
 <td class="org-left">Spencer Rhoden</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -126,7 +126,7 @@
 
 <tr>
 <td class="org-left">Wed-15-Sep</td>
-<td class="org-left">Risks and benefits of AI (MB)</td>
+<td class="org-left">State of the Art of AI (MB)</td>
 <td class="org-left">Malcolm Howard</td>
 <td class="org-left">&#xa0;</td>
 </tr>
