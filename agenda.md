@@ -1,13 +1,13 @@
 
 # Table of Contents
 
--   [Week 2 - 25 August](#orge520091)
--   [Week 2 - 27 August](#org1b65d4b)
--   [Week 3 - 30 August](#orgd7a7976)
+-   [Week 2 - 25 August](#org92431ef)
+-   [Week 2 - 27 August](#org8b7e3e7)
+-   [Week 3 - 30 August](#orgefe328c)
 
 
 
-<a id="orge520091"></a>
+<a id="org92431ef"></a>
 
 # Week 2 - 25 August
 
@@ -28,7 +28,7 @@
     -   Agendas will be posted
 
 
-<a id="org1b65d4b"></a>
+<a id="org8b7e3e7"></a>
 
 # Week 2 - 27 August
 
@@ -38,7 +38,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org39cf807))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org6dd9ff6))*
 
 
 ## Housekeeping
@@ -63,11 +63,11 @@
 
 ## References
 
-<a id="org39cf807"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="org6dd9ff6"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="orgd7a7976"></a>
+<a id="orgefe328c"></a>
 
 # Week 3 - 30 August
 
@@ -104,5 +104,5 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 
 -   [Group exercise](https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/2_what_is_ai.md#pros-and-cons)
 -   [Results on Kanban board](https://ideaboardz.com/for/AI%20approaches%20pros%20&amp;%20cons/4063343)
--   Present and discuss in class
+-   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 

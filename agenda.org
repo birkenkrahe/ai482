@@ -97,4 +97,4 @@
 
   * [[https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/2_what_is_ai.md#pros-and-cons][Group exercise]]
   * [[https://ideaboardz.com/for/AI%20approaches%20pros%20&amp;%20cons/4063343][Results on Kanban board]]
-  * Present and discuss in class
+  * [[https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf][Present and discuss in class]]
