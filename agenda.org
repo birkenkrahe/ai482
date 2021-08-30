@@ -23,22 +23,21 @@
      - Agendas will be posted
 
 
-
 * Week 2 - 27 August
 
   #+attr_html: :height 200px
   [[./img/grace.png]]
 
   * Housekeeping
-  * Ration agents
+  * Rational agents
   * Major issues
 
-   /Image: "Grace, the ultra-lifelike nurse robot" ([[cairns21][Cairns, 2021]])/
+    /Image: "Grace, the ultra-lifelike nurse robot" ([[cairns21][Cairns, 2021]])/
 
 ** Housekeeping
 
-  #+attr_html: :height 200px
-  [[./img/housekeeping.gif]]
+   #+attr_html: :height 200px
+   [[./img/housekeeping.gif]]
 
    * [[https://meet.google.com/pkv-torj-fyt][Google meet]]
    * Staying on top of AI (blogs)
@@ -55,10 +54,47 @@
     * [[https://aws.amazon.com/blogs/machine-learning/][Amazon AI Blog]]
 
 ** References
-   
+
    <<cairns21>> [[https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html][Cairns, R (19 Aug 2021). Meet Grace, the
    ultra-lifelike nurse robot. Online: cnn.com.]]
 
 
 
 
+
+* Week 3 - 30 August
+
+  #+attr_html: :height 200px
+  [[./img/rugby.gif]]
+
+  * Housekeeping
+  * Mon: AI approaches pros/cons
+  * Wed: Ideas generation
+  * Fri: Project canvas
+
+** Housekeeping
+
+   #+attr_html: :height 200px
+   [[./img/housekeeping.gif]]
+
+   * [[https://meet.google.com/nmy-dydn-kwy][Google meet]]
+   * [[https://lyon.schoology.com/assignment/5257337255/assessment_questions][AI Test 2: What is AI?]]
+   * [[https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/followup_08_27.md][Followup]] / [[https://github.com/birkenkrahe/ai482/blob/main/diary.md][Diary]]
+   * [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#orge594cc2][Scrum FAQs]] / TODO: video (MB)
+
+** Ideas generation
+
+  * Goal: choice of topic
+  * Presentation (solo)
+  * [[https://github.com/birkenkrahe/ai482/discussions/4][Submit presentation ideas (Wed)]]
+  * AI application (*pick a team!*)
+  * Project canvas (Fri)
+
+** AI approaches pros/cons
+
+   #+attr_html: :height 200px
+   [[./img/approaches1.png]]
+
+  * [[https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/2_what_is_ai.md#pros-and-cons][Group exercise]]
+  * [[https://ideaboardz.com/for/AI%20approaches%20pros%20&amp;%20cons/4063343][Results on Kanban board]]
+  * Present and discuss in class
