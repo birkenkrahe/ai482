@@ -1,11 +1,11 @@
 
-# Followup week 2
+# Followup 27 August 2021
 
 
 ## "Essay" project process
 
 Three processes are aligned with one another for the project,
-which in this course is an AI application ([cp. Syllabus](https://github.com/birkenkrahe/mod482/blob/main/syllabus.md#grading-system)):
+which in this course is an AI application ([cp. Syllabus](https://github.com/birkenkrahe/ai482/blob/main/syllabus.md#grading-system)):
 
 1.  term: beginning mid August, ending in early December. Mid-term
     grades are independent of the project.
