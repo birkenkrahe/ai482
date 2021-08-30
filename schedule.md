@@ -1,7 +1,6 @@
 
-# Table of Contents
 
-
+# Schedule
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -69,7 +68,7 @@
 <tbody>
 <tr>
 <td class="org-left">Mon-30-Aug</td>
-<td class="org-left">History of AI (MB)</td>
+<td class="org-left">Project Setup (FAQs)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -77,17 +76,17 @@
 
 <tr>
 <td class="org-left">Wed-1-Sep</td>
-<td class="org-left">History of AI (MB)</td>
-<td class="org-left">Fortunato Hernandez</td>
+<td class="org-left">Project Setup (ideas)</td>
 <td class="org-left">&#xa0;</td>
+<td class="org-left">Presentation ideas</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Fri-3-Sep</td>
-<td class="org-left">History of AI (MB)</td>
-<td class="org-left">Spencer Rhoden</td>
+<td class="org-left">Project Setup (canvas)</td>
 <td class="org-left">&#xa0;</td>
+<td class="org-left">Team AI applications</td>
 </tr>
 </tbody>
 
@@ -103,7 +102,7 @@
 <tr>
 <td class="org-left">Wed-8-Sep</td>
 <td class="org-left">State of the Art of AI (MB)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Fortunato Hernandez</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -120,7 +119,7 @@
 <tr>
 <td class="org-left">Mon-13-Sep</td>
 <td class="org-left">State of the Art of AI (MB)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Spencer Rhoden</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
