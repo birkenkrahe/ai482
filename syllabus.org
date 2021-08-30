@@ -1,0 +1,388 @@
+#+TITLE:DSC 482.01 Fall 2021 Syllabus
+#+AUTHOR: Marcus Birkenkrahe
+#+SUBTITLE: Artificial Intelligence
+#+options: toc:nil
+* General Course Information
+
+  * Meeting Times: Monday/Wednesday/Friday, 09:00-09:50 hrs
+  * Meeting place: Derby Center 209 (computer lab)
+  * Professor: Marcus Birkenkrahe
+  * Office: Derby 210
+  * Phone: (870) 307-7254
+  * Office hours: Mon/Wed/Fri 10:00-10:30 AM; Tue/Thu 4-4:30 PM
+  * Text: AIMA - /Artificial Intelligence - A Modern Approach (4th
+    edition)/, by Stuart Russell and Peter Norvig, Pearson 2021.
+
+** Objectives
+
+   Artificial intelligence has been a goal of computer science (CS)
+   since the early days of the field in the 1950s. Unlike other areas
+   of CS, it has undergone major trend swings. Currently, AI enjoys
+   another (its third) spring. In truth, though, AI is not just one
+   field, but several interconnected fields. In this seminar, we will
+   work together to identify and understand the AI subfields that are
+   industrially relevant, and separate them from the more arcane areas
+   that may, or may not be relevant in the near future. This special
+   topic seminar is for everyone who is interested in AI. We will
+   discuss algorithmic, social, philosophical, commercial and
+   technical aspects of AI.
+
+** Student Learning Outcomes
+
+   Students who complete DSC 482.01 "Artificial Intelligence", will be
+   able to:
+
+   * understand the history and importance of AI for society
+   * know how to solve problems in complex environments
+   * know how AI can be used for sales and marketing
+   * understand agent-based technologies for different applications
+   * understand the conceptual basics of machine learning techniques
+   * design an own application using AI principles and techniques
+
+** Course requirements
+
+   No prior knowledge required. Some knowledge of, and experience with
+   algorithms is useful but not critical. Curiosity is essential. You
+   will gain data literacy skills by taking this course. The course
+   will prepare you for further studies in machine learning and deep
+   learning, but also in conceptual applications of AI, like machine
+   ethics.
+
+** Grading system
+
+   | WHEN            | DESCRIPTION    | IMPACT |
+   |-----------------+----------------+--------|
+   | Weekly          | Participation  |    15% |
+   | Before midterms | Protocol       |    15% |
+   | TBD             | Presentation   |    30% |
+   | Last week       | AI application |    40% |
+
+*** Grading table
+
+    This table is used to convert completion rates into letter
+    grades. For the midterm results, letter grades still carry signs,
+    while for the term results, only straight letters are given (by
+    rounding up).
+
+    |--------+-----------------+---------------|
+    |    *%* | *Midterm Grade* | *Final Grade* |
+    |--------+-----------------+---------------|
+    | 100-98 | A+              |               |
+    |  97-96 | A               | A             |
+    |  95-90 | A-              |               |
+    |--------+-----------------+---------------|
+    |  89-86 | B+              |               |
+    |  85-80 | B               | B             |
+    |  79-76 | B-              |               |
+    |--------+-----------------+---------------|
+    |  75-70 | C+              |               |
+    |  69-66 | C               | C             |
+    |  65-60 | C-              |               |
+    |--------+-----------------+---------------|
+    |  59-56 | D+              |               |
+    |  55-50 | D               | D             |
+    |--------+-----------------+---------------|
+    |   49-0 | F               | F             |
+    |--------+-----------------+---------------|
+
+
+*** Presentation (30%)
+
+    * Present part of a chapter from AIMA, OR
+    * Review and present an AI research paper, OR
+    * Research and present an AI application.
+
+*** Application (40%)
+
+    * Identify an AI application area, AND
+    * Research how AI could be used, AND
+    * Present briefly at sprint reviews, AND
+    * Present your application idea at the end of term.
+
+*** Protocol (15%)
+
+    * Record a classroom session, AND
+    * Create a protocol of the session, AND
+    * Upload the protocol to GitHub.
+
+*** Participation (15%)
+
+    * Participate in group discussions, OR
+    * Participate in class discussion, OR
+    * Present a glossary term, OR
+    * Present an interesting AI application.
+
+*** Grading examples
+
+**** Example - Midterm grade
+
+     At midterms, student X has achieved the following results:
+
+     | GRADE PART           | WEIGHT   | RESULT   |
+     |----------------------+----------+----------|
+     | Session Protocol     |      15% |      80% |
+     | Weekly participation |      15% |      90% |
+
+     # Student X's midterm result is computed as follows:
+
+     # #+begin_src R :session :results output
+     #   ## midterm weights (only practice and participation)
+     #   weight_m <- c("protocol"=0.5,
+     #                 "participation"=0.5)
+     #   ## results vector
+     #   result_m <- c("protocol"=80,
+     #                 "participation"=90)
+     #   ## midterm grade
+     #   grade_m <-
+     #     weight_m["protocol"] * result_m["protocol"] +
+     #     weight_m["participation"] * result_m["participation"]
+     #   names(grade_m) <- NULL
+     #   grade_m
+     # #+end_src
+
+     # #+RESULTS:
+     # : [1] 85
+
+     Student X's midterm result is a "B" (~85%~).
+
+**** Example - Final grade
+
+     After the finals, student X has achieved the following results:
+
+     | GRADE PART           | WEIGHT | RESULT |
+     |----------------------+--------+--------|
+     | Session protocol     |    15% |    80% |
+     | Weekly participation |    15% |    90% |
+     | Presentation         |    30% |    95% |
+     | Final application    |    40% |    95% |
+
+     # # Student X's midterm result is computed as follows:
+
+     # #+begin_src R :session :results output
+     #   ## full term weight vector according to grading table
+     #   weight <- c("presentation"= 0.3,
+     #               "application"=0.4,
+     #               "protocol"=0.15,
+     #               "participation"=0.15)
+     #   ## results vector
+     #   result <- c("presentation"=95,
+     #               "application"=95,
+     #               "protocol"=80,
+     #               "participation"=90)
+     #   ## midterm grade
+     #   grade <-
+     #     weight["presentation"] * result["presentation"] +
+     #     weight["application"] * result["application"] +
+     #     weight["protocol"] * result["protocol"] +
+     #     weight["participation"] * result["participation"]
+     #   names(grade) <- NULL
+     #   grade
+     # #+end_src
+
+     # #+RESULTS:
+     # : [1] 92
+
+     Student X's midterm result is an "A" (~92%~).
+
+* Standard Policies
+** Honor Code
+
+   All graded work in this class is to be pledged in accordance with
+   the Lyon College Honor Code. The use of a phone for any reason
+   during the course of an exam is considered an honor code
+   violation.
+
+** Class Attendance Policy
+
+   Students are expected to attend all class periods for the courses
+   in which they are enrolled. They are responsible for conferring
+   with individual professors regarding any missed
+   assignments. Faculty members are to notify the Registrar when a
+   student misses the equivalent of one, two, three, and four weeks
+   of class periods in a single course. Under this policy, there is
+   no distinction between “excused” and “unexcused” absences, except
+   that a student may make up work missed during an excused
+   absence. A reminder of the college’s attendance policy will be
+   issued to the student at one week, a second reminder at two weeks,
+   a warning at three weeks, and notification of administrative
+   withdrawal and the assigning of an “F” grade at four
+   weeks. Students who are administratively withdrawn from more than
+   one course will be placed on probation or suspended.
+
+** Disabilities
+
+   Students seeking reasonable accommodations based on documented
+   learning disabilities must contact Danell Hetrick in the Morrow
+   Academic Center at (870) 307-7021 or at danell.hetrick@lyon.edu.
+
+** Harassment, Discrimination, and Sexual Misconduct
+
+   Title IX and Lyon’s policy prohibit harassment, discrimination and
+   sexual misconduct. Lyon encourages anyone experiencing harassment,
+   discrimination or sexual misconduct to talk to Lai-Monte Hunter,
+   Title IX Coordinator and Vice-President for Student Life, or
+   Sh’Nita Mitchell, Title IX Investigator and Associate Dean for
+   Residence Life, about what happened so they can get the support
+   they need and Lyon can respond appropriately.  Lyon is legally
+   obligated to respond to reports of sexual misconduct, and
+   therefore we cannot guarantee the confidentiality of a report,
+   unless made to a confidential resource (Chaplain, Counselor, or
+   Nurse). As a faculty member, I am required to report possible
+   Title IX violations and must provide our Title IX coordinator with
+   all relevant details.  I cannot, therefore, guarantee
+   confidentiality.
+
+** College-Wide COVID-19 Policies for Fall, 2021
+
+   Masks are mandated for all students in classrooms, laboratories and studios.  They remain optional for all persons on the Lyon campus in all other locations and outside.
+   Participation in community surveillance testing in mandatory.
+   Vaccines are STRONGLY encouraged for all faculty, staff, and students. Vaccines are NOT MANDATED for Lyon College community members.
+
+   Details specific to this course may be found in the subsequent pages of this syllabus. Those details will include at least the following:
+   A description of the course consistent with the Lyon College catalog.
+   A list of student learning outcomes for the course.
+   A summary of all course requirements.
+   An explanation of the grading system to be used in the course.
+   Any course-specific attendance policies that go beyond the College policy.
+   Details about what constitutes acceptable and unacceptable student collaboration on graded work.
+
+* Course specific information
+** Assignments and Honor Code
+
+   There will be numerous assignments during the semester - e.g.
+   programming, lessons, tests, and sprint reviews. They are due at
+   the beginning of the class period on the due date. Once class
+   begins, the assigment will be considered one day late if it has not
+   been turned in.  Late programs will not be accepted without an
+   extension.  Extensions will *not* be granted for reasons such as:
+
+   * You could not get to a computer
+   * You could not get a computer to do what you wanted it to do
+   * The network was down
+   * The printer was out of paper or toner
+   * You erased your files, lost your homework, or misplaced your
+     flash drive
+   * You had other coursework or family commitments that interfered
+     with your work in this course
+
+   Put “Pledged” and a note of any collaboration in the comments of
+   any program you turn in. Programming assignments are individual
+   efforts, but you may seek assistance from another student or the
+   course instructor.  You may not copy someone else’s solution. If
+   you are having trouble finishing an assignment, it is far better to
+   do your own work and receive a low score than to go through an
+   honor trial and suffer the penalties that may be involved.
+
+   What is cheating on an assignment? Here are a few examples:
+
+   * Having someone else write your assignment, in whole or in part
+   * Copying an assignment someone else wrote, in whole or in part
+   * Collaborating with someone else to the extent that your
+     submissions are identifiably very similar, in whole or in part
+   * Turning in a submission with the wrong name on it
+
+   What is not cheating?  Here are some examples:
+
+   * Talking to someone in general terms about concepts involved in
+     an assignment
+   * Asking someone for help with a specific error message or bug in
+     your program
+   * Getting help with the specifics of language syntax or citation
+     style
+   * Utilizing information given to you by the instructor
+
+   Any assistance must be clearly explained in the comments at the
+   beginning of your submission.  If you have any questions about
+   this, please ask or review the policies relating to the Honor Code.
+
+   Absences on Days of Exams:
+
+   Test “make-ups” will only be allowed if arrangements have been
+   made prior to the scheduled time.  If you are sick the day of the
+   test, please e-mail me or leave a message on my phone before the
+   scheduled time, and we can make arrangements when you return.
+
+** Important Dates:
+
+   | DATE           | DESCRIPTION                                |
+   |----------------+--------------------------------------------|
+   | August 30      | Last day to drop w/o record of a course    |
+   | September 6    | Labor day (no classes)                     |
+   | October 2-5    | Fall break (no classes)                    |
+   | October 6      | Mid-semester grade reports due             |
+   | October 13     | Last day to drop a course with a "W" grade |
+   | October 20     | Service day on campus (no classes)         |
+   | Nobember 24-28 | Thanksgiving Break (no classes)            |
+   | December 3     | Last day of class                          |
+   | December 6-10  | Final exams                                |
+   | December 15    | Final grades due                           |
+
+** Schedule and session content
+
+   | DATE       | AIMA                     | PROJECTS               |
+   |------------+--------------------------+------------------------|
+   | Wed-18-Aug | Course overview          |                        |
+   | Fri-20-Aug |                          |                        |
+   |------------+--------------------------+------------------------|
+   | Mon-23-Aug | What is AI?              |                        |
+   | Wed-25-Aug |                          | Session Protocol 1     |
+   | Fri-27-Aug |                          | Session Protocol 2     |
+   |------------+--------------------------+------------------------|
+   | Mon-30-Aug | History of AI            |                        |
+   | Wed-1-Sep  |                          | Session Protocol 3     |
+   | Fri-3-Sep  |                          | Session Protocol 4     |
+   |------------+--------------------------+------------------------|
+   | Mon-6-Sep  | LABOR DAY                |                        |
+   | Wed-8-Sep  | State of the Art of AI   |                        |
+   | Fri-10-Sep | APPLICATIONS             | 1st sprint review      |
+   |------------+--------------------------+------------------------|
+   | Mon-13-Sep | Risks and benefits of AI |                        |
+   | Wed-15-Sep |                          | Session Protocol 5     |
+   | Fri-17-Sep |                          | Session Protocol 6     |
+   |------------+--------------------------+------------------------|
+   | Mon-20-Sep | Introduction summary     |                        |
+   | Wed-22-Sep | Topical Presentation 1   | Session Protocol 7     |
+   | Fri-24-Sep | Topical Presentation 2   | Session Protocol 8     |
+   |------------+--------------------------+------------------------|
+   | Mon-27-Sep |                          | Session Protocol 9     |
+   | Wed-29-Sep | Topical Presentation 3   | Session Protocol 10    |
+   | Fri-1-Oct  | Topical Presentation 4   | Session Protocol 11    |
+   |------------+--------------------------+------------------------|
+   | Mon-4-Oct  | FALL BREAK               |                        |
+   | Wed-6-Oct  | Topical Presentation 5   | Session Protocol 12(X) |
+   | Fri-8-Oct  | APPLICATIONS             | 2nd sprint review      |
+   |------------+--------------------------+------------------------|
+   | Mon-11-Oct |                          |                        |
+   | Wed-13-Oct | Topical Presentation 6   | Session Protocol 13(X) |
+   | Fri-15-Oct |                          |                        |
+   |------------+--------------------------+------------------------|
+   | Mon-18-Oct |                          |                        |
+   | Wed-20-Oct | SERVICE DAY              |                        |
+   | Fri-22-Oct | Topical Presentation 7   | Session Protocol 14(X) |
+   |------------+--------------------------+------------------------|
+   | Mon-25-Oct |                          |                        |
+   | Wed-27-Oct | Topical Presentation 8   | Session Protocol 15(X) |
+   | Fri-29-Oct |                          |                        |
+   |------------+--------------------------+------------------------|
+   | Mon-1-Nov  |                          |                        |
+   | Wed-3-Nov  | Topical Presentation 9   | Session Protocol 16(X) |
+   | Fri-5-Nov  | APPLICATIONS             | 3rd sprint review      |
+   |------------+--------------------------+------------------------|
+   | Mon-8-Nov  |                          |                        |
+   | Wed-10-Nov | Topical Presentation 10  | Session Protocol 17(X) |
+   | Fri-12-Nov |                          |                        |
+   |------------+--------------------------+------------------------|
+   | Mon-15-Nov |                          |                        |
+   | Wed-17-Nov | Topical Presentation 11  | Session Protocol 18(X) |
+   | Fri-19-Nov |                          |                        |
+   |------------+--------------------------+------------------------|
+   | 22-Nov     |                          |                        |
+   | 24-Nov     | THANKSGIVING             |                        |
+   | 26-Nov     | THANKSGIVING             |                        |
+   |------------+--------------------------+------------------------|
+   | 29-Nov     | PROJECT PRESENTATIONS    |                        |
+   | 1-Dec      | PROJECT PRESENTATIONS    |                        |
+   | 3-Dec      | PROJECT PRESENTATIONS    |                        |
+   |------------+--------------------------+------------------------|
+
+   (X) = Extra credit
