@@ -1,6 +1,8 @@
 
 # Followup 27 August 2021
 
+[[whiteboard](https://drive.google.com/drive/folders/1FfQVgwCJkSdu3ZG_ryZIDQMR7k7Jlwsg?usp=sharing)]
+
 
 ## "AI Application" project process
 
