@@ -1,4 +1,5 @@
 # Protocol (August 25,2021)
+## By Wyatt Frerichs
 The class is still in its second week and this was the second class session where cours content was presented.
   ## Sources
   [WhiteBoards](https://drive.google.com/drive/u/1/folders/1CbKKT6HOLdq8b2_rD29bqVDMj1HXcaNR)
