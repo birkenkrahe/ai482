@@ -7,9 +7,9 @@ The class is still in its second week and this was the second class session wher
 # Housekeeping
   ### Protocols
   The first topic covered during housekeeping was Protocols. This class would mark the start of students writing the protocols. The example protocol was also discussed. The example protocol should not be a template for the students to follow exactly. Each protocol should be a personal reflection in the class. The importance of avoiding grammar mistakes was another topic covered. Dr. Birkenkrahe made a list of helpful tips to avoid grammar mistakes for the students:
-  o	Use an application
-  o	Use a friend(peer review)
-  o	Compose away from github
+  -	Use an application
+  -	Use a friend(peer review)
+  -	Compose away from github
   ### "Start with a bang end with a bang in between can be forgotten"-Dr. Birkenkrahe
 ![Alt Text](https://bestanimations.com/media/fireworks/1962490925amazing-electrc-feel-fireworks-gif.gif#.YS25BiLBl5g.link)
   ### Bookmarks
