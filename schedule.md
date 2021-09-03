@@ -1,5 +1,4 @@
 
-
 # Schedule
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
@@ -126,7 +125,7 @@
 
 <tr>
 <td class="org-left">Wed-15-Sep</td>
-<td class="org-left">State of the Art of AI (MB)</td>
+<td class="org-left">History of AI (MB)</td>
 <td class="org-left">Malcolm Howard</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -134,7 +133,7 @@
 
 <tr>
 <td class="org-left">Fri-17-Sep</td>
-<td class="org-left">Risks and benefits of AI (MB)</td>
+<td class="org-left">History of AI (MB)</td>
 <td class="org-left">Amber McClurg</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -143,7 +142,7 @@
 <tbody>
 <tr>
 <td class="org-left">Mon-20-Sep</td>
-<td class="org-left">Introduction summary (MB)</td>
+<td class="org-left">State of the Art of AI (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -151,7 +150,7 @@
 
 <tr>
 <td class="org-left">Wed-22-Sep</td>
-<td class="org-left">Emma Brandes</td>
+<td class="org-left">State of the Art of AI (MB)</td>
 <td class="org-left">Nick Norwood</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -159,7 +158,7 @@
 
 <tr>
 <td class="org-left">Fri-24-Sep</td>
-<td class="org-left">Wyatt Frerichs</td>
+<td class="org-left">State of the Art of AI (MB)</td>
 <td class="org-left">Hakeem Yatim</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -168,7 +167,7 @@
 <tbody>
 <tr>
 <td class="org-left">Mon-27-Sep</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Risks and benefits of AI (MB)</td>
 <td class="org-left">Dat O</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -176,7 +175,7 @@
 
 <tr>
 <td class="org-left">Wed-29-Sep</td>
-<td class="org-left">Fortunato Hernandez</td>
+<td class="org-left">Risks and benefits of AI (MB)</td>
 <td class="org-left">Sonny Pham</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -184,7 +183,7 @@
 
 <tr>
 <td class="org-left">Fri-1-Oct</td>
-<td class="org-left">Amber McClurg</td>
+<td class="org-left">Risks and benefits of AI (MB)</td>
 <td class="org-left">Jacob Sampley</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -201,8 +200,8 @@
 
 <tr>
 <td class="org-left">Wed-6-Oct</td>
-<td class="org-left">Nick Norwood</td>
-<td class="org-left">Session Protocol 12(X)</td>
+<td class="org-left">Introduction summary (MB)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -218,7 +217,7 @@
 <tbody>
 <tr>
 <td class="org-left">Mon-11-Oct</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">APPLICATIONS</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -227,7 +226,7 @@
 <tr>
 <td class="org-left">Wed-13-Oct</td>
 <td class="org-left">Jacob Sampley</td>
-<td class="org-left">Session Protocol 13(X)</td>
+<td class="org-left">Session Protocol 12(X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -243,8 +242,8 @@
 <tbody>
 <tr>
 <td class="org-left">Mon-18-Oct</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Fortunato Hernandez</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -260,7 +259,7 @@
 <tr>
 <td class="org-left">Fri-22-Oct</td>
 <td class="org-left">Dat O</td>
-<td class="org-left">Session Protocol 14(X)</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -268,8 +267,8 @@
 <tbody>
 <tr>
 <td class="org-left">Mon-25-Oct</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Amber McClurg</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -277,15 +276,15 @@
 <tr>
 <td class="org-left">Wed-27-Oct</td>
 <td class="org-left">Malcolm Howard</td>
-<td class="org-left">Session Protocol 15(X)</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Fri-29-Oct</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Nick Norwood</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -293,8 +292,8 @@
 <tbody>
 <tr>
 <td class="org-left">Mon-1-Nov</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Wyatt Frerichs</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -302,7 +301,7 @@
 <tr>
 <td class="org-left">Wed-3-Nov</td>
 <td class="org-left">Sonny Pham</td>
-<td class="org-left">Session Protocol 16(X)</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -318,7 +317,7 @@
 <tbody>
 <tr>
 <td class="org-left">Mon-8-Nov</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">APPLICATIONS</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -327,7 +326,7 @@
 <tr>
 <td class="org-left">Wed-10-Nov</td>
 <td class="org-left">Spencer Rhoden</td>
-<td class="org-left">Session Protocol 17(X)</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -343,8 +342,8 @@
 <tbody>
 <tr>
 <td class="org-left">Mon-15-Nov</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Emma Brandes</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -352,7 +351,7 @@
 <tr>
 <td class="org-left">Wed-17-Nov</td>
 <td class="org-left">Hakeem Yatim</td>
-<td class="org-left">Session Protocol 18(X)</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
