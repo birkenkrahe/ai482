@@ -1,5 +1,5 @@
 
-# Followup 3 September 2021
+# SOLO PRESENTATIONS
 
 
 ## Team vs. Solo, Presentation vs. AI Application Project
@@ -14,8 +14,8 @@ purpose of the presentation is to research a topic and present it
 to class. The presentation should take about 30 minutes. If it is
 longer, that's OK. You can base it on secondary sources (e.g. a
 chapter in AIMA). You have to upload your slides/materials for
-the solo presentation **to this GitHub repo before your
-presentation date**.
+the solo presentation **[to this GitHub repo before your
+presentation date](https://github.com/birkenkrahe/ai482/tree/main/presentations)**.
 
 Alas, I do not have a rubric for the presentation. I'd like for
 the presentation to generate questions for discussion. You should
