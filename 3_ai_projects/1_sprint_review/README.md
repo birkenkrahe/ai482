@@ -13,7 +13,7 @@ chosen topic area. You present your idea as part of the sprint
 review on September 9 (the first of four reviews). As a team, you
 only have 5 minutes, followed by 5 minutes for Q&A. This will
 take all of the Friday session. For the sprint review, [apply the
-FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#org5a42bb2). **Upload your slides to this GitHub repo** no later than
+FAQ](https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-is-a-sprint-review). **Upload your slides to this GitHub repo** no later than
 Friday, September 10, 9 AM.
 
 To organize your project, you can e.g. use GitHub Projects. Here
