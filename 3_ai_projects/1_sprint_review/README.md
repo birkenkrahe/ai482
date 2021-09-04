@@ -14,7 +14,7 @@ review on September 9 (the first of four reviews). As a team, you
 only have 5 minutes, followed by 5 minutes for Q&A. This will
 take all of the Friday session. For the sprint review, apply the
 FAQ. **Upload your slides to this GitHub repo** no later than
-Friday, September 9, 9 AM.
+Friday, September 10, 9 AM.
 
 To organize your project, you can e.g. use GitHub Projects. Here
 is [an example from me](https://github.com/birkenkrahe/ai482/projects/1). You can define your own project and create
