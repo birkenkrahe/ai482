@@ -1,14 +1,14 @@
 
 # Table of Contents
 
--   [Week 2 - August 25](#org8c5c01e)
--   [Week 2 - August 27](#org6d0ecbd)
--   [Week 3 - August 30](#org230ce64)
--   [Week 4 - September 8](#orgd7937dc)
+-   [Week 2 - August 25](#orge283bd4)
+-   [Week 2 - August 27](#org5b0f8bc)
+-   [Week 3 - August 30](#orgcb66745)
+-   [Week 4 - September 8](#orgdc58093)
 
 
 
-<a id="org8c5c01e"></a>
+<a id="orge283bd4"></a>
 
 # Week 2 - August 25
 
@@ -29,7 +29,7 @@
     -   Agendas will be posted
 
 
-<a id="org6d0ecbd"></a>
+<a id="org5b0f8bc"></a>
 
 # Week 2 - August 27
 
@@ -39,7 +39,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#orgb67fa32))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org7a8401d))*
 
 
 ## Housekeeping
@@ -64,11 +64,11 @@
 
 ## References
 
-<a id="orgb67fa32"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="org7a8401d"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="org230ce64"></a>
+<a id="orgcb66745"></a>
 
 # Week 3 - August 30
 
@@ -108,7 +108,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 
 
-<a id="orgd7937dc"></a>
+<a id="orgdc58093"></a>
 
 # Week 4 - September 8
 
@@ -120,6 +120,10 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 ## Housekeeping
 
 ![img](./img/goose.gif)
+
+-   Test 3: research project
+-   Project canvas & sprint review
+-   Group work: history of AI
 
 
 ## Project
@@ -135,7 +139,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 ![img](./img/newell.png)
 
 -   ["The Thinking Machine" (1961)](https://youtu.be/5YBIrc-6G-0)
--   Structured group discussion
+-   Structured group discussion<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
 -   Protocol: Fortunato
 
 
@@ -169,3 +173,12 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 </tbody>
 </table>
 
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> "Structured group discussion" means that I'm providing a
+framework for group discussion and group results (e.g. a set of
+questions), and a timeline. Your job is to execute the framework
+within the allotted time and present the results as good as you
+can. For participation, only participating and trying (harder) is
+evaluated, not the quality of the result itself.

@@ -107,6 +107,10 @@
    #+attr_html: :height 400px
    [[./img/goose.gif]]
 
+   * Test 3: research project
+   * Project canvas & sprint review
+   * Group work: history of AI
+
 ** Project
 
    #+attr_html: :height 400px
@@ -120,7 +124,7 @@
    [[./img/newell.png]]
 
    * [[https://youtu.be/5YBIrc-6G-0]["The Thinking Machine" (1961)]]
-   * Structured group discussion
+   * Structured group discussion[fn:1]
    * Protocol: Fortunato
 
 ** Group discussion
@@ -130,6 +134,11 @@
 | C: SWOT analysis (Strenghts/Weaknesses/Opportunities/Threats)                             |
 | D: What are the key questions/issues here: are they still current?                        |
 
+* Footnotes
 
-
-
+[fn:1]"Structured group discussion" means that I'm providing a
+framework for group discussion and group results (e.g. a set of
+questions), and a timeline. Your job is to execute the framework
+within the allotted time and present the results as good as you
+can. For participation, only participating and trying (harder) is
+evaluated, not the quality of the result itself.
