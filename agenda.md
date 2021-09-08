@@ -1,14 +1,14 @@
 
 # Table of Contents
 
--   [Week 2 - August 25](#org4eeddcd)
--   [Week 2 - August 27](#org17615ec)
--   [Week 3 - August 30](#orgffcff1c)
--   [Week 4 - September 8](#orgfc06ab5)
+-   [Week 2 - August 25](#org8c5c01e)
+-   [Week 2 - August 27](#org6d0ecbd)
+-   [Week 3 - August 30](#org230ce64)
+-   [Week 4 - September 8](#orgd7937dc)
 
 
 
-<a id="org4eeddcd"></a>
+<a id="org8c5c01e"></a>
 
 # Week 2 - August 25
 
@@ -29,7 +29,7 @@
     -   Agendas will be posted
 
 
-<a id="org17615ec"></a>
+<a id="org6d0ecbd"></a>
 
 # Week 2 - August 27
 
@@ -39,7 +39,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#orgff491ed))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#orgb67fa32))*
 
 
 ## Housekeeping
@@ -64,11 +64,11 @@
 
 ## References
 
-<a id="orgff491ed"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="orgb67fa32"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="orgffcff1c"></a>
+<a id="org230ce64"></a>
 
 # Week 3 - August 30
 
@@ -108,7 +108,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 
 
-<a id="orgfc06ab5"></a>
+<a id="orgd7937dc"></a>
 
 # Week 4 - September 8
 
@@ -135,6 +135,37 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 ![img](./img/newell.png)
 
 -   ["The Thinking Machine" (1961)](https://youtu.be/5YBIrc-6G-0)
--   Structured Discussion
+-   Structured group discussion
 -   Protocol: Fortunato
+
+
+## Group discussion
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">A: Can technologists learn anything from historical documents? If yes (or no), why (not)?</td>
+</tr>
+
+
+<tr>
+<td class="org-left">B: What's the feeling tone of the film? Optimism, scepticism, ambitions?</td>
+</tr>
+
+
+<tr>
+<td class="org-left">C: SWOT analysis (Strenghts/Weaknesses/Opportunities/Threats)</td>
+</tr>
+
+
+<tr>
+<td class="org-left">D: What are the key questions/issues here: are they still current?</td>
+</tr>
+</tbody>
+</table>
 
