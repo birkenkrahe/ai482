@@ -1,16 +1,16 @@
 
 # Table of Contents
 
--   [Week 2 - 25 August](#orgd9982e7)
--   [Week 2 - 27 August](#org93d6153)
--   [Week 3 - 30 August](#org18649d1)
--   [Week 4 / 8 September 2021](#org2e667b7)
+-   [Week 2 - August 25](#org4eeddcd)
+-   [Week 2 - August 27](#org17615ec)
+-   [Week 3 - August 30](#orgffcff1c)
+-   [Week 4 - September 8](#orgfc06ab5)
 
 
 
-<a id="orgd9982e7"></a>
+<a id="org4eeddcd"></a>
 
-# Week 2 - 25 August
+# Week 2 - August 25
 
 ![img](./img/bardot.gif)
 
@@ -29,9 +29,9 @@
     -   Agendas will be posted
 
 
-<a id="org93d6153"></a>
+<a id="org17615ec"></a>
 
-# Week 2 - 27 August
+# Week 2 - August 27
 
 ![img](./img/grace.png)
 
@@ -39,7 +39,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org96d1f27))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#orgff491ed))*
 
 
 ## Housekeeping
@@ -64,13 +64,13 @@
 
 ## References
 
-<a id="org96d1f27"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="orgff491ed"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="org18649d1"></a>
+<a id="orgffcff1c"></a>
 
-# Week 3 - 30 August
+# Week 3 - August 30
 
 ![img](./img/rugby.gif)
 
@@ -108,9 +108,9 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 
 
-<a id="org2e667b7"></a>
+<a id="orgfc06ab5"></a>
 
-# Week 4 / 8 September 2021
+# Week 4 - September 8
 
 ![img](./img/wayne.png)
 
