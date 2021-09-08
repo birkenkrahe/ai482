@@ -104,10 +104,12 @@
 
 ** Housekeeping
 
+   #+attr_html: :height 400px
    [[./img/goose.gif]]
 
 ** Project
 
+   #+attr_html: :height 400px
    [[./img/sample.png]]
 
    * [[https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/ProjectCanvasSampleAI.pdf][Project Canvas (sample)]]
@@ -118,8 +120,16 @@
    [[./img/newell.png]]
 
    * [[https://youtu.be/5YBIrc-6G-0]["The Thinking Machine" (1961)]]
-   * Structured Discussion
+   * Structured group discussion
    * Protocol: Fortunato
+
+** Group discussion
+
+| A: Can technologists learn anything from historical documents? If yes (or no), why (not)? |
+| B: What's the feeling tone of the film? Optimism, scepticism, ambitions?                  |
+| C: SWOT analysis (Strenghts/Weaknesses/Opportunities/Threats)                             |
+| D: What are the key questions/issues here: are they still current?                        |
+
 
 
 
