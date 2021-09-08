@@ -100,7 +100,7 @@
 
 <tr>
 <td class="org-left">Wed-8-Sep</td>
-<td class="org-left">Foundations of AI (MB)</td>
+<td class="org-left">History of AI (MB)</td>
 <td class="org-left">Fortunato Hernandez</td>
 <td class="org-left">&#xa0;</td>
 </tr>
