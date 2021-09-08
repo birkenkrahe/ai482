@@ -1,13 +1,14 @@
 
 # Table of Contents
 
--   [Week 2 - 25 August](#org92431ef)
--   [Week 2 - 27 August](#org8b7e3e7)
--   [Week 3 - 30 August](#orgefe328c)
+-   [Week 2 - 25 August](#orgd9982e7)
+-   [Week 2 - 27 August](#org93d6153)
+-   [Week 3 - 30 August](#org18649d1)
+-   [Week 4 / 8 September 2021](#org2e667b7)
 
 
 
-<a id="org92431ef"></a>
+<a id="orgd9982e7"></a>
 
 # Week 2 - 25 August
 
@@ -28,7 +29,7 @@
     -   Agendas will be posted
 
 
-<a id="org8b7e3e7"></a>
+<a id="org93d6153"></a>
 
 # Week 2 - 27 August
 
@@ -38,7 +39,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org6dd9ff6))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org96d1f27))*
 
 
 ## Housekeeping
@@ -63,11 +64,11 @@
 
 ## References
 
-<a id="org6dd9ff6"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="org96d1f27"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="orgefe328c"></a>
+<a id="org18649d1"></a>
 
 # Week 3 - 30 August
 
@@ -105,4 +106,35 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Group exercise](https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/2_what_is_ai.md#pros-and-cons)
 -   [Results on Kanban board](https://ideaboardz.com/for/AI%20approaches%20pros%20&amp;%20cons/4063343)
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
+
+
+<a id="org2e667b7"></a>
+
+# Week 4 / 8 September 2021
+
+![img](./img/wayne.png)
+
+> "I'm concerned with the world in which we'll live tomorrow."
+
+
+## Housekeeping
+
+![img](./img/goose.gif)
+
+
+## Project
+
+![img](./img/sample.png)
+
+-   [Project Canvas (sample)](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/ProjectCanvasSampleAI.pdf)
+-   [First sprint review](https://github.com/birkenkrahe/ai482/tree/main/3_ai_projects/1_sprint_review)
+
+
+## History of AI
+
+![img](./img/newell.png)
+
+-   ["The Thinking Machine" (1961)](https://youtu.be/5YBIrc-6G-0)
+-   Structured Discussion
+-   Protocol: Fortunato
 

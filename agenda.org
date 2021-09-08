@@ -22,7 +22,6 @@
      - Google meet? (Poll: Y/N)
      - Agendas will be posted
 
-
 * Week 2 - 27 August
 
   #+attr_html: :height 200px
@@ -57,10 +56,6 @@
 
    <<cairns21>> [[https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html][Cairns, R (19 Aug 2021). Meet Grace, the
    ultra-lifelike nurse robot. Online: cnn.com.]]
-
-
-
-
 
 * Week 3 - 30 August
 
@@ -98,3 +93,33 @@
   * [[https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/2_what_is_ai.md#pros-and-cons][Group exercise]]
   * [[https://ideaboardz.com/for/AI%20approaches%20pros%20&amp;%20cons/4063343][Results on Kanban board]]
   * [[https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf][Present and discuss in class]]
+* Week 4 / 8 September 2021
+
+   #+attr_html: :height 250px
+   [[./img/wayne.png]]
+
+   #+begin_quote
+   "I'm concerned with the world in which we'll live tomorrow."
+   #+end_quote
+
+** Housekeeping
+
+   [[./img/goose.gif]]
+
+** Project
+
+   [[./img/sample.png]]
+
+   * [[https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/ProjectCanvasSampleAI.pdf][Project Canvas (sample)]]
+   * [[https://github.com/birkenkrahe/ai482/tree/main/3_ai_projects/1_sprint_review][First sprint review]]
+
+** History of AI      
+
+   [[./img/newell.png]]
+
+   * [[https://youtu.be/5YBIrc-6G-0]["The Thinking Machine" (1961)]]
+   * Structured Discussion
+   * Protocol: Fortunato
+
+
+
