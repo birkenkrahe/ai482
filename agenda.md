@@ -1,15 +1,15 @@
 
 # Table of Contents
 
--   [Week 2 - August 25](#orgf63e760)
--   [Week 2 - August 27](#org042c7f1)
--   [Week 3 - August 30](#org8c16f9f)
--   [Week 4 - September 8](#orga8c44fd)
--   [Week 4 - September 10](#org10e712a)
+-   [Week 2 - August 25](#org090e67d)
+-   [Week 2 - August 27](#orga1c8dcd)
+-   [Week 3 - August 30](#org0e54cf7)
+-   [Week 4 - September 8](#orgf853b55)
+-   [Week 4 - September 10](#orgf04d336)
 
 
 
-<a id="orgf63e760"></a>
+<a id="org090e67d"></a>
 
 # Week 2 - August 25
 
@@ -30,7 +30,7 @@
     -   Agendas will be posted
 
 
-<a id="org042c7f1"></a>
+<a id="orga1c8dcd"></a>
 
 # Week 2 - August 27
 
@@ -40,7 +40,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#orga43fba1))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#orgc8efe28))*
 
 
 ## Housekeeping
@@ -65,11 +65,11 @@
 
 ## References
 
-<a id="orga43fba1"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="orgc8efe28"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="org8c16f9f"></a>
+<a id="org0e54cf7"></a>
 
 # Week 3 - August 30
 
@@ -109,7 +109,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 
 
-<a id="orga8c44fd"></a>
+<a id="orgf853b55"></a>
 
 # Week 4 - September 8
 
@@ -175,7 +175,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 </table>
 
 
-<a id="org10e712a"></a>
+<a id="orgf04d336"></a>
 
 # Week 4 - September 10
 
@@ -183,7 +183,8 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 
 -   [Followup: The Thinking Machine I](https://github.com/birkenkrahe/ai482/blob/main/4_ai_history/followup_09_08_2021.md)
 -   [Learning & Agile Methods](https://github.com/birkenkrahe/org/blob/master/diary.md)
--   [First sprint reviews](https://github.com/birkenkrahe/ai482/tree/main/3_ai_projects/1_sprint_review)
+-   [First sprint reviews](https://github.com/birkenkrahe/ai482/tree/main/3_ai_projects/1_sprint_review) (Team project)
+-   Still no ideas? [See Stanford '21 conference](https://hai.stanford.edu/2021-spring-conference-agenda)
 
 
 # Footnotes

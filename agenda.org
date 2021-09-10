@@ -140,7 +140,8 @@
 
   * [[https://github.com/birkenkrahe/ai482/blob/main/4_ai_history/followup_09_08_2021.md][Followup: The Thinking Machine I]]
   * [[https://github.com/birkenkrahe/org/blob/master/diary.md][Learning & Agile Methods]]
-  * [[https://github.com/birkenkrahe/ai482/tree/main/3_ai_projects/1_sprint_review][First sprint reviews]]
+  * [[https://github.com/birkenkrahe/ai482/tree/main/3_ai_projects/1_sprint_review][First sprint reviews]] (Team project)
+  * Still no ideas? [[https://hai.stanford.edu/2021-spring-conference-agenda][See Stanford '21 conference]]
 
 * Footnotes
 
