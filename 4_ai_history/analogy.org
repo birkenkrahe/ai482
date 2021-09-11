@@ -162,19 +162,20 @@ world is making right now.”
 
 * References
 
+  <<xkcd>> Munroe R (n.d.). Pulsar Analogy [Cartoon]. [[https://xkcd.com/2413][Online:
+  xkcd.com.]]
+
+  <<dict>> N.a. (n.d.). Analogy Examples With Simple Explanations
+  [Website]. [[https://examples.yourdictionary.com/analogy-ex.html][Online: yourdictionary.com.]]
+
+  <<terminator>> Clark B (4 Aug 2020). The Persuasive Power of
+  Analogy [Blog]. [[https://copyblogger.com/persuasive-analogies/][Online: copyblogger.com.]]
+
+  <<starwars>> Munroe R (n.d.). mRNA Vaccine [Cartoon]. [[https://xkcd.com/2425][Online:
+  xkcd.com.]]
+
   <<chamary>> Chamary JV (25 Feb 2021). This Star Wars Analogy
   Explains How RNA Vaccines Work [Blog]. [[https://www.forbes.com/sites/jvchamary/2021/02/25/coronavirus-star-wars-mrna-vaccine/?sh=44b8718f5050][Online: forbes.com.]]
 
   <<gauld>> Gauld T (n.d.). Man vs. Machine [Cartoon]. [[https://i.redd.it/io5zqjcus9uy.jpg][Online: redd.it.]]
 
-  <<terminator>> Clark B (4 Aug 2020). The Persuasive Power of
-  Analogy [Blog]. [[https://copyblogger.com/persuasive-analogies/][Online: copyblogger.com.]]
-
-  <<xkcd>> Munroe R (n.d.). Pulsar Analogy [Cartoon]. [[https://xkcd.com/2413][Online:
-  xkcd.com.]]
-
-  <<starwars>> Munroe R (n.d.). mRNA Vaccine [Cartoon]. [[https://xkcd.com/2425][Online:
-  xkcd.com.]]
-
-  <<dict>> N.a. (n.d.). Analogy Examples With Simple Explanations
-  [Website]. [[https://examples.yourdictionary.com/analogy-ex.html][Online: yourdictionary.com.]]
