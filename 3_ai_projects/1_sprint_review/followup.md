@@ -1,0 +1,61 @@
+
+# Followup 1st Sprint Review Sept 10
+
+![img](./img/rugby.gif)
+
+
+## Presentations in general
+
+Kudos for the three excellent presentations on Friday morning. I
+was impressed with the results. This was our 10th meeting - only 30
+more to go!
+
+Key points to remember<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>:
+
+1.  Bullet point lists should be ordered (take control of how the
+    audience sees your content, and what they engage with)
+2.  Slides should have limited information on them. Limit text
+    elements.
+3.  Push yourself to provide illustrations, graphs. Analytical
+    audiences are especially grateful if you feed their hunger for
+    accuracy and validation.
+4.  Whenever you quantify, make sure to provide relative numbers and
+    sufficient information to place the numbers in the appropriate
+    context.
+
+
+## Sprint review presentations
+
+I will leave comments on individual projects in the discussion
+forum, especially if I come across interesting sources. As a
+participant, you can opt to unsubscribe from the forum at any
+time, if you feel that you're getting too much email!
+
+
+### Sonny and Dat - Genetic algorithms
+
+
+### Spencer and Jacob - Face recognition
+
+I found an interesting blog post [here](http://www.bnosac.be/index.php/blog/89-human-face-detection-with-r) with a short coding example
+that I believe is within your reach. There's also a link to an
+entire course on "[Computer vision with R and Python](https://lstat.kuleuven.be/training/coursedescriptions/ComputervisionwithRandPython)" from an
+excellent Belgian university (KU Leuven).
+
+
+### Hakeem - Sports performance
+
+At least three others, Emma and Fortunato (soccer players), and
+Malcolm (football), are also intereste in AI and sports. Malcolm
+also submitted a sprint review. You could even form one team of 4
+people if you wanted to, or two teams of two - I leave it to
+you. It can be an advantage to be in a team with people you
+already know.
+
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Presenting is an art all by itself. It's not usually part of
+the computer science training but it is superbly important on the
+job. To be able to present your results effectively is also an
+important data science skill.
