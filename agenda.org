@@ -143,6 +143,43 @@
   * [[https://github.com/birkenkrahe/ai482/tree/main/3_ai_projects/1_sprint_review][First sprint reviews]] (Team project)
   * Still no ideas? [[https://hai.stanford.edu/2021-spring-conference-agenda][See Stanford '21 conference]]
 
+* Week 5 - September 13
+
+  [[./img/analogy.gif]]
+
+  * Housekeeping
+  * Analogies
+  * Are we machines?
+
+** Housekeeping
+
+  #+attr_html: :width 300px
+  [[./img/breakfast.gif]]
+
+  * No more tests (participation 50%)
+  * Use the protocols instead
+  * This week: history and philosophy of AI
+
+** Analogies
+
+  #+attr_html: :width 300px
+  [[./img/rose.gif]]
+
+  * Full lecture available ([[https://github.com/birkenkrahe/ai482/blob/main/4_ai_history/analogy.org][GitHub]])
+  * "Your kiss is like a red, red rose."
+  * What are the limitations of this analogy?
+  * Analogies are persuasion tools
+
+** Are we machines?
+
+  #+attr_html: :width 300px
+  [[./img/robotarm.gif]]
+
+   * The Thinking Machine (1961):15'
+   * Pair up to discuss the analogies
+   * Discuss: "Humans are programmed"
+   * Present your findings
+
 * Footnotes
 
 [fn:1]"Structured group discussion" means that I'm providing a
