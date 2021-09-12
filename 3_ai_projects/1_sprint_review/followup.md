@@ -34,6 +34,13 @@ time, if you feel that you're getting too much email!
 
 ### Sonny and Dat - Genetic algorithms
 
+I'm not sure if AIMA references "ScienceDirect", an aggregator of
+many freely available science articles and books, by reputable
+science publisher Elsevier. This is often the first place I go to
+for a research overview. You can also set an alert here, like at
+scholar.google.com, but the return is more specific and relevant:
+[Genetic Algorithm at ScienceDirect](https://www.sciencedirect.com/topics/engineering/genetic-algorithm).
+
 
 ### Spencer and Jacob - Face recognition
 
