@@ -1,16 +1,16 @@
 
 # Table of Contents
 
--   [Week 2 - August 25](#org5cd3484)
--   [Week 2 - August 27](#org4814989)
--   [Week 3 - August 30](#org2103025)
--   [Week 4 - September 8](#org4a43db1)
--   [Week 4 - September 10](#org6db56a2)
--   [Week 5 - September 13](#org54166fd)
+-   [Week 2 - August 25](#org952d390)
+-   [Week 2 - August 27](#org65e0a5e)
+-   [Week 3 - August 30](#org71898ad)
+-   [Week 4 - September 8](#org2fb047d)
+-   [Week 4 - September 10](#org7deb226)
+-   [Week 5 - September 13](#orgc31da5d)
 
 
 
-<a id="org5cd3484"></a>
+<a id="org952d390"></a>
 
 # Week 2 - August 25
 
@@ -31,7 +31,7 @@
     -   Agendas will be posted
 
 
-<a id="org4814989"></a>
+<a id="org65e0a5e"></a>
 
 # Week 2 - August 27
 
@@ -41,7 +41,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org3b20590))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org72e0cc1))*
 
 
 ## Housekeeping
@@ -66,11 +66,11 @@
 
 ## References
 
-<a id="org3b20590"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="org72e0cc1"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="org2103025"></a>
+<a id="org71898ad"></a>
 
 # Week 3 - August 30
 
@@ -110,7 +110,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 
 
-<a id="org4a43db1"></a>
+<a id="org2fb047d"></a>
 
 # Week 4 - September 8
 
@@ -176,7 +176,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 </table>
 
 
-<a id="org6db56a2"></a>
+<a id="org7deb226"></a>
 
 # Week 4 - September 10
 
@@ -188,7 +188,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Still no ideas? [See Stanford '21 conference](https://hai.stanford.edu/2021-spring-conference-agenda)
 
 
-<a id="org54166fd"></a>
+<a id="orgc31da5d"></a>
 
 # Week 5 - September 13
 
@@ -213,7 +213,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 ![img](./img/rose.gif)
 
 -   Full lecture available ([GitHub](https://github.com/birkenkrahe/ai482/blob/main/4_ai_history/analogy.org))
--   *"Your kiss is like a red, red rose."*
+-   *"Your lips are like a red, red rose."*
 -   What are the limitations of this analogy?
 -   Analogies are persuasion tools
 
