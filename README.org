@@ -8,12 +8,12 @@
   * Emacs Org-mode files are rendered as Markdown.
   * For a TOC, open the bullet point list menu
 
-** [[https://github.com/birkenkrahe/ai482/blob/main/agenda.md][Agenda]]
-** [[https://github.com/birkenkrahe/ai482/blob/main/bookmarks.md][AI Bookmarks]]
-** [[https://github.com/birkenkrahe/ai482/blob/main/diary.md][AI Course diary]]
+** [[https://github.com/birkenkrahe/ai482/blob/main/agenda.org][Agenda]]
+** [[https://github.com/birkenkrahe/ai482/blob/main/bookmarks.org][AI Bookmarks]]
+** [[https://github.com/birkenkrahe/ai482/blob/main/diary.org][AI Course diary]]
 ** [[https://github.com/birkenkrahe/ai482/discussions][AI Discussion forums]]
-** [[https://github.com/birkenkrahe/ai482/blob/main/FAQ.md][AI Frequently Asked Questions (FAQ)]]
-** [[https://github.com/birkenkrahe/ai482/blob/main/syllabus.md][AI Syllabus]]
+** [[https://github.com/birkenkrahe/ai482/blob/main/FAQ.org][AI Frequently Asked Questions (FAQ)]]
+** [[https://github.com/birkenkrahe/ai482/blob/main/syllabus.org][AI Syllabus]]
 
 ** History
 
