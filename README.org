@@ -6,6 +6,7 @@
 
   * Repository for DSC 482.01 - Artificial Intelligence
   * Emacs Org-mode files are rendered as Markdown.
+  * For a TOC, open the bullet point list menu
 
 ** [[https://github.com/birkenkrahe/ai482/blob/main/agenda.md][Agenda]]
 ** [[https://github.com/birkenkrahe/ai482/blob/main/bookmarks.md][AI Bookmarks]]
@@ -17,7 +18,3 @@
 ** History
 
    First offered @Lyon: Fall 2021 (Undergrad). 
-
-** Books
-
-   https://github.com/birkenkrahe/ai482/blob/main/1_overview/img/books.jpg
