@@ -166,7 +166,7 @@
   [[./img/rose.gif]]
 
   * Full lecture available ([[https://github.com/birkenkrahe/ai482/blob/main/4_ai_history/analogy.org][GitHub]])
-  * /"Your kiss is like a red, red rose."/
+  * /"Your lips are like a red, red rose."/
   * What are the limitations of this analogy?
   * Analogies are persuasion tools
 
