@@ -1,16 +1,16 @@
 
 # Table of Contents
 
--   [Week 2 - August 25](#org9c1d658)
--   [Week 2 - August 27](#orgce25fb3)
--   [Week 3 - August 30](#org2d4bb99)
--   [Week 4 - September 8](#org48940e8)
--   [Week 4 - September 10](#orgf5e5544)
--   [Week 5 - September 13](#orgbee6e33)
+-   [Week 2 - August 25](#org5cd3484)
+-   [Week 2 - August 27](#org4814989)
+-   [Week 3 - August 30](#org2103025)
+-   [Week 4 - September 8](#org4a43db1)
+-   [Week 4 - September 10](#org6db56a2)
+-   [Week 5 - September 13](#org54166fd)
 
 
 
-<a id="org9c1d658"></a>
+<a id="org5cd3484"></a>
 
 # Week 2 - August 25
 
@@ -31,7 +31,7 @@
     -   Agendas will be posted
 
 
-<a id="orgce25fb3"></a>
+<a id="org4814989"></a>
 
 # Week 2 - August 27
 
@@ -41,7 +41,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org292507b))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org3b20590))*
 
 
 ## Housekeeping
@@ -66,11 +66,11 @@
 
 ## References
 
-<a id="org292507b"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="org3b20590"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="org2d4bb99"></a>
+<a id="org2103025"></a>
 
 # Week 3 - August 30
 
@@ -110,7 +110,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 
 
-<a id="org48940e8"></a>
+<a id="org4a43db1"></a>
 
 # Week 4 - September 8
 
@@ -176,7 +176,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 </table>
 
 
-<a id="orgf5e5544"></a>
+<a id="org6db56a2"></a>
 
 # Week 4 - September 10
 
@@ -188,7 +188,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Still no ideas? [See Stanford '21 conference](https://hai.stanford.edu/2021-spring-conference-agenda)
 
 
-<a id="orgbee6e33"></a>
+<a id="org54166fd"></a>
 
 # Week 5 - September 13
 
@@ -224,8 +224,8 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 
 -   [The Thinking Machine:15'20''](https://youtu.be/5YBIrc-6G-0?t=920)
 -   Pair up to discuss the analogies
--   Discuss: "Humans are programmed"
--   Present your findings
+-   Argue: "How are humans NOT like machines."
+-   Briefly present your findings
 
 
 # Footnotes
