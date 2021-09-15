@@ -79,28 +79,28 @@
 
 ** Ideas generation
 
-  * Goal: choice of topic
-  * Presentation (solo)
-  * [[https://github.com/birkenkrahe/ai482/discussions/4][Submit presentation ideas (Wed)]]
-  * AI application (*pick a team!*)
-  * Project canvas (Fri)
+   * Goal: choice of topic
+   * Presentation (solo)
+   * [[https://github.com/birkenkrahe/ai482/discussions/4][Submit presentation ideas (Wed)]]
+   * AI application (*pick a team!*)
+   * Project canvas (Fri)
 
 ** AI approaches pros/cons
 
    #+attr_html: :height 200px
    [[./img/approaches1.png]]
 
-  * [[https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/2_what_is_ai.md#pros-and-cons][Group exercise]]
-  * [[https://ideaboardz.com/for/AI%20approaches%20pros%20&amp;%20cons/4063343][Results on Kanban board]]
-  * [[https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf][Present and discuss in class]]
+   * [[https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/2_what_is_ai.md#pros-and-cons][Group exercise]]
+   * [[https://ideaboardz.com/for/AI%20approaches%20pros%20&amp;%20cons/4063343][Results on Kanban board]]
+   * [[https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf][Present and discuss in class]]
 * Week 4 - September 8
 
-   #+attr_html: :height 250px
-   [[./img/wayne.png]]
+  #+attr_html: :height 250px
+  [[./img/wayne.png]]
 
-   #+begin_quote
-   "I'm concerned with the world in which we'll live tomorrow."
-   #+end_quote
+  #+begin_quote
+  "I'm concerned with the world in which we'll live tomorrow."
+  #+end_quote
 
 ** Housekeeping
 
@@ -119,7 +119,7 @@
    * [[https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/ProjectCanvasSampleAI.pdf][Project Canvas (sample)]]
    * [[https://github.com/birkenkrahe/ai482/tree/main/3_ai_projects/1_sprint_review][First sprint review]]
 
-** History of AI      
+** History of AI
 
    [[./img/newell.png]]
 
@@ -129,10 +129,10 @@
 
 ** Group discussion
 
-| A: Can technologists learn anything from historical documents? If yes (or no), why (not)? |
-| B: What's the feeling tone of the film? Optimism, scepticism, ambitions?                  |
-| C: SWOT analysis (Strenghts/Weaknesses/Opportunities/Threats)                             |
-| D: What are the key questions/issues here: are they still current?                        |
+   | A: Can technologists learn anything from historical documents? If yes (or no), why (not)? |
+   | B: What's the feeling tone of the film? Optimism, scepticism, ambitions?                  |
+   | C: SWOT analysis (Strenghts/Weaknesses/Opportunities/Threats)                             |
+   | D: What are the key questions/issues here: are they still current?                        |
 
 * Week 4 - September 10
 
@@ -153,31 +153,68 @@
 
 ** Housekeeping
 
-  #+attr_html: :width 300px
-  [[./img/breakfast.gif]]
+   #+attr_html: :width 300px
+   [[./img/breakfast.gif]]
 
-  * No more tests (participation 50%)
-  * Use the protocols instead
-  * This week: history and philosophy of AI
+   * No more tests (participation 50%)
+   * Use the protocols instead
+   * This week: history and philosophy of AI
 
 ** Analogies
 
-  #+attr_html: :width 300px
-  [[./img/rose.gif]]
+   #+attr_html: :width 300px
+   [[./img/rose.gif]]
 
-  * Full lecture available ([[https://github.com/birkenkrahe/ai482/blob/main/4_ai_history/analogy.org][GitHub]])
-  * /"Your lips are like a red, red rose."/
-  * What are the limitations of this analogy?
-  * Analogies are persuasion tools
+   * Full lecture available ([[https://github.com/birkenkrahe/ai482/blob/main/4_ai_history/analogy.org][GitHub]])
+   * /"Your lips are like a red, red rose."/
+   * What are the limitations of this analogy?
+   * Analogies are persuasion tools
 
 ** Are we machines?
 
-  #+attr_html: :width 300px
-  [[./img/robotarm.gif]]
+   #+attr_html: :width 300px
+   [[./img/robotarm.gif]]
 
-   * [[https://youtu.be/5YBIrc-6G-0?t=920][The Thinking Machine:15'20'']]
+   * [[https://youtu.be/5YBIrc-6G-0?t=920][The Thinking Machine (15'-33')]]
    * Pair up to discuss the analogies
    * Argue: "How are humans NOT like machines."
+   * Briefly present your findings
+
+* Week 5 - September 15
+
+  #+attr_html: :width 300px
+  [[./img/western.png]]
+
+  #+begin_quote
+  "Intelligent behavior is rule-obeying behavior."
+  #+end_quote
+
+** Automatic creativity?
+
+*** Cook's 1928 [[https://www.brainpickings.org/2012/01/06/plotto/][Plotto book (Legro, 2012)]]
+
+   #+attr_html: :width 400px
+   [[./img/cook.png]]
+  
+
+*** [[https://slate.com/news-and-politics/2009/07/the-man-who-invented-the-hollywood-schlock-machine.html][Wycliffe Hill's 1931 plot robot (Collins, 2009)]]
+
+     #+attr_html: :width 400px
+     [[./img/plotto.jpg]]
+
+
+*** [[https://youtu.be/VbWrs8wm5sA][Plotto game (Redgrave, 2018)]]
+
+    #+attr_html: :width 400px
+    [[./img/plottogame.png]]
+
+
+** Creativity and AI
+
+   * [[https://youtu.be/5YBIrc-6G-0?t=920][The Thinking Machine (34'-47')']]
+   * When do you feel creative?
+   * Do you think AI could help or replace this?
+   * What's intelligent about your AI application?
    * Briefly present your findings
 
 * Footnotes

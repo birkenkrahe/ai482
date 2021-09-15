@@ -1,6 +1,4 @@
-
 #+options: toc:nil
-
 * Schedule
    | No | DATE       | PRESENTATIONS                   | PROTOCOLS              | PROJECTS             |
    |----+------------+---------------------------------+------------------------+----------------------|
@@ -20,15 +18,15 @@
    | 11 | Fri-10-Sep | APPLICATIONS                    |                        | 1st sprint review    |
    |----+------------+---------------------------------+------------------------+----------------------|
    | 12 | Mon-13-Sep | History of AI (MB)              | Malcolm Howard         |                      |
-   | 13 | Wed-15-Sep | History of AI (MB)              | Spencer Rhoden         |                      |
-   | 14 | Fri-17-Sep | History of AI (MB)              | Amber McClurg          |                      |
+   | 13 | Wed-15-Sep | History of AI (MB)              | Amber McClurg          |                      |
+   | 14 | Fri-17-Sep | History of AI (MB)              | Spencer Rhoden         |                      |
    |----+------------+---------------------------------+------------------------+----------------------|
    | 15 | Mon-20-Sep | AI for sales and marketing (MB) |                        |                      |
    | 16 | Wed-22-Sep | AI for sales and marketing (MB) | Nick Norwood           |                      |
    | 17 | Fri-24-Sep | AI for sales and marketing (MB) | Hakeem Yatim           |                      |
    |----+------------+---------------------------------+------------------------+----------------------|
-   | 18 | Mon-27-Sep | Intelligent Agents (MB)         | Dat O                  |                      |
-   | 19 | Wed-29-Sep | Intelligent Agents (MB)         |                        |                      |
+   | 18 | Mon-27-Sep | Intelligent Agents (MB)         |                        |                      |
+   | 19 | Wed-29-Sep | Intelligent Agents (MB)         | Dat O                  |                      |
    | 20 | Fri-1-Oct  | Intelligent Agents (MB)         | Jacob Sampley          |                      |
    |----+------------+---------------------------------+------------------------+----------------------|
    |    | Mon-4-Oct  | --FALL BREAK--                  | --FALL BREAK--         |                      |
