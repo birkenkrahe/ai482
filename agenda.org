@@ -191,19 +191,17 @@
 
 ** Automatic creativity?
 
-*** Cook's 1928 [[https://www.brainpickings.org/2012/01/06/plotto/][Plotto book (Legro, 2012)]]
+*** [[legro][Plotto book (Legro, 2012)]]
 
-   #+attr_html: :width 400px
-   [[./img/cook.png]]
+     #+attr_html: :width 400px
+     [[./img/cook.png]]
   
-
-*** [[https://slate.com/news-and-politics/2009/07/the-man-who-invented-the-hollywood-schlock-machine.html][Wycliffe Hill's 1931 plot robot (Collins, 2009)]]
+*** [[collins][Wycliffe Hill's 1931 plot robot (Collins, 2009)]]
 
      #+attr_html: :width 400px
      [[./img/plotto.jpg]]
 
-
-*** [[https://youtu.be/VbWrs8wm5sA][Plotto game (Redgrave, 2018)]]
+*** [[redgrave][Plotto game (Redgrave, 2018)]]
 
     #+attr_html: :width 400px
     [[./img/plottogame.png]]
@@ -216,6 +214,21 @@
    * Do you think AI could help or replace this?
    * What's intelligent about your AI application?
    * Briefly present your findings
+
+** References
+
+   <<collins>> Collins P (6 Jul 2009). The King of All Formulas
+   [Blog]. [[https://slate.com/news-and-politics/2009/07/the-man-who-invented-the-hollywood-schlock-machine.html][Online: slate.com.]]
+
+   <<legro>> Legro M (6 Jan 2012). Plotto: The Master Book of All
+   Plots [Blog]. [[https://www.brainpickings.org/2012/01/06/plotto/][Online: brainpickings.org.]]
+
+   <<redgrave>> Redgrave AL (29 Apr 2018). Plotto Demo
+   [Video]. [[https://youtu.be/VbWrs8wm5sA][Online: youtube.com]].
+
+* Week 5 - September 17
+
+  * Topic change? Anyone interested in "Grammarly"?
 
 * Footnotes
 
