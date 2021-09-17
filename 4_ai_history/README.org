@@ -1,0 +1,94 @@
+* History of AI
+
+AI as a systematic, scientific field of investigation dates back about
+80 years - the early 1940s. Its beginnings coincide with the
+beginnings of digital computing, which is not surprising. 
+
+As you saw in the 1961 MIT film, computers and "thinking machines" are
+largely identified. Much of the history of AI since those early days
+has been about understanding the differences and similarities between
+computer science and AI.
+
+Quite early on, in the late 1950s, another term entered public
+consciousness (a superset of scientific consciousness, which is
+usually, but not always, and not by necessity, preceded by scientific
+consciousness): machine learning.
+
+The three terms on which the field of AI studies is founded are
+therefore: intelligence, thinking, and learning. We still don't know
+much by way of science about any of these[fn:1]. This could be one
+reason why AI in practice has gradually moved away from trying to
+imitate humans - the term 'learning' in 'machine learning' corresponds
+to only a barely visible fraction of the entire spectrum of human
+learning. It's really more of a brand label, and less of a meaningful
+attribute. The same could be said for the brand "AI" itself.
+
+This experience - not being able to make much use of humanity - has
+lead to AI as a discipline increasingly dominated by machines, and by
+machine-relevant things. Which is not bad in itself - many
+technological developments rely on inventors and practictioners
+getting very close to their contraptions and inventions: the
+development of engines, of cars, of rockets, and all the exploration
+attached to these (energy, mobility, space) are examples. These were
+improved not by looking back over one's shoulder at people but by
+focusing on the artifacts themselves. Similar things are happening in
+AI right now.
+
+** AI right now
+ By way of an outlook - here are the topics featured as part of a major
+ AI research program at Stanford U. ([[https://hai.stanford.edu/events/hoffman-yee-symposium][Hoffmann-Yee Research Grants]]) at
+ the end of 2021:
+
+ 1) Toward grounded, adaptive communication agents
+ 2) Curious, self-aware AI agents to build cognitive models and
+    understand developmental disorders
+ 3) Intelligent wearable robotic devices for augmenting human
+    locomotion
+ 4) An AI "Time Machine" for investigating the history of concepts
+ 5) AI tutors to help prepare students for the 21st century workforce
+
+ As you can read in the textbook, AIMA, development of agents (=
+ devices that do something, exhibiting "rational behavior") is supposed
+ to dominate. Let's take a closer look to see if that's true.
+
+ | TOPIC                          | AI APPLICATION                 |
+ |--------------------------------+--------------------------------|
+ | Agents for human communication | Human behavior                 |
+ | Curiosity and self-awareness   | Human behavior, Human thinking |
+ | Wearable robots                | Human behavior                 |
+ | Historical data analysis       | Human thinking                 |
+ | Tutoring                       | Human behavior                 |
+
+** Historic events
+
+ |-------+---------------------+---------------------+------------------|
+ |  DATE | TOPIC               | EXAMPLE             | PUBLICATION      |
+ |-------+---------------------+---------------------+------------------|
+ |  1940 | Turing machines     | Artificial neurons  | Turing, 1947     |
+ | -1960 | [[https://www.sciencedirect.com/topics/engineering/hebbian-learning][Hebbian learning]]    | Pavlovian response  | Hebb, 1949       |
+ |       | Machine learning    | Checkers program    | Samuel, 1952     |
+ |-------+---------------------+---------------------+------------------|
+ |  1960 | Chatbots            | [[http://eliza.botlibre.com/][Eliza / Parry]]       | Weizenbaum, 1966 |
+ | -1980 | Natural language    | Hacker, Shrdlu      | Winograd, 1971   |
+ |       | Supervised learning | Perceptrons         |                  |
+ |-------+---------------------+---------------------+------------------|
+ |  1980 | Genetic programming | ???                 |                  |
+ | -2010 | Expert systems      | [Accenture]         |                  |
+ |-------+---------------------+---------------------+------------------|
+ |  2010 | "Big Data"          | Image recognition   |                  |
+ | -2020 | Deep Learning       | Machine translation |                  |
+ |-------+---------------------+---------------------+------------------|
+
+* Footnotes
+
+[fn:1]Without wanting to go into it in great detail: what is, and what
+is not scientific knowledge, is of great interest and relevance not
+just for AI. In the data modeling seminar the other day, I dissected a
+quote by noted psychologist Jean Piaget, which essentially said that
+we do not have direct access to reality except through models. Those
+of you trained in philosophy, may remember the parable of Plato's
+Cave, which is essentially about the same thing but puts God (in
+Plato's parable, this is the sun), in the picture, too. In fact, for
+God-fearing people, no concept of reality is complete without
+Him. There is, fortunately, no real dissent between science and faith
+(in fact, for most of human history, the opposite is the case).
