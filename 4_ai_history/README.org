@@ -5,86 +5,128 @@
 #+INFOJS_OPT: :view:info
 * History of AI
 
-AI as a systematic, scientific field of investigation dates back about
-80 years - the early 1940s. Its beginnings coincide with the
-beginnings of digital computing, which is not surprising. 
+  AI as a systematic, scientific field of investigation dates back about
+  80 years - the early 1940s. Its beginnings coincide with the
+  beginnings of digital computing, which is not surprising.
 
-As you saw in the 1961 MIT film, computers and "thinking machines" are
-largely identified. Much of the history of AI since those early days
-has been about understanding the differences and similarities between
-computer science and AI.
+  As you saw in the 1961 MIT film, computers and "thinking machines" are
+  largely identified. Much of the history of AI since those early days
+  has been about understanding the differences and similarities between
+  computer science and AI.
 
-Quite early on, in the late 1950s, another term entered public
-consciousness (a superset of scientific consciousness, which is
-usually, but not always, and not by necessity, preceded by scientific
-consciousness): machine learning.
+  Quite early on, in the late 1950s, another term entered public
+  consciousness (a superset of scientific consciousness, which is
+  usually, but not always, and not by necessity, preceded by scientific
+  consciousness): machine learning.
 
-The three terms on which the field of AI studies is founded are
-therefore: intelligence, thinking, and learning. We still don't know
-much by way of science about any of these[fn:1]. This could be one
-reason why AI in practice has gradually moved away from trying to
-imitate humans - the term 'learning' in 'machine learning' corresponds
-to only a barely visible fraction of the entire spectrum of human
-learning. It's really more of a brand label, and less of a meaningful
-attribute. The same could be said for the brand "AI" itself.
+  The three terms on which the field of AI studies is founded are
+  therefore: intelligence, thinking, and learning. We still don't know
+  much by way of science about any of these[fn:1]. This could be one
+  reason why AI in practice has gradually moved away from trying to
+  imitate humans - the term 'learning' in 'machine learning' corresponds
+  to only a barely visible fraction of the entire spectrum of human
+  learning. It's really more of a brand label, and less of a meaningful
+  attribute. The same could be said for the brand "AI" itself.
 
-This experience - not being able to make much use of humanity - has
-lead to AI as a discipline increasingly dominated by machines, and by
-machine-relevant things. Which is not bad in itself - many
-technological developments rely on inventors and practictioners
-getting very close to their contraptions and inventions: the
-development of engines, of cars, of rockets, and all the exploration
-attached to these (energy, mobility, space) are examples. These were
-improved not by looking back over one's shoulder at people but by
-focusing on the artifacts themselves. Similar things are happening in
-AI right now.
+  This experience - not being able to make much use of humanity - has
+  lead to AI as a discipline increasingly dominated by machines, and by
+  machine-relevant things. Which is not bad in itself - many
+  technological developments rely on inventors and practictioners
+  getting very close to their contraptions and inventions: the
+  development of engines, of cars, of rockets, and all the exploration
+  attached to these (energy, mobility, space) are examples. These were
+  improved not by looking back over one's shoulder at people but by
+  focusing on the artifacts themselves. Similar things are happening in
+  AI right now.
 
 ** AI right now
- By way of an outlook - here are the topics featured as part of a major
- AI research program at Stanford U. ([[https://hai.stanford.edu/events/hoffman-yee-symposium][Hoffmann-Yee Research Grants]]) at
- the end of 2021:
+   By way of an outlook - here are the topics featured as part of a major
+   AI research program at Stanford U. ([[https://hai.stanford.edu/events/hoffman-yee-symposium][Hoffmann-Yee Research Grants]]) at
+   the end of 2021:
 
- 1) Toward grounded, adaptive communication agents
- 2) Curious, self-aware AI agents to build cognitive models and
-    understand developmental disorders
- 3) Intelligent wearable robotic devices for augmenting human
-    locomotion
- 4) An AI "Time Machine" for investigating the history of concepts
- 5) AI tutors to help prepare students for the 21st century workforce
+   1) Toward grounded, adaptive communication agents
+   2) Curious, self-aware AI agents to build cognitive models and
+      understand developmental disorders
+   3) Intelligent wearable robotic devices for augmenting human
+      locomotion
+   4) An AI "Time Machine" for investigating the history of concepts
+   5) AI tutors to help prepare students for the 21st century workforce
 
- As you can read in the textbook, AIMA, development of agents (=
- devices that do something, exhibiting "rational behavior") is supposed
- to dominate. Let's take a closer look to see if that's true.
+   As you can read in the textbook, AIMA, development of agents (=
+   devices that do something, exhibiting "rational behavior") is supposed
+   to dominate. Let's take a closer look to see if that's true.
 
- | TOPIC                          | AI APPLICATION                 |
- |--------------------------------+--------------------------------|
- | Agents for human communication | Human behavior                 |
- | Curiosity and self-awareness   | Human behavior, Human thinking |
- | Wearable robots                | Human behavior                 |
- | Historical data analysis       | Human thinking                 |
- | Tutoring                       | Human behavior                 |
+   | TOPIC                          | AI APPLICATION                 |
+   |--------------------------------+--------------------------------|
+   | Agents for human communication | Human behavior                 |
+   | Curiosity and self-awareness   | Human behavior, Human thinking |
+   | Wearable robots                | Human behavior                 |
+   | Historical data analysis       | Human thinking                 |
+   | Tutoring                       | Human behavior                 |
 
 ** Timeline
 
- |-------+-----------------------+---------------------+------------------|
- |  DATE | TOPIC                 | EXAMPLE             | PUBLICATION      |
- |-------+-----------------------+---------------------+------------------|
- |  1940 | Turing machines       | Artificial neurons  | Turing, 1947     |
- | -1960 | [[https://www.sciencedirect.com/topics/engineering/hebbian-learning][Hebbian learning]]      | Pavlovian response  | Hebb, 1949       |
- |       | Machine learning      | Checkers program    | Samuel, 1952     |
- |-------+-----------------------+---------------------+------------------|
- |  1960 | Chatbots              | [[http://eliza.botlibre.com/][Eliza / Parry]]       | Weizenbaum, 1966 |
- | -1980 | Natural language      | Hacker, [[https://youtu.be/QAJz4YKUwqw][SHRDLU]]      | Winograd, 1971   |
- |       | Supervised learning   | [[https://youtu.be/4Gac5I64LM4][Perceptrons]]         |                  |
- |-------+-----------------------+---------------------+------------------|
- |  1980 | Genetic programming   | ???                 |                  |
- | -2010 | Expert systems        | [Accenture/Schank]  |                  |
- |-------+-----------------------+---------------------+------------------|
- |  2010 | "[[https://youtu.be/0jspaMLxBig][Deep Learning]]"       | Image recognition   |                  |
- | -2020 | (at scale / Big Data) | Machine translation |                  |
- |-------+-----------------------+---------------------+------------------|
+   |-------+---------------------+------------------------------+---------------------|
+   |  DATE | TOPIC               | EXAMPLE                      | PUBLICATION         |
+   |-------+---------------------+------------------------------+---------------------|
+   |  1940 | Turing machines     | Artificial neurons           | [[https://www.csee.umbc.edu/courses/471/papers/turing.pdf][Turing, 1950]]        |
+   | -1960 | [[https://www.sciencedirect.com/topics/engineering/hebbian-learning][Hebbian learning]]    | Pavlovian response           | [[https://neuroquotient.com/en/pshychology-and-neuroscience-hebb-principle-rule/][Hebb, 1949]]          |
+   |       | Machine learning    | Checkers program             | [[https://drive.google.com/file/d/1mm-NXhidpnkzWSD47jnoJWza8aP0q7f8/view?usp=sharing][Samuel, 1952]]        |
+   |-------+---------------------+------------------------------+---------------------|
+   |  1960 | Chatbots            | [[http://eliza.botlibre.com/][Eliza / Parry]]                | [[https://jerz.setonhill.edu/if/canon/eliza.htm][Weizenbaum, 1966]]    |
+   | -1980 | Natural language    | Hacker, [[https://hci.stanford.edu/winograd/shrdlu/][SHRDLU]]               | Winograd, 1971      |
+   |       | Supervised learning | Perceptrons                  | [[https://youtu.be/4Gac5I64LM4][Ritvikmath, 2019]]    |
+   |-------+---------------------+------------------------------+---------------------|
+   |  1980 | Genetic programming | Pattern recognition (BEAGLE) | [[http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/kybernetes_forsyth.pdf][Forsyth, 1981]]       |
+   | -2010 | Expert systems      | Drug recommender ([[https://aithefuture.wordpress.com/2018/05/08/mycin/][MYCIN]])     | [[https://drive.google.com/file/d/1i1CL6jLvqUw4frKltVrkX8MJg2U3AnAC/view?usp=sharing][Schank/Tesler, 1969]] |
+   |-------+---------------------+------------------------------+---------------------|
+   |  2010 | "[[https://youtu.be/0jspaMLxBig][Deep Learning]]"     | Image recognition            | [[https://jontallen.ece.illinois.edu/uploads/498-NS.21/Sejnowski-EffectivenessDeepLearningAI.20.pdf][Sejnowski, 2020]]     |
+   | -2020 |                     | Machine translation          |                     |
+   |-------+---------------------+------------------------------+---------------------|
+
+   /Image: MYCIN - an early expert system for medical consultation
+   (aithefuture, 2018)/
+
+   [[./img/mycin.png]]
+
+* References
+
+  aithefuture (8 May 2018).  MYCIN Expert System [Website]. Online:
+  [[https://aithefuture.wordpress.com/2018/05/08/mycin/][aithefuture.wordpress.com]].
+
+  Calbet J (14 Mar 2018). Hebb's Rule with an analogy. Psychology and
+  neuroscience [Blog]. [[https://neuroquotient.com/en/pshychology-and-neuroscience-hebb-principle-rule/][Online: neuroquotient.com]].
+
+  Forsyth R (1981). Beagle - A Darwinian Approach to Pattern
+  Recognition. In: Kybernetes 10:159-166.
+
+  Samuel AL (1959). Some Studies in Machine Learning Using the Game of
+  Checkers. In: IBM Journal 3(3):535-554.
+
+  Schank RC / Tesler LG (1969). A Conceptual Dependency Parser for
+  Natural Language. In: Proc. Int. Conf. on Comp. Linguistics COLING
+  1969, Sanga Saby, Sweden. [[https://aclanthology.org/C69-0201.pdf][Online: aclanthology.org]].
+
+  Sejnowski TJ (2020). The unreasonable effectiveness of deep learning
+  in artificial intelligence[fn:2]. In: Proc. Nat. Acad. Sc. 117(49):
+  30033-30038. doi:10.1073/pnas.1907373117.
+
+  Turing AM (1950). Computing Machinery and Intelligence. In: Mind
+  49:433-460.
+
+  Weizenbaum, J (1966). ELIZA - A Computer Program for the Study of
+  Natural Language Communication between Man and Machine. In:
+  Communications of the ACM 9 (1966): 36-45.
+
+  Wigner E (1960). The unreasonable effectiveness of mathematics in
+  the natural sciences. In: Comm. in Pure and Applied Mathematics
+  13(1).
 
 * Footnotes
+
+[fn:2]The title is a pun on a famous article by physicist Eugene
+Wigner (1960), "[[https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf][The Unreasonable Effectiveness Of Mathematics In The
+Natural Sciences]]", which is worth reading, too.
 
 [fn:1]Without wanting to go into it in great detail: what is, and what
 is not scientific knowledge, is of great interest and relevance not
