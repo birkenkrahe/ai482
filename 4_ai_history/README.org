@@ -66,23 +66,23 @@
 
 ** Timeline
 
-   |-------+---------------------+------------------------------+---------------------|
-   |  DATE | TOPIC               | EXAMPLE                      | PUBLICATION         |
-   |-------+---------------------+------------------------------+---------------------|
-   |  1940 | Turing machines     | Artificial neurons           | [[https://www.csee.umbc.edu/courses/471/papers/turing.pdf][Turing, 1950]]        |
-   | -1960 | [[https://www.sciencedirect.com/topics/engineering/hebbian-learning][Hebbian learning]]    | Pavlovian response           | [[https://neuroquotient.com/en/pshychology-and-neuroscience-hebb-principle-rule/][Hebb, 1949]]          |
-   |       | Machine learning    | Checkers program             | [[https://drive.google.com/file/d/1mm-NXhidpnkzWSD47jnoJWza8aP0q7f8/view?usp=sharing][Samuel, 1952]]        |
-   |-------+---------------------+------------------------------+---------------------|
-   |  1960 | Chatbots            | [[http://eliza.botlibre.com/][Eliza / Parry]]                | [[https://jerz.setonhill.edu/if/canon/eliza.htm][Weizenbaum, 1966]]    |
-   | -1980 | Natural language    | Hacker, [[https://hci.stanford.edu/winograd/shrdlu/][SHRDLU]]               | Winograd, 1971      |
-   |       | Supervised learning | Perceptrons                  | [[https://youtu.be/4Gac5I64LM4][Ritvikmath, 2019]]    |
-   |-------+---------------------+------------------------------+---------------------|
-   |  1980 | Genetic programming | Pattern recognition (BEAGLE) | [[http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/kybernetes_forsyth.pdf][Forsyth, 1981]]       |
-   | -2010 | Expert systems      | Drug recommender ([[https://aithefuture.wordpress.com/2018/05/08/mycin/][MYCIN]])     | [[https://drive.google.com/file/d/1i1CL6jLvqUw4frKltVrkX8MJg2U3AnAC/view?usp=sharing][Schank/Tesler, 1969]] |
-   |-------+---------------------+------------------------------+---------------------|
-   |  2010 | "[[https://youtu.be/0jspaMLxBig][Deep Learning]]"     | Image recognition            | [[https://jontallen.ece.illinois.edu/uploads/498-NS.21/Sejnowski-EffectivenessDeepLearningAI.20.pdf][Sejnowski, 2020]]     |
-   | -2020 |                     | Machine translation          |                     |
-   |-------+---------------------+------------------------------+---------------------|
+   |-------+-----------------------+------------------------------+---------------------|
+   |  DATE | TOPIC                 | EXAMPLE                      | PUBLICATION         |
+   |-------+-----------------------+------------------------------+---------------------|
+   |  1940 | Turing machines       | Artificial neurons           | [[https://www.csee.umbc.edu/courses/471/papers/turing.pdf][Turing, 1950]]        |
+   | -1960 | [[https://www.sciencedirect.com/topics/engineering/hebbian-learning][Hebbian learning]]      | Pavlovian response           | [[https://neuroquotient.com/en/pshychology-and-neuroscience-hebb-principle-rule/][Hebb, 1949]]          |
+   |       | Machine learning      | Checkers program             | [[https://drive.google.com/file/d/1mm-NXhidpnkzWSD47jnoJWza8aP0q7f8/view?usp=sharing][Samuel, 1952]]        |
+   |-------+-----------------------+------------------------------+---------------------|
+   |  1960 | Chatbots              | [[http://eliza.botlibre.com/][Eliza / Parry]]                | [[https://jerz.setonhill.edu/if/canon/eliza.htm][Weizenbaum, 1966]]    |
+   | -1980 | Natural language      | Hacker, [[https://hci.stanford.edu/winograd/shrdlu/][SHRDLU]]               | Winograd, 1971      |
+   |       | Supervised learning   | Perceptrons                  | [[https://youtu.be/4Gac5I64LM4][Ritvikmath, 2019]]    |
+   |-------+-----------------------+------------------------------+---------------------|
+   |  1980 | Genetic programming   | Pattern recognition (BEAGLE) | [[http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/kybernetes_forsyth.pdf][Forsyth, 1981]]       |
+   | -2010 | Expert systems        | Drug recommender ([[https://aithefuture.wordpress.com/2018/05/08/mycin/][MYCIN]])     | [[https://drive.google.com/file/d/1i1CL6jLvqUw4frKltVrkX8MJg2U3AnAC/view?usp=sharing][Schank/Tesler, 1969]] |
+   |-------+-----------------------+------------------------------+---------------------|
+   |  2010 | "[[https://youtu.be/0jspaMLxBig][Deep Learning]]"[fn:3] | Image recognition            | [[https://jontallen.ece.illinois.edu/uploads/498-NS.21/Sejnowski-EffectivenessDeepLearningAI.20.pdf][Sejnowski, 2020]]     |
+   | -2020 |                       | Machine translation          |                     |
+   |-------+-----------------------+------------------------------+---------------------|
 
    /Image: MYCIN - an early expert system for medical consultation
    (aithefuture, 2018)/
@@ -123,6 +123,11 @@
   13(1).
 
 * Footnotes
+
+[fn:3]This is a long interview on Deep Learning between Lex Fridman
+and Andrew Ng. Fridman is an AI researcher at MIT, Ng at Stanford U. I
+love Fridman's interviews - he regularly has exciting guests like Elon
+Musk, Roger Penrose, and others.
 
 [fn:2]The title is a pun on a famous article by physicist Eugene
 Wigner (1960), "[[https://www.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf][The Unreasonable Effectiveness Of Mathematics In The
