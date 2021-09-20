@@ -5,13 +5,11 @@
 #+INFOJS_OPT: :view:info
 * Agents and environments
 
+** Microworld-view
+
   AIMA: agent-world vs. environment view
 
   [[./img/agents.png]]
-
-  Modified process modeling view (BPMN diagram):
-
-  [[./img/agents_and_environments.png]]
 
 ** Rational agent success
 
@@ -43,13 +41,19 @@
 **  Definition of a rational agent
 
    #+begin_quote
-   For each possible percept sequence, a rational agent should select
+   "For each possible percept sequence, a rational agent should select
    an action that is expected to maximize its performance measure,
    given the evidence provided by the percept sequence and whatever
-   built-in knowledge the agent has.
+   built-in knowledge the agent has." ([[aima][AIMA]])
    #+end_quote
+
+** Process view
+
+  Modified process modeling view (BPMN diagram):
+
+  [[./img/agents_and_environments.png]]
 
 * References
 
-  Norvig P/Russell S (2021). AI - A Modern Approach (4th ed). Pearson.
+  <<aima>> Norvig P/Russell S (2021). AI - A Modern Approach (4th ed). Pearson.
 
