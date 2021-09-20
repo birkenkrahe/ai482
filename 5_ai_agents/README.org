@@ -92,6 +92,12 @@
   <<matloff>> Matloff N (2020). Probability and Statistics for Data
   Science: Math + R + Data. CRC Press.
 
+* Whiteboards
+
+  * [[https://drive.google.com/drive/folders/1cVty0VxQ2pU99cOk8LD-rJPsOi0pOm7Z?usp=sharing][September 20, 2021]]
+  * September 22, 2021
+  * September 24, 2021
+
 * Footnotes
 
 [fn:3]The answer is yes: whenever the maximizing or minimizing

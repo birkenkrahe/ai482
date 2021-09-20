@@ -1,17 +1,18 @@
 
 # Table of Contents
 
--   [Agents and environments](#orge5969b2)
-    -   [Microworld-view](#org0a03798)
-    -   [Rational agent success](#orge2c33b8)
-    -   [Example: Vacuum-cleaner "Rumba"](#orgda92eec)
-    -   [Definition of a rational agent](#orgcf50c63)
-    -   [Process view](#org90c14ab)
--   [References](#org5066249)
+-   [Agents and environments](#orgdea20b5)
+    -   [Microworld-view](#org11380b6)
+    -   [Rational agent success](#org27dd1ca)
+    -   [Example: Vacuum-cleaner "Rumba"](#orgbeddbb2)
+    -   [Definition of a rational agent](#org598b73f)
+    -   [Process view](#org7842b9f)
+-   [References](#org803aa10)
+-   [Whiteboards](#orgb55c02f)
 
 
 
-<a id="orge5969b2"></a>
+<a id="orgdea20b5"></a>
 
 # Agents and environments
 
@@ -26,10 +27,10 @@ analytic framework, much like the distinction between supervised and
 unsupervised learning that we will look at next.
 
 This lecture corresponds to the chapter 2 content of the textbook
-([Russell/Norvig](#org368d7ad), 2021).
+([Russell/Norvig](#orgcdc6331), 2021).
 
 
-<a id="org0a03798"></a>
+<a id="org11380b6"></a>
 
 ## Microworld-view
 
@@ -48,7 +49,7 @@ output and optimizing functions when following a process<sup><a id="fnr.2" class
 Source: AIMA - agent-world vs. environment view
 
 
-<a id="orge2c33b8"></a>
+<a id="org27dd1ca"></a>
 
 ## Rational agent success
 
@@ -60,7 +61,7 @@ Success of a rational agent in this simple picture depends on:
 4.  the agent's percept sequence to date
 
 
-<a id="orgda92eec"></a>
+<a id="orgbeddbb2"></a>
 
 ## Example: Vacuum-cleaner "Rumba"
 
@@ -128,17 +129,17 @@ that controlled irrationality is the core of creative behavior and
 originality.
 
 
-<a id="orgcf50c63"></a>
+<a id="org598b73f"></a>
 
 ## Definition of a rational agent
 
 > "For each possible percept sequence, a rational agent should select
 > an action that is expected to maximize its performance measure,
 > given the evidence provided by the percept sequence and whatever
-> built-in knowledge the agent has." ([AIMA](#org368d7ad))
+> built-in knowledge the agent has." ([AIMA](#orgcdc6331))
 
 
-<a id="org90c14ab"></a>
+<a id="org7842b9f"></a>
 
 ## Process view
 
@@ -149,15 +150,24 @@ diagram below.
 ![img](./img/agents_and_environments.png)
 
 
-<a id="org5066249"></a>
+<a id="org803aa10"></a>
 
 # References
 
-<a id="org368d7ad"></a> Russell S/Norvig P (2021). AI - A Modern Approach (4th
+<a id="orgcdc6331"></a> Russell S/Norvig P (2021). AI - A Modern Approach (4th
 ed). Pearson.
 
-<a id="org6757222"></a> Matloff N (2020). Probability and Statistics for Data
+<a id="orgfbc62e9"></a> Matloff N (2020). Probability and Statistics for Data
 Science: Math + R + Data. CRC Press.
+
+
+<a id="orgb55c02f"></a>
+
+# Whiteboards
+
+-   [September 20, 2021](https://drive.google.com/drive/folders/1cVty0VxQ2pU99cOk8LD-rJPsOi0pOm7Z?usp=sharing)
+-   September 22, 2021
+-   September 24, 2021
 
 
 # Footnotes
@@ -166,7 +176,7 @@ Science: Math + R + Data. CRC Press.
 spaces (e.g. the different combinations when rolling a dice). A better
 way of thinking about probability is as a process of creating one
 record after another - essentially an event log of stochastic
-events. Cp. [Matloff (2020)](#org6757222).
+events. Cp. [Matloff (2020)](#orgfbc62e9).
 
 <sup><a id="fn.2" href="#fnr.2">2</a></sup> You could also look at the job of learning in terms of incoming
 or outgoing data, or different data formats. This would be closer to
