@@ -5,22 +5,45 @@
 #+INFOJS_OPT: :view:info
 * Agents and environments
 
+  The purpose of this section is to bridge the gap between AI ideas
+  and practice. To do this, we adopt the rational agent approach
+  promoted in AIMA, and implemented in day-to-day AI systems, like
+  robot vacuum cleaners that operate in the real world, or
+  personalized shopping apps that operate in virtual commercial space.
+
+  The abstract insights about rational agents are useful as an
+  analytic framework, much like the distinction between supervised and
+  unsupervised learning that we will look at next.
+
+  This lecture corresponds to the chapter 2 content of the textbook
+  ([[aima][Russell/Norvig]], 2021).
+  
 ** Microworld-view
 
-  AIMA: agent-world vs. environment view
+   The diagram shows a world- or space-oriented view of an agent and
+   its environment. The microworld view is less intuitive than the
+   process-view[fn:1] - think about your learning as a student: you
+   don't dwell on the fact that you move from your personal into
+   classroom space - and it would be difficult to see how to optimize
+   this spatial movement (for learning). Instead, you operate - like
+   an agent - with process steps (go to class, listen to lecture, do
+   exercise, take notes etc.). It is easier to think of input and
+   output and optimizing functions when following a process[fn:2].
 
-  [[./img/agents.png]]
+   [[./img/agents.png]]
+
+   Source: AIMA - agent-world vs. environment view
 
 ** Rational agent success
 
    Success of a rational agent in this simple picture depends on:
 
-  1) the performance measure that defines success
-  2) the agent's knowledge of the environment
-  3) the actions that the agent can perform
-  4) the agent's percept sequence to date
+   1) the performance measure that defines success
+   2) the agent's knowledge of the environment
+   3) the actions that the agent can perform
+   4) the agent's percept sequence to date
 
-** Example: Vacuum-cleaner
+** Example: Vacuum-cleaner "Rumba"
 
    The microworld of the vacuum cleaner has a known boundary, and it
    is divided in subspaces that the agent can navigate. In each
@@ -36,10 +59,16 @@
    | Actions     | Movements + sucking | Table     |
    | Perceptions | Location + dirt     | Table     |
 
-   Can such a simple agent behave irrationally, too?
+   Can such a simple agent behave irrationally, too?[fn:3]
+
+   It is worth noting that irrational behavior in humans can lead to
+   unforeseen (and unforeseeable) innovations and optimizations, but
+   also, of course, to destructive behavior. In fact, one could argue
+   that controlled irrationality is the core of creative behavior and
+   originality.
 
 **  Definition of a rational agent
-
+   
    #+begin_quote
    "For each possible percept sequence, a rational agent should select
    an action that is expected to maximize its performance measure,
@@ -49,11 +78,36 @@
 
 ** Process view
 
-  Modified process modeling view (BPMN diagram):
+   The definition suggests a process-oriented description of the
+   behavior of a rational agent. Such a process is shown in the BPMN
+   diagram below.
 
-  [[./img/agents_and_environments.png]]
+   [[./img/agents_and_environments.png]]
 
 * References
 
-  <<aima>> Norvig P/Russell S (2021). AI - A Modern Approach (4th ed). Pearson.
+  <<aima>> Russell S/Norvig P (2021). AI - A Modern Approach (4th
+  ed). Pearson.
+  
+  <<matloff>> Matloff N (2020). Probability and Statistics for Data
+  Science: Math + R + Data. CRC Press.
 
+* Footnotes
+
+[fn:3]The answer is yes: whenever the maximizing or minimizing
+functions are not executed well, e.g. because of lack of environmental
+knowledge, or because the performance measure is ill-defined, or
+because of faulty sensor data. In the case of the Rumba: not moving
+(action), or not sucking (action), not respecting the boundaries
+(environment), stopping short of cleaning well because of faulty
+rewarding (performance), etc.
+
+[fn:2]You could also look at the job of learning in terms of incoming
+or outgoing data, or different data formats. This would be closer to
+computer processing and further from the human experience.
+
+[fn:1]Much like in probability: these are usually introduced via state
+spaces (e.g. the different combinations when rolling a dice). A better
+way of thinking about probability is as a process of creating one
+record after another - essentially an event log of stochastic
+events. Cp. [[matloff][Matloff (2020)]].
