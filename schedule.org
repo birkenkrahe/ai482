@@ -21,13 +21,13 @@
    | 13 | Wed-15-Sep | History of AI (MB)              | Amber McClurg          |                      |
    | 14 | Fri-17-Sep | History of AI (MB)              | Spencer Rhoden         |                      |
    |----+------------+---------------------------------+------------------------+----------------------|
-   | 15 | Mon-20-Sep | AI for sales and marketing (MB) |                        |                      |
-   | 16 | Wed-22-Sep | AI for sales and marketing (MB) | Nick Norwood           |                      |
-   | 17 | Fri-24-Sep | AI for sales and marketing (MB) | Hakeem Yatim           |                      |
+   | 15 | Mon-20-Sep | Intelligent Agents (MB)         |                        |                      |
+   | 16 | Wed-22-Sep | Intelligent Agents (MB)         | Nick Norwood           |                      |
+   | 17 | Fri-24-Sep | Intelligent Agents (MB)         | Hakeem Yatim           |                      |
    |----+------------+---------------------------------+------------------------+----------------------|
-   | 18 | Mon-27-Sep | Intelligent Agents (MB)         |                        |                      |
-   | 19 | Wed-29-Sep | Intelligent Agents (MB)         | Dat O                  |                      |
-   | 20 | Fri-1-Oct  | Intelligent Agents (MB)         | Jacob Sampley          |                      |
+   | 18 | Mon-27-Sep | AI for sales and marketing (MB) |                        |                      |
+   | 19 | Wed-29-Sep | AI for sales and marketing (MB) | Dat O                  |                      |
+   | 20 | Fri-1-Oct  | AI for sales and marketing (MB) | Jacob Sampley          |                      |
    |----+------------+---------------------------------+------------------------+----------------------|
    |    | Mon-4-Oct  | --FALL BREAK--                  | --FALL BREAK--         |                      |
    | 21 | Wed-6-Oct  | Introduction summary (MB)       |                        |                      |
