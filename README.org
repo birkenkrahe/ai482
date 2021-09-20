@@ -5,7 +5,8 @@
 * What's in this repo?
 
   * Repository for DSC 482.01 - Artificial Intelligence
-  * Emacs Org-mode files are rendered as Markdown.
+  * Emacs Org-mode files (~.org~) are rendered as Markdown.
+  * Markdown files (~.md~) are uploaded for the mobile app.
   * For a TOC, open the bullet point list menu
 
 ** [[https://github.com/birkenkrahe/ai482/blob/main/agenda.org][Agenda]]
