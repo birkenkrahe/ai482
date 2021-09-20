@@ -15,8 +15,8 @@
   analytic framework, much like the distinction between supervised and
   unsupervised learning that we will look at next.
 
-  These lecture notes corresponds to the chapter 2 content of the textbook
-  ([[aima][Russell/Norvig]], 2021).
+  These lecture notes corresponds to some of the chapter 2 content of
+  the textbook ([[aima][Russell/Norvig]], 2021).
 
 ** Microworld-view
 
