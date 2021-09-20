@@ -1,18 +1,21 @@
 
 # Table of Contents
 
--   [Agents and environments](#orgdea20b5)
-    -   [Microworld-view](#org11380b6)
-    -   [Rational agent success](#org27dd1ca)
-    -   [Example: Vacuum-cleaner "Rumba"](#orgbeddbb2)
-    -   [Definition of a rational agent](#org598b73f)
-    -   [Process view](#org7842b9f)
--   [References](#org803aa10)
--   [Whiteboards](#orgb55c02f)
+-   [Agents and environments](#orga021652)
+    -   [Microworld-view](#org463ca01)
+    -   [Rational agent success](#org9e862a8)
+    -   [Example: Vacuum-cleaner "Rumba"](#org11afe01)
+    -   [Definition of a rational agent](#org4d4d15c)
+    -   [Process view](#org45ff7d3)
+-   [AI applications that might change the world](#org70aa6ae)
+-   [References](#org31293c8)
+    -   [Publications](#org0e857d0)
+    -   [Websites](#org992c13a)
+-   [Whiteboards](#org2e6a2b5)
 
 
 
-<a id="orgdea20b5"></a>
+<a id="orga021652"></a>
 
 # Agents and environments
 
@@ -26,11 +29,11 @@ The abstract insights about rational agents are useful as an
 analytic framework, much like the distinction between supervised and
 unsupervised learning that we will look at next.
 
-This lecture corresponds to the chapter 2 content of the textbook
-([Russell/Norvig](#orgcdc6331), 2021).
+These lecture notes corresponds to the chapter 2 content of the textbook
+([Russell/Norvig](#org82376c5), 2021).
 
 
-<a id="org11380b6"></a>
+<a id="org463ca01"></a>
 
 ## Microworld-view
 
@@ -49,7 +52,7 @@ output and optimizing functions when following a process<sup><a id="fnr.2" class
 Source: AIMA - agent-world vs. environment view
 
 
-<a id="org27dd1ca"></a>
+<a id="org9e862a8"></a>
 
 ## Rational agent success
 
@@ -61,7 +64,7 @@ Success of a rational agent in this simple picture depends on:
 4.  the agent's percept sequence to date
 
 
-<a id="orgbeddbb2"></a>
+<a id="org11afe01"></a>
 
 ## Example: Vacuum-cleaner "Rumba"
 
@@ -129,17 +132,17 @@ that controlled irrationality is the core of creative behavior and
 originality.
 
 
-<a id="org598b73f"></a>
+<a id="org4d4d15c"></a>
 
 ## Definition of a rational agent
 
 > "For each possible percept sequence, a rational agent should select
 > an action that is expected to maximize its performance measure,
 > given the evidence provided by the percept sequence and whatever
-> built-in knowledge the agent has." ([AIMA](#orgcdc6331))
+> built-in knowledge the agent has." ([AIMA](#org82376c5))
 
 
-<a id="org7842b9f"></a>
+<a id="org45ff7d3"></a>
 
 ## Process view
 
@@ -150,18 +153,124 @@ diagram below.
 ![img](./img/agents_and_environments.png)
 
 
-<a id="org803aa10"></a>
+<a id="org70aa6ae"></a>
+
+# AI applications that might change the world<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">No</th>
+<th scope="col" class="org-left">AI APPLICATION</th>
+<th scope="col" class="org-left">TYPE</th>
+<th scope="col" class="org-left">AI FIELD</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-right">1</td>
+<td class="org-left">Alexa/Siri/[MyCroft](https://mycroft.ai/)</td>
+<td class="org-left">Conversational agent</td>
+<td class="org-left">Natural Language Processing</td>
+</tr>
+
+
+<tr>
+<td class="org-right">2</td>
+<td class="org-left">Autonomous vehicles</td>
+<td class="org-left">Driving agent</td>
+<td class="org-left">Pattern recognition</td>
+</tr>
+
+
+<tr>
+<td class="org-right">3</td>
+<td class="org-left">Autonomous drones</td>
+<td class="org-left">Delivery agent</td>
+<td class="org-left">Pattern recognition</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-right">4</td>
+<td class="org-left">[Neuralink](https://neuralink.com/)</td>
+<td class="org-left">Brain support agent</td>
+<td class="org-left">Neuroscience</td>
+</tr>
+
+
+<tr>
+<td class="org-right">5</td>
+<td class="org-left">[Facebook Glass](https://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/)</td>
+<td class="org-left">Social media agent</td>
+<td class="org-left">Pattern recognition</td>
+</tr>
+
+
+<tr>
+<td class="org-right">6</td>
+<td class="org-left">[Automatic writing](https://www.jarvis.ai/)</td>
+<td class="org-left">Writing agent</td>
+<td class="org-left">Natural Language Processing</td>
+</tr>
+
+
+<tr>
+<td class="org-right">7</td>
+<td class="org-left">[Automatic programming](https://openai.com/blog/openai-codex/)</td>
+<td class="org-left">Programming agent</td>
+<td class="org-left">Natural Language Processing</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="org31293c8"></a>
 
 # References
 
-<a id="orgcdc6331"></a> Russell S/Norvig P (2021). AI - A Modern Approach (4th
-ed). Pearson.
 
-<a id="orgfbc62e9"></a> Matloff N (2020). Probability and Statistics for Data
+<a id="org0e857d0"></a>
+
+## Publications
+
+Chen M et al (14 Jul 2021). Evaluating Large Language Models Trained
+on Code. Preprint: [arxiv:2107.03374](https://arxiv.org/abs/2107.03374).
+
+Facebook (9 Sep 2021). Introducing Ray-Ban Stories: First-Generation
+Smart Glasses. [Online: fb.com.](https://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/)
+
+<a id="org5dd53c9"></a> Matloff N (2020). Probability and Statistics for Data
 Science: Math + R + Data. CRC Press.
 
+<a id="org82376c5"></a> Russell S/Norvig P (2021). AI - A Modern Approach (4th
+ed). Pearson.
 
-<a id="orgb55c02f"></a>
+
+<a id="org992c13a"></a>
+
+## Websites
+
+-   mycroft.ai - MyCroft AI speech assistant
+-   openai.com - OpenAI Codex for natural language translation to code
+-   neuralink.com - brain interface software and hardware
+-   jarvis.ai - blog writing software
+
+
+<a id="org2e6a2b5"></a>
 
 # Whiteboards
 
@@ -176,7 +285,7 @@ Science: Math + R + Data. CRC Press.
 spaces (e.g. the different combinations when rolling a dice). A better
 way of thinking about probability is as a process of creating one
 record after another - essentially an event log of stochastic
-events. Cp. [Matloff (2020)](#orgfbc62e9).
+events. Cp. [Matloff (2020)](#org5dd53c9).
 
 <sup><a id="fn.2" href="#fnr.2">2</a></sup> You could also look at the job of learning in terms of incoming
 or outgoing data, or different data formats. This would be closer to
@@ -189,3 +298,6 @@ because of faulty sensor data. In the case of the Rumba: not moving
 (action), or not sucking (action), not respecting the boundaries
 (environment), stopping short of cleaning well because of faulty
 rewarding (performance), etc.
+
+<sup><a id="fn.4" href="#fnr.4">4</a></sup> 1-3 came from course participants (see whiteboard, Sept 20), 4-7
+are my personal opinion.
