@@ -1,21 +1,21 @@
 
 # Table of Contents
 
--   [Agents and environments](#orga021652)
-    -   [Microworld-view](#org463ca01)
-    -   [Rational agent success](#org9e862a8)
-    -   [Example: Vacuum-cleaner "Rumba"](#org11afe01)
-    -   [Definition of a rational agent](#org4d4d15c)
-    -   [Process view](#org45ff7d3)
--   [AI applications that might change the world](#org70aa6ae)
--   [References](#org31293c8)
-    -   [Publications](#org0e857d0)
-    -   [Websites](#org992c13a)
--   [Whiteboards](#org2e6a2b5)
+-   [Agents and environments](#org46874cc)
+    -   [Microworld-view](#org6c8e145)
+    -   [Rational agent success](#orgfc60848)
+    -   [Example: Vacuum-cleaner "Rumba"](#org237f09c)
+    -   [Definition of a rational agent](#org358efb6)
+    -   [Process view](#orgb8b95e2)
+-   [AI applications that might change the world](#org9f2f1b7)
+-   [References](#orge8d8587)
+    -   [Publications](#org1cae435)
+    -   [Websites](#org7c6fef6)
+-   [Whiteboards](#org81340e7)
 
 
 
-<a id="orga021652"></a>
+<a id="org46874cc"></a>
 
 # Agents and environments
 
@@ -30,10 +30,10 @@ analytic framework, much like the distinction between supervised and
 unsupervised learning that we will look at next.
 
 These lecture notes corresponds to the chapter 2 content of the textbook
-([Russell/Norvig](#org82376c5), 2021).
+([Russell/Norvig](#orgbd9dc66), 2021).
 
 
-<a id="org463ca01"></a>
+<a id="org6c8e145"></a>
 
 ## Microworld-view
 
@@ -52,7 +52,7 @@ output and optimizing functions when following a process<sup><a id="fnr.2" class
 Source: AIMA - agent-world vs. environment view
 
 
-<a id="org9e862a8"></a>
+<a id="orgfc60848"></a>
 
 ## Rational agent success
 
@@ -64,7 +64,7 @@ Success of a rational agent in this simple picture depends on:
 4.  the agent's percept sequence to date
 
 
-<a id="org11afe01"></a>
+<a id="org237f09c"></a>
 
 ## Example: Vacuum-cleaner "Rumba"
 
@@ -132,17 +132,17 @@ that controlled irrationality is the core of creative behavior and
 originality.
 
 
-<a id="org4d4d15c"></a>
+<a id="org358efb6"></a>
 
 ## Definition of a rational agent
 
 > "For each possible percept sequence, a rational agent should select
 > an action that is expected to maximize its performance measure,
 > given the evidence provided by the percept sequence and whatever
-> built-in knowledge the agent has." ([AIMA](#org82376c5))
+> built-in knowledge the agent has." ([AIMA](#orgbd9dc66))
 
 
-<a id="org45ff7d3"></a>
+<a id="orgb8b95e2"></a>
 
 ## Process view
 
@@ -153,7 +153,7 @@ diagram below.
 ![img](./img/agents_and_environments.png)
 
 
-<a id="org70aa6ae"></a>
+<a id="org9f2f1b7"></a>
 
 # AI applications that might change the world<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>
 
@@ -238,14 +238,17 @@ diagram below.
 </table>
 
 
-<a id="org31293c8"></a>
+<a id="orge8d8587"></a>
 
 # References
 
 
-<a id="org0e857d0"></a>
+<a id="org1cae435"></a>
 
 ## Publications
+
+<a id="org08ec50a"></a> Bee Z (24 Jan 2021). Grammarly is Garbage, and Here's Why
+[Video]. [Online: YouTube.com](https://youtu.be/Q5rB9jDbTPU).
 
 Chen M et al (14 Jul 2021). Evaluating Large Language Models Trained
 on Code. Preprint: [arxiv:2107.03374](https://arxiv.org/abs/2107.03374).
@@ -253,14 +256,17 @@ on Code. Preprint: [arxiv:2107.03374](https://arxiv.org/abs/2107.03374).
 Facebook (9 Sep 2021). Introducing Ray-Ban Stories: First-Generation
 Smart Glasses. [Online: fb.com.](https://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/)
 
-<a id="org5dd53c9"></a> Matloff N (2020). Probability and Statistics for Data
+<a id="org4d7ca94"></a> Matloff N (2020). Probability and Statistics for Data
 Science: Math + R + Data. CRC Press.
 
-<a id="org82376c5"></a> Russell S/Norvig P (2021). AI - A Modern Approach (4th
+<a id="orgfcac3be"></a> Reed Floren (1 April 2021). Jarvis.ai How to Write Blog
+Posts in 10 Minutes with Conversion.AI [Video]. [Online: youtube.com](https://youtu.be/z5_3S5nKfWQ?t=540).
+
+<a id="orgbd9dc66"></a> Russell S/Norvig P (2021). AI - A Modern Approach (4th
 ed). Pearson.
 
 
-<a id="org992c13a"></a>
+<a id="org7c6fef6"></a>
 
 ## Websites
 
@@ -270,7 +276,7 @@ ed). Pearson.
 -   jarvis.ai - blog writing software
 
 
-<a id="org2e6a2b5"></a>
+<a id="org81340e7"></a>
 
 # Whiteboards
 
@@ -285,7 +291,7 @@ ed). Pearson.
 spaces (e.g. the different combinations when rolling a dice). A better
 way of thinking about probability is as a process of creating one
 record after another - essentially an event log of stochastic
-events. Cp. [Matloff (2020)](#org5dd53c9).
+events. Cp. [Matloff (2020)](#org4d7ca94).
 
 <sup><a id="fn.2" href="#fnr.2">2</a></sup> You could also look at the job of learning in terms of incoming
 or outgoing data, or different data formats. This would be closer to
@@ -300,4 +306,8 @@ because of faulty sensor data. In the case of the Rumba: not moving
 rewarding (performance), etc.
 
 <sup><a id="fn.4" href="#fnr.4">4</a></sup> 1-3 came from course participants (see whiteboard, Sept 20), 4-7
-are my personal opinion.
+are my personal opinion. "Automatic writing" includes AI-driven
+spell-checking apps like Grammarly (beware - cp. [Bee 2021](#org08ec50a)). Quote from
+a video demonstrating jarvis.ai ([Reed Floren, 2021](#orgfcac3be)): "I've created a
+1000 word article in minutes on a topic that I really know nothing
+about."
