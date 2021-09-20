@@ -1,28 +1,31 @@
 
 # Table of Contents
 
--   [Agents and environments](#orgf85f2e3)
-    -   [Rational agent success](#org9cc64ac)
-    -   [Example: Vacuum-cleaner](#org133c11f)
-    -   [Definition of a rational agent](#org863d179)
--   [References](#org9e9d8ae)
+-   [Agents and environments](#org13b716d)
+    -   [Microworld-view](#org291bd3c)
+    -   [Rational agent success](#org5f6a06f)
+    -   [Example: Vacuum-cleaner](#org6e24597)
+    -   [Definition of a rational agent](#org9eefde1)
+    -   [Process view](#orgc9d11a5)
+-   [References](#orgad188bc)
 
 
 
-<a id="orgf85f2e3"></a>
+<a id="org13b716d"></a>
 
 # Agents and environments
+
+
+<a id="org291bd3c"></a>
+
+## Microworld-view
 
 AIMA: agent-world vs. environment view
 
 ![img](./img/agents.png)
 
-Modified process modeling view (BPMN diagram):
 
-![img](./img/agents_and_environments.png)
-
-
-<a id="org9cc64ac"></a>
+<a id="org5f6a06f"></a>
 
 ## Rational agent success
 
@@ -34,7 +37,7 @@ Success of a rational agent in this simple picture depends on:
 4.  the agent's percept sequence to date
 
 
-<a id="org133c11f"></a>
+<a id="org6e24597"></a>
 
 ## Example: Vacuum-cleaner
 
@@ -96,19 +99,28 @@ mission is to clean the space.
 Can such a simple agent behave irrationally, too?
 
 
-<a id="org863d179"></a>
+<a id="org9eefde1"></a>
 
 ## Definition of a rational agent
 
-> For each possible percept sequence, a rational agent should select
+> "For each possible percept sequence, a rational agent should select
 > an action that is expected to maximize its performance measure,
 > given the evidence provided by the percept sequence and whatever
-> built-in knowledge the agent has.
+> built-in knowledge the agent has." ([AIMA](#org70c79ac))
 
 
-<a id="org9e9d8ae"></a>
+<a id="orgc9d11a5"></a>
+
+## Process view
+
+Modified process modeling view (BPMN diagram):
+
+![img](./img/agents_and_environments.png)
+
+
+<a id="orgad188bc"></a>
 
 # References
 
-Norvig P/Russell S (2021). AI - A Modern Approach (4th ed). Pearson.
+<a id="org70c79ac"></a> Norvig P/Russell S (2021). AI - A Modern Approach (4th ed). Pearson.
 
