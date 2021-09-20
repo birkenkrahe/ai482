@@ -161,7 +161,7 @@
 <tr>
 <td class="org-right">15</td>
 <td class="org-left">Mon-20-Sep</td>
-<td class="org-left">AI for sales and marketing (MB)</td>
+<td class="org-left">Intelligent Agents (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -170,7 +170,7 @@
 <tr>
 <td class="org-right">16</td>
 <td class="org-left">Wed-22-Sep</td>
-<td class="org-left">AI for sales and marketing (MB)</td>
+<td class="org-left">Intelligent Agents (MB)</td>
 <td class="org-left">Nick Norwood</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -179,7 +179,7 @@
 <tr>
 <td class="org-right">17</td>
 <td class="org-left">Fri-24-Sep</td>
-<td class="org-left">AI for sales and marketing (MB)</td>
+<td class="org-left">Intelligent Agents (MB)</td>
 <td class="org-left">Hakeem Yatim</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -189,7 +189,7 @@
 <tr>
 <td class="org-right">18</td>
 <td class="org-left">Mon-27-Sep</td>
-<td class="org-left">Intelligent Agents (MB)</td>
+<td class="org-left">AI for sales and marketing (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -198,7 +198,7 @@
 <tr>
 <td class="org-right">19</td>
 <td class="org-left">Wed-29-Sep</td>
-<td class="org-left">Intelligent Agents (MB)</td>
+<td class="org-left">AI for sales and marketing (MB)</td>
 <td class="org-left">Dat O</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -207,7 +207,7 @@
 <tr>
 <td class="org-right">20</td>
 <td class="org-left">Fri-1-Oct</td>
-<td class="org-left">Intelligent Agents (MB)</td>
+<td class="org-left">AI for sales and marketing (MB)</td>
 <td class="org-left">Jacob Sampley</td>
 <td class="org-left">&#xa0;</td>
 </tr>
