@@ -29,12 +29,12 @@
 
    [[./img/vacuum.png]]
 
-   | ASPECT      | EXAMPLE             |   |
-   |-------------+---------------------+---|
-   | Performance | Award cleanliness   |   |
-   | Environment | Spatial dimensions  |   |
-   | Actions     | Movements + sucking |   |
-   | Perceptions | Location + dirt     |   |
+   | ASPECT      | EXAMPLE             | FUNCTIONS |
+   |-------------+---------------------+-----------|
+   | Performance | Award cleanliness   | Maximize  |
+   | Environment | Spatial dimensions  | Minimize  |
+   | Actions     | Movements + sucking | Table     |
+   | Perceptions | Location + dirt     | Table     |
 
    Can such a simple agent behave irrationally, too?
 
