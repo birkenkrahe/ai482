@@ -1,0 +1,55 @@
+#+TITLE:Intelligent Agents
+#+AUTHOR: Marcus Birkenkrahe
+#+Subtitle: Seminar on Artificial Intelligence
+#+OPTIONS: toc:nil num:nil ^:nil
+#+INFOJS_OPT: :view:info
+* Agents and environments
+
+  AIMA: agent-world vs. environment view
+
+  [[./img/agents.png]]
+
+  Modified process modeling view (BPMN diagram):
+
+  [[./img/agents_and_environments.png]]
+
+** Rational agent success
+
+   Success of a rational agent in this simple picture depends on:
+
+  1) the performance measure that defines success
+  2) the agent's knowledge of the environment
+  3) the actions that the agent can perform
+  4) the agent's percept sequence to date
+
+** Example: Vacuum-cleaner
+
+   The microworld of the vacuum cleaner has a known boundary, and it
+   is divided in subspaces that the agent can navigate. In each
+   subspace, there is an unspecified amount of dirt. The overall
+   mission is to clean the space.
+
+   [[./img/vacuum.png]]
+
+   | ASPECT      | EXAMPLE             |   |
+   |-------------+---------------------+---|
+   | Performance | Award cleanliness   |   |
+   | Environment | Spatial dimensions  |   |
+   | Actions     | Movements + sucking |   |
+   | Perceptions | Location + dirt     |   |
+
+   Can such a simple agent behave irrationally, too?
+
+**  Definition of a rational agent
+
+   #+begin_quote
+   For each possible percept sequence, a rational agent should select
+   an action that is expected to maximize its performance measure,
+   given the evidence provided by the percept sequence and whatever
+   built-in knowledge the agent has.
+   #+end_quote
+
+* References
+
+  Norvig P/Russell S (2021). AI - A Modern Approach (4th ed). Pearson.
+
