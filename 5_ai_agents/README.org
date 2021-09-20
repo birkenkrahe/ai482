@@ -3,6 +3,19 @@
 #+Subtitle: Seminar on Artificial Intelligence
 #+OPTIONS: toc:nil num:nil ^:nil
 #+INFOJS_OPT: :view:info
+* AI applications that might change the world[fn:4]
+
+  | No | AI APPLICATION        | TYPE                 | AI FIELD                    |
+  |----+-----------------------+----------------------+-----------------------------|
+  |  1 | Alexa/Siri/[[https://mycroft.ai/][MyCroft]]    | Conversational agent | Natural Language Processing |
+  |  2 | Autonomous vehicles   | Driving agent        | Pattern recognition         |
+  |  3 | Autonomous drones     | Delivery agent       | Pattern recognition         |
+  |----+-----------------------+----------------------+-----------------------------|
+  |  4 | [[https://neuralink.com/][Neuralink]]             | Brain support agent  | Neuroscience                |
+  |  5 | [[https://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/][Facebook Glass]]        | Social media agent   | Pattern recognition         |
+  |  6 | [[https://www.jarvis.ai/][Automatic writing]]     | Writing agent        | Natural Language Processing |
+  |  7 | [[https://openai.com/blog/openai-codex/][Automatic programming]] | Programming agent    | Natural Language Processing |
+  |----+-----------------------+----------------------+-----------------------------|
 * Agents and environments
 
   The purpose of this section is to bridge the gap between AI ideas
@@ -84,20 +97,6 @@
 
    [[./img/agents_and_environments.png]]
 
-* AI applications that might change the world[fn:4]
-
-  | No | AI APPLICATION        | TYPE                 | AI FIELD                    |
-  |----+-----------------------+----------------------+-----------------------------|
-  |  1 | Alexa/Siri/[[https://mycroft.ai/][MyCroft]]    | Conversational agent | Natural Language Processing |
-  |  2 | Autonomous vehicles   | Driving agent        | Pattern recognition         |
-  |  3 | Autonomous drones     | Delivery agent       | Pattern recognition         |
-  |----+-----------------------+----------------------+-----------------------------|
-  |  4 | [[https://neuralink.com/][Neuralink]]             | Brain support agent  | Neuroscience                |
-  |  5 | [[https://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/][Facebook Glass]]        | Social media agent   | Pattern recognition         |
-  |  6 | [[https://www.jarvis.ai/][Automatic writing]]     | Writing agent        | Natural Language Processing |
-  |  7 | [[https://openai.com/blog/openai-codex/][Automatic programming]] | Programming agent    | Natural Language Processing |
-  |----+-----------------------+----------------------+-----------------------------|
-
 * References
 ** Publications
 
@@ -134,7 +133,7 @@
 
 * Footnotes
 
-[fn:4]1-3 came from course participants (see whiteboard, Sept 20), 4-7
+[fn:4]1-3 came from course participants (see [[https://drive.google.com/drive/folders/1cVty0VxQ2pU99cOk8LD-rJPsOi0pOm7Z?usp=sharing][whiteboard, Sept 20]]), 4-7
 are my personal opinion. "Automatic writing" includes AI-driven
 spell-checking apps like Grammarly (beware - cp. [[bee][Bee 2021]], though the
 [[https://www.grammarly.com/blog/engineering/][Grammarly engineering blog]] is quite interesting). Quote from a video
