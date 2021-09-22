@@ -80,7 +80,7 @@
    that controlled irrationality is the core of creative behavior and
    originality.
 
-**  Definition of a rational agent
+** Definition of a rational agent
 
    #+begin_quote
    "For each possible percept sequence, a rational agent should select
@@ -97,26 +97,82 @@
 
    [[./img/agents_and_environments.png]]
 
+* Task environments
+
+  Example problem: "Solving the Robot Off-Loading Problem": helping
+  robots choose when to communicate with the cloud without latency or
+  lost data issues ([[myers][Myers, 2021]]).
+
+  [[./img/drone.jpg]]
+
+** Taxi driver PEAS example
+
+   PEAS description for an automated taxi driver (transport agent):
+
+   | PERFORMANCE MEASURE                                      | ENVIRONMENT                                             | ACTUATORS                                                   | SENSORS                                                                         |
+   |----------------------------------------------------------+---------------------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------------------------------|
+   | Safe, fast, legal, comfy trip, max profits, min accident | Roads, traffic, police, pedestrians, customers, weather | Steering, accelerator, brake, signal, horn, display, speech | Camera, radar, GPS, speedometer, engine, accelerometer, microphone, touchscreen |
+
+   #+begin_quote
+   "Virtual task environments (not in the physical world) can be as
+   complex as real ones."
+   #+end_quote
+
+   *What do you think:* are AUGMENTED reality environments more, less,
+   or equally complex?[fn:5]
+
+** PEAS Challenge
+
+   Identify PEAS elements for each of these agent types!
+
+   * Medical diagnosis system
+   * Satellite image analysis system
+   * Part-picking robot
+   * Refinery controller
+   * Interactive English tutor
+
+** Task environment properties
+
+   * *Observability*: single vs. multi-agent
+   * Multiplicity: single vs. multi-agent (cooperative
+     vs. competitive)
+   * 
+
+** Homework
+
+   Pick any of the online exercises for this chapter of [[aima][AIMA]] (ch. 2)
+   and work out a solution, or sketch a path towards a solution
+   (e.g. by describing what one might do, in which order), or sketch
+   specific problems and issues for discussion, and present in class
+   (for: Friday October 1).
+
 * References
+
 ** Publications
 
-  <<bee>> Bee Z (24 Jan 2021). Grammarly is Garbage, and Here's Why
-  [Video]. [[https://youtu.be/Q5rB9jDbTPU][Online: YouTube.com]].
+   <<bee>> Bee Z (24 Jan 2021). Grammarly is Garbage, and Here's Why
+   [Video]. [[https://youtu.be/Q5rB9jDbTPU][Online: YouTube.com]].
 
-  Chen M et al (14 Jul 2021). Evaluating Large Language Models Trained
-  on Code. Preprint: [[https://arxiv.org/abs/2107.03374][arxiv:2107.03374]].
+   Chen M et al (14 Jul 2021). Evaluating Large Language Models Trained
+   on Code. Preprint: [[https://arxiv.org/abs/2107.03374][arxiv:2107.03374]].
 
-  Facebook (9 Sep 2021). Introducing Ray-Ban Stories: First-Generation
-  Smart Glasses. [[https://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/][Online: fb.com.]]
+   <<dorner>> Dörner D (1990). The logic of failure. In:
+   Phil. Trans. R. Soc. Lond. B 327:463-473.
 
-  <<matloff>> Matloff N (2020). Probability and Statistics for Data
-  Science: Math + R + Data. CRC Press.
+   Facebook (9 Sep 2021). Introducing Ray-Ban Stories: First-Generation
+   Smart Glasses. [[https://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/][Online: fb.com.]]
 
-  <<reed>> Reed Floren (1 April 2021). Jarvis.ai How to Write Blog
-  Posts in 10 Minutes with Conversion.AI [Video]. [[https://youtu.be/z5_3S5nKfWQ?t=540][Online: youtube.com]].
-  
-  <<aima>> Russell S/Norvig P (2021). AI - A Modern Approach (4th
-  ed). Pearson.
+   <<matloff>> Matloff N (2020). Probability and Statistics for Data
+   Science: Math + R + Data. CRC Press.
+
+   <<myers>> Myers A (8 Sept 2021). Solving the Robot Off-Loading
+   Problem. [[https://hai.stanford.edu/news/solving-robot-loading-problem][Online: hai.stanford.edu]].
+
+   <<reed>> Reed Floren (1 April 2021). Jarvis.ai How to Write Blog
+   Posts in 10 Minutes with Conversion.AI [Video]. [[https://youtu.be/z5_3S5nKfWQ?t=540][Online: youtube.com]].
+
+   <<aima>> Russell S/Norvig P (2021). AI - A Modern Approach (4th
+   ed). Pearson.
 
 ** Websites
 
@@ -132,6 +188,13 @@
   * September 24, 2021
 
 * Footnotes
+
+[fn:5]The answer depends on the measure of "complexity". For the sake
+of argument, one could assume the complexity of the real world to be
+"1", and of a completely static virtual world "0". Alternatively, you
+have to use a proper complexity measure that can be quantified and
+e.g. implemented in a program like Dörner's in "The logic of failure"
+([[dorner][Dörner, 1990]]).
 
 [fn:4]1-3 came from course participants (see [[https://drive.google.com/drive/folders/1cVty0VxQ2pU99cOk8LD-rJPsOi0pOm7Z?usp=sharing][whiteboard, Sept 20]]), 4-7
 are my personal opinion. "Automatic writing" includes AI-driven
