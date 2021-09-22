@@ -133,7 +133,7 @@
 
 ** Task environment properties
 
-    | PROPERTY       | OPTIONS                                        | EXAMPLE |
+    | PROPERTY       | OPTIONS                                        | EXAMPLES |
     |----------------+------------------------------------------------+---------|
     | Observability  | Fully, partially or unobservable               |         |
     | Multiplicity   | single or multi-agent                          |         |
