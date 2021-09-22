@@ -56,7 +56,7 @@
    3) the actions that the agent can perform
    4) the agent's percept sequence to date
 
-** Example: Vacuum-cleaner "Rumba"
+** Example: robotic vacuum-cleaner
 
    The microworld of the vacuum cleaner has a known boundary, and it
    is divided in subspaces that the agent can navigate. In each
@@ -105,7 +105,7 @@
 
   [[./img/drone.jpg]]
 
-** Taxi driver PEAS example
+** Example: automated taxi driver
 
    PEAS description for an automated taxi driver (transport agent):
 
@@ -133,10 +133,21 @@
 
 ** Task environment properties
 
-   * *Observability*: single vs. multi-agent
-   * Multiplicity: single vs. multi-agent (cooperative
-     vs. competitive)
-   * 
+    | PROPERTY       | OPTIONS                                        | EXAMPLE |
+    |----------------+------------------------------------------------+---------|
+    | Observability  | Fully, partially or unobservable               |         |
+    | Multiplicity   | single or multi-agent                          |         |
+    | Performativity | competitive or cooperative                     |         |
+    | Determinacy    | deterministic, non-deterministic or stochastic |         |
+    | Causality      | sequential or episodic                         |         |
+    | Stativity      | static or dynamic or semidynamic (score)       |         |
+    | Temporality    | Discrete or continuous                         |         |
+    | Physicality    | Known or unknown                               |         |
+
+    #+begin_quote
+"The hardest case is partially observable, multiagent,
+nondeterministic, sequential, dynamic, continous, and unknown."
+    #+end_quote
 
 ** Homework
 
