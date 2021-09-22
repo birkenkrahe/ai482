@@ -115,7 +115,7 @@
 
    #+begin_quote
    "Virtual task environments (not in the physical world) can be as
-   complex as real ones."
+   complex as real ones." ([[aima][AIMA]])
    #+end_quote
 
    *What do you think:* are AUGMENTED reality environments more, less,
@@ -131,23 +131,26 @@
    * Refinery controller
    * Interactive English tutor
 
+     [[[https://github.com/birkenkrahe/ai482/blob/main/5_ai_agents/img/challenge.png][Solution]]]
+
 ** Task environment properties
 
-    | PROPERTY       | OPTIONS                                        | EXAMPLES |
-    |----------------+------------------------------------------------+---------|
-    | Observability  | Fully, partially or unobservable               |         |
-    | Multiplicity   | single or multi-agent                          |         |
-    | Performativity | competitive or cooperative                     |         |
-    | Determinacy    | deterministic, non-deterministic or stochastic |         |
-    | Causality      | sequential or episodic                         |         |
-    | Stativity      | static or dynamic or semidynamic (score)       |         |
-    | Temporality    | Discrete or continuous                         |         |
-    | Physicality    | Known or unknown                               |         |
+   | PROPERTY       | OPTIONS                                        | EXAMPLES |
+   |----------------+------------------------------------------------+----------|
+   | Observability  | Fully, partially or unobservable               |          |
+   | Multiplicity   | single or multi-agent                          |          |
+   | Performativity | competitive or cooperative                     |          |
+   | Determinacy    | deterministic, non-deterministic or stochastic |          |
+   | Causality      | sequential or episodic                         |          |
+   | Stativity      | static or dynamic or semidynamic (score)       |          |
+   | Temporality    | Discrete or continuous                         |          |
+   | Physicality    | Known or unknown                               |          |
 
-    #+begin_quote
-"The hardest case is partially observable, multiagent,
-nondeterministic, sequential, dynamic, continous, and unknown."
-    #+end_quote
+   #+begin_quote
+   "The hardest [agent task environment] case is partially observable,
+   multiagent, nondeterministic, sequential, dynamic, continous, and
+   unknown."  ([[aima][AIMA]])
+   #+end_quote
 
 ** Homework
 
@@ -203,7 +206,7 @@ nondeterministic, sequential, dynamic, continous, and unknown."
 [fn:5]The answer depends on the measure of "complexity". For the sake
 of argument, one could assume the complexity of the real world to be
 "1", and of a completely static virtual world "0". Alternatively, you
-have to use a proper complexity measure that can be quantified and
+have to use a complexity measure that can be quantified and
 e.g. implemented in a program like Dörner's in "The logic of failure"
 ([[dorner][Dörner, 1990]]).
 
