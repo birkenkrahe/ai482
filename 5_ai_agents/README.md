@@ -1,26 +1,26 @@
 
 # Table of Contents
 
--   [AI applications that might change the world](#org3d4c789)
--   [Agents and environments](#orgbaf6cab)
-    -   [Microworld-view](#org28f4452)
-    -   [Rational agent success](#orgb7e2df2)
-    -   [Example: robotic vacuum-cleaner](#org20f8cfa)
-    -   [Definition of a rational agent](#orgd6c98ea)
-    -   [Process view](#org2c4a224)
--   [Task environments](#org1141dde)
-    -   [Example: automated taxi driver](#org6f85999)
-    -   [PEAS Challenge](#org26d001b)
-    -   [Task environment properties](#org5cbe63c)
-    -   [Homework](#org0d60963)
--   [References](#org65a4ac5)
-    -   [Publications](#org48bfff4)
-    -   [Websites](#org6721ee3)
--   [Whiteboards](#org298ce83)
+-   [AI applications that might change the world](#org5edccc3)
+-   [Agents and environments](#org5f38df0)
+    -   [Microworld-view](#orgd7d243f)
+    -   [Rational agent success](#orgbb68cd9)
+    -   [Example: robotic vacuum-cleaner](#org29169c7)
+    -   [Definition of a rational agent](#orgc97aab4)
+    -   [Process view](#org652024f)
+-   [Task environments](#orgb016dc7)
+    -   [Example: automated taxi driver](#org8ce9a4d)
+    -   [PEAS Challenge](#orgaec65d2)
+    -   [Task environment properties](#org2840f82)
+    -   [Homework](#org93015cd)
+-   [References](#orgdf3b183)
+    -   [Publications](#orgcffee69)
+    -   [Websites](#orgde8903d)
+-   [Whiteboards](#org7114e36)
 
 
 
-<a id="org3d4c789"></a>
+<a id="org5edccc3"></a>
 
 # AI applications that might change the world<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
 
@@ -105,7 +105,7 @@
 </table>
 
 
-<a id="orgbaf6cab"></a>
+<a id="org5f38df0"></a>
 
 # Agents and environments
 
@@ -120,10 +120,10 @@ analytic framework, much like the distinction between supervised and
 unsupervised learning that we will look at next.
 
 These lecture notes corresponds to some of the chapter 2 content of
-the textbook ([Russell/Norvig](#org1d6a61e), 2021).
+the textbook ([Russell/Norvig](#org12badfe), 2021).
 
 
-<a id="org28f4452"></a>
+<a id="orgd7d243f"></a>
 
 ## Microworld-view
 
@@ -142,7 +142,7 @@ output and optimizing functions when following a process<sup><a id="fnr.3" class
 Source: AIMA - agent-world vs. environment view
 
 
-<a id="orgb7e2df2"></a>
+<a id="orgbb68cd9"></a>
 
 ## Rational agent success
 
@@ -154,7 +154,7 @@ Success of a rational agent in this simple picture depends on:
 4.  the agent's percept sequence to date
 
 
-<a id="org20f8cfa"></a>
+<a id="org29169c7"></a>
 
 ## Example: robotic vacuum-cleaner
 
@@ -222,17 +222,17 @@ that controlled irrationality is the core of creative behavior and
 originality.
 
 
-<a id="orgd6c98ea"></a>
+<a id="orgc97aab4"></a>
 
 ## Definition of a rational agent
 
 > "For each possible percept sequence, a rational agent should select
 > an action that is expected to maximize its performance measure,
 > given the evidence provided by the percept sequence and whatever
-> built-in knowledge the agent has." ([AIMA](#org1d6a61e))
+> built-in knowledge the agent has." ([AIMA](#org12badfe))
 
 
-<a id="org2c4a224"></a>
+<a id="org652024f"></a>
 
 ## Process view
 
@@ -243,18 +243,18 @@ diagram below.
 ![img](./img/agents_and_environments.png)
 
 
-<a id="org1141dde"></a>
+<a id="orgb016dc7"></a>
 
 # Task environments
 
 Example problem: "Solving the Robot Off-Loading Problem": helping
 robots choose when to communicate with the cloud without latency or
-lost data issues ([Myers, 2021](#orgc346d46)).
+lost data issues ([Myers, 2021](#orga822c2c)).
 
 ![img](./img/drone.jpg)
 
 
-<a id="org6f85999"></a>
+<a id="org8ce9a4d"></a>
 
 ## Example: automated taxi driver
 
@@ -292,13 +292,13 @@ PEAS description for an automated taxi driver (transport agent):
 </table>
 
 > "Virtual task environments (not in the physical world) can be as
-> complex as real ones."
+> complex as real ones." ([AIMA](#org12badfe))
 
 **What do you think:** are AUGMENTED reality environments more, less,
 or equally complex?<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup>
 
 
-<a id="org26d001b"></a>
+<a id="orgaec65d2"></a>
 
 ## PEAS Challenge
 
@@ -309,9 +309,11 @@ Identify PEAS elements for each of these agent types!
 -   Part-picking robot
 -   Refinery controller
 -   Interactive English tutor
+    
+    [[Solution](https://github.com/birkenkrahe/ai482/blob/main/5_ai_agents/img/challenge.png)]
 
 
-<a id="org5cbe63c"></a>
+<a id="org2840f82"></a>
 
 ## Task environment properties
 
@@ -391,56 +393,57 @@ Identify PEAS elements for each of these agent types!
 </tbody>
 </table>
 
-> "The hardest case is partially observable, multiagent,
-> nondeterministic, sequential, dynamic, continous, and unknown."
+> "The hardest [agent task environment] case is partially observable,
+> multiagent, nondeterministic, sequential, dynamic, continous, and
+> unknown."  ([AIMA](#org12badfe))
 
 
-<a id="org0d60963"></a>
+<a id="org93015cd"></a>
 
 ## Homework
 
-Pick any of the online exercises for this chapter of [AIMA](#org1d6a61e) (ch. 2)
+Pick any of the online exercises for this chapter of [AIMA](#org12badfe) (ch. 2)
 and work out a solution, or sketch a path towards a solution
 (e.g. by describing what one might do, in which order), or sketch
 specific problems and issues for discussion, and present in class
 (for: Friday October 1).
 
 
-<a id="org65a4ac5"></a>
+<a id="orgdf3b183"></a>
 
 # References
 
 
-<a id="org48bfff4"></a>
+<a id="orgcffee69"></a>
 
 ## Publications
 
-<a id="orgad72df8"></a> Bee Z (24 Jan 2021). Grammarly is Garbage, and Here's Why
+<a id="org81cd11e"></a> Bee Z (24 Jan 2021). Grammarly is Garbage, and Here's Why
 [Video]. [Online: YouTube.com](https://youtu.be/Q5rB9jDbTPU).
 
 Chen M et al (14 Jul 2021). Evaluating Large Language Models Trained
 on Code. Preprint: [arxiv:2107.03374](https://arxiv.org/abs/2107.03374).
 
-<a id="orga901c98"></a> Dörner D (1990). The logic of failure. In:
+<a id="org69cb063"></a> Dörner D (1990). The logic of failure. In:
 Phil. Trans. R. Soc. Lond. B 327:463-473.
 
 Facebook (9 Sep 2021). Introducing Ray-Ban Stories: First-Generation
 Smart Glasses. [Online: fb.com.](https://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/)
 
-<a id="orgb4110e4"></a> Matloff N (2020). Probability and Statistics for Data
+<a id="org54ac3bd"></a> Matloff N (2020). Probability and Statistics for Data
 Science: Math + R + Data. CRC Press.
 
-<a id="orgc346d46"></a> Myers A (8 Sept 2021). Solving the Robot Off-Loading
+<a id="orga822c2c"></a> Myers A (8 Sept 2021). Solving the Robot Off-Loading
 Problem. [Online: hai.stanford.edu](https://hai.stanford.edu/news/solving-robot-loading-problem).
 
-<a id="org9a6442a"></a> Reed Floren (1 April 2021). Jarvis.ai How to Write Blog
+<a id="org4b30e68"></a> Reed Floren (1 April 2021). Jarvis.ai How to Write Blog
 Posts in 10 Minutes with Conversion.AI [Video]. [Online: youtube.com](https://youtu.be/z5_3S5nKfWQ?t=540).
 
-<a id="org1d6a61e"></a> Russell S/Norvig P (2021). AI - A Modern Approach (4th
+<a id="org12badfe"></a> Russell S/Norvig P (2021). AI - A Modern Approach (4th
 ed). Pearson.
 
 
-<a id="org6721ee3"></a>
+<a id="orgde8903d"></a>
 
 ## Websites
 
@@ -450,7 +453,7 @@ ed). Pearson.
 -   jarvis.ai - blog writing software
 
 
-<a id="org298ce83"></a>
+<a id="org7114e36"></a>
 
 # Whiteboards
 
@@ -463,16 +466,16 @@ ed). Pearson.
 
 <sup><a id="fn.1" href="#fnr.1">1</a></sup> 1-3 came from course participants (see [whiteboard, Sept 20](https://drive.google.com/drive/folders/1cVty0VxQ2pU99cOk8LD-rJPsOi0pOm7Z?usp=sharing)), 4-7
 are my personal opinion. "Automatic writing" includes AI-driven
-spell-checking apps like Grammarly (beware - cp. [Bee 2021](#orgad72df8), though the
+spell-checking apps like Grammarly (beware - cp. [Bee 2021](#org81cd11e), though the
 [Grammarly engineering blog](https://www.grammarly.com/blog/engineering/) is quite interesting). Quote from a video
-demonstrating jarvis.ai ([Reed Floren, 2021](#org9a6442a)): "I've created a 1000 word
+demonstrating jarvis.ai ([Reed Floren, 2021](#org4b30e68)): "I've created a 1000 word
 article in minutes on a topic that I really know nothing about."
 
 <sup><a id="fn.2" href="#fnr.2">2</a></sup> Much like in probability: these are usually introduced via state
 spaces (e.g. the different combinations when rolling a dice). A better
 way of thinking about probability is as a process of creating one
 record after another - essentially an event log of stochastic
-events. Cp. [Matloff (2020)](#orgb4110e4).
+events. Cp. [Matloff (2020)](#org54ac3bd).
 
 <sup><a id="fn.3" href="#fnr.3">3</a></sup> You could also look at the job of learning in terms of incoming
 or outgoing data, or different data formats. This would be closer to
@@ -489,6 +492,6 @@ rewarding (performance), etc.
 <sup><a id="fn.5" href="#fnr.5">5</a></sup> The answer depends on the measure of "complexity". For the sake
 of argument, one could assume the complexity of the real world to be
 "1", and of a completely static virtual world "0". Alternatively, you
-have to use a proper complexity measure that can be quantified and
+have to use a complexity measure that can be quantified and
 e.g. implemented in a program like Dörner's in "The logic of failure"
-([Dörner, 1990](#orga901c98)).
+([Dörner, 1990](#org69cb063)).
