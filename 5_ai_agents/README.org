@@ -20,7 +20,7 @@
 
   The purpose of this section is to bridge the gap between AI ideas
   and practice. To do this, we adopt the rational agent approach
-  promoted in AIMA, and implemented in day-to-day AI systems, like
+  promoted in [[aima][AIMA]], and implemented in day-to-day AI systems, like
   robot vacuum cleaners that operate in the real world, or
   personalized shopping apps that operate in virtual commercial space.
 
@@ -45,7 +45,7 @@
 
    [[./img/agents.png]]
 
-   Source: AIMA - agent-world vs. environment view
+   Source: [[aima][AIMA]] - agent-world vs. environment view
 
 ** Rational agent success
 
@@ -99,13 +99,19 @@
 
 * Task environments
 
-  Example problem: "Solving the Robot Off-Loading Problem": helping
-  robots choose when to communicate with the cloud without latency or
-  lost data issues ([[myers][Myers, 2021]]).
+  The greatest challenge for the agent is operating in a given
+  environment. To design agents that can manage this challenge, we
+  classify different types of environments.
 
-  [[./img/drone.jpg]]
+** Current research
 
-** Example: automated taxi driver
+   Recent article: "Solving the Robot Off-Loading Problem": helping
+   robots choose when to communicate with the cloud without latency or
+   lost data issues ([[myers][Myers, 2021]]). 
+
+   [[./img/drone.jpg]]
+
+** PEAS example: automated taxi driver
 
    PEAS description for an automated taxi driver (transport agent):
 
@@ -131,26 +137,106 @@
    * Refinery controller
    * Interactive English tutor
 
-     [[[https://github.com/birkenkrahe/ai482/blob/main/5_ai_agents/img/challenge.png][Solution]]]
+     [[[https://github.com/birkenkrahe/ai482/blob/main/5_ai_agents/img/challenge.png][Solution]], [[aima][AIMA]] table 2.5]
+
+   All of these applications are present today in their respective
+   industrial environments - health care, weather forecasting,
+   factories, processing plants, and online learning platforms.
+
+   Notice how when you think about actuators and sensors, you might
+   automatically think of humanoid robots. However, the most efficient
+   solution need not be humanoid (using human behavior, or physiology
+   as a design blueprint) - except when humans are directly involved
+   (health care, tutoring).
 
 ** Task environment properties
 
-   | PROPERTY       | OPTIONS                                        | EXAMPLES |
-   |----------------+------------------------------------------------+----------|
-   | Observability  | Fully, partially or unobservable               |          |
-   | Multiplicity   | single or multi-agent                          |          |
-   | Performativity | competitive or cooperative                     |          |
-   | Determinacy    | deterministic, non-deterministic or stochastic |          |
-   | Causality      | sequential or episodic                         |          |
-   | Stativity      | static or dynamic or semidynamic (score)       |          |
-   | Temporality    | Discrete or continuous                         |          |
-   | Physicality    | Known or unknown                               |          |
+   The following properties is a taxonomy akin to a classification of
+   insects or plants in nature: like these, the properties of agents
+   refer to an evolving ecology. Also, they are used to explore and,
+   in a way, define machine "intelligence".
+
+   | PROPERTY          | OPTIONS                                              |
+   |-------------------+------------------------------------------------------|
+   | 1) Observability  | Fully, partially or unobservable[fn:6]               |
+   | 2) Multiplicity   | single or multi-agent                                |
+   | 3) Performativity | competitive or cooperative                           |
+   | 4) Determinacy    | deterministic, non-deterministic or stochastic[fn:7] |
+   | 5) Causality      | sequential or episodic                               |
+   | 6) Stativity      | static or dynamic or semidynamic (score[fn:8])             |
+   | 7) Temporality    | Discrete or continuous (state/time)                  |
+   | 8) Physicality    | Known or unknown (laws)                              |
+   | 9) Virtuality     | Virtual or real                                      |
+   | 10) Locality      | Local or non-local                                   |
+
+** Environment of the automated taxi driver
+   Let's look at the automated taxi driver as an example:
+
+   1) *Observability:* The environment is partially observable - for
+      example, the agent cannot observe (or even find out directly)
+      what other drivers are thinking.
+   2) *Multiplicity:* The agent could treat another vehicle as an
+      object or as an agent, too. Which relationship it is depends on
+      the design of both vehicles involved: are any messages exchanged
+      between them, or are there decisions where one agent's actions
+      depend on the other? For example, if the taxi agent has a sensor
+      that is directly fed data from the other vehicle, they'd form a
+      two-agent system whose actions depend on one another.
+   3) *Performativity:* this applies only to multi-agent systems. The
+      taxi environment is both cooperative (with other non-taxi
+      vehicles), and competitive (with other taxi drivers).
+   4) *Determinacy:* the taxi environment is non-deterministic since
+      the behavior of traffic cannot be predicted with
+      certainty. Certain aspects (e.g. traffic density, weather
+      conditions etc.) are stochastic and can be predicted with
+      quantities attached to them ("10% probability of rain during
+      this trip").
+   5) *Causality:* short term, episodic actions, have long-term
+      consequences for the taxi agent - the agent has to think ahead
+      based on the past driving history and its past actions. For
+      example, when it suddenly begins to rain, it has to adjust its
+      breaking behavior.
+   6) *Stativity:* the driving environment changes continuously,
+      requiring agent responses ("The street is wet, what do you want
+      to do?") and adjustments.
+   7) *Temporality:* taxi driving is a continous state and a continous
+      time problem - speed and location of the taxi change all the
+      time, and they change smoothly, not abruptly. Driving actions
+      are also continuous. Sensor input itself is discrete (digital
+      signals) but is treated as continuous (distributions are
+      smoothed). 
+   8) *Physicality:* some of the environment is unknown e.g. when the
+      journey starts. This means that the taxi driver needs to learn
+      properties of its environment that cannot be hard-coded at the
+      start of the journey.
+   9) *Virtuality:* the automated taxi driver has both a virtual
+      (testing and simulation) environment and a real
+      environment. Performance, actuation and sensing are relevant for
+      both environments but only the real environment is productive.
+   10) *Locality:* the taxi driver deals with both local and non-local
+       data, e.g. construction sites along the road are non-local,
+       while road signs encountered during the drive are local. For
+       the performance, local data are more relevant.
 
    #+begin_quote
    "The hardest [agent task environment] case is partially observable,
    multiagent, nondeterministic, sequential, dynamic, continous, and
    unknown."  ([[aima][AIMA]])
    #+end_quote
+
+   Here are examples for some of these categories.
+
+   [[./img/environments.png]]
+
+   [Image source: [[aima][AIMA]] table 2.6]
+
+** Systemic interpretation
+
+   These properties define the agent as a system with a boundary
+   between itself and the environment, with elements (actuators,
+   sensors), and relationships between these elements. This means that
+   the properties are not limited to AI systems - you could use them
+   to describe other cybernetic systems, like heating systems.
 
 ** Homework
 
@@ -202,6 +288,18 @@
   * September 24, 2021
 
 * Footnotes
+
+[fn:8]In a semidynamic environment, the enviroment itself does not
+change but a performance score does - chess with a clock is an
+example: when the clock is ticking, the performance time changes even
+though the board is static.
+
+[fn:7]AIMA distinguishes between non-deterministic (aka uncertain) and
+stochastic (aka uncertain but with a quantifiable probability).
+
+[fn:6]"Unobservable" in principle means that the agent has no sensors
+in all task environments (it must have some data otherwise it could
+not perform its optimization strategy).
 
 [fn:5]The answer depends on the measure of "complexity". For the sake
 of argument, one could assume the complexity of the real world to be
