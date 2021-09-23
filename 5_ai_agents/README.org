@@ -111,6 +111,38 @@
 
    [[./img/drone.jpg]]
 
+** Remote Mars rover navigation
+
+   In 2015, the then-VP of the German software giant SAP demonstrated
+   remote control of a Mars rover during an SAP developers conference
+   presentation - using the 2015 feature film "The Martian" as a
+   prompt.
+
+   Since the presentation is quite long, I cut it into 7 different
+   parts and put it into [[https://youtube.com/playlist?list=PL6SfZh1-kWXnWedFzgEwt6R6zhjdBxJsT][this playlist]] for classroom use. The demo
+   uses every software layer indicated in the diagram below. And
+   rather than only talk about stuff, the presenter shows how it is
+   done and how all these different systems work together. 
+
+   Of course, the talk is steeped in technical and commercial language
+   that you will not understand - but hopefully, with my comments
+   (below each video), you'll be able to follow the story. Enjoy!
+
+
+   [[./img/sap.png]]
+
+   Image explanation: SAP system architecture on premise (local, at
+   the company) vs. cloud (non-local, at a server center) - this is
+   the so-called SAAS (Software As A Service) business model. "HANA"
+   refers to a database technology. "SAP ERP" and "S4/HANA" are
+   information systems that support the entire company value chain -
+   from production to customer delivery. These are the largest
+   available information systems, and SAP is the leading provider of
+   such systems. In fact, it'll be difficult to find a large company
+   anywhere that does not run its processes using SAP. The "cloud
+   platform" contains all sorts of new services, some of them
+   AI-driven, like "Analytics" and "Internet of Things".
+
 ** PEAS example: automated taxi driver
 
    PEAS description for an automated taxi driver (transport agent):
