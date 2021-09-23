@@ -279,6 +279,13 @@
    specific problems and issues for discussion, and present in class
    (for: Friday October 1).
 
+   Several of the exercises (from ex. 7) relate to material that we
+   have not covered yet (structure of agent programs and types of
+   agents), but we will have, before fall break. I think it might be
+   cool to continue working on some of these exercises for the
+   remainder of the term. You can also easily turn them into
+   presentations.
+
 * References
 
 ** Publications
