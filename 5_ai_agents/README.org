@@ -126,7 +126,8 @@
 
    Of course, the talk is steeped in technical and commercial language
    that you will not understand - but hopefully, with my comments
-   (below each video), you'll be able to follow the story. Enjoy!
+   (below each video) and the glossary below, you'll be able to follow
+   the story. Enjoy!
 
 
    [[./img/sap.png]]
