@@ -161,7 +161,7 @@
 <tr>
 <td class="org-right">15</td>
 <td class="org-left">Mon-20-Sep</td>
-<td class="org-left">Intelligent Agents (MB)</td>
+<td class="org-left">Agent performance measures (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -170,7 +170,7 @@
 <tr>
 <td class="org-right">16</td>
 <td class="org-left">Wed-22-Sep</td>
-<td class="org-left">Intelligent Agents (MB)</td>
+<td class="org-left">Agent task environments (MB)</td>
 <td class="org-left">Nick Norwood</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -179,7 +179,7 @@
 <tr>
 <td class="org-right">17</td>
 <td class="org-left">Fri-24-Sep</td>
-<td class="org-left">Intelligent Agents (MB)</td>
+<td class="org-left">Agents programs (MB)</td>
 <td class="org-left">Hakeem Yatim</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -189,8 +189,8 @@
 <tr>
 <td class="org-right">18</td>
 <td class="org-left">Mon-27-Sep</td>
-<td class="org-left">AI for sales and marketing (MB)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Simple and model-based reflex agents (MB)</td>
+<td class="org-left">Jacob Sampley</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -198,7 +198,7 @@
 <tr>
 <td class="org-right">19</td>
 <td class="org-left">Wed-29-Sep</td>
-<td class="org-left">AI for sales and marketing (MB)</td>
+<td class="org-left">Goal and utility-based agents (MB)</td>
 <td class="org-left">Dat O</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -207,8 +207,8 @@
 <tr>
 <td class="org-right">20</td>
 <td class="org-left">Fri-1-Oct</td>
-<td class="org-left">AI for sales and marketing (MB)</td>
-<td class="org-left">Jacob Sampley</td>
+<td class="org-left">AIMA exercises and summary</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -263,7 +263,7 @@
 <tr>
 <td class="org-right">25</td>
 <td class="org-left">Fri-15-Oct</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">AI for sales and marketing (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -338,7 +338,7 @@
 <tr>
 <td class="org-right">32</td>
 <td class="org-left">Wed-3-Nov</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">AI for sales and marketing (MB)</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -375,7 +375,7 @@
 <tr>
 <td class="org-right">36</td>
 <td class="org-left">Fri-12-Nov</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">AI for sales and marketing (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -403,7 +403,7 @@
 <tr>
 <td class="org-right">39</td>
 <td class="org-left">Fri-19-Nov</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Natural Language Processing (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -413,7 +413,7 @@
 <tr>
 <td class="org-right">40</td>
 <td class="org-left">22-Nov</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Natural Language Processing (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
