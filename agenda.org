@@ -193,13 +193,13 @@
 
 *** [[legro][Plotto book (Legro, 2012)]]
 
-     #+attr_html: :width 400px
-     [[./img/cook.png]]
-  
+    #+attr_html: :width 400px
+    [[./img/cook.png]]
+
 *** [[collins][Wycliffe Hill's 1931 plot robot (Collins, 2009)]]
 
-     #+attr_html: :width 400px
-     [[./img/plotto.jpg]]
+    #+attr_html: :width 400px
+    [[./img/plotto.jpg]]
 
 *** [[redgrave][Plotto game (Redgrave, 2018)]]
 
@@ -239,11 +239,16 @@
 
 * Week 6 - September 24
 
+  #+attr_html: :width 400px
+  [[./img/agents.jpg]]
+
   * Types of intelligent agents ([[https://youtu.be/UjQ1AzSvCp8?t=1302][Iacobelli, 2015]])
-  * AI state of the art 
+  * AI state of the art
     - Part I: AI research-to-production gap ([[https://youtu.be/tsPuVAMaADY?t=367][Stanford HAI, 2020]])
     - Part II: Change management
     - Part III: Full cycle of ML projects
+
+  /Image source: Williams, 2020./
 
 * References
 
@@ -252,6 +257,10 @@
 
   Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
   Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY?t=367][Online: youtube.com]].
+
+  Williams A (Jun 27, 2020). Riot Games give first clues about new
+  Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
+
 
 * Footnotes
 
