@@ -206,7 +206,6 @@
     #+attr_html: :width 400px
     [[./img/plottogame.png]]
 
-
 ** Creativity and AI
 
    * [[https://youtu.be/5YBIrc-6G-0?t=920][The Thinking Machine (34'-47')']]
@@ -229,6 +228,30 @@
 * Week 5 - September 17
 
   * Topic change? Anyone interested in "Grammarly"?
+  * History of AI after 1960
+  * Next: Intelligent Agents (AIMA)
+  * Next: AI in Sales and Marketing (example)
+
+* Week 6 - September 20/22
+
+  * Intelligent agents - PEAS
+  * [[https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents][Lectures in GitHub]]
+
+* Week 6 - September 24
+
+  * Types of intelligent agents ([[https://youtu.be/UjQ1AzSvCp8?t=1302][Iacobelli, 2015]])
+  * AI state of the art 
+    - Part I: AI research-to-production gap ([[https://youtu.be/tsPuVAMaADY?t=367][Stanford HAI, 2020]])
+    - Part II: Change management
+    - Part III: Full cycle of ML projects
+
+* References
+
+  Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
+  [video]. [[https://youtu.be/UjQ1AzSvCp8?t=1308][Online: youtube.com]].
+
+  Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
+  Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY?t=367][Online: youtube.com]].
 
 * Footnotes
 
