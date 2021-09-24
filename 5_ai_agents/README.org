@@ -107,7 +107,7 @@
 
    Recent article: "Solving the Robot Off-Loading Problem": helping
    robots choose when to communicate with the cloud without latency or
-   lost data issues ([[myers][Myers, 2021]]). 
+   lost data issues ([[myers][Myers, 2021]]).
 
    [[./img/drone.jpg]]
 
@@ -122,7 +122,7 @@
    parts and put it into [[https://youtube.com/playlist?list=PL6SfZh1-kWXnWedFzgEwt6R6zhjdBxJsT][this playlist]] for classroom use. The demo
    uses every software layer indicated in the diagram below. And
    rather than only talk about stuff, the presenter shows how it is
-   done and how all these different systems work together. 
+   done and how all these different systems work together.
 
    Of course, the talk is steeped in technical and commercial language
    that you will not understand - but hopefully, with my comments
@@ -237,7 +237,7 @@
       time, and they change smoothly, not abruptly. Driving actions
       are also continuous. Sensor input itself is discrete (digital
       signals) but is treated as continuous (distributions are
-      smoothed). 
+      smoothed).
    8) *Physicality:* some of the environment is unknown e.g. when the
       journey starts. This means that the taxi driver needs to learn
       properties of its environment that cannot be hard-coded at the
@@ -286,6 +286,66 @@
    remainder of the term. You can also easily turn them into
    presentations.
 
+* Agent structure and types
+
+  #+attr_html: :width 400px
+  [[./img/agents.jpg]]
+
+  Sources: [[iacobelli][Iacobelli, 2015]] & [[aima][AIMA ch.2]].
+
+** Table-driven agent programs
+
+   [[./img/apple.jpg]]
+
+   #+begin_quote
+   "The key challenge for AI is to find out how to write programs that
+   [...] produce rational behavior from a smallish [algorithmic]
+   program rather than from a vast [lookup] table." [[aima][AIMA]]:67
+   #+end_quote
+
+** Simple reflex agents
+
+   Requires: condition-action rules
+
+   Example: vacuum robot (smart home).
+
+   [[./img/simple.png]]
+
+** Model based agents
+
+   Requires: model on how the agent's world evolves
+
+   Example: portfolio agent (stock market).
+
+   [[./img/model.png]]
+
+** Goal based agents
+
+   Requires: explicit goal-checking
+
+   [[./img/goal.png]]
+
+** Utility based agents
+
+   Requires: utility function.
+
+   [[./img/utility.png]]
+
+** Learning agents
+
+   Requires: modifies own functions
+
+   [[./img/learning.png]]
+
+** All types
+
+   [[./img/all_types.png]]
+
+** Other classifications
+
+   #+attr_html: :width 400px
+   [[./img/types.jpg]]
+
 * References
 
 ** Publications
@@ -301,6 +361,9 @@
 
    Facebook (9 Sep 2021). Introducing Ray-Ban Stories: First-Generation
    Smart Glasses. [[https://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/][Online: fb.com.]]
+
+   <<iacobelli>> Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
+   [video]. [[https://youtu.be/UjQ1AzSvCp8?t=1308][Online: youtube.com]].
 
    <<matloff>> Matloff N (2020). Probability and Statistics for Data
    Science: Math + R + Data. CRC Press.
