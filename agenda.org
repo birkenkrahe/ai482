@@ -248,7 +248,7 @@
     - Part II: Change management
     - Part III: Full cycle of ML projects
 
-  /Image source: Williams, 2020./
+  /Image source: [[williams][Williams, 2020]]./
 
 * References
 
@@ -258,7 +258,7 @@
   Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
   Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY?t=367][Online: youtube.com]].
 
-  Williams A (Jun 27, 2020). Riot Games give first clues about new
+  <<williams>> Williams A (Jun 27, 2020). Riot Games give first clues about new
   Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
 
 
