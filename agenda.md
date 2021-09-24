@@ -1,18 +1,21 @@
 
 # Table of Contents
 
--   [Week 2 - August 25](#org7bd35c9)
--   [Week 2 - August 27](#orgcd47a86)
--   [Week 3 - August 30](#orgb6948ce)
--   [Week 4 - September 8](#org36a6b84)
--   [Week 4 - September 10](#orgecb6799)
--   [Week 5 - September 13](#org07edb60)
--   [Week 5 - September 15](#org9abdd5a)
--   [Week 5 - September 17](#org1fefa2f)
+-   [Week 2 - August 25](#org95b3aa9)
+-   [Week 2 - August 27](#org3a02471)
+-   [Week 3 - August 30](#org01fea19)
+-   [Week 4 - September 8](#org3593e4d)
+-   [Week 4 - September 10](#orgad1013f)
+-   [Week 5 - September 13](#org0a553f0)
+-   [Week 5 - September 15](#orgecbd96f)
+-   [Week 5 - September 17](#orgbca3756)
+-   [Week 6 - September 20/22](#org35dded2)
+-   [Week 6 - September 24](#orgb9dfcb0)
+-   [References](#orgbe3234a)
 
 
 
-<a id="org7bd35c9"></a>
+<a id="org95b3aa9"></a>
 
 # Week 2 - August 25
 
@@ -33,7 +36,7 @@
     -   Agendas will be posted
 
 
-<a id="orgcd47a86"></a>
+<a id="org3a02471"></a>
 
 # Week 2 - August 27
 
@@ -43,7 +46,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org757c8c1))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#orge00e8ee))*
 
 
 ## Housekeeping
@@ -68,11 +71,11 @@
 
 ## References
 
-<a id="org757c8c1"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="orge00e8ee"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="orgb6948ce"></a>
+<a id="org01fea19"></a>
 
 # Week 3 - August 30
 
@@ -112,7 +115,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 
 
-<a id="org36a6b84"></a>
+<a id="org3593e4d"></a>
 
 # Week 4 - September 8
 
@@ -178,7 +181,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 </table>
 
 
-<a id="orgecb6799"></a>
+<a id="orgad1013f"></a>
 
 # Week 4 - September 10
 
@@ -190,7 +193,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Still no ideas? [See Stanford '21 conference](https://hai.stanford.edu/2021-spring-conference-agenda)
 
 
-<a id="org07edb60"></a>
+<a id="org0a553f0"></a>
 
 # Week 5 - September 13
 
@@ -230,7 +233,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Briefly present your findings
 
 
-<a id="org9abdd5a"></a>
+<a id="orgecbd96f"></a>
 
 # Week 5 - September 15
 
@@ -242,17 +245,17 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 ## Automatic creativity?
 
 
-### [Plotto book (Legro, 2012)](#org176b70f)
+### [Plotto book (Legro, 2012)](#org4ccf60f)
 
 ![img](./img/cook.png)
 
 
-### [Wycliffe Hill's 1931 plot robot (Collins, 2009)](#orgedb0540)
+### [Wycliffe Hill's 1931 plot robot (Collins, 2009)](#org3bdf0c4)
 
 ![img](./img/plotto.jpg)
 
 
-### [Plotto game (Redgrave, 2018)](#orged61317)
+### [Plotto game (Redgrave, 2018)](#orgf23eca0)
 
 ![img](./img/plottogame.png)
 
@@ -268,17 +271,17 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 
 ## References
 
-<a id="orgedb0540"></a> Collins P (6 Jul 2009). The King of All Formulas
+<a id="org3bdf0c4"></a> Collins P (6 Jul 2009). The King of All Formulas
 [Blog]. [Online: slate.com.](https://slate.com/news-and-politics/2009/07/the-man-who-invented-the-hollywood-schlock-machine.html)
 
-<a id="org176b70f"></a> Legro M (6 Jan 2012). Plotto: The Master Book of All
+<a id="org4ccf60f"></a> Legro M (6 Jan 2012). Plotto: The Master Book of All
 Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01/06/plotto/)
 
-<a id="orged61317"></a> Redgrave AL (29 Apr 2018). Plotto Demo
+<a id="orgf23eca0"></a> Redgrave AL (29 Apr 2018). Plotto Demo
 [Video]. [Online: youtube.com](https://youtu.be/VbWrs8wm5sA).
 
 
-<a id="org1fefa2f"></a>
+<a id="orgbca3756"></a>
 
 # Week 5 - September 17
 
@@ -286,6 +289,36 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   History of AI after 1960
 -   Next: Intelligent Agents (AIMA)
 -   Next: AI in Sales and Marketing (example)
+
+
+<a id="org35dded2"></a>
+
+# Week 6 - September 20/22
+
+-   Intelligent agents - PEAS
+-   [Lectures in GitHub](https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents)
+
+
+<a id="orgb9dfcb0"></a>
+
+# Week 6 - September 24
+
+-   Types of intelligent agents ([Iacobelli, 2015](https://youtu.be/UjQ1AzSvCp8?t=1302))
+-   AI state of the art 
+    -   Part I: AI research-to-production gap ([Stanford HAI, 2020](https://youtu.be/tsPuVAMaADY?t=367))
+    -   Part II: Change management
+    -   Part III: Full cycle of ML projects
+
+
+<a id="orgbe3234a"></a>
+
+# References
+
+Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
+[video]. [Online: youtube.com](https://youtu.be/UjQ1AzSvCp8?t=1308).
+
+Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
+Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY?t=367).
 
 
 # Footnotes
