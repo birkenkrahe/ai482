@@ -1,23 +1,23 @@
 
 # Table of Contents
 
--   [Machine learning](#org0e6a811)
--   [AI research-to-production gap](#orgbd9510b)
-    -   [Small data](#orgc1dd528)
-    -   [Generalization and robustness](#orgdf460e1)
-    -   [Change management](#orgfb3d37b)
-        -   [A naive model](#orgfc60a02)
-        -   [Ideal process model](#org5af8990)
-        -   [Building blocks](#orgc798070)
-        -   [Glossary](#org2536ace)
-    -   [Full cycle of machine learning projects](#org07e361f)
-    -   [Summary](#orgb837c6a)
-    -   [Further information](#org1b358f4)
--   [References](#org7f7966c)
+-   [Machine learning](#org89a1b61)
+-   [AI research-to-production gap](#org998f564)
+    -   [Small data](#org539dfa5)
+    -   [Generalization and robustness](#orgc7bac95)
+    -   [Change management](#orgd2157c3)
+        -   [A naive model](#org8208e81)
+        -   [Ideal process model](#org1414090)
+        -   [Building blocks](#org92f117a)
+        -   [Glossary](#org35b97db)
+    -   [Full cycle of machine learning projects](#org6d81d84)
+    -   [Summary](#orgb205fcd)
+    -   [Further information](#org15eb36b)
+-   [References](#orgef9c99b)
 
 
 
-<a id="org0e6a811"></a>
+<a id="org89a1b61"></a>
 
 # Machine learning
 
@@ -29,7 +29,7 @@ topic. It turns out that most of the running AI applications
 agents, especially supervised learning - recognizing (= classifying)
 known patterns learnt from big data samples. Ng's first definition
 of ML is Samuel's seminal 1959 definition ([stanfordonline,
-2020](#orgf9dbcbc))<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>:
+2020](#org2486122))<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>:
 
 > Machine learning: field of study that gives computers the ability to
 > learn without being explicitly programmed.
@@ -92,13 +92,13 @@ is more complicated, because it relies on understanding natural
 language.
 
 
-<a id="orgbd9510b"></a>
+<a id="org998f564"></a>
 
 # AI research-to-production gap
 
 In this video AI researcher Andrew Ng addresses three issues to
 explain why ML is not more successful in the real world ([Stanford
-HAI, 2020](#org2d43734)). Many academic research results are spectacular, but in
+HAI, 2020](#orgdff13e6)). Many academic research results are spectacular, but in
 real settings, e.g. hospitals, you don't find AI (except in
 embedded, i.e. invisible systems like cameras, sensors etc.).
 
@@ -107,7 +107,7 @@ technical glossary additions and stuff that was left out of the
 protocols.
 
 
-<a id="orgc1dd528"></a>
+<a id="org539dfa5"></a>
 
 ## Small data
 
@@ -116,16 +116,16 @@ Examples for [small data algorithms](https://youtu.be/tsPuVAMaADY?t=1054) includ
 GANs stands for Generative Adversarial Network (cp. [Wikipedia](https://en.wikipedia.org/wiki/Generative_adversarial_network)),
 which is a game theoretical ML application where two neural
 networks learn by competing with each other. Originated
-in 2014. Here is a nice video introduction ([Serrano, 2020](#org63fa0b9)).
+in 2014. Here is a nice video introduction ([Serrano, 2020](#orga853850)).
 
 GPT-3 is the Generative Pre-trained Transformer 3 (cp. [Wikipedia](https://en.wikipedia.org/wiki/GPT-3))
 used especially in natural language processing (NLP), e.g. to
 simulate human language. Originated in 2020. Here is an example of
 such a simulated conversation between two GPT-3 trained AIs
-([Soslow, 2021](#org15c2de7)).
+([Soslow, 2021](#orga93b8bf)).
 
 
-<a id="orgdf460e1"></a>
+<a id="orgc7bac95"></a>
 
 ## Generalization and robustness
 
@@ -135,10 +135,10 @@ for using AI applications developed and tested in the lab.
 
 ![img](./img/xray.jpg)
 
-*Image: an old X-ray machine (Source: [vintage.es](#org16c0f5b))*
+*Image: an old X-ray machine (Source: [vintage.es](#org9b6c7e5))*
 
 
-<a id="orgfb3d37b"></a>
+<a id="orgd2157c3"></a>
 
 ## Change management
 
@@ -152,7 +152,7 @@ transformative, real change. Still, it is not clear to me if
 "change management" isn't an oxymoron.
 
 
-<a id="orgfc60a02"></a>
+<a id="org8208e81"></a>
 
 ### A naive model
 
@@ -161,7 +161,7 @@ transformative, real change. Still, it is not clear to me if
 (Source: Society of competitive intelligence)
 
 
-<a id="org5af8990"></a>
+<a id="org1414090"></a>
 
 ### Ideal process model
 
@@ -170,7 +170,7 @@ transformative, real change. Still, it is not clear to me if
 (Source: Accenture)
 
 
-<a id="orgc798070"></a>
+<a id="org92f117a"></a>
 
 ### Building blocks
 
@@ -179,25 +179,30 @@ transformative, real change. Still, it is not clear to me if
 (Source: SIEMENS)
 
 
-<a id="org2536ace"></a>
+<a id="org35b97db"></a>
 
 ### Glossary
 
--   [Explainable AI?](https://pubmed.ncbi.nlm.nih.gov/33375658/) ([Linardatos et al, 2020](#org551c36b)) - XAI
--   [AI Auditing?](https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit) ([Boillet, 2018](#org402a501)) - Risk analysis
+-   [Explainable AI?](https://pubmed.ncbi.nlm.nih.gov/33375658/) ([Linardatos et al, 2020](#org8da80cc)) - XAI 
+    
+    > The field of Explainable Artificial Intelligence (XAI) [&#x2026;] is
+    > concerned with the development of new methods that explain and
+    > interpret machine learning models,
+
+-   [AI Auditing?](https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit) ([Boillet, 2018](#org2b685b6)) - Risk analysis
 
 
-<a id="org07e361f"></a>
+<a id="org6d81d84"></a>
 
 ## Full cycle of machine learning projects
 
 
-<a id="orgb837c6a"></a>
+<a id="orgb205fcd"></a>
 
 ## Summary
 
 
-<a id="org1b358f4"></a>
+<a id="org15eb36b"></a>
 
 ## Further information
 
@@ -205,31 +210,31 @@ Stanford HAI (Apr 29, 2021). Healthcare's AI Future: A Conversation
 with Fei-Fei Li & Andrew Ng.
 
 
-<a id="org7f7966c"></a>
+<a id="orgef9c99b"></a>
 
 # References
 
-<a id="org402a501"></a> Boillet J (Jul 20, 2018). How AI will transform the
+<a id="org2b685b6"></a> Boillet J (Jul 20, 2018). How AI will transform the
 audit [video]. [Online: ey.com](https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit).
 
-<a id="org551c36b"></a> Linardatos et al (2020). Explainable AI: A Review of Machine
+<a id="org8da80cc"></a> Linardatos et al (2020). Explainable AI: A Review of Machine
 Learning Interpretability Methods. In: Entropy 23(1).  [doi:
 10.3390/e23010018. PMID: 33375658; PMCID: PMC7824368](https://pubmed.ncbi.nlm.nih.gov/33375658/).
 
-<a id="org63fa0b9"></a> Serrano L (May 5, 2020). A Friendly Introduction to
+<a id="orga853850"></a> Serrano L (May 5, 2020). A Friendly Introduction to
 Generative Adversarial Networks (GANs) [video]. [Online: youtube.com](https://youtu.be/8L11aMN5KY8).
 
-<a id="org15c2de7"></a> Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
+<a id="orga93b8bf"></a> Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
 human. (GPT-3) [video]. [Online: youtube.com](https://youtu.be/jz78fSnBG0s).
 
-<a id="org2d43734"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+<a id="orgdff13e6"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
 
-<a id="orgf9dbcbc"></a> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
+<a id="org2486122"></a> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
 Machine Learning - Andrew Ng (Autumn 2018) [video]. [Online:
 youtube.com](https://youtu.be/jGwO_UgTS7I?t=2180).
 
-<a id="org16c0f5b"></a> n.a.(3 Feb 2016). 15 Incredible Vintage Photos of People
+<a id="org9b6c7e5"></a> n.a.(3 Feb 2016). 15 Incredible Vintage Photos of People
 Getting X-Rays Over the Decades [website]. [Online: vintage.es](https://www.vintag.es/2016/02/incredible-vintage-photos-of-people.html).
 
 
