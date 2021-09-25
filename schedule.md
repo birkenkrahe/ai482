@@ -59,7 +59,7 @@
 <td class="org-right">4</td>
 <td class="org-left">Wed-25-Aug</td>
 <td class="org-left">What is AI? (MB)</td>
-<td class="org-left">Wyatt Frerichs</td>
+<td class="org-left"><del>Wyatt Frerichs</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -68,7 +68,7 @@
 <td class="org-right">5</td>
 <td class="org-left">Fri-27-Aug</td>
 <td class="org-left">What is AI? (MB)</td>
-<td class="org-left">Emma Brandes</td>
+<td class="org-left"><del>Emma Brandes</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -115,7 +115,7 @@
 <td class="org-right">10</td>
 <td class="org-left">Wed-8-Sep</td>
 <td class="org-left">History of AI (MB)</td>
-<td class="org-left">Fortunato Hernandez</td>
+<td class="org-left"><del>Fortunato Hernandez</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -134,7 +134,7 @@
 <td class="org-right">12</td>
 <td class="org-left">Mon-13-Sep</td>
 <td class="org-left">History of AI (MB)</td>
-<td class="org-left">Malcolm Howard</td>
+<td class="org-left"><del>Malcolm Howard</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -143,7 +143,7 @@
 <td class="org-right">13</td>
 <td class="org-left">Wed-15-Sep</td>
 <td class="org-left">History of AI (MB)</td>
-<td class="org-left">Amber McClurg</td>
+<td class="org-left"><del>Amber McClurg</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -152,7 +152,7 @@
 <td class="org-right">14</td>
 <td class="org-left">Fri-17-Sep</td>
 <td class="org-left">History of AI (MB)</td>
-<td class="org-left">Spencer Rhoden</td>
+<td class="org-left"><del>Spencer Rhoden</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -179,7 +179,7 @@
 <tr>
 <td class="org-right">17</td>
 <td class="org-left">Fri-24-Sep</td>
-<td class="org-left">Agents programs (MB)</td>
+<td class="org-left">5 Agents types & Small data issues (MB)</td>
 <td class="org-left">Hakeem Yatim</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -189,7 +189,7 @@
 <tr>
 <td class="org-right">18</td>
 <td class="org-left">Mon-27-Sep</td>
-<td class="org-left">Simple and model-based reflex agents (MB)</td>
+<td class="org-left">ML change management (MB)</td>
 <td class="org-left">Jacob Sampley</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -198,7 +198,7 @@
 <tr>
 <td class="org-right">19</td>
 <td class="org-left">Wed-29-Sep</td>
-<td class="org-left">Goal and utility-based agents (MB)</td>
+<td class="org-left">ML project cycle (MB)</td>
 <td class="org-left">Dat O</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -207,7 +207,7 @@
 <tr>
 <td class="org-right">20</td>
 <td class="org-left">Fri-1-Oct</td>
-<td class="org-left">AIMA exercises and summary</td>
+<td class="org-left">AIMA exercises and midterm summary</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -226,7 +226,7 @@
 <tr>
 <td class="org-right">21</td>
 <td class="org-left">Wed-6-Oct</td>
-<td class="org-left">Introduction summary (MB)</td>
+<td class="org-left">Course outlook (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -263,7 +263,7 @@
 <tr>
 <td class="org-right">25</td>
 <td class="org-left">Fri-15-Oct</td>
-<td class="org-left">AI for sales and marketing (MB)</td>
+<td class="org-left">TBD (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -338,7 +338,7 @@
 <tr>
 <td class="org-right">32</td>
 <td class="org-left">Wed-3-Nov</td>
-<td class="org-left">AI for sales and marketing (MB)</td>
+<td class="org-left">TBD (MB)</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -375,7 +375,7 @@
 <tr>
 <td class="org-right">36</td>
 <td class="org-left">Fri-12-Nov</td>
-<td class="org-left">AI for sales and marketing (MB)</td>
+<td class="org-left">TBD (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -403,7 +403,7 @@
 <tr>
 <td class="org-right">39</td>
 <td class="org-left">Fri-19-Nov</td>
-<td class="org-left">Natural Language Processing (MB)</td>
+<td class="org-left">TBD (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -413,7 +413,7 @@
 <tr>
 <td class="org-right">40</td>
 <td class="org-left">22-Nov</td>
-<td class="org-left">Natural Language Processing (MB)</td>
+<td class="org-left">TBD (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -459,7 +459,7 @@
 <tr>
 <td class="org-right">43</td>
 <td class="org-left">3-Dec</td>
-<td class="org-left">PROJECT PRESENTATIONS</td>
+<td class="org-left">PROJECT PRESENTATIONS & Course closing</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">4th sprint review</td>
 </tr>
