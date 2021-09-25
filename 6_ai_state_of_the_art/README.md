@@ -1,18 +1,18 @@
 
 # Table of Contents
 
--   [Machine learning](#org94dbc1a)
--   [AI research-to-production gap](#org42af3e1)
-    -   [Small data](#orgcfe7b76)
-    -   [Change management](#org348600c)
-    -   [Full cycle of machine learning projects](#orgbc8f546)
-    -   [Summary](#orgdc43e81)
-    -   [Further information](#org89613d5)
--   [References](#org230177e)
+-   [Machine learning](#orgdd9a6da)
+-   [AI research-to-production gap](#orgb42bb78)
+    -   [Small data](#org6645f87)
+    -   [Change management](#org7c52991)
+    -   [Full cycle of machine learning projects](#org7214d9d)
+    -   [Summary](#org75c2c3b)
+    -   [Further information](#org5b65f35)
+-   [References](#orgba730e8)
 
 
 
-<a id="org94dbc1a"></a>
+<a id="orgdd9a6da"></a>
 
 # Machine learning
 
@@ -24,19 +24,26 @@ topic. It turns out that most of the running AI applications
 agents, especially supervised learning - recognizing (= classifying)
 known patterns learnt from big data samples. Ng's first definition
 of ML is Samuel's seminal 1959 definition ([stanfordonline,
-2020](#org0c27863))<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>:
+2020](#org51d9f29))<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>:
 
 > Machine learning: field of study that gives computers the ability to
 > learn without being explicitly programmed.
 
+Ng gives a list of supervised learning tasks that have successfully
+been addressed by machines.
 
-<a id="org42af3e1"></a>
+![img](./img/ml.png)
+
+[(Source: Stanford HAI 2020)](https://youtu.be/tsPuVAMaADY?t=547), 
+
+
+<a id="orgb42bb78"></a>
 
 # AI research-to-production gap
 
 In this video AI researcher Andrew Ng addresses three issues to
 explain why ML is not more successful in the real world ([Stanford
-HAI, 2020](#org8b2b64c)). Many academic research results are spectacular, but in
+HAI, 2020](#org86abb56)). Many academic research results are spectacular, but in
 real settings, e.g. hospitals, you don't find AI (except in
 embedded, i.e. invisible systems like cameras, sensors etc.).
 
@@ -44,13 +51,8 @@ For details, see student session protocols. Here you find only
 technical glossary additions and stuff that was left out of the
 protocols.
 
-[Right at the start](https://youtu.be/tsPuVAMaADY?t=547), he gives a list of supervised learning tasks
-that have successfully been addressed by machines.
 
-![img](./img/ml.png)
-
-
-<a id="orgcfe7b76"></a>
+<a id="org6645f87"></a>
 
 ## Small data
 
@@ -62,25 +64,25 @@ networks learn by competing with each other. Originated in 2014.
 
 GPT-3 is the Generative Pre-trained Transformer 3 (cp. [Wikipedia](https://en.wikipedia.org/wiki/GPT-3))
 used especially in natural language processing (NLP), e.g. to
-simulate human language. Originated in 2020. 
+simulate human language. Originated in 2020.
 
 
-<a id="org348600c"></a>
+<a id="org7c52991"></a>
 
 ## Change management
 
 
-<a id="orgbc8f546"></a>
+<a id="org7214d9d"></a>
 
 ## Full cycle of machine learning projects
 
 
-<a id="orgdc43e81"></a>
+<a id="org75c2c3b"></a>
 
 ## Summary
 
 
-<a id="org89613d5"></a>
+<a id="org5b65f35"></a>
 
 ## Further information
 
@@ -88,14 +90,14 @@ Stanford HAI (Apr 29, 2021). Healthcare's AI Future: A Conversation
 with Fei-Fei Li & Andrew Ng.
 
 
-<a id="org230177e"></a>
+<a id="orgba730e8"></a>
 
 # References
 
-<a id="org8b2b64c"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+<a id="org86abb56"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
 
-<a id="org0c27863"></a> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
+<a id="org51d9f29"></a> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
 Machine Learning - Andrew Ng (Autumn 2018) [video]. [Online:
 youtube.com](https://youtu.be/jGwO_UgTS7I?t=2180).
 
