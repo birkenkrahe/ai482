@@ -30,7 +30,7 @@
   | phone image   | scratched? (0/1) | visual inspection  |
   | audio         | text transcript  | speech recognition |
 
-   In most of these, the AI only needs to classify the input as one of
+  In most of these, the AI only needs to classify the input as one of
   two kinds (0/1), e.g. in spam filtering: spam or not spam. Audio ML
   is more complicated, because it relies on understanding natural
   language.
@@ -53,16 +53,61 @@
 
    GANs stands for Generative Adversarial Network (cp. [[https://en.wikipedia.org/wiki/Generative_adversarial_network][Wikipedia]]),
    which is a game theoretical ML application where two neural
-   networks learn by competing with each other. Originated in 2014.
+   networks learn by competing with each other. Originated
+   in 2014. Here is a nice video introduction ([[serrano][Serrano, 2020]]).
 
    GPT-3 is the Generative Pre-trained Transformer 3 (cp. [[https://en.wikipedia.org/wiki/GPT-3][Wikipedia]])
    used especially in natural language processing (NLP), e.g. to
-   simulate human language. Originated in 2020.
+   simulate human language. Originated in 2020. Here is an example of
+   such a simulated conversation between two GPT-3 trained AIs
+   ([[soslow][Soslow, 2021]]).
 
+** Generalization and robustness
+
+   It doesn't seem to me as if this problem is well understood though
+   the problem setting is clear: humans environments are too complex
+   for using AI applications developed and tested in the lab.
+
+   #+attr_html: :width 600px
+   [[./img/xray.jpg]]
+
+   /Image: an old X-ray machine (Source: [[vintage][vintage.es]])/
+   
 ** Change management
 
-** Full cycle of machine learning projects
+   Change is a hugely complex issue, partly because of the generality
+   of the concept, and partly because of the deep-seated knowledge
+   that behavioral change is usually hard to bring about - the harder,
+   the more established a behavior is. There is a hundred years of
+   management literature alone written about it. And of course, almost
+   all of the serious fiction literature of the world is about
+   transformative, real change. Still, it is not clear to me if
+   "change management" isn't an oxymoron.
 
+*** A naive model
+
+    [[./img/naive.png]]
+
+    (Source: Society of competitive intelligence)
+
+*** Ideal process model
+
+    [[./img/accenture.png]]
+
+    (Source: Accenture)
+
+*** Building blocks
+
+    [[./img/siemens.png]]
+
+    (Source: SIEMENS)
+
+*** Glossary    
+
+    * [[https://pubmed.ncbi.nlm.nih.gov/33375658/][Explainable AI?]] ([[xai][Linardatos et al, 2020]]) - XAI 
+    * [[https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit][AI Auditing?]] ([[boillet][Boillet, 2018]]) - Risk analysis
+
+** Full cycle of machine learning projects
 ** Summary
 
 ** Further information
@@ -72,12 +117,28 @@
 
 * References
 
+  <<boillet>> Boillet J (Jul 20, 2018). How AI will transform the
+  audit [video]. [[https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit][Online: ey.com]].
+
+  <<xai>> Linardatos et al (2020). Explainable AI: A Review of Machine
+  Learning Interpretability Methods. In: Entropy 23(1).  [[https://pubmed.ncbi.nlm.nih.gov/33375658/][doi:
+  10.3390/e23010018. PMID: 33375658; PMCID: PMC7824368]].
+
+  <<serrano>> Serrano L (May 5, 2020). A Friendly Introduction to
+  Generative Adversarial Networks (GANs) [video]. [[https://youtu.be/8L11aMN5KY8][Online: youtube.com]].
+
+  <<soslow>> Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
+  human. (GPT-3) [video]. [[https://youtu.be/jz78fSnBG0s][Online: youtube.com]].
+
   <<ng>> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
   Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY][Online: youtube.com]].
 
   <<ng18>> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
   Machine Learning - Andrew Ng (Autumn 2018) [video]. [[https://youtu.be/jGwO_UgTS7I?t=2180][Online:
   youtube.com]].
+
+  <<vintage>> n.a.(3 Feb 2016). 15 Incredible Vintage Photos of People
+  Getting X-Rays Over the Decades [website]. [[https://www.vintag.es/2016/02/incredible-vintage-photos-of-people.html][Online: vintage.es]].
 
 * Footnotes
 
