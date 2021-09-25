@@ -102,9 +102,16 @@
 
     (Source: SIEMENS)
 
-*** Glossary    
+*** Glossary
 
     * [[https://pubmed.ncbi.nlm.nih.gov/33375658/][Explainable AI?]] ([[xai][Linardatos et al, 2020]]) - XAI 
+
+      #+begin_quote
+       The field of Explainable Artificial Intelligence (XAI) [...] is
+       concerned with the development of new methods that explain and
+       interpret machine learning models,
+      #+end_quote
+
     * [[https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit][AI Auditing?]] ([[boillet][Boillet, 2018]]) - Risk analysis
 
 ** Full cycle of machine learning projects
