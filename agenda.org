@@ -250,6 +250,16 @@
 
   /Image source: [[williams][Williams, 2020]]./
 
+* Week 7 - September 27
+
+  #+attr_html: :width 500px
+  [[./img/talk.png]]
+
+  * Recap: what do you remember?
+  * Small data algorithms: [[https://github.com/birkenkrahe/ai482/tree/main/6_ai_state_of_the_art#small-data][GANs/GPT-3]]
+  * Today: "Change management and ML"
+  * Next: "Full ML project cycle"
+
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
