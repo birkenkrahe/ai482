@@ -20,12 +20,20 @@
   #+end_quote
 
   Ng gives a list of supervised learning tasks that have successfully
-  been addressed by machines.
+  been addressed by machines using a simple I/O model [[https://youtu.be/tsPuVAMaADY?t=547][(Source:
+  Stanford HAI 2020)]].
 
-  #+attr_html: :width 600px
-  [[./img/ml.png]]
+  | Input (A)     | Output (O)       | ML application     |
+  |---------------+------------------+--------------------|
+  | email         | spam? (0/1)      | spam filtering     |
+  | ad, user info | click? (0/1)     | online advertising |
+  | phone image   | scratched? (0/1) | visual inspection  |
+  | audio         | text transcript  | speech recognition |
 
-  [[https://youtu.be/tsPuVAMaADY?t=547][(Source: Stanford HAI 2020)]], 
+   In most of these, the AI only needs to classify the input as one of
+  two kinds (0/1), e.g. in spam filtering: spam or not spam. Audio ML
+  is more complicated, because it relies on understanding natural
+  language.
 
 * AI research-to-production gap
 
