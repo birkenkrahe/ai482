@@ -1,18 +1,18 @@
 
 # Table of Contents
 
--   [Machine learning](#orgdd9a6da)
--   [AI research-to-production gap](#orgb42bb78)
-    -   [Small data](#org6645f87)
-    -   [Change management](#org7c52991)
-    -   [Full cycle of machine learning projects](#org7214d9d)
-    -   [Summary](#org75c2c3b)
-    -   [Further information](#org5b65f35)
--   [References](#orgba730e8)
+-   [Machine learning](#org223a007)
+-   [AI research-to-production gap](#org4a49abb)
+    -   [Small data](#orgb45cc73)
+    -   [Change management](#orgf1d63f8)
+    -   [Full cycle of machine learning projects](#orga8bc5fb)
+    -   [Summary](#orge493ed5)
+    -   [Further information](#org96d5f91)
+-   [References](#org0056dfc)
 
 
 
-<a id="orgdd9a6da"></a>
+<a id="org223a007"></a>
 
 # Machine learning
 
@@ -24,26 +24,76 @@ topic. It turns out that most of the running AI applications
 agents, especially supervised learning - recognizing (= classifying)
 known patterns learnt from big data samples. Ng's first definition
 of ML is Samuel's seminal 1959 definition ([stanfordonline,
-2020](#org51d9f29))<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>:
+2020](#org5d89832))<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>:
 
 > Machine learning: field of study that gives computers the ability to
 > learn without being explicitly programmed.
 
 Ng gives a list of supervised learning tasks that have successfully
-been addressed by machines.
+been addressed by machines using a simple I/O model [(Source:
+Stanford HAI 2020)](https://youtu.be/tsPuVAMaADY?t=547).
 
-![img](./img/ml.png)
-
-[(Source: Stanford HAI 2020)](https://youtu.be/tsPuVAMaADY?t=547), 
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<a id="orgb42bb78"></a>
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Input (A)</th>
+<th scope="col" class="org-left">Output (O)</th>
+<th scope="col" class="org-left">ML application</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">email</td>
+<td class="org-left">spam? (0/1)</td>
+<td class="org-left">spam filtering</td>
+</tr>
+
+
+<tr>
+<td class="org-left">ad, user info</td>
+<td class="org-left">click? (0/1)</td>
+<td class="org-left">online advertising</td>
+</tr>
+
+
+<tr>
+<td class="org-left">phone image</td>
+<td class="org-left">scratched? (0/1)</td>
+<td class="org-left">visual inspection</td>
+</tr>
+
+
+<tr>
+<td class="org-left">audio</td>
+<td class="org-left">text transcript</td>
+<td class="org-left">speech recognition</td>
+</tr>
+</tbody>
+</table>
+
+ In most of these, the AI only needs to classify the input as one of
+two kinds (0/1), e.g. in spam filtering: spam or not spam. Audio ML
+is more complicated, because it relies on understanding natural
+language.
+
+
+<a id="org4a49abb"></a>
 
 # AI research-to-production gap
 
 In this video AI researcher Andrew Ng addresses three issues to
 explain why ML is not more successful in the real world ([Stanford
-HAI, 2020](#org86abb56)). Many academic research results are spectacular, but in
+HAI, 2020](#org5880e10)). Many academic research results are spectacular, but in
 real settings, e.g. hospitals, you don't find AI (except in
 embedded, i.e. invisible systems like cameras, sensors etc.).
 
@@ -52,7 +102,7 @@ technical glossary additions and stuff that was left out of the
 protocols.
 
 
-<a id="org6645f87"></a>
+<a id="orgb45cc73"></a>
 
 ## Small data
 
@@ -67,22 +117,22 @@ used especially in natural language processing (NLP), e.g. to
 simulate human language. Originated in 2020.
 
 
-<a id="org7c52991"></a>
+<a id="orgf1d63f8"></a>
 
 ## Change management
 
 
-<a id="org7214d9d"></a>
+<a id="orga8bc5fb"></a>
 
 ## Full cycle of machine learning projects
 
 
-<a id="org75c2c3b"></a>
+<a id="orge493ed5"></a>
 
 ## Summary
 
 
-<a id="org5b65f35"></a>
+<a id="org96d5f91"></a>
 
 ## Further information
 
@@ -90,14 +140,14 @@ Stanford HAI (Apr 29, 2021). Healthcare's AI Future: A Conversation
 with Fei-Fei Li & Andrew Ng.
 
 
-<a id="orgba730e8"></a>
+<a id="org0056dfc"></a>
 
 # References
 
-<a id="org86abb56"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+<a id="org5880e10"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
 
-<a id="org51d9f29"></a> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
+<a id="org5d89832"></a> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
 Machine Learning - Andrew Ng (Autumn 2018) [video]. [Online:
 youtube.com](https://youtu.be/jGwO_UgTS7I?t=2180).
 
