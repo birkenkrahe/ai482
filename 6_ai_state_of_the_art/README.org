@@ -19,6 +19,14 @@
   learn without being explicitly programmed.
   #+end_quote
 
+  Ng gives a list of supervised learning tasks that have successfully
+  been addressed by machines.
+
+  #+attr_html: :width 600px
+  [[./img/ml.png]]
+
+  [[https://youtu.be/tsPuVAMaADY?t=547][(Source: Stanford HAI 2020)]], 
+
 * AI research-to-production gap
 
   In this video AI researcher Andrew Ng addresses three issues to
@@ -31,12 +39,6 @@
   technical glossary additions and stuff that was left out of the
   protocols.
 
-  [[https://youtu.be/tsPuVAMaADY?t=547][Right at the start]], he gives a list of supervised learning tasks
-  that have successfully been addressed by machines.
-
-  #+attr_html: :width 600px
-  [[./img/ml.png]]
-
 ** Small data
 
    Examples for [[https://youtu.be/tsPuVAMaADY?t=1054][small data algorithms]] include GANs and GPT-3.
@@ -47,7 +49,7 @@
 
    GPT-3 is the Generative Pre-trained Transformer 3 (cp. [[https://en.wikipedia.org/wiki/GPT-3][Wikipedia]])
    used especially in natural language processing (NLP), e.g. to
-   simulate human language. Originated in 2020. 
+   simulate human language. Originated in 2020.
 
 ** Change management
 
@@ -79,4 +81,4 @@ task T and some performance measure P, if its performance on T, as
 measured by P, improves with experience E.
 #+end_quote
 In the language of our last lesson, E is the precept, and T could be
-any task, no matter how complex, as long as we can define a P. 
+any task, no matter how complex, as long as we can define a P.
