@@ -303,7 +303,7 @@
    program rather than from a vast [lookup] table." [[aima][AIMA]]:67
    #+end_quote
 
-** Simple reflex agents
+** Simple reflex agents[fn:9]
 
    Requires: condition-action rules
 
@@ -343,8 +343,20 @@
 
 ** Other classifications
 
+   There are, of course, other classifications. Here is another,
+   widely cited one, by [[delaurentis][DeLaurentis (2005)]]. In this model, simple
+   reflex ("reactive"), utility and goal-based agents are labelled as
+   having "a set solution path" (i.e. a rule set). In fact, this
+   taxonomy is vulnerable: the relationships of the new five
+   categories suggested by this author are not obviously logically
+   related. Remember: if the logic of a taxonomy, a classification
+   scheme, is not obvious and can be tested, it is (almost) worthless,
+   because you cannot use it to place things uniquely into categories
+   (which is the only point of having a taxonomy in the first place).
+
    #+attr_html: :width 400px
    [[./img/types.jpg]]
+
 
 * References
 
@@ -355,6 +367,11 @@
 
    Chen M et al (14 Jul 2021). Evaluating Large Language Models Trained
    on Code. Preprint: [[https://arxiv.org/abs/2107.03374][arxiv:2107.03374]].
+
+   <<delaurentis>> DeLaurentis DA (2005). Understanding Transportation
+   as System-of-Systems Design Problem. In: Proc. 43rd AIAA Aerospace
+   Sciences Meeting and Exhibit, Reno, US-NV, 10–13
+   January. [[https://arc.aiaa.org/doi/10.2514/6.2005-123][doi.org/10.2514/6.2005-123]]
 
    <<dorner>> Dörner D (1990). The logic of failure. In:
    Phil. Trans. R. Soc. Lond. B 327:463-473.
@@ -391,6 +408,11 @@
   * September 24, 2021
 
 * Footnotes
+
+[fn:9]IMHO, these illustrations are not very clear and should be
+replaced by proper modeling diagrams in BPMN or UML (use case
+diagrams). This will be an assignment for the parallel "data modeling"
+class!
 
 [fn:8]In a semidynamic environment, the enviroment itself does not
 change but a performance score does - chess with a clock is an

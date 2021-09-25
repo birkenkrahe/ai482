@@ -1,39 +1,39 @@
 
 # Table of Contents
 
--   [AI applications that might change the world](#org466b3b2)
--   [Agents and environments](#org90813dc)
-    -   [Microworld-view](#org3222e18)
-    -   [Rational agent success](#orgca45bb1)
-    -   [Example: robotic vacuum-cleaner](#orgbe66881)
-    -   [Definition of a rational agent](#org96e1325)
-    -   [Process view](#orgdb50e11)
--   [Task environments](#orgc927d44)
-    -   [Current research](#orgce6afae)
-    -   [Remote Mars rover navigation](#org1c6c8b0)
-    -   [PEAS example: automated taxi driver](#org6df3701)
-    -   [PEAS Challenge](#orgf5de55f)
-    -   [Task environment properties](#org80fbffd)
-    -   [Environment of the automated taxi driver](#orga042c4e)
-    -   [Systemic interpretation](#org3457d36)
-    -   [Homework](#org5b5c084)
--   [Agent structure and types](#org0a6cfd8)
-    -   [Table-driven agent programs](#org0331d3f)
-    -   [Simple reflex agents](#orgd1b9312)
-    -   [Model based agents](#org2667abb)
-    -   [Goal based agents](#orgd517091)
-    -   [Utility based agents](#org8b368b3)
-    -   [Learning agents](#org18a9ff9)
-    -   [All types](#orgb929a92)
-    -   [Other classifications](#org24c8936)
--   [References](#orga4e617f)
-    -   [Publications](#org0120a69)
-    -   [Websites](#org2a56f36)
--   [Whiteboards](#orga75942a)
+-   [AI applications that might change the world](#orgf732a9b)
+-   [Agents and environments](#orga1a6467)
+    -   [Microworld-view](#org7183fc3)
+    -   [Rational agent success](#orgcbe6a79)
+    -   [Example: robotic vacuum-cleaner](#orgfd72968)
+    -   [Definition of a rational agent](#org6381889)
+    -   [Process view](#org4019ebe)
+-   [Task environments](#org86650fc)
+    -   [Current research](#orgabb95bc)
+    -   [Remote Mars rover navigation](#orge47b22f)
+    -   [PEAS example: automated taxi driver](#org6166ba1)
+    -   [PEAS Challenge](#org023f8c6)
+    -   [Task environment properties](#org0d6ef31)
+    -   [Environment of the automated taxi driver](#org877a643)
+    -   [Systemic interpretation](#org0202451)
+    -   [Homework](#orgcc9515b)
+-   [Agent structure and types](#org376f5d0)
+    -   [Table-driven agent programs](#org8186c67)
+    -   [Simple reflex agents](#orgf68e29b)
+    -   [Model based agents](#org8c8d781)
+    -   [Goal based agents](#org8712ef5)
+    -   [Utility based agents](#orgbb6c589)
+    -   [Learning agents](#org4e2598b)
+    -   [All types](#org27fdba7)
+    -   [Other classifications](#org6e1144a)
+-   [References](#orgd4edcca)
+    -   [Publications](#org3c171f0)
+    -   [Websites](#orge2c530f)
+-   [Whiteboards](#org098319f)
 
 
 
-<a id="org466b3b2"></a>
+<a id="orgf732a9b"></a>
 
 # AI applications that might change the world<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
 
@@ -118,13 +118,13 @@
 </table>
 
 
-<a id="org90813dc"></a>
+<a id="orga1a6467"></a>
 
 # Agents and environments
 
 The purpose of this section is to bridge the gap between AI ideas
 and practice. To do this, we adopt the rational agent approach
-promoted in [AIMA](#orga60a741), and implemented in day-to-day AI systems, like
+promoted in [AIMA](#org56c137b), and implemented in day-to-day AI systems, like
 robot vacuum cleaners that operate in the real world, or
 personalized shopping apps that operate in virtual commercial space.
 
@@ -133,10 +133,10 @@ analytic framework, much like the distinction between supervised and
 unsupervised learning that we will look at next.
 
 These lecture notes corresponds to some of the chapter 2 content of
-the textbook ([Russell/Norvig](#orga60a741), 2021).
+the textbook ([Russell/Norvig](#org56c137b), 2021).
 
 
-<a id="org3222e18"></a>
+<a id="org7183fc3"></a>
 
 ## Microworld-view
 
@@ -152,10 +152,10 @@ output and optimizing functions when following a process<sup><a id="fnr.3" class
 
 ![img](./img/agents.png)
 
-Source: [AIMA](#orga60a741) - agent-world vs. environment view
+Source: [AIMA](#org56c137b) - agent-world vs. environment view
 
 
-<a id="orgca45bb1"></a>
+<a id="orgcbe6a79"></a>
 
 ## Rational agent success
 
@@ -167,7 +167,7 @@ Success of a rational agent in this simple picture depends on:
 4.  the agent's percept sequence to date
 
 
-<a id="orgbe66881"></a>
+<a id="orgfd72968"></a>
 
 ## Example: robotic vacuum-cleaner
 
@@ -235,17 +235,17 @@ that controlled irrationality is the core of creative behavior and
 originality.
 
 
-<a id="org96e1325"></a>
+<a id="org6381889"></a>
 
 ## Definition of a rational agent
 
 > "For each possible percept sequence, a rational agent should select
 > an action that is expected to maximize its performance measure,
 > given the evidence provided by the percept sequence and whatever
-> built-in knowledge the agent has." ([AIMA](#orga60a741))
+> built-in knowledge the agent has." ([AIMA](#org56c137b))
 
 
-<a id="orgdb50e11"></a>
+<a id="org4019ebe"></a>
 
 ## Process view
 
@@ -256,7 +256,7 @@ diagram below.
 ![img](./img/agents_and_environments.png)
 
 
-<a id="orgc927d44"></a>
+<a id="org86650fc"></a>
 
 # Task environments
 
@@ -265,18 +265,18 @@ environment. To design agents that can manage this challenge, we
 classify different types of environments.
 
 
-<a id="orgce6afae"></a>
+<a id="orgabb95bc"></a>
 
 ## Current research
 
 Recent article: "Solving the Robot Off-Loading Problem": helping
 robots choose when to communicate with the cloud without latency or
-lost data issues ([Myers, 2021](#org927d7b2)).
+lost data issues ([Myers, 2021](#org0e67bbe)).
 
 ![img](./img/drone.jpg)
 
 
-<a id="org1c6c8b0"></a>
+<a id="orge47b22f"></a>
 
 ## Remote Mars rover navigation
 
@@ -311,7 +311,7 @@ platform" contains all sorts of new services, some of them
 AI-driven, like "Analytics" and "Internet of Things".
 
 
-<a id="org6df3701"></a>
+<a id="org6166ba1"></a>
 
 ## PEAS example: automated taxi driver
 
@@ -349,13 +349,13 @@ PEAS description for an automated taxi driver (transport agent):
 </table>
 
 > "Virtual task environments (not in the physical world) can be as
-> complex as real ones." ([AIMA](#orga60a741))
+> complex as real ones." ([AIMA](#org56c137b))
 
 **What do you think:** are AUGMENTED reality environments more, less,
 or equally complex?<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup>
 
 
-<a id="orgf5de55f"></a>
+<a id="org023f8c6"></a>
 
 ## PEAS Challenge
 
@@ -367,7 +367,7 @@ Identify PEAS elements for each of these agent types!
 -   Refinery controller
 -   Interactive English tutor
     
-    [[Solution](https://github.com/birkenkrahe/ai482/blob/main/5_ai_agents/img/challenge.png), [AIMA](#orga60a741) table 2.5]
+    [[Solution](https://github.com/birkenkrahe/ai482/blob/main/5_ai_agents/img/challenge.png), [AIMA](#org56c137b) table 2.5]
 
 All of these applications are present today in their respective
 industrial environments - health care, weather forecasting,
@@ -380,7 +380,7 @@ as a design blueprint) - except when humans are directly involved
 (health care, tutoring).
 
 
-<a id="org80fbffd"></a>
+<a id="org0d6ef31"></a>
 
 ## Task environment properties
 
@@ -467,7 +467,7 @@ in a way, define machine "intelligence".
 </table>
 
 
-<a id="orga042c4e"></a>
+<a id="org877a643"></a>
 
 ## Environment of the automated taxi driver
 
@@ -521,16 +521,16 @@ Let's look at the automated taxi driver as an example:
 
 > "The hardest [agent task environment] case is partially observable,
 > multiagent, nondeterministic, sequential, dynamic, continous, and
-> unknown."  ([AIMA](#orga60a741))
+> unknown."  ([AIMA](#org56c137b))
 
 Here are examples for some of these categories.
 
 ![img](./img/environments.png)
 
-[Image source: [AIMA](#orga60a741) table 2.6]
+[Image source: [AIMA](#org56c137b) table 2.6]
 
 
-<a id="org3457d36"></a>
+<a id="org0202451"></a>
 
 ## Systemic interpretation
 
@@ -541,11 +541,11 @@ the properties are not limited to AI systems - you could use them
 to describe other cybernetic systems, like heating systems.
 
 
-<a id="org5b5c084"></a>
+<a id="orgcc9515b"></a>
 
 ## Homework
 
-Pick any of the online exercises for this chapter of [AIMA](#orga60a741) (ch. 2)
+Pick any of the online exercises for this chapter of [AIMA](#org56c137b) (ch. 2)
 and work out a solution, or sketch a path towards a solution
 (e.g. by describing what one might do, in which order), or sketch
 specific problems and issues for discussion, and present in class
@@ -559,16 +559,16 @@ remainder of the term. You can also easily turn them into
 presentations.
 
 
-<a id="org0a6cfd8"></a>
+<a id="org376f5d0"></a>
 
 # Agent structure and types
 
 ![img](./img/agents.jpg)
 
-Sources: [Iacobelli, 2015](#org1e58dc9) & [AIMA ch.2](#orga60a741).
+Sources: [Iacobelli, 2015](#orgdd7dc1c) & [AIMA ch.2](#org56c137b).
 
 
-<a id="org0331d3f"></a>
+<a id="org8186c67"></a>
 
 ## Table-driven agent programs
 
@@ -576,12 +576,12 @@ Sources: [Iacobelli, 2015](#org1e58dc9) & [AIMA ch.2](#orga60a741).
 
 > "The key challenge for AI is to find out how to write programs that
 > [&#x2026;] produce rational behavior from a smallish [algorithmic]
-> program rather than from a vast [lookup] table." [AIMA](#orga60a741):67
+> program rather than from a vast [lookup] table." [AIMA](#org56c137b):67
 
 
-<a id="orgd1b9312"></a>
+<a id="orgf68e29b"></a>
 
-## Simple reflex agents
+## Simple reflex agents<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup>
 
 Requires: condition-action rules
 
@@ -590,7 +590,7 @@ Example: vacuum robot (smart home).
 ![img](./img/simple.png)
 
 
-<a id="org2667abb"></a>
+<a id="org8c8d781"></a>
 
 ## Model based agents
 
@@ -601,7 +601,7 @@ Example: portfolio agent (stock market).
 ![img](./img/model.png)
 
 
-<a id="orgd517091"></a>
+<a id="org8712ef5"></a>
 
 ## Goal based agents
 
@@ -610,7 +610,7 @@ Requires: explicit goal-checking
 ![img](./img/goal.png)
 
 
-<a id="org8b368b3"></a>
+<a id="orgbb6c589"></a>
 
 ## Utility based agents
 
@@ -619,7 +619,7 @@ Requires: utility function.
 ![img](./img/utility.png)
 
 
-<a id="org18a9ff9"></a>
+<a id="org4e2598b"></a>
 
 ## Learning agents
 
@@ -628,58 +628,74 @@ Requires: modifies own functions
 ![img](./img/learning.png)
 
 
-<a id="orgb929a92"></a>
+<a id="org27fdba7"></a>
 
 ## All types
 
 ![img](./img/all_types.png)
 
 
-<a id="org24c8936"></a>
+<a id="org6e1144a"></a>
 
 ## Other classifications
+
+There are, of course, other classifications. Here is another,
+widely cited one, by [DeLaurentis (2005)](#org762c6fc). In this model, simple
+reflex ("reactive"), utility and goal-based agents are labelled as
+having "a set solution path" (i.e. a rule set). In fact, this
+taxonomy is vulnerable: the relationships of the new five
+categories suggested by this author are not obviously logically
+related. Remember: if the logic of a taxonomy, a classification
+scheme, is not obvious and can be tested, it is (almost) worthless,
+because you cannot use it to place things uniquely into categories
+(which is the only point of having a taxonomy in the first place).
 
 ![img](./img/types.jpg)
 
 
-<a id="orga4e617f"></a>
+<a id="orgd4edcca"></a>
 
 # References
 
 
-<a id="org0120a69"></a>
+<a id="org3c171f0"></a>
 
 ## Publications
 
-<a id="org045eb1e"></a> Bee Z (24 Jan 2021). Grammarly is Garbage, and Here's Why
+<a id="orgc4a569a"></a> Bee Z (24 Jan 2021). Grammarly is Garbage, and Here's Why
 [Video]. [Online: YouTube.com](https://youtu.be/Q5rB9jDbTPU).
 
 Chen M et al (14 Jul 2021). Evaluating Large Language Models Trained
 on Code. Preprint: [arxiv:2107.03374](https://arxiv.org/abs/2107.03374).
 
-<a id="org568f24c"></a> Dörner D (1990). The logic of failure. In:
+<a id="org762c6fc"></a> DeLaurentis DA (2005). Understanding Transportation
+as System-of-Systems Design Problem. In: Proc. 43rd AIAA Aerospace
+Sciences Meeting and Exhibit, Reno, US-NV, 10–13
+January. [doi.org/10.2514/6.2005-123](https://arc.aiaa.org/doi/10.2514/6.2005-123)
+
+<a id="orgcfb80ac"></a> Dörner D (1990). The logic of failure. In:
 Phil. Trans. R. Soc. Lond. B 327:463-473.
 
 Facebook (9 Sep 2021). Introducing Ray-Ban Stories: First-Generation
 Smart Glasses. [Online: fb.com.](https://about.fb.com/news/2021/09/introducing-ray-ban-stories-smart-glasses/)
 
-<a id="org1e58dc9"></a> Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
+<a id="orgdd7dc1c"></a> Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
 [video]. [Online: youtube.com](https://youtu.be/UjQ1AzSvCp8?t=1308).
 
-<a id="org5ea1e2a"></a> Matloff N (2020). Probability and Statistics for Data
+<a id="org9fbbbcc"></a> Matloff N (2020). Probability and Statistics for Data
 Science: Math + R + Data. CRC Press.
 
-<a id="org927d7b2"></a> Myers A (8 Sept 2021). Solving the Robot Off-Loading
+<a id="org0e67bbe"></a> Myers A (8 Sept 2021). Solving the Robot Off-Loading
 Problem. [Online: hai.stanford.edu](https://hai.stanford.edu/news/solving-robot-loading-problem).
 
-<a id="org0b2e03e"></a> Reed Floren (1 April 2021). Jarvis.ai How to Write Blog
+<a id="org0d60c7c"></a> Reed Floren (1 April 2021). Jarvis.ai How to Write Blog
 Posts in 10 Minutes with Conversion.AI [Video]. [Online: youtube.com](https://youtu.be/z5_3S5nKfWQ?t=540).
 
-<a id="orga60a741"></a> Russell S/Norvig P (2021). AI - A Modern Approach (4th
+<a id="org56c137b"></a> Russell S/Norvig P (2021). AI - A Modern Approach (4th
 ed). Pearson.
 
 
-<a id="org2a56f36"></a>
+<a id="orge2c530f"></a>
 
 ## Websites
 
@@ -689,7 +705,7 @@ ed). Pearson.
 -   jarvis.ai - blog writing software
 
 
-<a id="orga75942a"></a>
+<a id="org098319f"></a>
 
 # Whiteboards
 
@@ -702,16 +718,16 @@ ed). Pearson.
 
 <sup><a id="fn.1" href="#fnr.1">1</a></sup> 1-3 came from course participants (see [whiteboard, Sept 20](https://drive.google.com/drive/folders/1cVty0VxQ2pU99cOk8LD-rJPsOi0pOm7Z?usp=sharing)), 4-7
 are my personal opinion. "Automatic writing" includes AI-driven
-spell-checking apps like Grammarly (beware - cp. [Bee 2021](#org045eb1e), though the
+spell-checking apps like Grammarly (beware - cp. [Bee 2021](#orgc4a569a), though the
 [Grammarly engineering blog](https://www.grammarly.com/blog/engineering/) is quite interesting). Quote from a video
-demonstrating jarvis.ai ([Reed Floren, 2021](#org0b2e03e)): "I've created a 1000 word
+demonstrating jarvis.ai ([Reed Floren, 2021](#org0d60c7c)): "I've created a 1000 word
 article in minutes on a topic that I really know nothing about."
 
 <sup><a id="fn.2" href="#fnr.2">2</a></sup> Much like in probability: these are usually introduced via state
 spaces (e.g. the different combinations when rolling a dice). A better
 way of thinking about probability is as a process of creating one
 record after another - essentially an event log of stochastic
-events. Cp. [Matloff (2020)](#org5ea1e2a).
+events. Cp. [Matloff (2020)](#org9fbbbcc).
 
 <sup><a id="fn.3" href="#fnr.3">3</a></sup> You could also look at the job of learning in terms of incoming
 or outgoing data, or different data formats. This would be closer to
@@ -730,7 +746,7 @@ of argument, one could assume the complexity of the real world to be
 "1", and of a completely static virtual world "0". Alternatively, you
 have to use a complexity measure that can be quantified and
 e.g. implemented in a program like Dörner's in "The logic of failure"
-([Dörner, 1990](#org568f24c)).
+([Dörner, 1990](#orgcfb80ac)).
 
 <sup><a id="fn.6" href="#fnr.6">6</a></sup> "Unobservable" in principle means that the agent has no sensors
 in all task environments (it must have some data otherwise it could
@@ -743,3 +759,8 @@ stochastic (aka uncertain but with a quantifiable probability).
 change but a performance score does - chess with a clock is an
 example: when the clock is ticking, the performance time changes even
 though the board is static.
+
+<sup><a id="fn.9" href="#fnr.9">9</a></sup> IMHO, these illustrations are not very clear and should be
+replaced by proper modeling diagrams in BPMN or UML (use case
+diagrams). This will be an assignment for the parallel "data modeling"
+class!
