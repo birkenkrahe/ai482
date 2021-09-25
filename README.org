@@ -1,142 +1,22 @@
-#+TITLE:State of the Art of AI
-#+AUTHOR: Marcus Birkenkrahe
-#+Subtitle: Seminar on Artificial Intelligence
-#+OPTIONS: toc:nil num:nil ^:nil
-#+INFOJS_OPT: :view:info
-* Machine learning
-  After looking at the [[https://github.com/birkenkrahe/ai482/tree/main/4_ai_history][history of AI]], and some of the foundations of a
-  dominant AI methodology ([[https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents][intelligent agents]]), we need to take stock
-  of what AI actually achieves today, and why it's such a hot
-  topic. It turns out that most of the running AI applications
-  ("production AI") is related to machine learning (ML), i.e. learning
-  agents, especially supervised learning - recognizing (= classifying)
-  known patterns learnt from big data samples. Ng's first definition
-  of ML is Samuel's seminal 1959 definition ([[ng18][stanfordonline,
-  2020]])[fn:1]:
+#+TITLE:Artificial Intelligence
+#+AUTHOR:Marcus Birkenkrahe
+#+SUBTITLE: DSC 482.01 @ Lyon College
+#+OPTIONS: toc:nil
+* What's in this repo?
 
-  #+begin_quote
-  Machine learning: field of study that gives computers the ability to
-  learn without being explicitly programmed.
-  #+end_quote
+  * Repository for DSC 482.01 - Artificial Intelligence
+  * Emacs Org-mode files (~.org~) are rendered as Markdown.
+  * Markdown files (~.md~) are uploaded for the mobile app.
+  * For a TOC, open the bullet point list menu
 
-  Ng gives a list of supervised learning tasks that have successfully
-  been addressed by machines using a simple I/O model [[https://youtu.be/tsPuVAMaADY?t=547][(Source:
-  Stanford HAI 2020)]].
+** [[https://github.com/birkenkrahe/ai482/blob/main/agenda.md][Agenda]]
+** [[https://github.com/birkenkrahe/ai482/blob/main/bookmarks.md][AI Bookmarks]]
+** [[https://github.com/birkenkrahe/ai482/blob/main/diary.md][AI Course diary]]
+** [[https://github.com/birkenkrahe/ai482/discussions][AI Discussion forums]]
+** [[https://github.com/birkenkrahe/ai482/blob/main/FAQ.md][AI Frequently Asked Questions (FAQ)]]
+** [[https://github.com/birkenkrahe/ai482/blob/main/syllabus.md][AI Syllabus]]
 
-  | Input (A)     | Output (O)       | ML application     |
-  |---------------+------------------+--------------------|
-  | email         | spam? (0/1)      | spam filtering     |
-  | ad, user info | click? (0/1)     | online advertising |
-  | phone image   | scratched? (0/1) | visual inspection  |
-  | audio         | text transcript  | speech recognition |
+** History
 
-  In most of these, the AI only needs to classify the input as one of
-  two kinds (0/1), e.g. in spam filtering: spam or not spam. Audio ML
-  is more complicated, because it relies on understanding natural
-  language.
-
-* AI research-to-production gap
-
-  In this video AI researcher Andrew Ng addresses three issues to
-  explain why ML is not more successful in the real world ([[ng][Stanford
-  HAI, 2020]]). Many academic research results are spectacular, but in
-  real settings, e.g. hospitals, you don't find AI (except in
-  embedded, i.e. invisible systems like cameras, sensors etc.).
-
-  For details, see student session protocols. Here you find only
-  technical glossary additions and stuff that was left out of the
-  protocols.
-
-** Small data
-
-   Examples for [[https://youtu.be/tsPuVAMaADY?t=1054][small data algorithms]] include GANs and GPT-3.
-
-   GANs stands for Generative Adversarial Network (cp. [[https://en.wikipedia.org/wiki/Generative_adversarial_network][Wikipedia]]),
-   which is a game theoretical ML application where two neural
-   networks learn by competing with each other. Originated
-   in 2014. Here is a nice video introduction ([[serrano][Serrano, 2020]]).
-
-   GPT-3 is the Generative Pre-trained Transformer 3 (cp. [[https://en.wikipedia.org/wiki/GPT-3][Wikipedia]])
-   used especially in natural language processing (NLP), e.g. to
-   simulate human language. Originated in 2020. Here is an example of
-   such a simulated conversation between two GPT-3 trained AIs
-   ([[soslow][Soslow, 2021]]).
-
-** Generalization and robustness
-
-   It doesn't seem to me as if this problem is well understood though
-   the problem setting is clear: humans environments are too complex
-   for using AI applications developed and tested in the lab.
-
-   #+attr_html: :width 600px
-   [[./img/xray.jpg]]
-
-   /Image: an old X-ray machine (Source: [[vintage][vintage.es]])/
-   
-** Change management
-
-   Change is a hugely complex issue, partly because of the generality
-   of the concept, and partly because of the deep-seated knowledge
-   that behavioral change is usually hard to bring about - the harder,
-   the more established a behavior is. There is a hundred years of
-   management literature alone written about it. And of course, almost
-   all of the serious fiction literature of the world is about
-   transformative, real change. Still, it is not clear to me if
-   "change management" isn't an oxymoron.
-
-*** A naive model
-
-    [[./img/naive.png]]
-
-    (Source: Society of competitive intelligence)
-
-*** Ideal process model
-
-    [[./img/accenture.png]]
-
-    (Source: Accenture)
-
-*** Building blocks
-
-    [[./img/siemens.png]]
-
-    (Source: SIEMENS)
-
-** Full cycle of machine learning projects
-
-** Summary
-
-** Further information
-
-   Stanford HAI (Apr 29, 2021). Healthcare's AI Future: A Conversation
-   with Fei-Fei Li & Andrew Ng.
-
-* References
-
-  <<serrano>> Serrano L (May 5, 2020). A Friendly Introduction to
-  Generative Adversarial Networks (GANs) [video]. [[https://youtu.be/8L11aMN5KY8][Online: youtube.com]].
-
-  <<soslow>> Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
-  human. (GPT-3) [video]. [[https://youtu.be/jz78fSnBG0s][Online: youtube.com]].
-
-  <<ng>> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
-  Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY][Online: youtube.com]].
-
-  <<ng18>> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
-  Machine Learning - Andrew Ng (Autumn 2018) [video]. [[https://youtu.be/jGwO_UgTS7I?t=2180][Online:
-  youtube.com]].
-
-  <<vintage>> n.a.(3 Feb 2016). 15 Incredible Vintage Photos of People
-  Getting X-Rays Over the Decades [website]. [[https://www.vintag.es/2016/02/incredible-vintage-photos-of-people.html][Online: vintage.es]].
-
-* Footnotes
-
-[fn:1]In the same lecture, Ng relates another, more recent definition
-of the kind of problem that ML addresses, called a "well-posed problem":
-#+begin_quote
-A computer is said to /learn/ from experience E with respect to some
-task T and some performance measure P, if its performance on T, as
-measured by P, improves with experience E.
-#+end_quote
-In the language of our last lesson, E is the precept, and T could be
-any task, no matter how complex, as long as we can define a P.
+   First offered @Lyon: Fall 2021 (Undergrad). To be offered: Fall
+   Semester 2022, 2024, 2026, 2028. Course number DSC 482.
