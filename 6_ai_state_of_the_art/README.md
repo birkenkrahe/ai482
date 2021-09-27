@@ -1,23 +1,24 @@
 
 # Table of Contents
 
--   [Machine learning](#org89a1b61)
--   [AI research-to-production gap](#org998f564)
-    -   [Small data](#org539dfa5)
-    -   [Generalization and robustness](#orgc7bac95)
-    -   [Change management](#orgd2157c3)
-        -   [A naive model](#org8208e81)
-        -   [Ideal process model](#org1414090)
-        -   [Building blocks](#org92f117a)
-        -   [Glossary](#org35b97db)
-    -   [Full cycle of machine learning projects](#org6d81d84)
-    -   [Summary](#orgb205fcd)
-    -   [Further information](#org15eb36b)
--   [References](#orgef9c99b)
+-   [Machine learning](#org448e1e8)
+-   [AI research-to-production gap](#org43e113b)
+    -   [Small data](#org6203da7)
+    -   [Generalization and robustness](#org3626f00)
+    -   [Change management](#org87401ed)
+        -   [A naive model](#org6088bca)
+        -   [Ideal process model](#org6b76772)
+        -   [Building blocks](#org0df8e31)
+        -   [Glossary](#orgc1e2ddc)
+    -   [Efficiency vs. resilience](#org476fe42)
+    -   [Full cycle of machine learning projects](#orgf22d8df)
+    -   [Summary](#org530cc3d)
+    -   [Further information](#org8df5ac7)
+-   [References](#org0856a5e)
 
 
 
-<a id="org89a1b61"></a>
+<a id="org448e1e8"></a>
 
 # Machine learning
 
@@ -29,7 +30,7 @@ topic. It turns out that most of the running AI applications
 agents, especially supervised learning - recognizing (= classifying)
 known patterns learnt from big data samples. Ng's first definition
 of ML is Samuel's seminal 1959 definition ([stanfordonline,
-2020](#org2486122))<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>:
+2020](#orgff90915))<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>:
 
 > Machine learning: field of study that gives computers the ability to
 > learn without being explicitly programmed.
@@ -92,13 +93,13 @@ is more complicated, because it relies on understanding natural
 language.
 
 
-<a id="org998f564"></a>
+<a id="org43e113b"></a>
 
 # AI research-to-production gap
 
 In this video AI researcher Andrew Ng addresses three issues to
 explain why ML is not more successful in the real world ([Stanford
-HAI, 2020](#orgdff13e6)). Many academic research results are spectacular, but in
+HAI, 2020](#orge0c2a13)). Many academic research results are spectacular, but in
 real settings, e.g. hospitals, you don't find AI (except in
 embedded, i.e. invisible systems like cameras, sensors etc.).
 
@@ -107,7 +108,7 @@ technical glossary additions and stuff that was left out of the
 protocols.
 
 
-<a id="org539dfa5"></a>
+<a id="org6203da7"></a>
 
 ## Small data
 
@@ -116,16 +117,16 @@ Examples for [small data algorithms](https://youtu.be/tsPuVAMaADY?t=1054) includ
 GANs stands for Generative Adversarial Network (cp. [Wikipedia](https://en.wikipedia.org/wiki/Generative_adversarial_network)),
 which is a game theoretical ML application where two neural
 networks learn by competing with each other. Originated
-in 2014. Here is a nice video introduction ([Serrano, 2020](#orga853850)).
+in 2014. Here is a nice video introduction ([Serrano, 2020](#orgd8c2493)).
 
 GPT-3 is the Generative Pre-trained Transformer 3 (cp. [Wikipedia](https://en.wikipedia.org/wiki/GPT-3))
 used especially in natural language processing (NLP), e.g. to
 simulate human language. Originated in 2020. Here is an example of
 such a simulated conversation between two GPT-3 trained AIs
-([Soslow, 2021](#orga93b8bf)).
+([Soslow, 2021](#org4a4059b)).
 
 
-<a id="orgc7bac95"></a>
+<a id="org3626f00"></a>
 
 ## Generalization and robustness
 
@@ -135,10 +136,10 @@ for using AI applications developed and tested in the lab.
 
 ![img](./img/xray.jpg)
 
-*Image: an old X-ray machine (Source: [vintage.es](#org9b6c7e5))*
+*Image: an old X-ray machine (Source: [vintage.es](#org14f5f68))*
 
 
-<a id="orgd2157c3"></a>
+<a id="org87401ed"></a>
 
 ## Change management
 
@@ -152,7 +153,7 @@ transformative, real change. Still, it is not clear to me if
 "change management" isn't an oxymoron.
 
 
-<a id="org8208e81"></a>
+<a id="org6088bca"></a>
 
 ### A naive model
 
@@ -161,7 +162,7 @@ transformative, real change. Still, it is not clear to me if
 (Source: Society of competitive intelligence)
 
 
-<a id="org1414090"></a>
+<a id="org6b76772"></a>
 
 ### Ideal process model
 
@@ -170,7 +171,7 @@ transformative, real change. Still, it is not clear to me if
 (Source: Accenture)
 
 
-<a id="org92f117a"></a>
+<a id="org0df8e31"></a>
 
 ### Building blocks
 
@@ -179,30 +180,75 @@ transformative, real change. Still, it is not clear to me if
 (Source: SIEMENS)
 
 
-<a id="org35b97db"></a>
+<a id="orgc1e2ddc"></a>
 
 ### Glossary
 
--   [Explainable AI?](https://pubmed.ncbi.nlm.nih.gov/33375658/) ([Linardatos et al, 2020](#org8da80cc)) - XAI 
+-   [Explainable AI?](https://pubmed.ncbi.nlm.nih.gov/33375658/) ([Linardatos et al, 2020](#orgb906e17)) - XAI
     
     > The field of Explainable Artificial Intelligence (XAI) [&#x2026;] is
     > concerned with the development of new methods that explain and
     > interpret machine learning models,
 
--   [AI Auditing?](https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit) ([Boillet, 2018](#org2b685b6)) - Risk analysis
+-   [AI Auditing?](https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit) ([Boillet, 2018](#org9ef0805)) - Risk analysis
 
 
-<a id="org6d81d84"></a>
+<a id="org476fe42"></a>
+
+## Efficiency vs. resilience
+
+We didn't really do this topic justice, which is hot right now
+because of the pandemic: some argue that society needs to refocus
+from optimizing processes to identifying and building structures
+that can take pressure and survive crisis situations. This is not
+necessarily a contradiction - much depends on one's definitions of
+efficiency vs. resilience. I mentioned the origins of the Internet
+and packet switching technology as a prime example of resilient
+infrastructure design (cp. [Leiner et al, 1997](#org64b99c4)).
+
+Here is a modern attack on the "relentless pursuit of efficiency"
+by a computer scientist whose title says it all: "Engineers and
+economists prize efficiency, but nature favors resilience – lessons
+from Texas, COVID-19 and the 737 Max" ([Vardi, 2021](#org5ffdcc7)). In the
+comments, you find a few voices disagreeing with this simplistic
+setup. In computer science at least, both efficiency and resilience
+are important design criteria.
+
+I mentioned this curve from a 2009 article analysing resilience in
+the light of the 2008 global financial crisis ([Lietaer et al,
+2009](#orgb9d4863)). It is used to illustrate "Sustainability" as a function of
+"Diversity & Interconnectivity" - all of them difficult to measure
+and to separate from one another. The model assumes an analogy
+between systems in nature and man-made financial systems.
+
+> Image caption (A): Sustainability curve mapped between the two
+> polarities of efficiency and resilience. Nature selects not for
+> maximum of efficiency, but for an optimal balance between these two
+> requirements. Notice that resilience is roughly two times more
+> important than efficiency at the optimum. All natural eco-systems
+> operate within a fairly narrow range on each side of the Optimum
+> point called the “Window of Viability”. (Lietaer et al, 2009)
+
+![img](./img/2009.png)
+
+Specifically on deep learning, here's a recent article by [Thompson
+(2021)](#orgccd5000) that attacks deep learning research and production as
+non-sustainable in terms of energy expenditure. Similar arguments
+are being put forward against blockchain mining (cp. [Sedlmeir et
+al, 2020](#org9278c65), for a systematic, scientific discussion)<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>.
+
+
+<a id="orgf22d8df"></a>
 
 ## Full cycle of machine learning projects
 
 
-<a id="orgb205fcd"></a>
+<a id="org530cc3d"></a>
 
 ## Summary
 
 
-<a id="org15eb36b"></a>
+<a id="org8df5ac7"></a>
 
 ## Further information
 
@@ -210,31 +256,48 @@ Stanford HAI (Apr 29, 2021). Healthcare's AI Future: A Conversation
 with Fei-Fei Li & Andrew Ng.
 
 
-<a id="orgef9c99b"></a>
+<a id="org0856a5e"></a>
 
 # References
 
-<a id="org2b685b6"></a> Boillet J (Jul 20, 2018). How AI will transform the
+<a id="org9ef0805"></a> Boillet J (Jul 20, 2018). How AI will transform the
 audit [video]. [Online: ey.com](https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit).
 
-<a id="org8da80cc"></a> Linardatos et al (2020). Explainable AI: A Review of Machine
+<a id="org64b99c4"></a> Leiner et al (1997). Brief History of the Internet. In:
+Comm. of the ACM Feb 1997. [Online: internetsociety.org.](https://www.internetsociety.org/internet/history-internet/brief-history-internet/#f3)
+
+<a id="orgb9d4863"></a> Lietaer et al (2009). Options for Managing a Systemic
+Bank Crisis. In: Sapiens 2(1). [Online: journals.openedition.org](https://journals.openedition.org/sapiens/747).
+
+<a id="orgb906e17"></a> Linardatos et al (2020). Explainable AI: A Review of Machine
 Learning Interpretability Methods. In: Entropy 23(1).  [doi:
 10.3390/e23010018. PMID: 33375658; PMCID: PMC7824368](https://pubmed.ncbi.nlm.nih.gov/33375658/).
 
-<a id="orga853850"></a> Serrano L (May 5, 2020). A Friendly Introduction to
+<a id="org9278c65"></a> Sedlmeir et al (2020). The Energy Consumption of
+Blockchain Technology: Beyond Myth. In: Business & Information
+Systems Engineering 62:599-608. [Online: link.springer.com](https://link.springer.com/article/10.1007/s12599-020-00656-x).
+
+<a id="orgd8c2493"></a> Serrano L (May 5, 2020). A Friendly Introduction to
 Generative Adversarial Networks (GANs) [video]. [Online: youtube.com](https://youtu.be/8L11aMN5KY8).
 
-<a id="orga93b8bf"></a> Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
+<a id="org4a4059b"></a> Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
 human. (GPT-3) [video]. [Online: youtube.com](https://youtu.be/jz78fSnBG0s).
 
-<a id="orgdff13e6"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+<a id="orge0c2a13"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
 
-<a id="org2486122"></a> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
+<a id="orgff90915"></a> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
 Machine Learning - Andrew Ng (Autumn 2018) [video]. [Online:
 youtube.com](https://youtu.be/jGwO_UgTS7I?t=2180).
 
-<a id="org9b6c7e5"></a> n.a.(3 Feb 2016). 15 Incredible Vintage Photos of People
+<a id="orgccd5000"></a> Thompson et al (24 Sep 2021). Deep Learning's Diminishing
+Returns. [Online: spectrum.ieee.org](https://spectrum.ieee.org/deep-learning-computational-cost).
+
+<a id="org5ffdcc7"></a> Vardi MY (May 18, 2021). "Engineers and economists prize
+efficiency, but nature favors resilience – lessons from Texas,
+COVID-19 and the 737 Max".
+
+<a id="org14f5f68"></a> n.a.(3 Feb 2016). 15 Incredible Vintage Photos of People
 Getting X-Rays Over the Decades [website]. [Online: vintage.es](https://www.vintag.es/2016/02/incredible-vintage-photos-of-people.html).
 
 
@@ -249,3 +312,7 @@ of the kind of problem that ML addresses, called a "well-posed problem":
 
 In the language of our last lesson, E is the precept, and T could be
 any task, no matter how complex, as long as we can define a P.
+
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> A gamer told me about another impact of blockchain mining
+popularity: she said it had become hard to get hold of GPUs (graphical
+processors needed for high gaming performance).

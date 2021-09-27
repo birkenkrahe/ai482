@@ -72,7 +72,7 @@
    [[./img/xray.jpg]]
 
    /Image: an old X-ray machine (Source: [[vintage][vintage.es]])/
-   
+
 ** Change management
 
    Change is a hugely complex issue, partly because of the generality
@@ -104,15 +104,59 @@
 
 *** Glossary
 
-    * [[https://pubmed.ncbi.nlm.nih.gov/33375658/][Explainable AI?]] ([[xai][Linardatos et al, 2020]]) - XAI 
+    * [[https://pubmed.ncbi.nlm.nih.gov/33375658/][Explainable AI?]] ([[xai][Linardatos et al, 2020]]) - XAI
 
       #+begin_quote
-       The field of Explainable Artificial Intelligence (XAI) [...] is
-       concerned with the development of new methods that explain and
-       interpret machine learning models,
+      The field of Explainable Artificial Intelligence (XAI) [...] is
+      concerned with the development of new methods that explain and
+      interpret machine learning models,
       #+end_quote
 
     * [[https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit][AI Auditing?]] ([[boillet][Boillet, 2018]]) - Risk analysis
+
+** Efficiency vs. resilience
+
+   We didn't really do this topic justice, which is hot right now
+   because of the pandemic: some argue that society needs to refocus
+   from optimizing processes to identifying and building structures
+   that can take pressure and survive crisis situations. This is not
+   necessarily a contradiction - much depends on one's definitions of
+   efficiency vs. resilience. I mentioned the origins of the Internet
+   and packet switching technology as a prime example of resilient
+   infrastructure design (cp. [[leiner][Leiner et al, 1997]]).
+
+   Here is a modern attack on the "relentless pursuit of efficiency"
+   by a computer scientist whose title says it all: "Engineers and
+   economists prize efficiency, but nature favors resilience – lessons
+   from Texas, COVID-19 and the 737 Max" ([[vardi][Vardi, 2021]]). In the
+   comments, you find a few voices disagreeing with this simplistic
+   setup. In computer science at least, both efficiency and resilience
+   are important design criteria.
+
+   I mentioned this curve from a 2009 article analysing resilience in
+   the light of the 2008 global financial crisis ([[lietaer][Lietaer et al,
+   2009]]). It is used to illustrate "Sustainability" as a function of
+   "Diversity & Interconnectivity" - all of them difficult to measure
+   and to separate from one another. The model assumes an analogy
+   between systems in nature and man-made financial systems.
+
+   #+begin_quote
+   Image caption (A): Sustainability curve mapped between the two
+   polarities of efficiency and resilience. Nature selects not for
+   maximum of efficiency, but for an optimal balance between these two
+   requirements. Notice that resilience is roughly two times more
+   important than efficiency at the optimum. All natural eco-systems
+   operate within a fairly narrow range on each side of the Optimum
+   point called the “Window of Viability”. (Lietaer et al, 2009)
+   #+end_quote
+
+   [[./img/2009.png]]
+
+   Specifically on deep learning, here's a recent article by [[deepl][Thompson
+   (2021)]] that attacks deep learning research and production as
+   non-sustainable in terms of energy expenditure. Similar arguments
+   are being put forward against blockchain mining (cp. [[block][Sedlmeir et
+   al, 2020]], for a systematic, scientific discussion)[fn:2].
 
 ** Full cycle of machine learning projects
 ** Summary
@@ -127,9 +171,19 @@
   <<boillet>> Boillet J (Jul 20, 2018). How AI will transform the
   audit [video]. [[https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit][Online: ey.com]].
 
+  <<leiner>> Leiner et al (1997). Brief History of the Internet. In:
+  Comm. of the ACM Feb 1997. [[https://www.internetsociety.org/internet/history-internet/brief-history-internet/#f3][Online: internetsociety.org.]]
+
+  <<lietaer>> Lietaer et al (2009). Options for Managing a Systemic
+  Bank Crisis. In: Sapiens 2(1). [[https://journals.openedition.org/sapiens/747][Online: journals.openedition.org]].
+
   <<xai>> Linardatos et al (2020). Explainable AI: A Review of Machine
   Learning Interpretability Methods. In: Entropy 23(1).  [[https://pubmed.ncbi.nlm.nih.gov/33375658/][doi:
   10.3390/e23010018. PMID: 33375658; PMCID: PMC7824368]].
+
+  <<block>> Sedlmeir et al (2020). The Energy Consumption of
+  Blockchain Technology: Beyond Myth. In: Business & Information
+  Systems Engineering 62:599-608. [[https://link.springer.com/article/10.1007/s12599-020-00656-x][Online: link.springer.com]].
 
   <<serrano>> Serrano L (May 5, 2020). A Friendly Introduction to
   Generative Adversarial Networks (GANs) [video]. [[https://youtu.be/8L11aMN5KY8][Online: youtube.com]].
@@ -144,10 +198,21 @@
   Machine Learning - Andrew Ng (Autumn 2018) [video]. [[https://youtu.be/jGwO_UgTS7I?t=2180][Online:
   youtube.com]].
 
+  <<deepl>> Thompson et al (24 Sep 2021). Deep Learning's Diminishing
+  Returns. [[https://spectrum.ieee.org/deep-learning-computational-cost][Online: spectrum.ieee.org]].
+
+  <<vardi>> Vardi MY (May 18, 2021). "Engineers and economists prize
+  efficiency, but nature favors resilience – lessons from Texas,
+  COVID-19 and the 737 Max".
+
   <<vintage>> n.a.(3 Feb 2016). 15 Incredible Vintage Photos of People
   Getting X-Rays Over the Decades [website]. [[https://www.vintag.es/2016/02/incredible-vintage-photos-of-people.html][Online: vintage.es]].
 
 * Footnotes
+
+[fn:2]A gamer told me about another impact of blockchain mining
+popularity: she said it had become hard to get hold of GPUs (graphical
+processors needed for high gaming performance).
 
 [fn:1]In the same lecture, Ng relates another, more recent definition
 of the kind of problem that ML addresses, called a "well-posed problem":
