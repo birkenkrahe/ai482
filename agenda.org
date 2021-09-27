@@ -257,28 +257,41 @@
 
   * Recap: what do you remember?
   * See also: "[[https://youtu.be/Gbnep6RJinQ][Healthcare's AI Future]]"
-  * Small data algorithms: [[https://github.com/birkenkrahe/ai482/tree/main/6_ai_state_of_the_art#small-data][GANs/GPT-3]] 
-  * Today: "Change management and ML" 
+  * Small data algorithms: [[https://github.com/birkenkrahe/ai482/tree/main/6_ai_state_of_the_art#small-data][GANs/GPT-3]]
+  * Today: "Change management and ML"
   * Next: "Full ML project cycle"
+
+  /Image: Two AIs talk about becoming human (Soslow, 2021)/
 
 * Week 7 - September 29
 
-  * Course outlook
-  * Read: "[[deepl][Deep Learning's Diminishing Returns]]" (10 min)
+  [[./img/dodo.jpg]]
+
+  * Recap: what do you remember?
+  * Followup on: [[https://github.com/birkenkrahe/ai482/blob/main/6_ai_state_of_the_art/README.md#org476fe42][efficiency vs resilience]]
+  * New diary entry: [[https://github.com/birkenkrahe/ai482/blob/main/diary.md#org1e569bc][taking stock]] (Sept 27)
+
+* Week 7 - October 1
+
+  [[./img/rugby.gif]]
+
+  * [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#org483810f][2nd Sprint Review]] (Fri Oct 8): HOW? (Method)
+  * [[https://aimacode.github.io/aima-exercises/agents-exercises/][AIMA Exercises:]] insights? Discussion?
+  * Topical outlook after Fall Break
 
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
   [video]. [[https://youtu.be/UjQ1AzSvCp8?t=1308][Online: youtube.com]].
 
+  Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
+  human. (GPT-3) [video]. [[https://youtu.be/jz78fSnBG0s][Online: youtube.com]].
+
   Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
   Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY?t=367][Online: youtube.com]].
 
-  <<deepl>> Thompson et al (24 Sep 2021). Deep Learning's Diminishing
-  Returns. [[https://spectrum.ieee.org/deep-learning-computational-cost][Online: spectrum.ieee.org]].
- 
-  <<williams>> Williams A (Jun 27, 2020). Riot Games give first clues about new
-  Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
+  <<williams>> Williams A (Jun 27, 2020). Riot Games give first clues
+  about new Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
 
 
 * Footnotes
