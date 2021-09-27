@@ -260,6 +260,10 @@
   * Small data algorithms: [[https://github.com/birkenkrahe/ai482/tree/main/6_ai_state_of_the_art#small-data][GANs/GPT-3]]
   * Today: "Change management and ML"
 
+* Week 7 - September 29
+
+  * Read: "[[deepl][Deep Learning's Diminishing Returns]]" (10 min)
+
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
@@ -268,6 +272,9 @@
   Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
   Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY?t=367][Online: youtube.com]].
 
+  <<deepl>> Thompson et al (24 Sep 2021). Deep Learning's Diminishing
+  Returns. [[https://spectrum.ieee.org/deep-learning-computational-cost][Online: spectrum.ieee.org]].
+ 
   <<williams>> Williams A (Jun 27, 2020). Riot Games give first clues about new
   Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
 
