@@ -30,7 +30,7 @@
    | 20 | Fri-1-Oct  | AIMA exercises and midterm summary      |                        |                      |
    |----+------------+-----------------------------------------+------------------------+----------------------|
    |    | Mon-4-Oct  | --FALL BREAK--                          | --FALL BREAK--         |                      |
-   | 21 | Wed-6-Oct  | Course outlook (MB)                     |                        |                      |
+   | 21 | Wed-6-Oct  | AI100 report 2021 (MB)                  |                        |                      |
    | 22 | Fri-8-Oct  | APPLICATIONS                            |                        | 2nd sprint review    |
    |----+------------+-----------------------------------------+------------------------+----------------------|
    | 23 | Mon-11-Oct | APPLICATIONS                            |                        |                      |
@@ -63,7 +63,7 @@
    |----+------------+-----------------------------------------+------------------------+----------------------|
    | 41 | 29-Nov     | PROJECT PRESENTATIONS                   |                        | 4th sprint review    |
    | 42 | 1-Dec      | PROJECT PRESENTATIONS                   |                        | 4th sprint review    |
-   | 43 | 3-Dec      | PROJECT PRESENTATIONS & Course closing   |                        | 4th sprint review    |
+   | 43 | 3-Dec      | PROJECT PRESENTATIONS & Course closing  |                        | 4th sprint review    |
    |----+------------+-----------------------------------------+------------------------+----------------------|
 
    (X) = Extra credit
