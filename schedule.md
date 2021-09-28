@@ -226,7 +226,7 @@
 <tr>
 <td class="org-right">21</td>
 <td class="org-left">Wed-6-Oct</td>
-<td class="org-left">Course outlook (MB)</td>
+<td class="org-left">AI100 report 2021 (MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>

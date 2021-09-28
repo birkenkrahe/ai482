@@ -275,9 +275,9 @@
 
   [[./img/rugby.gif]]
 
-  * [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#org483810f][2nd Sprint Review]] (Fri Oct 8): HOW? (Method)
-  * [[https://aimacode.github.io/aima-exercises/agents-exercises/][AIMA Exercises:]] insights? Discussion?
-  * Topical outlook after Fall Break
+  * Today: [[https://aimacode.github.io/aima-exercises/agents-exercises/][AIMA Exercises:]] insights? Discussion?
+  * Oct 6: [[https://hai.stanford.edu/news/new-report-assesses-progress-and-risks-artificial-intelligence][AI100 report 2021]]
+  * Oct 8: [[https://github.com/birkenkrahe/org/blob/master/FAQ.md#org483810f][2nd Sprint Review]]
 
 * References
 
