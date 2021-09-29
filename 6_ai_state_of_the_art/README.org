@@ -159,7 +159,39 @@
    al, 2020]], for a systematic, scientific discussion)[fn:2].
 
 ** Full cycle of machine learning projects
+
+
+   [[./img/full.png]]
+
+** Glossary
+*** To be Scientific or not to be Scientific
+*** Cloud and edge implementation
+
+    [[https://www.tinyml.org/][Go tiny with TinyML]]
+
+*** Design pattern
+
+    [[https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm][Check out this tutorial]] for design patterns in software
+    development.
+
+*** Softmax model
+
+    This is a logistic regression type model ([[http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/][technical tutorial]]),
+    which is common in ML because it performs a binary classification.
+
+*** Hyperparameters
+
+    Values to control the learning process - not derived during
+    training. They depend on the model used.
+
+*** Bounding box
+
+    Image processing tool ([[https://keymakr.com/blog/what-are-bounding-boxes/][explanation]]). Bounding boxes are a form of
+    labelling image data by drawing a box around classifiable areas.
+    
 ** Summary
+
+
 
 ** Further information
 
