@@ -1,31 +1,32 @@
 
 # Table of Contents
 
--   [Machine learning](#org1f2bece)
--   [AI research-to-production gap](#org15dd107)
-    -   [Small data](#org112cada)
-    -   [Generalization and robustness](#orge9940e7)
-    -   [Change management](#orgebc71f4)
-        -   [A naive model](#orgde41672)
-        -   [Ideal process model](#orgec68814)
-        -   [Building blocks](#org3dab505)
-        -   [Glossary](#org6ff95c1)
-    -   [Efficiency vs. resilience](#org11d0121)
-    -   [Full cycle of machine learning projects](#orgb485870)
-    -   [Glossary](#org180c047)
-        -   [To be Scientific or not to be Scientific](#orgcbf27a0)
-        -   [Cloud and edge implementation](#org0d09b15)
-        -   [Design pattern](#org5858cd8)
-        -   [Softmax model](#orgd194534)
-        -   [Hyperparameters](#org077aad6)
-        -   [Bounding box](#org39bcf66)
-    -   [Summary](#org36389d5)
-    -   [Further information](#orgbc9220d)
--   [References](#org7ebdb34)
+-   [Machine learning](#orga22104c)
+-   [AI research-to-production gap](#org29e4537)
+    -   [Small data](#org7c48978)
+    -   [Generalization and robustness](#org3d9de95)
+    -   [Change management](#org09bc124)
+        -   [A naive model](#org0b21ede)
+        -   [Ideal process model](#org6812611)
+        -   [Building blocks](#org4e9b06c)
+        -   [Glossary](#org9e215bc)
+    -   [Efficiency vs. resilience](#orgcff08a1)
+    -   [Full cycle of machine learning projects](#orga8cf0f1)
+    -   [Glossary](#org0f1b1ce)
+        -   [To be Scientific or not to be Scientific](#org90b1a96)
+        -   [Cloud and edge implementation](#org46ebfc3)
+        -   [Design pattern](#org4aa06c7)
+        -   [Softmax model](#org7bb6a82)
+        -   [Hyperparameters](#orgbf69919)
+        -   [Bounding box](#org9451412)
+        -   [DevOps/MLOps](#org21b5138)
+    -   [Summary](#orgb259fac)
+    -   [Further information](#orgb1a6d90)
+-   [References](#org2237804)
 
 
 
-<a id="org1f2bece"></a>
+<a id="orga22104c"></a>
 
 # Machine learning
 
@@ -37,7 +38,7 @@ topic. It turns out that most of the running AI applications
 agents, especially supervised learning - recognizing (= classifying)
 known patterns learnt from big data samples. Ng's first definition
 of ML is Samuel's seminal 1959 definition ([stanfordonline,
-2020](#orge0f37fd))<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>:
+2020](#orgf1e9991))<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>:
 
 > Machine learning: field of study that gives computers the ability to
 > learn without being explicitly programmed.
@@ -100,13 +101,13 @@ is more complicated, because it relies on understanding natural
 language.
 
 
-<a id="org15dd107"></a>
+<a id="org29e4537"></a>
 
 # AI research-to-production gap
 
 In this video AI researcher Andrew Ng addresses three issues to
 explain why ML is not more successful in the real world ([Stanford
-HAI, 2020](#org7c626da)). Many academic research results are spectacular, but in
+HAI, 2020](#orgd1cac13)). Many academic research results are spectacular, but in
 real settings, e.g. hospitals, you don't find AI (except in
 embedded, i.e. invisible systems like cameras, sensors etc.).
 
@@ -115,7 +116,7 @@ technical glossary additions and stuff that was left out of the
 protocols.
 
 
-<a id="org112cada"></a>
+<a id="org7c48978"></a>
 
 ## Small data
 
@@ -124,16 +125,16 @@ Examples for [small data algorithms](https://youtu.be/tsPuVAMaADY?t=1054) includ
 GANs stands for Generative Adversarial Network (cp. [Wikipedia](https://en.wikipedia.org/wiki/Generative_adversarial_network)),
 which is a game theoretical ML application where two neural
 networks learn by competing with each other. Originated
-in 2014. Here is a nice video introduction ([Serrano, 2020](#org1bf5086)).
+in 2014. Here is a nice video introduction ([Serrano, 2020](#org3d760c2)).
 
 GPT-3 is the Generative Pre-trained Transformer 3 (cp. [Wikipedia](https://en.wikipedia.org/wiki/GPT-3))
 used especially in natural language processing (NLP), e.g. to
 simulate human language. Originated in 2020. Here is an example of
 such a simulated conversation between two GPT-3 trained AIs
-([Soslow, 2021](#org0916078)).
+([Soslow, 2021](#org2cf851e)).
 
 
-<a id="orge9940e7"></a>
+<a id="org3d9de95"></a>
 
 ## Generalization and robustness
 
@@ -143,10 +144,10 @@ for using AI applications developed and tested in the lab.
 
 ![img](./img/xray.jpg)
 
-*Image: an old X-ray machine (Source: [vintage.es](#orga56a59f))*
+*Image: an old X-ray machine (Source: [vintage.es](#org6615ec7))*
 
 
-<a id="orgebc71f4"></a>
+<a id="org09bc124"></a>
 
 ## Change management
 
@@ -160,7 +161,7 @@ transformative, real change. Still, it is not clear to me if
 "change management" isn't an oxymoron.
 
 
-<a id="orgde41672"></a>
+<a id="org0b21ede"></a>
 
 ### A naive model
 
@@ -169,7 +170,7 @@ transformative, real change. Still, it is not clear to me if
 (Source: Society of competitive intelligence)
 
 
-<a id="orgec68814"></a>
+<a id="org6812611"></a>
 
 ### Ideal process model
 
@@ -178,7 +179,7 @@ transformative, real change. Still, it is not clear to me if
 (Source: Accenture)
 
 
-<a id="org3dab505"></a>
+<a id="org4e9b06c"></a>
 
 ### Building blocks
 
@@ -187,20 +188,20 @@ transformative, real change. Still, it is not clear to me if
 (Source: SIEMENS)
 
 
-<a id="org6ff95c1"></a>
+<a id="org9e215bc"></a>
 
 ### Glossary
 
--   [Explainable AI?](https://pubmed.ncbi.nlm.nih.gov/33375658/) ([Linardatos et al, 2020](#orgfd662af)) - XAI
+-   [Explainable AI?](https://pubmed.ncbi.nlm.nih.gov/33375658/) ([Linardatos et al, 2020](#orga6d3974)) - XAI
     
     > The field of Explainable Artificial Intelligence (XAI) [&#x2026;] is
     > concerned with the development of new methods that explain and
     > interpret machine learning models,
 
--   [AI Auditing?](https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit) ([Boillet, 2018](#org8d3a776)) - Risk analysis
+-   [AI Auditing?](https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit) ([Boillet, 2018](#org830cd19)) - Risk analysis
 
 
-<a id="org11d0121"></a>
+<a id="orgcff08a1"></a>
 
 ## Efficiency vs. resilience
 
@@ -211,19 +212,19 @@ that can take pressure and survive crisis situations. This is not
 necessarily a contradiction - much depends on one's definitions of
 efficiency vs. resilience. I mentioned the origins of the Internet
 and packet switching technology as a prime example of resilient
-infrastructure design (cp. [Leiner et al, 1997](#org8ba56e6)).
+infrastructure design (cp. [Leiner et al, 1997](#org57c7f7d)).
 
 Here is a modern attack on the "relentless pursuit of efficiency"
 by a computer scientist whose title says it all: "Engineers and
 economists prize efficiency, but nature favors resilience – lessons
-from Texas, COVID-19 and the 737 Max" ([Vardi, 2021](#orgcb9dfb2)). In the
+from Texas, COVID-19 and the 737 Max" ([Vardi, 2021](#orgef4a7ae)). In the
 comments, you find a few voices disagreeing with this simplistic
 setup. In computer science at least, both efficiency and resilience
 are important design criteria.
 
 I mentioned this curve from a 2009 article analysing resilience in
 the light of the 2008 global financial crisis ([Lietaer et al,
-2009](#org4780b51)). It is used to illustrate "Sustainability" as a function of
+2009](#org0f7dd3e)). It is used to illustrate "Sustainability" as a function of
 "Diversity & Interconnectivity" - all of them difficult to measure
 and to separate from one another. The model assumes an analogy
 between systems in nature and man-made financial systems.
@@ -239,61 +240,118 @@ between systems in nature and man-made financial systems.
 ![img](./img/2009.png)
 
 Specifically on deep learning, here's a recent article by [Thompson
-(2021)](#orgbf38140) that attacks deep learning research and production as
+(2021)](#org259a068) that attacks deep learning research and production as
 non-sustainable in terms of energy expenditure. Similar arguments
 are being put forward against blockchain mining (cp. [Sedlmeir et
-al, 2020](#org9fdf8c3), for a systematic, scientific discussion)<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>.
+al, 2020](#org5d76743), for a systematic, scientific discussion)<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>.
 
 
-<a id="orgb485870"></a>
+<a id="orga8cf0f1"></a>
 
 ## Full cycle of machine learning projects
+
+The image shows Ng's puzzle picture for machine learning. Coding is
+a small part of this picture. The Lyon College data science program
+is an attempt to capture many, if not all aspects of this picture,
+with different courses (like AI, and modeling), specializations
+(like business information systems, and TinyML), techniques (like
+Scrum) and tools (like R, and GitHub).
 
 ![img](./img/full.png)
 
 
-<a id="org180c047"></a>
+<a id="org0f1b1ce"></a>
 
 ## Glossary
 
+Even when listening to a talk for a large audience (of experts -
+each of which is an expert in his or her tiny area of
+specialization), you come across a lot of technical terms and
+concepts. When watching such videos or reading blogs you should
+always be building your own glossary of terms. It will
+progressively make your reading faster and easier, and aid your
+understanding of state of the art publications.
 
-<a id="orgcbf27a0"></a>
+
+<a id="org90b1a96"></a>
 
 ### To be Scientific or not to be Scientific
 
+Even today (2021), not only 10 years ago, as Ng claims, many
+scientists wouldn't call ML or AI especially scientific. The
+reason is that new areas, and especially interdisciplinary areas
+(like data science) are considered "under-theorized". I came
+across this label in an article on theoretical biology
+([Cepelewicz, 2020](#org6eb70e8)): apparently, biology does (so far) not have a
+proper concept of what an "individual" is. Some researchers from
+the Santa Fe institute for complexity science came up with a
+stochastic (mathematical) definition that allows to describe
+individuals as well as collections of individuals (like
+swarms). Personally, I don't find the theory very convincing at
+all, but the point is that even a science like biology (certainly
+a few hundred years old already) is still "under-theorized", does
+not have "enough" theory, which means that many problems cannot be
+described formally and therefore not be investigated
+systematically (except empirically, by making experiments,
+counting insect legs etc.).
 
-<a id="org0d09b15"></a>
+Computer science (and AI/ML as part of it), is in a similar
+situation. Ng's suggestion is not to push the theory, but approach
+it from a practical perspective, as an engineering science (like a
+craft with extra computing power).
+
+
+<a id="org46ebfc3"></a>
 
 ### Cloud and edge implementation
 
-[Go tiny with TinyML](https://www.tinyml.org/)
+[TinyML](https://www.tinyml.org/) - machine learning at low power on embedded devices. Here's
+an example that would've been sci-fi only a few years back:
+"Flying Microchips The Size Of A Sand Grain" ([Neuman, 2021](#org41987e6)).
+
+![img](./img/tiny.png)
+
+I've just about decided to invest some of my 2021-22 research
+money from the college into buying gear for TinyML experiments in
+class. It's not all that expensive (cause it's tiny) - [see "The
+Future of Machine Learning is Tiny"](https://www.arducam.com/raspberry-pi-pico-tensorflow-lite-micro-person-detection-arducam/) - and it might make some cool
+applications for the data science ML class<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>.
 
 
-<a id="org5858cd8"></a>
+<a id="org4aa06c7"></a>
 
 ### Design pattern
 
 [Check out this tutorial](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm) for design patterns in software
-development.
+development. There is a good book on design patterns for
+self-study from HeadFirst Labs ([Freeman et al, 2004](#org270ec49)).
+
+The image ([Heer/Agrawala 2006](#org270ec49)) shows a system diagram of 21
+various software design patterns.
+
+![img](./img/pattern_map.gif)
 
 
-<a id="orgd194534"></a>
+<a id="org7bb6a82"></a>
 
 ### Softmax model
 
-This is a logistic regression type model ([technical tutorial](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/)),
-which is common in ML because it performs a binary classification.
+This is a logistic regression type model (here is a [technical
+tutorial](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/)), which is common in ML because it performs a binary
+classification.
 
 
-<a id="org077aad6"></a>
+<a id="orgbf69919"></a>
 
 ### Hyperparameters
 
 Values to control the learning process - not derived during
-training. They depend on the model used.
+training. They depend on the model used. An example would be the
+number of layers of a deep learning neural network, which remain
+unchanged as part of the algorithmic model.
 
 
-<a id="org39bcf66"></a>
+<a id="org9451412"></a>
 
 ### Bounding box
 
@@ -301,7 +359,20 @@ Image processing tool ([explanation](https://keymakr.com/blog/what-are-bounding-
 labelling image data by drawing a box around classifiable areas.
 
 
-<a id="org36389d5"></a>
+<a id="org21b5138"></a>
+
+### DevOps/MLOps
+
+The IBM definition of DevOps ([Crawford, 2019](#orgdce2fdb)):
+
+> "DevOps outlines a software development process and an
+> organizational culture shift that speeds the delivery of higher
+> quality software by automating and integrating the efforts of
+> development and IT operations teams – two groups that
+> traditionally practiced separately from each other, or in silos."
+
+
+<a id="orgb259fac"></a>
 
 ## Summary
 
@@ -312,57 +383,91 @@ labelling image data by drawing a box around classifiable areas.
 -   AI should become an engineering discipline
 
 
-<a id="orgbc9220d"></a>
+<a id="orgb1a6d90"></a>
 
 ## Further information
 
-Stanford HAI (Apr 29, 2021). Healthcare's AI Future: A Conversation
-with Fei-Fei Li & Andrew Ng.
+Andrew Ng further outlines his ideas on healthcare in [this long
+panel discussion](https://hai.stanford.edu/events/healthcares-ai-future-conversation-fei-fei-li-andrew-ng). Earlier this year, he launched a "campaign for
+data-centric" (instead of model/algorithm-centered) AI ([Press,
+2021](#orgbcf15ad)).
 
 
-<a id="org7ebdb34"></a>
+<a id="org2237804"></a>
 
 # References
 
-<a id="org8d3a776"></a> Boillet J (Jul 20, 2018). How AI will transform the
+<a id="org830cd19"></a> Boillet J (Jul 20, 2018). How AI will transform the
 audit [video]. [Online: ey.com](https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit).
 
-<a id="org8ba56e6"></a> Leiner et al (1997). Brief History of the Internet. In:
+<a id="org6eb70e8"></a> Cepelewicz J (July 16, 2021). What Is an Individual?
+Biology Seeks Clues in Information Theory [Blog]. [Online:
+quantamagazine.com.](https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-information-theory-20200716/)
+
+<a id="orgdce2fdb"></a> Crawford A (2019). DevOps [website]. [Online: ibm.com.](https://www.ibm.com/cloud/learn/devops-a-complete-guide)
+
+<a id="orgd73c083"></a> Freeman et al (2004). Head First Design
+Patterns. Sebastopol: O'Reilly. [Online: oreilly.com.](https://www.oreilly.com/library/view/head-first-design/0596007124/)
+
+<a id="org270ec49"></a> Heer J/Agrawala M (2006). Software Design Patterns for
+Information Visualization. In: IEEE Transactions on Visualization
+and Computer Graphics (TVCG), 12(5). [Online: berkeley.edu.](http://vis.berkeley.edu/papers/infovis_design_patterns/)
+
+<a id="org57c7f7d"></a> Leiner et al (1997). Brief History of the Internet. In:
 Comm. of the ACM Feb 1997. [Online: internetsociety.org.](https://www.internetsociety.org/internet/history-internet/brief-history-internet/#f3)
 
-<a id="org4780b51"></a> Lietaer et al (2009). Options for Managing a Systemic
+<a id="org0f7dd3e"></a> Lietaer et al (2009). Options for Managing a Systemic
 Bank Crisis. In: Sapiens 2(1). [Online: journals.openedition.org](https://journals.openedition.org/sapiens/747).
 
-<a id="orgfd662af"></a> Linardatos et al (2020). Explainable AI: A Review of Machine
+<a id="orga6d3974"></a> Linardatos et al (2020). Explainable AI: A Review of Machine
 Learning Interpretability Methods. In: Entropy 23(1).  [doi:
 10.3390/e23010018. PMID: 33375658; PMCID: PMC7824368](https://pubmed.ncbi.nlm.nih.gov/33375658/).
 
-<a id="org9fdf8c3"></a> Sedlmeir et al (2020). The Energy Consumption of
+Michael (May 5, 2021). Image Processing Techniques: What Are
+Bounding Boxes? [Blog]. [Online: keymakr.com](https://keymakr.com/blog/what-are-bounding-boxes/).
+
+<a id="org6615ec7"></a> n.a.(3 Feb 2016). 15 Incredible Vintage Photos of People
+Getting X-Rays Over the Decades [website]. [Online: vintage.es](https://www.vintag.es/2016/02/incredible-vintage-photos-of-people.html).
+
+<a id="org41987e6"></a> Neuman S (Sept 23, 2021). Flying Microchips The Size Of A
+Sand Grain Could Be Used For Population Surveillance [blog]. [Online:
+npr.org](https://www.npr.org/2021/09/23/1040035430/flying-microchip-sand-grain-northwestern-winged).
+
+<a id="orgbcf15ad"></a> Press G (June 16, 2021). Andrew Ng Launches A Campaign For
+Data-Centric AI. [Online: forbes.com](https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=d11550874f57).
+
+<a id="org5d76743"></a> Sedlmeir et al (2020). The Energy Consumption of
 Blockchain Technology: Beyond Myth. In: Business & Information
 Systems Engineering 62:599-608. [Online: link.springer.com](https://link.springer.com/article/10.1007/s12599-020-00656-x).
 
-<a id="org1bf5086"></a> Serrano L (May 5, 2020). A Friendly Introduction to
+<a id="org3d760c2"></a> Serrano L (May 5, 2020). A Friendly Introduction to
 Generative Adversarial Networks (GANs) [video]. [Online: youtube.com](https://youtu.be/8L11aMN5KY8).
 
-<a id="org0916078"></a> Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
+<a id="org2cf851e"></a> Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
 human. (GPT-3) [video]. [Online: youtube.com](https://youtu.be/jz78fSnBG0s).
 
-<a id="org7c626da"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+<a id="orgd1cac13"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
 
-<a id="orge0f37fd"></a> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
+<a id="orga36689c"></a> Stanford HAI (Apr 29, 2021). Healthcare's AI Future: A
+ Conversation with Fei-Fei Li & Andrew Ng. [Online: stanford.edu](https://hai.stanford.edu/events/healthcares-ai-future-conversation-fei-fei-li-andrew-ng).
+
+<a id="orgf1e9991"></a> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
 Machine Learning - Andrew Ng (Autumn 2018) [video]. [Online:
 youtube.com](https://youtu.be/jGwO_UgTS7I?t=2180).
 
-<a id="orgbf38140"></a> Thompson et al (24 Sep 2021). Deep Learning's Diminishing
+<a id="org259a068"></a> Thompson et al (24 Sep 2021). Deep Learning's Diminishing
 Returns. [Online: spectrum.ieee.org](https://spectrum.ieee.org/deep-learning-computational-cost).
 
-<a id="orgcb9dfb2"></a> Vardi MY (May 18, 2021). "Engineers and economists prize
+UFLDL Tutorial (n.d.) Softmax Regression [Website]. [Online:
+ufldl.stanford.edu.](http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/)
+
+<a id="orgef4a7ae"></a> Vardi MY (May 18, 2021). "Engineers and economists prize
 efficiency, but nature favors resilience – lessons from Texas,
 COVID-19 and the 737 Max".
 
-<a id="orga56a59f"></a> n.a.(3 Feb 2016). 15 Incredible Vintage Photos of People
-Getting X-Rays Over the Decades [website]. [Online: vintage.es](https://www.vintag.es/2016/02/incredible-vintage-photos-of-people.html).
+Warden P (Feb 3, 2021). The Future of Machine Learning is Tiny
+[Blog]. [Online: arducam.com](https://www.arducam.com/raspberry-pi-pico-tensorflow-lite-micro-person-detection-arducam/).
 
 
 # Footnotes
@@ -380,3 +485,10 @@ any task, no matter how complex, as long as we can define a P.
 <sup><a id="fn.2" href="#fnr.2">2</a></sup> A gamer told me about another impact of blockchain mining
 popularity: she said it had become hard to get hold of GPUs (graphical
 processors needed for high gaming performance).
+
+<sup><a id="fn.3" href="#fnr.3">3</a></sup> As I have just learnt, this course (DSC 205) is called
+"Introduction to Advanced Data Science" for bureaucratic reasons
+having to do with the Lyon college course catalog, but it's going to
+be about ML. The other thing I want to spend my money on is
+parallelization (this will be a joint project with David Sonnier):
+[building a DIY supercomputer](https://medium.com/@leerbardon/build-a-diy-supercomputer-a6461b2087d3)!

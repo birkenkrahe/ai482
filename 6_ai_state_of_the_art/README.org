@@ -159,36 +159,106 @@
    al, 2020]], for a systematic, scientific discussion)[fn:2].
 
 ** Full cycle of machine learning projects
-
+   
+   The image shows Ng's puzzle picture for machine learning. Coding is
+   a small part of this picture. The Lyon College data science program
+   is an attempt to capture many, if not all aspects of this picture,
+   with different courses (like AI, and modeling), specializations
+   (like business information systems, and TinyML), techniques (like
+   Scrum) and tools (like R, and GitHub).
 
    [[./img/full.png]]
 
 ** Glossary
+
+   Even when listening to a talk for a large audience (of experts -
+   each of which is an expert in his or her tiny area of
+   specialization), you come across a lot of technical terms and
+   concepts. When watching such videos or reading blogs you should
+   always be building your own glossary of terms. It will
+   progressively make your reading faster and easier, and aid your
+   understanding of state of the art publications.
+
 *** To be Scientific or not to be Scientific
+
+    Even today (2021), not only 10 years ago, as Ng claims, many
+    scientists wouldn't call ML or AI especially scientific. The
+    reason is that new areas, and especially interdisciplinary areas
+    (like data science) are considered "under-theorized". I came
+    across this label in an article on theoretical biology
+    ([[quanta][Cepelewicz, 2020]]): apparently, biology does (so far) not have a
+    proper concept of what an "individual" is. Some researchers from
+    the Santa Fe institute for complexity science came up with a
+    stochastic (mathematical) definition that allows to describe
+    individuals as well as collections of individuals (like
+    swarms). Personally, I don't find the theory very convincing at
+    all, but the point is that even a science like biology (certainly
+    a few hundred years old already) is still "under-theorized", does
+    not have "enough" theory, which means that many problems cannot be
+    described formally and therefore not be investigated
+    systematically (except empirically, by making experiments,
+    counting insect legs etc.).
+
+    Computer science (and AI/ML as part of it), is in a similar
+    situation. Ng's suggestion is not to push the theory, but approach
+    it from a practical perspective, as an engineering science (like a
+    craft with extra computing power).
+
 *** Cloud and edge implementation
 
-    [[https://www.tinyml.org/][Go tiny with TinyML]]
+    [[https://www.tinyml.org/][TinyML]] - machine learning at low power on embedded devices. Here's
+    an example that would've been sci-fi only a few years back:
+    "Flying Microchips The Size Of A Sand Grain" ([[npr][Neuman, 2021]]).
+
+    [[./img/tiny.png]]
+
+    I've just about decided to invest some of my 2021-22 research
+    money from the college into buying gear for TinyML experiments in
+    class. It's not all that expensive (cause it's tiny) - [[https://www.arducam.com/raspberry-pi-pico-tensorflow-lite-micro-person-detection-arducam/][see "The
+    Future of Machine Learning is Tiny"]] - and it might make some cool
+    applications for the data science ML class[fn:3].
 
 *** Design pattern
 
     [[https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm][Check out this tutorial]] for design patterns in software
-    development.
+    development. There is a good book on design patterns for
+    self-study from HeadFirst Labs ([[pattern][Freeman et al, 2004]]).
+
+    The image ([[pattern][Heer/Agrawala 2006]]) shows a system diagram of 21
+    various software design patterns.
+
+    [[./img/pattern_map.gif]]
 
 *** Softmax model
 
-    This is a logistic regression type model ([[http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/][technical tutorial]]),
-    which is common in ML because it performs a binary classification.
+    This is a logistic regression type model (here is a [[http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/][technical
+    tutorial]]), which is common in ML because it performs a binary
+    classification.
 
 *** Hyperparameters
 
     Values to control the learning process - not derived during
-    training. They depend on the model used.
+    training. They depend on the model used. An example would be the
+    number of layers of a deep learning neural network, which remain
+    unchanged as part of the algorithmic model.
 
 *** Bounding box
 
     Image processing tool ([[https://keymakr.com/blog/what-are-bounding-boxes/][explanation]]). Bounding boxes are a form of
     labelling image data by drawing a box around classifiable areas.
-    
+
+*** DevOps/MLOps
+
+    The IBM definition of DevOps ([[ibm][Crawford, 2019]]):
+
+    #+begin_quote
+    "DevOps outlines a software development process and an
+    organizational culture shift that speeds the delivery of higher
+    quality software by automating and integrating the efforts of
+    development and IT operations teams – two groups that
+    traditionally practiced separately from each other, or in silos."
+    #+end_quote
+
 ** Summary
 
    * AI experiences a proof-of-concept to production gap
@@ -198,14 +268,30 @@
    * AI should become an engineering discipline
 
 ** Further information
-
-   Stanford HAI (Apr 29, 2021). Healthcare's AI Future: A Conversation
-   with Fei-Fei Li & Andrew Ng.
+   
+   Andrew Ng further outlines his ideas on healthcare in [[https://hai.stanford.edu/events/healthcares-ai-future-conversation-fei-fei-li-andrew-ng][this long
+   panel discussion]]. Earlier this year, he launched a "campaign for
+   data-centric" (instead of model/algorithm-centered) AI ([[press][Press,
+   2021]]).
+ 
 
 * References
 
   <<boillet>> Boillet J (Jul 20, 2018). How AI will transform the
   audit [video]. [[https://www.ey.com/en_gl/assurance/how-artificial-intelligence-will-transform-the-audit][Online: ey.com]].
+
+  <<quanta>> Cepelewicz J (July 16, 2021). What Is an Individual?
+  Biology Seeks Clues in Information Theory [Blog]. [[https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-information-theory-20200716/][Online:
+  quantamagazine.com.]]
+
+  <<ibm>> Crawford A (2019). DevOps [website]. [[https://www.ibm.com/cloud/learn/devops-a-complete-guide][Online: ibm.com.]]
+
+  <<freeman>> Freeman et al (2004). Head First Design
+  Patterns. Sebastopol: O'Reilly. [[https://www.oreilly.com/library/view/head-first-design/0596007124/][Online: oreilly.com.]]
+
+  <<pattern>> Heer J/Agrawala M (2006). Software Design Patterns for
+  Information Visualization. In: IEEE Transactions on Visualization
+  and Computer Graphics (TVCG), 12(5). [[http://vis.berkeley.edu/papers/infovis_design_patterns/][Online: berkeley.edu.]]
 
   <<leiner>> Leiner et al (1997). Brief History of the Internet. In:
   Comm. of the ACM Feb 1997. [[https://www.internetsociety.org/internet/history-internet/brief-history-internet/#f3][Online: internetsociety.org.]]
@@ -216,6 +302,19 @@
   <<xai>> Linardatos et al (2020). Explainable AI: A Review of Machine
   Learning Interpretability Methods. In: Entropy 23(1).  [[https://pubmed.ncbi.nlm.nih.gov/33375658/][doi:
   10.3390/e23010018. PMID: 33375658; PMCID: PMC7824368]].
+
+  Michael (May 5, 2021). Image Processing Techniques: What Are
+  Bounding Boxes? [Blog]. [[https://keymakr.com/blog/what-are-bounding-boxes/][Online: keymakr.com]].
+
+  <<vintage>> n.a.(3 Feb 2016). 15 Incredible Vintage Photos of People
+  Getting X-Rays Over the Decades [website]. [[https://www.vintag.es/2016/02/incredible-vintage-photos-of-people.html][Online: vintage.es]].
+
+  <<npr>> Neuman S (Sept 23, 2021). Flying Microchips The Size Of A
+  Sand Grain Could Be Used For Population Surveillance [blog]. [[https://www.npr.org/2021/09/23/1040035430/flying-microchip-sand-grain-northwestern-winged][Online:
+  npr.org]].
+
+  <<press>> Press G (June 16, 2021). Andrew Ng Launches A Campaign For
+  Data-Centric AI. [[https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/?sh=d11550874f57][Online: forbes.com]].
 
   <<block>> Sedlmeir et al (2020). The Energy Consumption of
   Blockchain Technology: Beyond Myth. In: Business & Information
@@ -230,6 +329,9 @@
   <<ng>> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
   Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY][Online: youtube.com]].
 
+  <<stanford>> Stanford HAI (Apr 29, 2021). Healthcare's AI Future: A
+   Conversation with Fei-Fei Li & Andrew Ng. [[https://hai.stanford.edu/events/healthcares-ai-future-conversation-fei-fei-li-andrew-ng][Online: stanford.edu]].
+
   <<ng18>> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford CS229:
   Machine Learning - Andrew Ng (Autumn 2018) [video]. [[https://youtu.be/jGwO_UgTS7I?t=2180][Online:
   youtube.com]].
@@ -237,14 +339,24 @@
   <<deepl>> Thompson et al (24 Sep 2021). Deep Learning's Diminishing
   Returns. [[https://spectrum.ieee.org/deep-learning-computational-cost][Online: spectrum.ieee.org]].
 
+  UFLDL Tutorial (n.d.) Softmax Regression [Website]. [[http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/][Online:
+  ufldl.stanford.edu.]]
+
   <<vardi>> Vardi MY (May 18, 2021). "Engineers and economists prize
   efficiency, but nature favors resilience – lessons from Texas,
   COVID-19 and the 737 Max".
 
-  <<vintage>> n.a.(3 Feb 2016). 15 Incredible Vintage Photos of People
-  Getting X-Rays Over the Decades [website]. [[https://www.vintag.es/2016/02/incredible-vintage-photos-of-people.html][Online: vintage.es]].
+  Warden P (Feb 3, 2021). The Future of Machine Learning is Tiny
+  [Blog]. [[https://www.arducam.com/raspberry-pi-pico-tensorflow-lite-micro-person-detection-arducam/][Online: arducam.com]].
 
 * Footnotes
+
+[fn:3]As I have just learnt, this course (DSC 205) is called
+"Introduction to Advanced Data Science" for bureaucratic reasons
+having to do with the Lyon college course catalog, but it's going to
+be about ML. The other thing I want to spend my money on is
+parallelization (this will be a joint project with David Sonnier):
+[[https://medium.com/@leerbardon/build-a-diy-supercomputer-a6461b2087d3][building a DIY supercomputer]]!
 
 [fn:2]A gamer told me about another impact of blockchain mining
 popularity: she said it had become hard to get hold of GPUs (graphical
