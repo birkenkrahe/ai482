@@ -191,7 +191,11 @@
     
 ** Summary
 
-
+   * AI experiences a proof-of-concept to production gap
+   * This leads to delayed development and use
+   * Challenges include: data, resilience, change
+   * AI in practice/production favors debugging skills
+   * AI should become an engineering discipline
 
 ** Further information
 
