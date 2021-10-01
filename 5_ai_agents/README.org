@@ -361,6 +361,10 @@
 
 ** Briefing: DIY
 
+   You find the briefing below. For my part, I have looked through the
+   exercises and sketched thoughts, extensions and issues with some of
+   these. Over to you...
+
    #+begin_quote
    With the 4th edition (2021), the exercises for AIMA are online
    only, open for submissions from everyone. I thought it might be fun
