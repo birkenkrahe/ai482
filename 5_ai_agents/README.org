@@ -357,11 +357,81 @@
    #+attr_html: :width 400px
    [[./img/types.jpg]]
 
+* [[https://aimacode.github.io/aima-exercises/agents-exercises/][AIMA Exercises]]
+
+** Briefing: DIY
+
+   #+begin_quote
+   With the 4th edition (2021), the exercises for AIMA are online
+   only, open for submissions from everyone. I thought it might be fun
+   to see if we can contribute to the world-wide effort to understand
+   AI and where it's going. So here's the idea:
+
+   Your job:
+
+   Pick one of more of the AIMA online exercises for chapter 2,
+   "Intelligent Agents".  Work out a solution, or sketch a solution
+   path, or list issues that you can see for answering any of these
+   exercises.  Present your findings (informally or formally) on
+   Friday, October 1, in our last session before the fall break.
+   #+end_quote
+
+** Relationship between evolution and ...
+
+   The difficulty for me with this exercise is that evolution is
+   empirically challenged: it is not directly observable, and hence
+   evolutionary claims and hypothesis cannot be verified
+   experimentally. In fact, evolution is continously undergoing
+   paradigmatic changes (cp. [[evolution][Pigliucci, 2009]]).
+
+   My personal doubt of evolutionary theory is anchored in its
+   inability to explain the origin of language (cp. [[wolfe][Wolfe, 2016]]).
+
+** Syllogisms
+
+   The many assertions of exercise 4 are very interesting: this is an
+   excellent opportunity to check one's grasp on logic. AIMA makes
+   certain assumptions and provides definitions, and you need to check
+   if these assertions follow or not.
+
+** PEAS
+   
+   We did something like exercise 5 and 6 in class: giving a PEAS
+   description of various tasks. This is a great exercise to build a
+   checklist of automated or automatable activities surrounding daily
+   activities. You can then proceed to check if any of these already
+   have agents supporting them or not. And if not, you might have
+   found a niche!
+
+** Glossary
+
+   Exercise 7 is a glossary exercise: I have repeatedly shown you how
+   and why I think it is really important to have short definitions
+   ready - it demonstrates your understanding and enables you to move
+   on through papers, discussions, etc.
+
+** Coding
+
+   If I find the time (not this term, I am afraid), I will have a look
+   at the GitHub code repo for AIMA. Or perhaps one of you wants to
+   present and explain some of the code - e.g. for an application like
+   the simple utility agent "vacuum cleaner".
+
+** Hardware
+   
+   Not an answer but another question that I have because most of the
+   discussion in AIMA (apart from the last couple of chapters) is
+   about software. What is actually involved in building a real robot?
+
+   I have a great book reference: [[baumik][Bhaumik, 2018]]. Perhaps a basis for a
+   future special course at Lyon? Or for a summer school project?
 
 * References
 
 ** Publications
 
+   <<baumik>> Bhaumik A (2018). From AI to Robotics. [[https://www.routledge.com/From-AI-to-Robotics-Mobile-Social-and-Sentient-Robots/Bhaumik/p/book/9780367572099][CRC Press]]. ([[https://www.amazon.com/AI-Robotics-Arkapravo-Bhaumik/dp/0367572095/ref=sr_1_2][ebook]])
+   
    <<bee>> Bee Z (24 Jan 2021). Grammarly is Garbage, and Here's Why
    [Video]. [[https://youtu.be/Q5rB9jDbTPU][Online: YouTube.com]].
 
@@ -388,11 +458,16 @@
    <<myers>> Myers A (8 Sept 2021). Solving the Robot Off-Loading
    Problem. [[https://hai.stanford.edu/news/solving-robot-loading-problem][Online: hai.stanford.edu]].
 
+   <<evolution>> Pigliucci M (2009). The Evolution of Evolutionary
+   Theory. In: Philosophy Now 71. [[https://philosophynow.org/issues/71/The_Evolution_of_Evolutionary_Theory][Online: philosophynow.org]]. ([[https://drive.google.com/file/d/1hDnImlOIh_mWv1Jzjvpw7SuR0xAr6-n4/view?usp=sharing][GDrive]])
+
    <<reed>> Reed Floren (1 April 2021). Jarvis.ai How to Write Blog
    Posts in 10 Minutes with Conversion.AI [Video]. [[https://youtu.be/z5_3S5nKfWQ?t=540][Online: youtube.com]].
 
    <<aima>> Russell S/Norvig P (2021). AI - A Modern Approach (4th
    ed). Pearson.
+
+   <<wolfe>> Wolfe T (2016). The Kingdom of Speech. ([[https://en.wikipedia.org/wiki/The_Kingdom_of_Speech][Wikipedia]])
 
 ** Websites
 
