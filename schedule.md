@@ -247,15 +247,15 @@
 <td class="org-left">Mon-11-Oct</td>
 <td class="org-left">APPLICATIONS</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">2nd sprint review</td>
 </tr>
 
 
 <tr>
 <td class="org-right">24</td>
 <td class="org-left">Wed-13-Oct</td>
-<td class="org-left">Jacob Sampley</td>
-<td class="org-left">Session Protocol 12(X)</td>
+<td class="org-left">Jacob: AI in the military</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -263,8 +263,8 @@
 <tr>
 <td class="org-right">25</td>
 <td class="org-left">Fri-15-Oct</td>
-<td class="org-left">TBD (MB)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Emma: AI in soccer (player performance)</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -273,7 +273,7 @@
 <tr>
 <td class="org-right">26</td>
 <td class="org-left">Mon-18-Oct</td>
-<td class="org-left">Fortunato Hernandez</td>
+<td class="org-left">Fortunato: AI in soccer (player development)</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -348,7 +348,7 @@
 <td class="org-right">33</td>
 <td class="org-left">Fri-5-Nov</td>
 <td class="org-left">APPLICATIONS</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">3rd sprint review</td>
 </tr>
 </tbody>
@@ -358,7 +358,7 @@
 <td class="org-right">34</td>
 <td class="org-left">Mon-8-Nov</td>
 <td class="org-left">APPLICATIONS</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -366,7 +366,7 @@
 <tr>
 <td class="org-right">35</td>
 <td class="org-left">Wed-10-Nov</td>
-<td class="org-left">Spencer Rhoden</td>
+<td class="org-left">Spencer: Defining Intelligence</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -376,7 +376,7 @@
 <td class="org-right">36</td>
 <td class="org-left">Fri-12-Nov</td>
 <td class="org-left">TBD (MB)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -385,7 +385,7 @@
 <tr>
 <td class="org-right">37</td>
 <td class="org-left">Mon-15-Nov</td>
-<td class="org-left">Emma Brandes</td>
+<td class="org-left">TBD (MB)</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -394,7 +394,7 @@
 <tr>
 <td class="org-right">38</td>
 <td class="org-left">Wed-17-Nov</td>
-<td class="org-left">Hakeem Yatim</td>
+<td class="org-left">Hakeem: AI in Baseball (player development)</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -404,7 +404,7 @@
 <td class="org-right">39</td>
 <td class="org-left">Fri-19-Nov</td>
 <td class="org-left">TBD (MB)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -414,7 +414,7 @@
 <td class="org-right">40</td>
 <td class="org-left">22-Nov</td>
 <td class="org-left">TBD (MB)</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
