@@ -91,7 +91,7 @@ more material after the live classroom session on Oct 6, 2021.
 
 * Knowledge
 
-  Any thoughts about this summary?
+  Any thoughts about this summary (p.71)?
 
   #+begin_quote
   "Complete autonomy is not the eventual goal for AI systems. [...] AI
