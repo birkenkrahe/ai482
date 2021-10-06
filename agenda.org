@@ -283,9 +283,9 @@
 
   [[./img/knuth.jpg]]
   
-  * New diary entry - "Florida man"
-  * Today: AI100 report analysis
-  * Fri/Mon: 2nd sprint review
+  * New diary entry - "[[https://github.com/birkenkrahe/org/blob/master/diary.md#org56850d9][Florida man]]"
+  * Today: [[https://github.com/birkenkrahe/ai482/tree/main/7_future_of_ai][future of AI ("AI100")]]
+  * Fri/Mon: [[https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review][2nd sprint review]]
   * Tell me your solo presentation topics!
 
 * References

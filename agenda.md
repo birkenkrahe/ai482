@@ -1,25 +1,25 @@
 
 # Table of Contents
 
--   [Week 2 - August 25](#orgcffacb2)
--   [Week 2 - August 27](#org512226e)
--   [Week 3 - August 30](#orgc19a5a5)
--   [Week 4 - September 8](#orgd2ccbf3)
--   [Week 4 - September 10](#org210c56c)
--   [Week 5 - September 13](#org37a1679)
--   [Week 5 - September 15](#orgdae33e9)
--   [Week 5 - September 17](#orgec47c11)
--   [Week 6 - September 20/22](#org27bbbbc)
--   [Week 6 - September 24](#org06f566f)
--   [Week 7 - September 27](#orgefe8817)
--   [Week 7 - September 29](#orgfeeca8e)
--   [Week 7 - October 1](#org3af8422)
--   [Week 8 - October 6](#org289d838)
--   [References](#org96e4a38)
+-   [Week 2 - August 25](#orgf965c2f)
+-   [Week 2 - August 27](#orga7c5c18)
+-   [Week 3 - August 30](#org271374e)
+-   [Week 4 - September 8](#org69b991e)
+-   [Week 4 - September 10](#org453e45f)
+-   [Week 5 - September 13](#org28c013f)
+-   [Week 5 - September 15](#orge831ed3)
+-   [Week 5 - September 17](#org6d39bcf)
+-   [Week 6 - September 20/22](#orgcb347cd)
+-   [Week 6 - September 24](#orgf9566ad)
+-   [Week 7 - September 27](#orgee66b68)
+-   [Week 7 - September 29](#orgbd25dff)
+-   [Week 7 - October 1](#org53fdd6c)
+-   [Week 8 - October 6](#org82efa96)
+-   [References](#orgc90abcd)
 
 
 
-<a id="orgcffacb2"></a>
+<a id="orgf965c2f"></a>
 
 # Week 2 - August 25
 
@@ -40,7 +40,7 @@
     -   Agendas will be posted
 
 
-<a id="org512226e"></a>
+<a id="orga7c5c18"></a>
 
 # Week 2 - August 27
 
@@ -50,7 +50,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#orgb234945))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org5232a10))*
 
 
 ## Housekeeping
@@ -75,11 +75,11 @@
 
 ## References
 
-<a id="orgb234945"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="org5232a10"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="orgc19a5a5"></a>
+<a id="org271374e"></a>
 
 # Week 3 - August 30
 
@@ -119,7 +119,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 
 
-<a id="orgd2ccbf3"></a>
+<a id="org69b991e"></a>
 
 # Week 4 - September 8
 
@@ -185,7 +185,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 </table>
 
 
-<a id="org210c56c"></a>
+<a id="org453e45f"></a>
 
 # Week 4 - September 10
 
@@ -197,7 +197,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Still no ideas? [See Stanford '21 conference](https://hai.stanford.edu/2021-spring-conference-agenda)
 
 
-<a id="org37a1679"></a>
+<a id="org28c013f"></a>
 
 # Week 5 - September 13
 
@@ -237,7 +237,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Briefly present your findings
 
 
-<a id="orgdae33e9"></a>
+<a id="orge831ed3"></a>
 
 # Week 5 - September 15
 
@@ -249,17 +249,17 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 ## Automatic creativity?
 
 
-### [Plotto book (Legro, 2012)](#org0c13045)
+### [Plotto book (Legro, 2012)](#org529189c)
 
 ![img](./img/cook.png)
 
 
-### [Wycliffe Hill's 1931 plot robot (Collins, 2009)](#org9ba66f4)
+### [Wycliffe Hill's 1931 plot robot (Collins, 2009)](#org2a2722e)
 
 ![img](./img/plotto.jpg)
 
 
-### [Plotto game (Redgrave, 2018)](#org360765f)
+### [Plotto game (Redgrave, 2018)](#orge0d1427)
 
 ![img](./img/plottogame.png)
 
@@ -275,17 +275,17 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 
 ## References
 
-<a id="org9ba66f4"></a> Collins P (6 Jul 2009). The King of All Formulas
+<a id="org2a2722e"></a> Collins P (6 Jul 2009). The King of All Formulas
 [Blog]. [Online: slate.com.](https://slate.com/news-and-politics/2009/07/the-man-who-invented-the-hollywood-schlock-machine.html)
 
-<a id="org0c13045"></a> Legro M (6 Jan 2012). Plotto: The Master Book of All
+<a id="org529189c"></a> Legro M (6 Jan 2012). Plotto: The Master Book of All
 Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01/06/plotto/)
 
-<a id="org360765f"></a> Redgrave AL (29 Apr 2018). Plotto Demo
+<a id="orge0d1427"></a> Redgrave AL (29 Apr 2018). Plotto Demo
 [Video]. [Online: youtube.com](https://youtu.be/VbWrs8wm5sA).
 
 
-<a id="orgec47c11"></a>
+<a id="org6d39bcf"></a>
 
 # Week 5 - September 17
 
@@ -295,7 +295,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Next: AI in Sales and Marketing (example)
 
 
-<a id="org27bbbbc"></a>
+<a id="orgcb347cd"></a>
 
 # Week 6 - September 20/22
 
@@ -303,7 +303,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   [Lectures in GitHub](https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents)
 
 
-<a id="org06f566f"></a>
+<a id="orgf9566ad"></a>
 
 # Week 6 - September 24
 
@@ -315,10 +315,10 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
     -   Part II: Change management
     -   Part III: Full cycle of ML projects
 
-*Image source: [Williams, 2020](#orgf41062c).*
+*Image source: [Williams, 2020](#orgb73bc0d).*
 
 
-<a id="orgefe8817"></a>
+<a id="orgee66b68"></a>
 
 # Week 7 - September 27
 
@@ -333,7 +333,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 *Image: Two AIs talk about becoming human (Soslow, 2021)*
 
 
-<a id="orgfeeca8e"></a>
+<a id="orgbd25dff"></a>
 
 # Week 7 - September 29
 
@@ -344,7 +344,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   New diary entry: [taking stock](https://github.com/birkenkrahe/ai482/blob/main/diary.md#org1e569bc) (Sept 27)
 
 
-<a id="org3af8422"></a>
+<a id="org53fdd6c"></a>
 
 # Week 7 - October 1
 
@@ -355,19 +355,19 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Oct 8: [Upload PDF here by 9 AM](https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review) (everybody)
 
 
-<a id="org289d838"></a>
+<a id="org82efa96"></a>
 
 # Week 8 - October 6
 
 ![img](./img/knuth.jpg)
 
--   New diary entry - "Florida man"
--   Today: AI100 report analysis
--   Fri/Mon: 2nd sprint review
+-   New diary entry - "[Florida man](https://github.com/birkenkrahe/org/blob/master/diary.md#org56850d9)"
+-   Today: [future of AI ("AI100")](https://github.com/birkenkrahe/ai482/tree/main/7_future_of_ai)
+-   Fri/Mon: [2nd sprint review](https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review)
 -   Tell me your solo presentation topics!
 
 
-<a id="org96e4a38"></a>
+<a id="orgc90abcd"></a>
 
 # References
 
@@ -380,7 +380,7 @@ human. (GPT-3) [video]. [Online: youtube.com](https://youtu.be/jz78fSnBG0s).
 Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY?t=367).
 
-<a id="orgf41062c"></a> Williams A (Jun 27, 2020). Riot Games give first clues
+<a id="orgb73bc0d"></a> Williams A (Jun 27, 2020). Riot Games give first clues
 about new Valorant Agents and abilities [blog]. [Online: dexerto.com](https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/).
 
 
