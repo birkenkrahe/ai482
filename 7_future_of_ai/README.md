@@ -1,42 +1,52 @@
 
 # Table of Contents
 
--   [What will you learn?](#org51adadb)
--   [Data](#org13cca80)
-    -   [Definition](#orgcc83181)
-    -   [Goals](#org7c6cad5)
-    -   [Method](#orgfe498ac)
-    -   [Output](#org60a10f1)
--   [Information](#orgb8b786e)
--   [Knowledge](#orgeda9921)
--   [Wisdom](#org3da57d2)
--   [References](#orge8b0ea3)
+-   [Protocol anyone?](#org1bc99b2)
+-   [Whiteboard photos](#orgb3533a6)
+-   [What will you learn?](#org23f7bf5)
+-   [Data](#org1d05bda)
+    -   [Definition](#orgac66092)
+    -   [Goals](#org81bf700)
+    -   [Method](#orgc1395b1)
+    -   [Output](#orgdb30d7f)
+-   [Information](#org503a82f)
+-   [Knowledge](#org562ac5e)
+    -   [Scenario analysis](#org5c616f7)
+-   [Wisdom](#org232eaf3)
+-   [References](#orgc041fd8)
 
 As always, this framework presentation will be fully equipped with
 more material after the live classroom session on Oct 6, 2021.
 
--   Protocol anyone?
--   Whiteboard photos
+
+<a id="org1bc99b2"></a>
+
+# Protocol anyone?
 
 
-<a id="org51adadb"></a>
+<a id="orgb3533a6"></a>
+
+# Whiteboard photos
+
+
+<a id="org23f7bf5"></a>
 
 # What will you learn?
 
 -   Broaden the view from Andrew Ng's focus
 -   Check impact of intelligent agent paradigm
--   Understand method/content/impact of [AI100 (2021)](#org9f86e7d)
+-   Understand method/content/impact of [AI100 (2021)](#orgbbf53da)
 -   Develop AI literacy (critical thinking)
 -   Quick group exercise to check understanding OR
 -   Hard philosopho-technical question to brood over
 
 
-<a id="org13cca80"></a>
+<a id="org1d05bda"></a>
 
 # Data
 
 
-<a id="orgcc83181"></a>
+<a id="orgac66092"></a>
 
 ## Definition
 
@@ -49,7 +59,7 @@ decide when and how to describe upcoming turns to guide you to your
 destination."
 
 
-<a id="org7c6cad5"></a>
+<a id="org81bf700"></a>
 
 ## Goals
 
@@ -59,7 +69,7 @@ destination."
 -   Influence policy and curricular decisions
 
 
-<a id="orgfe498ac"></a>
+<a id="orgc1395b1"></a>
 
 ## Method
 
@@ -104,7 +114,7 @@ Compare: Royal Dutch Shell scenario planning process ([FFFatMIT,
 2011](https://youtu.be/yVgxZnRT54E))
 
 
-<a id="org60a10f1"></a>
+<a id="orgdb30d7f"></a>
 
 ## Output
 
@@ -155,7 +165,7 @@ Compare: Royal Dutch Shell scenario planning process ([FFFatMIT,
 </table>
 
 
-<a id="orgb8b786e"></a>
+<a id="org503a82f"></a>
 
 # Information
 
@@ -185,11 +195,25 @@ Check some of these out for relevance to your presentation topics
 data).
 
 
-<a id="orgeda9921"></a>
+<a id="org562ac5e"></a>
 
 # Knowledge
 
-Place SQs in scenario framework: 
+Any thoughts about this summary?
+
+> "Complete autonomy is not the eventual goal for AI systems. [&#x2026;] AI
+> needs to be incorporated into that community-wide system, with clear
+> lines of communication between human and automated
+> decision-makers. [&#x2026;] The success of the field will be measured by
+> how it has empowered all people, not be how efficiently machines
+> devalue the very people we are trying to help."
+
+
+<a id="org5c616f7"></a>
+
+## Scenario analysis
+
+Place SQs in scenario framework:
 
 -   problem vs. solution focus
 -   soft (socio-political) vs. hard (mathematical-technical)
@@ -202,7 +226,7 @@ Result:
 -   Hard solutions: 2,9,12
 
 
-<a id="org3da57d2"></a>
+<a id="org232eaf3"></a>
 
 # Wisdom
 
@@ -214,29 +238,29 @@ Question: What is the relationship between AI and God (if any)?
 > might be some AI, but whatever, but I do believe that there is
 > something that goes beyond the realm of human understanding, that I
 > can try to learn more about how to resonate with, whatever that
-> being would like me to do.” [Donald Knuth (2021)](#org53f34de)
+> being would like me to do.” [Donald Knuth (2021)](#org03b2a6e)
 
-See also podcast summary ([McKendrick, 2021](#org0436ed4)).
+See also podcast summary ([McKendrick, 2021](#orgecf93c1)).
 
 
-<a id="orge8b0ea3"></a>
+<a id="orgc041fd8"></a>
 
 # References
 
-<a id="org9f86e7d"></a> Litman et al (Sept 16, 2021). Gathering Strength,
+<a id="orgbbf53da"></a> Litman et al (Sept 16, 2021). Gathering Strength,
 Gathering Storms: The One Hundred Year Study on Artificial
 Intelligence (AI100). 2021 Study Panel Report, Stanford U.,
 CA. [Online: ai100.stanford.edu](https://ai100.stanford.edu/sites/g/files/sbiybj18871/files/media/file/AI100Report_MT_10.pdf).
 
-<a id="org53f34de"></a> Fridman L (Sept 9, 2021). Donald Knuth: Programming,
+<a id="org03b2a6e"></a> Fridman L (Sept 9, 2021). Donald Knuth: Programming,
 Algorithms, Hard Problems & the Game of Life | Lex Fridman Podcast
 \#219 [Podcast]. [Online: lexfridman.com](https://lexfridman.com/donald-knuth-2/).
 
-<a id="org0436ed4"></a>> McKendrick J (Sept 18, 2021). Artificial intelligence
+<a id="orgecf93c1"></a>> McKendrick J (Sept 18, 2021). Artificial intelligence
 success is tied to ability to augment, not just automate
 [Website]. [Online:zdnet.com](https://www.zdnet.com/article/artificial-intelligence-success-is-tied-to-ability-to-augment-not-just-automate/).
 
-<a id="org7a3479f"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+<a id="orgc7cab38"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
 
 Warden P (Feb 3, 2021). The Future of Machine Learning is Tiny
