@@ -279,6 +279,15 @@
   * Oct 6: [[https://hai.stanford.edu/news/new-report-assesses-progress-and-risks-artificial-intelligence][AI100 report 2021]] (lecture/discussion)
   * Oct 8: [[https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review][Upload PDF here by 9 AM]] (everybody)
 
+* Week 8 - October 6
+
+  [[./img/knuth.jpg]]
+  
+  * New diary entry - "Florida man"
+  * Today: AI100 report analysis
+  * Fri/Mon: 2nd sprint review
+  * Tell me your solo presentation topics!
+
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
