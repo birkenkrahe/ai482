@@ -7,8 +7,8 @@
 As always, this framework presentation will be fully equipped with
 more material after the live classroom session on Oct 6, 2021.
 
-   * Protocol anyone?
-   * Whiteboard photos
+* Protocol anyone?
+* Whiteboard photos
 
 * What will you learn?
 
@@ -23,15 +23,15 @@ more material after the live classroom session on Oct 6, 2021.
 
 ** Definition
 
-  #+begin_quote
-  "Artificial intelligence is about getting a machine to carry out
-  behaviors that we think of as requiring intelligence."
-  #+end_quote
+   #+begin_quote
+   "Artificial intelligence is about getting a machine to carry out
+   behaviors that we think of as requiring intelligence."
+   #+end_quote
 
-  "AI effect:" once a problem is solved by AI, it is no longer
-  considered an AI problem - e.g. "real-time navigation aids that
-  decide when and how to describe upcoming turns to guide you to your
-  destination."
+   "AI effect:" once a problem is solved by AI, it is no longer
+   considered an AI problem - e.g. "real-time navigation aids that
+   decide when and how to describe upcoming turns to guide you to your
+   destination."
 
 ** Goals
 
@@ -91,15 +91,28 @@ more material after the live classroom session on Oct 6, 2021.
 
 * Knowledge
 
-  Place SQs in scenario framework: 
-  * problem vs. solution focus
-  * soft (socio-political) vs. hard (mathematical-technical)
+  Any thoughts about this summary?
 
-  Result:
-  * Soft problems: 4,5,6,10,11
-  * Soft solutions: 1,7,8
-  * Hard problems: 3
-  * Hard solutions: 2,9,12
+  #+begin_quote
+  "Complete autonomy is not the eventual goal for AI systems. [...] AI
+  needs to be incorporated into that community-wide system, with clear
+  lines of communication between human and automated
+  decision-makers. [...] The success of the field will be measured by
+  how it has empowered all people, not be how efficiently machines
+  devalue the very people we are trying to help."
+  #+end_quote
+
+** Scenario analysis
+
+   Place SQs in scenario framework:
+   * problem vs. solution focus
+   * soft (socio-political) vs. hard (mathematical-technical)
+
+   Result:
+   * Soft problems: 4,5,6,10,11
+   * Soft solutions: 1,7,8
+   * Hard problems: 3
+   * Hard solutions: 2,9,12
 
 * Wisdom
 
