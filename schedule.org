@@ -23,10 +23,10 @@
    |----+------------+----------------------------------------------+-----------------------+----------------------|
    | 15 | Mon-20-Sep | Agent performance measures (MB)              |                       |                      |
    | 16 | Wed-22-Sep | Agent task environments (MB)                 | Nick Norwood          |                      |
-   | 17 | Fri-24-Sep | 5 Agents types & Small data issues (MB)      | Hakeem Yatim          |                      |
+   | 17 | Fri-24-Sep | 5 Agents types & Small data issues (MB)      | +Hakeem Yatim+        |                      |
    |----+------------+----------------------------------------------+-----------------------+----------------------|
-   | 18 | Mon-27-Sep | ML change management (MB)                    | Jacob Sampley         |                      |
-   | 19 | Wed-29-Sep | ML project cycle (MB)                        | Dat O                 |                      |
+   | 18 | Mon-27-Sep | ML change management (MB)                    | +Jacob Sampley+       |                      |
+   | 19 | Wed-29-Sep | ML project cycle (MB)                        | +Dat O+               |                      |
    | 20 | Fri-1-Oct  | AIMA exercises and midterm summary           |                       |                      |
    |----+------------+----------------------------------------------+-----------------------+----------------------|
    |    | Mon-4-Oct  | --FALL BREAK--                               | --FALL BREAK--        |                      |
