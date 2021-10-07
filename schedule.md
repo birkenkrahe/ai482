@@ -235,8 +235,8 @@
 <tr>
 <td class="org-right">22</td>
 <td class="org-left">Fri-8-Oct</td>
-<td class="org-left">APPLICATIONS</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">APPLICATIONS (team projects)</td>
+<td class="org-left">&#x2013;OPEN CLASS--</td>
 <td class="org-left">2nd sprint review</td>
 </tr>
 </tbody>
@@ -245,7 +245,7 @@
 <tr>
 <td class="org-right">23</td>
 <td class="org-left">Mon-11-Oct</td>
-<td class="org-left">APPLICATIONS</td>
+<td class="org-left">APPLICATIONS (team projects)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">2nd sprint review</td>
 </tr>
