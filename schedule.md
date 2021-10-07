@@ -180,7 +180,7 @@
 <td class="org-right">17</td>
 <td class="org-left">Fri-24-Sep</td>
 <td class="org-left">5 Agents types & Small data issues (MB)</td>
-<td class="org-left">Hakeem Yatim</td>
+<td class="org-left"><del>Hakeem Yatim</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -190,7 +190,7 @@
 <td class="org-right">18</td>
 <td class="org-left">Mon-27-Sep</td>
 <td class="org-left">ML change management (MB)</td>
-<td class="org-left">Jacob Sampley</td>
+<td class="org-left"><del>Jacob Sampley</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -199,7 +199,7 @@
 <td class="org-right">19</td>
 <td class="org-left">Wed-29-Sep</td>
 <td class="org-left">ML project cycle (MB)</td>
-<td class="org-left">Dat O</td>
+<td class="org-left"><del>Dat O</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
