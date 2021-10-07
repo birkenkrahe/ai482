@@ -31,9 +31,9 @@
    |----+------------+----------------------------------------------+-----------------------+----------------------|
    |    | Mon-4-Oct  | --FALL BREAK--                               | --FALL BREAK--        |                      |
    | 21 | Wed-6-Oct  | AI100 report 2021 (MB)                       |                       |                      |
-   | 22 | Fri-8-Oct  | APPLICATIONS                                 |                       | 2nd sprint review    |
+   | 22 | Fri-8-Oct  | APPLICATIONS (team projects)                 | --OPEN CLASS--        | 2nd sprint review    |
    |----+------------+----------------------------------------------+-----------------------+----------------------|
-   | 23 | Mon-11-Oct | APPLICATIONS                                 |                       | 2nd sprint review    |
+   | 23 | Mon-11-Oct | APPLICATIONS (team projects)                 |                       | 2nd sprint review    |
    | 24 | Wed-13-Oct | Jacob: AI in the military                    | Session Protocol (X)  |                      |
    | 25 | Fri-15-Oct | Emma: AI in soccer (player performance)      | Session Protocol (X)  |                      |
    |----+------------+----------------------------------------------+-----------------------+----------------------|
