@@ -1,8 +1,9 @@
 #+TITLE:Agenda
 #+AUTHOR:Marcus Birkenkrahe
 #+SUBTITLE: AI seminar 482.01
+#+reveal_theme: black
+#+reveal_init_options: transition:'cube'
 #+OPTIONS: toc:1 num:nil fig:nil
-#+STARTUP: overview
 * Week 2 - August 25
 
   #+attr_html: :height 300px
@@ -287,13 +288,6 @@
   * Fri/Mon: [[https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review][2nd sprint review]]
   * Tell me your solo presentation topics!
 
-* Week 8 - October 8
-
-  [[./img/rugby.gif]]
-
-  * Fri+Mon: 2nd sprint review
-  * Fri: Homecoming hospitation
-
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
@@ -307,6 +301,7 @@
 
   <<williams>> Williams A (Jun 27, 2020). Riot Games give first clues
   about new Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
+
 
 * Footnotes
 
