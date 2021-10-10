@@ -291,9 +291,9 @@
 
   [[./img/rugby.gif]]
 
-  * Fri+Mon: 2nd sprint review
+  * Fri+Mon: [[https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review][2nd sprint review]] 
   * Fri: Homecoming hospitation
-  * Mon: 
+  * Mon: [[https://github.com/birkenkrahe/org/blob/master/FAQ.md][sprint review]] critique
 
 * References
 
