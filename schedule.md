@@ -171,7 +171,7 @@
 <td class="org-right">16</td>
 <td class="org-left">Wed-22-Sep</td>
 <td class="org-left">Agent task environments (MB)</td>
-<td class="org-left">Nick Norwood</td>
+<td class="org-left"><del>Nick Norwood</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -179,7 +179,7 @@
 <tr>
 <td class="org-right">17</td>
 <td class="org-left">Fri-24-Sep</td>
-<td class="org-left">5 Agents types & Small data issues (MB)</td>
+<td class="org-left">5 Agents types &amp; Small data issues (MB)</td>
 <td class="org-left"><del>Hakeem Yatim</del></td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -459,7 +459,7 @@
 <tr>
 <td class="org-right">43</td>
 <td class="org-left">3-Dec</td>
-<td class="org-left">PROJECT PRESENTATIONS & Course closing</td>
+<td class="org-left">PROJECT PRESENTATIONS &amp; Course closing</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">4th sprint review</td>
 </tr>
