@@ -22,7 +22,7 @@
    | 14 | Fri-17-Sep | History of AI (MB)                           | +Spencer Rhoden+      |                      |
    |----+------------+----------------------------------------------+-----------------------+----------------------|
    | 15 | Mon-20-Sep | Agent performance measures (MB)              |                       |                      |
-   | 16 | Wed-22-Sep | Agent task environments (MB)                 | Nick Norwood          |                      |
+   | 16 | Wed-22-Sep | Agent task environments (MB)                 | +Nick Norwood+        |                      |
    | 17 | Fri-24-Sep | 5 Agents types & Small data issues (MB)      | +Hakeem Yatim+        |                      |
    |----+------------+----------------------------------------------+-----------------------+----------------------|
    | 18 | Mon-27-Sep | ML change management (MB)                    | +Jacob Sampley+       |                      |
