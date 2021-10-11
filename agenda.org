@@ -300,7 +300,8 @@
   [[./img/presentation.gif]]
   
   * Last [[https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review][2nd sprint reviews]]
-  * [[https://github.com/birkenkrahe/org/blob/master/FAQ.md][Sprint review]] critique (SCQA)
+  * [[https://github.com/birkenkrahe/org/blob/master/FAQ.md][Sprint review]] critique:
+    How to create a *great* presentation ([[https://github.com/birkenkrahe/org/blob/master/FAQ.md#org60f0ff8][FAQ]])
   * New diary/FAQ: [[https://github.com/birkenkrahe/org/blob/master/diary.md#org835fde8][leaving Linux]]
   * Next: your [[https://github.com/birkenkrahe/ai482/blob/main/schedule.md][presentations]]:
     1) Jacob on AI in the military
