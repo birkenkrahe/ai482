@@ -1,9 +1,8 @@
+Upload your solo presentations here as a PDF or PPT, and the team
+presentations in the respective sprint review folder.   
 
 
-# Presentations (solo + team)
-
-
-### Team vs. Solo, Presentation vs. AI Application Project
+# Team vs. Solo, Presentation vs. AI Application Project
 
 ![img](./img/solo.svg)
 
@@ -44,7 +43,7 @@
     you work in a team. Check it out!
 
 
-### Topic submissions feedback and next steps
+# Topic submissions feedback and next steps
 
 I will give feedback directly [in the GitHub discussion forum](https://github.com/birkenkrahe/ai482/discussions/4). The
 next steps for everyone is to turn your topic into a (much

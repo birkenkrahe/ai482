@@ -1,10 +1,11 @@
 #+startup: overview
 #+options: toc:nil
-* Presentations (solo + team)
+Upload your solo presentations here as a PDF or PPT, and the team
+presentations in the respective sprint review folder.   
 
-*** Team vs. Solo, Presentation vs. AI Application Project
+* Team vs. Solo, Presentation vs. AI Application Project
 
-    [[./img/solo.svg]]
+  [[./img/solo.svg]]
     
 **** Solo presentation
      This presentation is already [[https://github.com/birkenkrahe/ai482/blob/main/schedule.md][scheduled]] (notice that all
@@ -40,15 +41,15 @@
      a Kanban board, delegate tasks etc. Such a tool is more useful if
      you work in a team. Check it out!
 
-*** Topic submissions feedback and next steps
+* Topic submissions feedback and next steps
 
-    I will give feedback directly [[https://github.com/birkenkrahe/ai482/discussions/4][in the GitHub discussion forum]]. The
-    next steps for everyone is to turn your topic into a (much
-    smaller) research question so that you can actually research,
-    validate, and present it. Post your research question in the REPLY
-    thread of your original submission.
+  I will give feedback directly [[https://github.com/birkenkrahe/ai482/discussions/4][in the GitHub discussion forum]]. The
+  next steps for everyone is to turn your topic into a (much
+  smaller) research question so that you can actually research,
+  validate, and present it. Post your research question in the REPLY
+  thread of your original submission.
 
-    You can also talk to me in, before or after class, or send me a
-    mail any time. What's not Okay is to just drop a deadline without
-    a valid excuse (see [[https://github.com/birkenkrahe/ai482/blob/main/syllabus.md#assignments-and-honor-code][syllabus]]).
+  You can also talk to me in, before or after class, or send me a
+  mail any time. What's not Okay is to just drop a deadline without
+  a valid excuse (see [[https://github.com/birkenkrahe/ai482/blob/main/syllabus.md#assignments-and-honor-code][syllabus]]).
 
