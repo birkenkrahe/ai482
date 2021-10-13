@@ -255,7 +255,7 @@
 <td class="org-right">24</td>
 <td class="org-left">Wed-13-Oct</td>
 <td class="org-left">Jacob: AI in the military</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">Protocol (MB)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
