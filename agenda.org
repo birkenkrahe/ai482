@@ -281,7 +281,7 @@
 * Week 8 - October 6
 
   [[./img/knuth.jpg]]
-  
+
   * New diary entry - "[[https://github.com/birkenkrahe/org/blob/master/diary.md#org56850d9][Florida man]]"
   * Today: [[https://github.com/birkenkrahe/ai482/tree/main/7_future_of_ai][future of AI ("AI100")]]
   * Fri/Mon: [[https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review][2nd sprint review]]
@@ -291,30 +291,39 @@
 
   [[./img/rugby.gif]]
 
-  * Fri+Mon: [[https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review][2nd sprint review]] 
+  * Fri+Mon: [[https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review][2nd sprint review]]
   * Fri: Homecoming visit
   * Mon: [[https://github.com/birkenkrahe/org/blob/master/FAQ.md][sprint review]] critique
 
 * Week 9 - October 11
 
   [[./img/presentation.gif]]
-  
+
   * Last [[https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review][2nd sprint reviews]]
   * [[https://github.com/birkenkrahe/org/blob/master/FAQ.md][Sprint review]] critique:
     How to create a *great* presentation ([[https://github.com/birkenkrahe/org/blob/master/FAQ.md#org60f0ff8][FAQ]])
   * New diary/FAQ: [[https://github.com/birkenkrahe/org/blob/master/diary.md#org835fde8][leaving Linux]]
   * Next: your [[https://github.com/birkenkrahe/ai482/blob/main/schedule.md][presentations]]:
-    1) Jacob on AI in the military
+    1) Jacob on [[https://github.com/birkenkrahe/ai482/blob/main/presentations/Sampley_Autonomous%20Drones%20in%20the%20U.S.%20Military.pdf][AI in the military]]
     2) Emma on AI in soccer
+
 
 * Week 9 - October 14
 
   #+attr_html: :width 600px
+  [[./img/sampley.png]]
+
+  * Presentation: [[https://github.com/birkenkrahe/ai482/blob/main/presentations/Sampley_Autonomous%20Drones%20in%20the%20U.S.%20Military.pdf][AI in the military]] (Jacob Sampley)
+  * Lecture: [[https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing][Machine learning basics]][fn:2]
+
+* Week 9 - October 15
+
+  #+attr_html: :width 600px
   [[./img/solo.svg]]
 
-  * Presentation: [[https://github.com/birkenkrahe/ai482/blob/main/presentations/Sampley_Autonomous%20Drones%20in%20the%20U.S.%20Military.pdf][AI in the military]]
-  * Lecture: [[https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing][Machine learning basics]]
-  
+  * Presentation: AI in soccer playing (Emma Brandes)
+  * Lecture: [[https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing][Machine learning basics]][fn:2]
+
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
@@ -330,6 +339,11 @@
   about new Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
 
 * Footnotes
+
+[fn:2]I will only give this lecture if we run out of presentations -
+either in a session (because your presentations are finished, and
+there is nothing else to discuss, or because you're all done
+presenting solo).
 
 [fn:1]"Structured group discussion" means that I'm providing a
 framework for group discussion and group results (e.g. a set of
