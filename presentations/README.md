@@ -7,6 +7,8 @@
 
 ### Solo presentation
 
+![Solo process](./img/solo.svg "Solo presentation process")
+
 This presentation is already [scheduled](https://github.com/birkenkrahe/ai482/blob/main/schedule.md) (notice that all
 presentation dates are now after Fall Break). You can pick a
 topic related to your team project, but you don't have to. The
