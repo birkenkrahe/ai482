@@ -34,7 +34,7 @@
    | 22 | Fri-8-Oct  | APPLICATIONS (team projects)                 | --OPEN CLASS--        | 2nd sprint review    |
    |----+------------+----------------------------------------------+-----------------------+----------------------|
    | 23 | Mon-11-Oct | APPLICATIONS (team projects)                 |                       | 2nd sprint review    |
-   | 24 | Wed-13-Oct | Jacob: AI in the military                    | Session Protocol (X)  |                      |
+   | 24 | Wed-13-Oct | Jacob: AI in the military                    | Protocol (MB)         |                      |
    | 25 | Fri-15-Oct | Emma: AI in soccer (player performance)      | Session Protocol (X)  |                      |
    |----+------------+----------------------------------------------+-----------------------+----------------------|
    | 26 | Mon-18-Oct | Fortunato: AI in soccer (player development) | Session Protocol (X)  |                      |
