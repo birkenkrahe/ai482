@@ -1,0 +1,76 @@
+#+TITLE:AI for Sales and Marketing
+#+AUTHOR:Marcus Birkenkrahe
+#+SUBTITLE: AI Senior Seminar Fall 2021
+#+STARTUP:overview
+#+OPTIONS:hideblocks
+#+OPTIONS: toc:nil num:nil ^:nil#+INFOJS_OPT: :view:info
+* What will you learn?
+
+  * Machine learning (ML) modeling basics
+  * Using supervised and unsupervised ML
+  * Identifying customer groups / churn / upselling
+  * Case study: using AI on electric grid data
+  * Case study: mining retail analytics with AI
+
+* ML basics
+
+  Following Mauro/Valigi (2021), we use an online real estate platform
+  as an example to illustrate how machine learning can work.
+
+  The core business problem is matching sellers and buyers. The core
+  value is the house price. We want to build a machine learning (ML)
+  model that predicts house prices based on real estate market data.
+
+  When a new house comes on the market, we want the AI to predict a
+  price based on other comparable houses. The AI computes a similarity
+  measure.
+
+  Source of all images: [[zero2ai][Mauro/Valigi, 2021]].
+  
+** Problem
+
+   Image: Machine learning problem: predict the best price for homes
+   listed on a real estate platform.
+
+   #+attr_html: :width 600px
+   [[./img/problem.png]]
+   
+** Process
+
+   Image: Machine learning phases - training, deployment,
+   inference.
+
+   #+attr_html: :width 600px
+   [[./img/ml.png]]
+
+** Data
+
+   Image: Table with features and labels for several examples.
+
+   #+attr_html: :width 600px
+   [[./img/data.png]]
+
+   Both features and labels are variables. Features are
+   given/independent, and labels are targets/dependent. The label
+   variables are what we want to predict.
+   
+** Concepts
+
+   | ML algorithm ("the AI") | Allows computers to learn from data                                  |
+   | Features                | Model input, characteristics of an object that the AI can learn from |
+   | Label                   | Model output or target we want the AI to predict                     |
+   | Training                | Phase when the AI is fed with past features to learn patterns        |
+   | Model                   | Output of the training phase, capable of making predictions          |
+   | Inference               | Phase in which the model is used with new examples                   |
+
+   Image: illustration of a supervised learning algorithm.
+
+   #+attr_html: :width 600px
+   [[./img/supervised.png]]
+   
+
+* References
+
+  <<zero2ai>> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+  hype-free guide to prospering in the AI era. Manning. [[https://www.manning.com/books/zero-to-ai][Online:
+  manning.com]].
