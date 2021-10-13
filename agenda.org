@@ -306,6 +306,14 @@
   * Next: your [[https://github.com/birkenkrahe/ai482/blob/main/schedule.md][presentations]]:
     1) Jacob on AI in the military
     2) Emma on AI in soccer
+
+* Week 9 - October 14
+
+  #+attr_html: :width 600px
+  [[./img/solo.svg]]
+
+  * Presentation: [[https://github.com/birkenkrahe/ai482/blob/main/presentations/Sampley_Autonomous%20Drones%20in%20the%20U.S.%20Military.pdf][AI in the military]]
+  * Lecture: [[https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing][Machine learning basics]]
   
 * References
 
