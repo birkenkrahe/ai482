@@ -22,7 +22,7 @@ When a new house comes on the market, we want the AI to predict a
 price based on other comparable houses. The AI computes a similarity
 measure.
 
-Source of all images: [Mauro/Valigi, 2021](#org2eb8f9b).
+Source of all images: [Mauro/Valigi, 2021](#orgc0e1099).
 
 
 ## Problem
@@ -50,6 +50,21 @@ Image: Table with features and labels for several examples.
 Both features and labels are variables. Features are
 given/independent, and labels are targets/dependent. The label
 variables are what we want to predict.
+
+![img](./img/data1.png)
+
+The available data is split into training and test sets. The
+training data is used to make the model learn, and the test data is
+used to test the model on unknown data, simulating the real-world
+application.
+
+
+## Programming
+
+How does this kind of program relate to traditional rule-based
+programming?
+
+![img](./img/programming.png)
 
 
 ## Concepts
@@ -97,17 +112,37 @@ variables are what we want to predict.
 <td class="org-left">Inference</td>
 <td class="org-left">Phase in which the model is used with new examples</td>
 </tr>
+
+
+<tr>
+<td class="org-left">Training data</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Test data</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 </tbody>
 </table>
 
 Image: illustration of a supervised learning algorithm.
 
-![img](./img/supervised.png)
+![img](./img/supervised.png)  
+
+
+## Discussion
+
+-   How does machine learning relate to the "intelligent agents"
+    concept?
+-   What do you think are the advantages and disadvantages of this
+    approach?
 
 
 # References
 
-<a id="org2eb8f9b"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="orgc0e1099"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
