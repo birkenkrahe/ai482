@@ -3,12 +3,12 @@
 #+Subtitle: Seminar on Artificial Intelligence
 #+OPTIONS: toc:nil num:nil ^:nil
 #+INFOJS_OPT: :view:info
-
+* Preamble
 As always, this framework presentation will be fully equipped with
 more material after the live classroom session on Oct 6, 2021.
 
-* Protocol anyone?
-* Whiteboard photos
+  * Protocol anyone?
+  * Whiteboard photos
 
 * What will you learn?
 
