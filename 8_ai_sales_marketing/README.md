@@ -3,10 +3,10 @@
 # What will you learn?
 
 -   Machine learning (ML) modeling basics
--   Using supervised and unsupervised ML
--   Identifying customer groups / churn / upselling
--   Case study: using AI on electric grid data
--   Case study: mining retail analytics with AI
+-   <del>Using supervised and unsupervised ML</del>
+-   <del>Identifying customer groups / churn / upselling</del>
+-   <del>Case study: using AI on electric grid data</del>
+-   <del>Case study: mining retail analytics with AI</del>
 
 
 # ML basics
@@ -22,7 +22,7 @@ When a new house comes on the market, we want the AI to predict a
 price based on other comparable houses. The AI computes a similarity
 measure.
 
-Source of all images: [Mauro/Valigi, 2021](#orgcdddb2b).
+Source of all images: [Mauro/Valigi, 2021](#org2eb8f9b).
 
 
 ## Problem
@@ -107,7 +107,7 @@ Image: illustration of a supervised learning algorithm.
 
 # References
 
-<a id="orgcdddb2b"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="org2eb8f9b"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
