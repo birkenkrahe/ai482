@@ -1,4 +1,5 @@
 #+startup: overview
+#+options: toc:nil
 * Presentations (solo + team)
 
 *** Team vs. Solo, Presentation vs. AI Application Project

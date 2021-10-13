@@ -1,18 +1,7 @@
 
-# Table of Contents
-
-1.  [Presentations (solo + team)](#org9abc6f5)
-        1.  [Team vs. Solo, Presentation vs. AI Application Project](#orgc179917)
-        2.  [Topic submissions feedback and next steps](#org5db61b5)
-
-
-
-<a id="org9abc6f5"></a>
 
 # Presentations (solo + team)
 
-
-<a id="orgc179917"></a>
 
 ### Team vs. Solo, Presentation vs. AI Application Project
 
@@ -54,8 +43,6 @@
     a Kanban board, delegate tasks etc. Such a tool is more useful if
     you work in a team. Check it out!
 
-
-<a id="org5db61b5"></a>
 
 ### Topic submissions feedback and next steps
 
