@@ -1,19 +1,19 @@
 
 # Table of Contents
 
-1.  [Session Protocols](#org19ea94f)
-2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#orgac6e98e)
+1.  [Session Protocols](#org5c9eda6)
+2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#org0105a15)
 
 
 
-<a id="org19ea94f"></a>
+<a id="org5c9eda6"></a>
 
 # Session Protocols
 
 Post your protocol here. Take a look at [my example protocol](https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/protocol_23_aug.md).
 
 
-<a id="orgac6e98e"></a>
+<a id="org0105a15"></a>
 
 # AI in the military (Jacob Sampley, 13-Oct-2021)
 
