@@ -53,7 +53,23 @@
    Both features and labels are variables. Features are
    given/independent, and labels are targets/dependent. The label
    variables are what we want to predict.
+
+   #+attr_html: :width 600px
+   [[./img/data1.png]]
+
+   The available data is split into training and test sets. The
+   training data is used to make the model learn, and the test data is
+   used to test the model on unknown data, simulating the real-world
+   application.
    
+** Programming
+
+   How does this kind of program relate to traditional rule-based
+   programming?
+
+   #+attr_html: :width 600px
+   [[./img/programming.png]]
+
 ** Concepts
 
    | ML algorithm ("the AI") | Allows computers to learn from data                                  |
@@ -62,13 +78,21 @@
    | Training                | Phase when the AI is fed with past features to learn patterns        |
    | Model                   | Output of the training phase, capable of making predictions          |
    | Inference               | Phase in which the model is used with new examples                   |
+   | Training data           |                                                                      |
+   | Test data               |                                                                      |
 
    Image: illustration of a supervised learning algorithm.
 
    #+attr_html: :width 600px
-   [[./img/supervised.png]]
-   
+   [[./img/supervised.png]]  
 
+** Discussion
+
+   * How does machine learning relate to the "intelligent agents"
+     concept?
+   * What do you think are the advantages and disadvantages of this
+     approach?
+   
 * References
 
   <<zero2ai>> Mauro/Valigi (2021). Zero to AI - a nontechnical,
