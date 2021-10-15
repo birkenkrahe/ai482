@@ -254,7 +254,7 @@
 <tr>
 <td class="org-right">24</td>
 <td class="org-left">Wed-13-Oct</td>
-<td class="org-left">Jacob: AI in the military</td>
+<td class="org-left"><del>Jacob: AI in the military</del></td>
 <td class="org-left">Protocol (MB)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -263,8 +263,8 @@
 <tr>
 <td class="org-right">25</td>
 <td class="org-left">Fri-15-Oct</td>
-<td class="org-left">Emma: AI in soccer (player performance)</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left"><del>Emma: AI in soccer (player performance)</del></td>
+<td class="org-left">Protocol (MB)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -273,7 +273,7 @@
 <tr>
 <td class="org-right">26</td>
 <td class="org-left">Mon-18-Oct</td>
-<td class="org-left">Fortunato: AI in soccer (player development)</td>
+<td class="org-left">Machine learning (ML) basics (MB)</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -301,7 +301,7 @@
 <tr>
 <td class="org-right">28</td>
 <td class="org-left">Mon-25-Oct</td>
-<td class="org-left">Amber McClurg</td>
+<td class="org-left">ML: Predicting churning customers (MB)</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -310,7 +310,7 @@
 <tr>
 <td class="org-right">29</td>
 <td class="org-left">Wed-27-Oct</td>
-<td class="org-left">Malcolm Howard</td>
+<td class="org-left">Malcolm Howard: How AI has improved player health</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -319,7 +319,7 @@
 <tr>
 <td class="org-right">30</td>
 <td class="org-left">Fri-29-Oct</td>
-<td class="org-left">Nick Norwood</td>
+<td class="org-left">Fortunato: AI in soccer (player development)</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -329,7 +329,7 @@
 <tr>
 <td class="org-right">31</td>
 <td class="org-left">Mon-1-Nov</td>
-<td class="org-left">Wyatt Frerichs</td>
+<td class="org-left">ML: Using AI to boost conversion rates (MB)</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -338,7 +338,7 @@
 <tr>
 <td class="org-right">32</td>
 <td class="org-left">Wed-3-Nov</td>
-<td class="org-left">TBD (MB)</td>
+<td class="org-left">Wyatt Frerichs:?</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -375,7 +375,7 @@
 <tr>
 <td class="org-right">36</td>
 <td class="org-left">Fri-12-Nov</td>
-<td class="org-left">TBD (MB)</td>
+<td class="org-left">Amber McClurg:?</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -385,7 +385,7 @@
 <tr>
 <td class="org-right">37</td>
 <td class="org-left">Mon-15-Nov</td>
-<td class="org-left">TBD (MB)</td>
+<td class="org-left">ML: Performing automated customer segmentation (MB)</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -403,7 +403,7 @@
 <tr>
 <td class="org-right">39</td>
 <td class="org-left">Fri-19-Nov</td>
-<td class="org-left">TBD (MB)</td>
+<td class="org-left">Nick Norwood:?</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -413,7 +413,7 @@
 <tr>
 <td class="org-right">40</td>
 <td class="org-left">22-Nov</td>
-<td class="org-left">TBD (MB)</td>
+<td class="org-left">ML: measuring algorithm performance (MB)</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
