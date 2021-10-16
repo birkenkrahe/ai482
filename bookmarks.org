@@ -111,7 +111,6 @@
    /I read this in the library and thought it was very interesting, with lots of potential for clarification. The article is very short and focuses mainly on the commercial and market issues. In some
    ways, this is a typical startup story./
 
-
 ** Gaussian kernel machines (Lvl=1)
 
    Shmahalo O (11 Oct 2021). A New Link to an Old Model Could Crack
@@ -128,3 +127,22 @@
    /Part of what interests me here is that I have never heard of
    "Gauss kernel machines" - the article does a fairly good job of
    explaining the necessary mathematical connections./
+
+** Cells Form Into ‘Xenobots’ on Their Own (Lvl=0)
+
+   Ball, P (March 31, 2021). Cells form into 'Xenobots' on their
+   own. [[https://www.quantamagazine.org/cells-form-into-xenobots-on-their-own-20210331/][Online: Quanta Magazine.]]
+
+   #+begin_quote
+   Embryonic cells can self-assemble into new living forms that don’t
+   resemble the bodies they usually generate, challenging old ideas of
+   what defines an organism. [...] The team dubbed these structures
+   xenobots. While the prefix was derived from the Latin name of the
+   African clawed frogs (Xenopus laevis) that supplied the cells, it
+   also seemed fitting because of its relation to xenos, the ancient
+   Greek for “strange.” These were indeed strange living robots: tiny
+   masterpieces of cell craft fashioned by human design. And they
+   hinted at how cells might be persuaded to develop new collective
+   goals and assume shapes totally unlike those that normally develop
+   from an embryo."
+   #+end_quote

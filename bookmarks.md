@@ -1,23 +1,24 @@
 
 # Table of Contents
 
-1.  [Bookmarks](#org4c448d5)
-    1.  [What is this about?](#org8a01992)
-    2.  [Machine Learning's crumbling foundations (Lvl=0)](#org5fc6ed7)
-    3.  [AI explainability (Lvl=1)](#org2ec7bff)
-    4.  [Use of AI in smart buildings (LvL=2)](#org2dc99cb)
-    5.  [Computing Machinery and Intelligence (1947) (Lvl=1)](#orgc71213f)
-    6.  [AI Trends 2021 (Lvl=1)](#org3b2de67)
-    7.  [Bot Doc (Lvl=0)](#org34abf86)
-    8.  [Gaussian kernel machines (Lvl=1)](#org5f2c745)
+1.  [Bookmarks](#org048a0bf)
+    1.  [What is this about?](#org566dfc9)
+    2.  [Machine Learning's crumbling foundations (Lvl=0)](#orgaeecc8d)
+    3.  [AI explainability (Lvl=1)](#orgc1fde5c)
+    4.  [Use of AI in smart buildings (LvL=2)](#orgc3c5725)
+    5.  [Computing Machinery and Intelligence (1947) (Lvl=1)](#org41b5d8b)
+    6.  [AI Trends 2021 (Lvl=1)](#orgd63aa90)
+    7.  [Bot Doc (Lvl=0)](#org6fb80c6)
+    8.  [Gaussian kernel machines (Lvl=1)](#orgafb129a)
+    9.  [Cells Form Into ‘Xenobots’ on Their Own (Lvl=0)](#orgbf325c0)
 
 
-<a id="org4c448d5"></a>
+<a id="org048a0bf"></a>
 
 # Bookmarks
 
 
-<a id="org8a01992"></a>
+<a id="org566dfc9"></a>
 
 ## What is this about?
 
@@ -36,7 +37,7 @@ you find any of these interesting and want to use them for your
 research, you might ask me why I assigned a particular level.
 
 
-<a id="org5fc6ed7"></a>
+<a id="orgaeecc8d"></a>
 
 ## Machine Learning's crumbling foundations (Lvl=0)
 
@@ -51,7 +52,7 @@ foundations. Doing 'data science' with bad data [Blog]. Online:
 > frameworks.«
 
 
-<a id="org2ec7bff"></a>
+<a id="orgc1fde5c"></a>
 
 ## AI explainability (Lvl=1)
 
@@ -66,7 +67,7 @@ dimensions. In: Phil. Trans. R. Soc. A 379: 20200363.
 > confidence, in critical systems employing ML.«
 
 
-<a id="org2dc99cb"></a>
+<a id="orgc3c5725"></a>
 
 ## Use of AI in smart buildings (LvL=2)
 
@@ -88,7 +89,7 @@ Reviews 151. <https://doi.org/10.1016/j.rser.2021.111530>
 > artificial intelligence techniques.«
 
 
-<a id="orgc71213f"></a>
+<a id="org41b5d8b"></a>
 
 ## Computing Machinery and Intelligence (1947) (Lvl=1)
 
@@ -104,7 +105,7 @@ Reviews 151. <https://doi.org/10.1016/j.rser.2021.111530>
 > statistical survey such as a Gallup poll. But this is absurd.«
 
 
-<a id="org3b2de67"></a>
+<a id="orgd63aa90"></a>
 
 ## AI Trends 2021 (Lvl=1)
 
@@ -123,7 +124,7 @@ Intelligence (2021). AI Index Report. [Online: aiindex.stanford.edu.](https://ai
 > significant spikes in attendance."
 
 
-<a id="org34abf86"></a>
+<a id="org6fb80c6"></a>
 
 ## Bot Doc (Lvl=0)
 
@@ -138,7 +139,7 @@ Feldman A/Pratap A (2021). Bot Doc. In: Forbes, August/September
 ways, this is a typical startup story.*
 
 
-<a id="org5f2c745"></a>
+<a id="orgafb129a"></a>
 
 ## Gaussian kernel machines (Lvl=1)
 
@@ -154,4 +155,24 @@ the Mystery of Deep Learning. [Online: Quanta Magazine](https://www.quantamagazi
 /Part of what interests me here is that I have never heard of
 "Gauss kernel machines" - the article does a fairly good job of
 explaining the necessary mathematical connections./
+
+
+<a id="orgbf325c0"></a>
+
+## Cells Form Into ‘Xenobots’ on Their Own (Lvl=0)
+
+Ball, P (March 31, 2021). Cells form into 'Xenobots' on their
+own. [Online: Quanta Magazine.](https://www.quantamagazine.org/cells-form-into-xenobots-on-their-own-20210331/)
+
+> Embryonic cells can self-assemble into new living forms that don’t
+> resemble the bodies they usually generate, challenging old ideas of
+> what defines an organism. [&#x2026;] The team dubbed these structures
+> xenobots. While the prefix was derived from the Latin name of the
+> African clawed frogs (Xenopus laevis) that supplied the cells, it
+> also seemed fitting because of its relation to xenos, the ancient
+> Greek for “strange.” These were indeed strange living robots: tiny
+> masterpieces of cell craft fashioned by human design. And they
+> hinted at how cells might be persuaded to develop new collective
+> goals and assume shapes totally unlike those that normally develop
+> from an embryo."
 
