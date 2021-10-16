@@ -1,22 +1,23 @@
 
 # Table of Contents
 
-1.  [Bookmarks](#orged40c23)
-    1.  [What is this about?](#org6861b2e)
-    2.  [Machine Learning's crumbling foundations (Lvl=0)](#org84a32e0)
-    3.  [AI explainability (Lvl=1)](#orgd679df5)
-    4.  [Use of AI in smart buildings (LvL=2)](#orge0d8d90)
-    5.  [Computing Machinery and Intelligence (1947) (Lvl=1)](#orgc73e429)
-    6.  [AI Trends 2021 (Lvl=1)](#org511fe3c)
-    7.  [Bot Doc (Lvl=0)](#org16c415e)
+1.  [Bookmarks](#org4c448d5)
+    1.  [What is this about?](#org8a01992)
+    2.  [Machine Learning's crumbling foundations (Lvl=0)](#org5fc6ed7)
+    3.  [AI explainability (Lvl=1)](#org2ec7bff)
+    4.  [Use of AI in smart buildings (LvL=2)](#org2dc99cb)
+    5.  [Computing Machinery and Intelligence (1947) (Lvl=1)](#orgc71213f)
+    6.  [AI Trends 2021 (Lvl=1)](#org3b2de67)
+    7.  [Bot Doc (Lvl=0)](#org34abf86)
+    8.  [Gaussian kernel machines (Lvl=1)](#org5f2c745)
 
 
-<a id="orged40c23"></a>
+<a id="org4c448d5"></a>
 
 # Bookmarks
 
 
-<a id="org6861b2e"></a>
+<a id="org8a01992"></a>
 
 ## What is this about?
 
@@ -35,7 +36,7 @@ you find any of these interesting and want to use them for your
 research, you might ask me why I assigned a particular level.
 
 
-<a id="org84a32e0"></a>
+<a id="org5fc6ed7"></a>
 
 ## Machine Learning's crumbling foundations (Lvl=0)
 
@@ -50,7 +51,7 @@ foundations. Doing 'data science' with bad data [Blog]. Online:
 > frameworks.«
 
 
-<a id="orgd679df5"></a>
+<a id="org2ec7bff"></a>
 
 ## AI explainability (Lvl=1)
 
@@ -65,7 +66,7 @@ dimensions. In: Phil. Trans. R. Soc. A 379: 20200363.
 > confidence, in critical systems employing ML.«
 
 
-<a id="orge0d8d90"></a>
+<a id="org2dc99cb"></a>
 
 ## Use of AI in smart buildings (LvL=2)
 
@@ -87,7 +88,7 @@ Reviews 151. <https://doi.org/10.1016/j.rser.2021.111530>
 > artificial intelligence techniques.«
 
 
-<a id="orgc73e429"></a>
+<a id="orgc71213f"></a>
 
 ## Computing Machinery and Intelligence (1947) (Lvl=1)
 
@@ -103,7 +104,7 @@ Reviews 151. <https://doi.org/10.1016/j.rser.2021.111530>
 > statistical survey such as a Gallup poll. But this is absurd.«
 
 
-<a id="org511fe3c"></a>
+<a id="org3b2de67"></a>
 
 ## AI Trends 2021 (Lvl=1)
 
@@ -122,7 +123,7 @@ Intelligence (2021). AI Index Report. [Online: aiindex.stanford.edu.](https://ai
 > significant spikes in attendance."
 
 
-<a id="org16c415e"></a>
+<a id="org34abf86"></a>
 
 ## Bot Doc (Lvl=0)
 
@@ -135,4 +136,22 @@ Feldman A/Pratap A (2021). Bot Doc. In: Forbes, August/September
 
 *I read this in the library and thought it was very interesting, with lots of potential for clarification. The article is very short and focuses mainly on the commercial and market issues. In some
 ways, this is a typical startup story.*
+
+
+<a id="org5f2c745"></a>
+
+## Gaussian kernel machines (Lvl=1)
+
+Shmahalo O (11 Oct 2021). A New Link to an Old Model Could Crack
+the Mystery of Deep Learning. [Online: Quanta Magazine](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/).
+
+> "Idealized versions of these powerful [deep learning] networks are
+> mathematically equivalent to older, simpler machine learning models
+> called kernel machines. If this equivalence can be extended beyond
+> idealized neural networks, it may explain how practical ANNs
+> achieve their astonishing results."
+
+/Part of what interests me here is that I have never heard of
+"Gauss kernel machines" - the article does a fairly good job of
+explaining the necessary mathematical connections./
 
