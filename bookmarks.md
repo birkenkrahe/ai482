@@ -1,24 +1,24 @@
 
 # Table of Contents
 
-1.  [Bookmarks](#org048a0bf)
-    1.  [What is this about?](#org566dfc9)
-    2.  [Machine Learning's crumbling foundations (Lvl=0)](#orgaeecc8d)
-    3.  [AI explainability (Lvl=1)](#orgc1fde5c)
-    4.  [Use of AI in smart buildings (LvL=2)](#orgc3c5725)
-    5.  [Computing Machinery and Intelligence (1947) (Lvl=1)](#org41b5d8b)
-    6.  [AI Trends 2021 (Lvl=1)](#orgd63aa90)
-    7.  [Bot Doc (Lvl=0)](#org6fb80c6)
-    8.  [Gaussian kernel machines (Lvl=1)](#orgafb129a)
-    9.  [Cells Form Into ‘Xenobots’ on Their Own (Lvl=0)](#orgbf325c0)
+1.  [Bookmarks](#org377f1f2)
+    1.  [What is this about?](#orged4b031)
+    2.  [Machine Learning's crumbling foundations (Lvl=0)](#org7269acf)
+    3.  [AI explainability (Lvl=1)](#orge9c11e5)
+    4.  [Use of AI in smart buildings (LvL=2)](#orgc34dd10)
+    5.  [Computing Machinery and Intelligence (1947) (Lvl=1)](#org5da159e)
+    6.  [AI Trends 2021 (Lvl=1)](#org9bf9471)
+    7.  [Bot Doc (Lvl=0)](#orgab21527)
+    8.  [Gaussian kernel machines (Lvl=1)](#org647c23f)
+    9.  [Cells Form Into ‘Xenobots’ on Their Own (Lvl=0)](#org8313c73)
 
 
-<a id="org048a0bf"></a>
+<a id="org377f1f2"></a>
 
 # Bookmarks
 
 
-<a id="org566dfc9"></a>
+<a id="orged4b031"></a>
 
 ## What is this about?
 
@@ -37,7 +37,7 @@ you find any of these interesting and want to use them for your
 research, you might ask me why I assigned a particular level.
 
 
-<a id="orgaeecc8d"></a>
+<a id="org7269acf"></a>
 
 ## Machine Learning's crumbling foundations (Lvl=0)
 
@@ -52,7 +52,7 @@ foundations. Doing 'data science' with bad data [Blog]. Online:
 > frameworks.«
 
 
-<a id="orgc1fde5c"></a>
+<a id="orge9c11e5"></a>
 
 ## AI explainability (Lvl=1)
 
@@ -67,7 +67,7 @@ dimensions. In: Phil. Trans. R. Soc. A 379: 20200363.
 > confidence, in critical systems employing ML.«
 
 
-<a id="orgc3c5725"></a>
+<a id="orgc34dd10"></a>
 
 ## Use of AI in smart buildings (LvL=2)
 
@@ -89,7 +89,7 @@ Reviews 151. <https://doi.org/10.1016/j.rser.2021.111530>
 > artificial intelligence techniques.«
 
 
-<a id="org41b5d8b"></a>
+<a id="org5da159e"></a>
 
 ## Computing Machinery and Intelligence (1947) (Lvl=1)
 
@@ -105,7 +105,7 @@ Reviews 151. <https://doi.org/10.1016/j.rser.2021.111530>
 > statistical survey such as a Gallup poll. But this is absurd.«
 
 
-<a id="orgd63aa90"></a>
+<a id="org9bf9471"></a>
 
 ## AI Trends 2021 (Lvl=1)
 
@@ -124,7 +124,7 @@ Intelligence (2021). AI Index Report. [Online: aiindex.stanford.edu.](https://ai
 > significant spikes in attendance."
 
 
-<a id="org6fb80c6"></a>
+<a id="orgab21527"></a>
 
 ## Bot Doc (Lvl=0)
 
@@ -139,7 +139,7 @@ Feldman A/Pratap A (2021). Bot Doc. In: Forbes, August/September
 ways, this is a typical startup story.*
 
 
-<a id="orgafb129a"></a>
+<a id="org647c23f"></a>
 
 ## Gaussian kernel machines (Lvl=1)
 
@@ -157,7 +157,7 @@ the Mystery of Deep Learning. [Online: Quanta Magazine](https://www.quantamagazi
 explaining the necessary mathematical connections./
 
 
-<a id="orgbf325c0"></a>
+<a id="org8313c73"></a>
 
 ## Cells Form Into ‘Xenobots’ on Their Own (Lvl=0)
 
