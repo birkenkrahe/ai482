@@ -111,3 +111,20 @@
    /I read this in the library and thought it was very interesting, with lots of potential for clarification. The article is very short and focuses mainly on the commercial and market issues. In some
    ways, this is a typical startup story./
 
+
+** Gaussian kernel machines (Lvl=1)
+
+   Shmahalo O (11 Oct 2021). A New Link to an Old Model Could Crack
+   the Mystery of Deep Learning. [[https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/][Online: Quanta Magazine]].
+
+   #+begin_quote
+   "Idealized versions of these powerful [deep learning] networks are
+   mathematically equivalent to older, simpler machine learning models
+   called kernel machines. If this equivalence can be extended beyond
+   idealized neural networks, it may explain how practical ANNs
+   achieve their astonishing results."
+   #+end_quote
+
+   /Part of what interests me here is that I have never heard of
+   "Gauss kernel machines" - the article does a fairly good job of
+   explaining the necessary mathematical connections./
