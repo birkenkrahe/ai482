@@ -29,11 +29,13 @@
   
 ** Problem
 
-   Image: Machine learning problem: predict the best price for homes
-   listed on a real estate platform.
+   The machine learning problem - predict the best price for homes
+   listed on a real estate platform. /Image: purchasing process./
 
    #+attr_html: :width 600px
    [[./img/problem.png]]
+
+   /Which other *problems* suited for ML do you know?/[fn:1]
    
 ** Process
 
@@ -43,24 +45,33 @@
    #+attr_html: :width 600px
    [[./img/ml.png]]
 
+   /Is this an *agile* process? Why or why not?/
+
 ** Data
 
-   Image: Table with features and labels for several examples.
+   Though the availability of data ("Big Data") drives much of the ML
+   development, the basic data format and the way the data are used to
+   establish ML models, are well known and have long been in use.
+   
+*** Data format   
+    Image: Table with features and labels for several examples.
 
-   #+attr_html: :width 600px
-   [[./img/data.png]]
+    #+attr_html: :width 600px
+    [[./img/data.png]]
 
-   Both features and labels are variables. Features are
-   given/independent, and labels are targets/dependent. The label
-   variables are what we want to predict.
+    Both features and labels are variables. Features are
+    given/independent, and labels are targets/dependent. The label
+    variables are what we want to predict.
 
-   #+attr_html: :width 600px
-   [[./img/data1.png]]
+*** Data use    
 
-   The available data is split into training and test sets. The
-   training data is used to make the model learn, and the test data is
-   used to test the model on unknown data, simulating the real-world
-   application.
+    #+attr_html: :width 600px
+     [[./img/data1.png]]
+
+     The available data is split into training and test sets. The
+     training data is used to make the model learn, and the test data is
+     used to test the model on unknown data, simulating the real-world
+     application.
    
 ** Programming
 
@@ -78,8 +89,8 @@
    | Training                | Phase when the AI is fed with past features to learn patterns        |
    | Model                   | Output of the training phase, capable of making predictions          |
    | Inference               | Phase in which the model is used with new examples                   |
-   | Training data           |                                                                      |
-   | Test data               |                                                                      |
+   | Training data           | Data used to create the model ("learning")                           |
+   | Test data               | Data used to apply the model ("production")                          |
 
    Image: illustration of a supervised learning algorithm.
 
@@ -92,9 +103,20 @@
      concept?
    * What do you think are the advantages and disadvantages of this
      approach?
+   * Do you recognize these concepts in your own AI application
+     (solo presentation or team project)? Does ML play a role here?
+     Which one?
    
 * References
 
   <<zero2ai>> Mauro/Valigi (2021). Zero to AI - a nontechnical,
   hype-free guide to prospering in the AI era. Manning. [[https://www.manning.com/books/zero-to-ai][Online:
   manning.com]].
+
+* Footnotes
+
+[fn:1](1) Predicting final grades from midterm and other student
+performance data. (2) Predicting how much/which products a customer
+will buy depending on his purchasing history. (3) Predicting if a
+customer will buy or bail. (3) Predicting if email is spam or not. (4)
+Predicting if an image is a cat or dog (or neither).

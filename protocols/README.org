@@ -61,7 +61,7 @@
      performance (beyond the commercial hype)
   3) a little more *technical* insight - what exactly is AI here? One
      could e.g. apply models that we have already learnt about, like
-     PEAS for intelligent agents. Are these intelligent agents?
+     PEAS for intelligent agents. Are these intelligent agents? 
   4) *References* ought to include video and image material
   
 * Footnotes
