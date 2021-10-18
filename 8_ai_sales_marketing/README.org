@@ -122,6 +122,9 @@
   hype-free guide to prospering in the AI era. Manning. [[https://www.manning.com/books/zero-to-ai][Online:
   manning.com]].
 
+  <<ng>> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+  Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY][Online: youtube.com]].
+ 
   <<aima>> Russel/Norvig (2021). AI a Modern Approach 4th
   ed. Pearson. [[http://aima.cs.berkeley.edu/][Online: aima.cs.berkeley.edu.]]
 
@@ -143,7 +146,9 @@ production systems is the model itself. What turns a collection of
 machine learning solutions into an end-to-end machine learning
 platform is an architecture that embraces technologies designed to
 speed up modelling, automate the deployment, and ensure scalability
-and reliability in production." ([[mlops][Hellstrom, 2020]])
+and reliability in production." ([[mlops][Hellstrom, 2020]]) All of the other
+items mentioned form part of the "MLOps" challenge that Andrew Ng also
+mentioned ([[ng][Ng, 2020]]).
 
 [fn:1](1) Predicting final grades from midterm and other student
 performance data. (2) Predicting how much/which products a customer
