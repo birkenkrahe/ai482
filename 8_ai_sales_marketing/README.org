@@ -14,6 +14,9 @@
 
 * ML basics
 
+  #+attr_html: :width 300px
+  [[./img/cover.jpeg]]
+  
   Following Mauro/Valigi (2021), we use an online real estate platform
   as an example to illustrate how machine learning can work.
 
@@ -99,6 +102,8 @@
 
 ** Discussion
 
+   [[./img/discussion.gif]]
+   
    * How does machine learning relate to the "intelligent agents"
      concept?
    * What do you think are the advantages and disadvantages of this

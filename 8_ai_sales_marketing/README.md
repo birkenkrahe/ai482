@@ -11,6 +11,8 @@
 
 # ML basics
 
+![img](./img/cover.jpeg)
+
 Following Mauro/Valigi (2021), we use an online real estate platform
 as an example to illustrate how machine learning can work.
 
@@ -22,7 +24,7 @@ When a new house comes on the market, we want the AI to predict a
 price based on other comparable houses. The AI computes a similarity
 measure.
 
-Source of all images: [Mauro/Valigi, 2021](#org0bdce9c).
+Source of all images: [Mauro/Valigi, 2021](#orgd7e39c8).
 
 
 ## Problem
@@ -148,6 +150,8 @@ Image: illustration of a supervised learning algorithm.
 
 ## Discussion
 
+![img](./img/discussion.gif)
+
 -   How does machine learning relate to the "intelligent agents"
     concept?
 -   What do you think are the advantages and disadvantages of this
@@ -159,7 +163,7 @@ Image: illustration of a supervised learning algorithm.
 
 # References
 
-<a id="org0bdce9c"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="orgd7e39c8"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
