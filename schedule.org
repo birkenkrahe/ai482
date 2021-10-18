@@ -47,9 +47,9 @@
    |----+------------+-----------------------------------------------------+-----------------------+----------------------|
    | 31 | Mon-1-Nov  | ML: Using AI to boost conversion rates (MB)         | Session Protocol (X)  |                      |
    | 32 | Wed-3-Nov  | Wyatt Frerichs:?                                    | Session Protocol (X)  |                      |
-   | 33 | Fri-5-Nov  | APPLICATIONS                                        | Session Protocol (X)  | 3rd sprint review    |
+   | 33 | Fri-5-Nov  | APPLICATIONS                                        |                       | 3rd sprint review    |
    |----+------------+-----------------------------------------------------+-----------------------+----------------------|
-   | 34 | Mon-8-Nov  | APPLICATIONS                                        | Session Protocol (X)  |                      |
+   | 34 | Mon-8-Nov  | APPLICATIONS                                        |                       |                      |
    | 35 | Wed-10-Nov | Spencer: Defining Intelligence                      | Session Protocol (X)  |                      |
    | 36 | Fri-12-Nov | Amber McClurg:?                                     | Session Protocol (X)  |                      |
    |----+------------+-----------------------------------------------------+-----------------------+----------------------|
@@ -66,5 +66,6 @@
    | 43 | 3-Dec      | PROJECT PRESENTATIONS & Course closing              |                       | 4th sprint review    |
    |----+------------+-----------------------------------------------------+-----------------------+----------------------|
 
-   (X) = Extra credit
+   (X) = Extra credit (5% or 5 points out of 100 available for
+   participation in the 2nd part of term)
 

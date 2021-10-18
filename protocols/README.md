@@ -1,19 +1,20 @@
 
 # Table of Contents
 
-1.  [Session Protocols](#org4e39316)
-2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#org8c0aa28)
+1.  [Session Protocols](#org80f3467)
+2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#orgfbb795f)
+3.  [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](#orgea992cb)
 
 
 
-<a id="org4e39316"></a>
+<a id="org80f3467"></a>
 
 # Session Protocols
 
 Post your protocol here. Take a look at [my example protocol](https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/protocol_23_aug.md).
 
 
-<a id="org8c0aa28"></a>
+<a id="orgfbb795f"></a>
 
 # AI in the military (Jacob Sampley, 13-Oct-2021)
 
@@ -53,6 +54,31 @@ I really enjoyed it - I'm only sorry that I talked so much. You
 opened that Pandora box when you permitted questions
 throughout. Hope that others will ask more questions in future
 presentations!
+
+
+<a id="orgea992cb"></a>
+
+# AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)
+
+Emma presented really interesting, current examples, compared them
+and gave us a timeline for these performance and player
+performance-oriented applications. She gathered primary data (from
+team mates and from her own experience). Excellent amount of
+material for session and discussion. The discussion focused on the
+actual advantage of these applications for the player, and on the
+potential loss of playing skills through data overload. Really
+enjoyed the illustration through devices brought to class and
+through the video selection.
+
+Points of improvement:
+
+1.  when talking stats, **show** some stats (numbers, tables etc.)
+2.  give a better idea on how these devices yield better player
+    performance (beyond the commercial hype)
+3.  a little more **technical** insight - what exactly is AI here? One
+    could e.g. apply models that we have already learnt about, like
+    PEAS for intelligent agents. Are these intelligent agents?
+4.  **References** ought to include video and image material
 
 
 # Footnotes

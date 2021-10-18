@@ -348,7 +348,7 @@
 <td class="org-right">33</td>
 <td class="org-left">Fri-5-Nov</td>
 <td class="org-left">APPLICATIONS</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">3rd sprint review</td>
 </tr>
 </tbody>
@@ -358,7 +358,7 @@
 <td class="org-right">34</td>
 <td class="org-left">Mon-8-Nov</td>
 <td class="org-left">APPLICATIONS</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -466,5 +466,6 @@
 </tbody>
 </table>
 
-(X) = Extra credit
+(X) = Extra credit (5% or 5 points out of 100 available for
+participation in the 2nd part of term)
 
