@@ -24,7 +24,7 @@ When a new house comes on the market, we want the AI to predict a
 price based on other comparable houses. The AI computes a similarity
 measure.
 
-Source of all images: [Mauro/Valigi, 2021](#orgd7e39c8).
+Source of all images: [Mauro/Valigi, 2021](#org1c34904).
 
 
 ## Problem
@@ -78,7 +78,7 @@ application.
 ## Programming
 
 How does this kind of program relate to traditional rule-based
-programming?
+programming?<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 
 ![img](./img/programming.png)
 
@@ -138,24 +138,30 @@ programming?
 
 <tr>
 <td class="org-left">Test data</td>
-<td class="org-left">Data used to apply the model ("production")</td>
+<td class="org-left">Data used to test the model</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Production data</td>
+<td class="org-left">Data used to run the model in the field ("deployed")</td>
 </tr>
 </tbody>
 </table>
 
 Image: illustration of a supervised learning algorithm.
 
-![img](./img/supervised.png)  
+![img](./img/supervised.png)
 
 
 ## Discussion
 
 ![img](./img/discussion.gif)
 
--   How does machine learning relate to the "intelligent agents"
-    concept?
--   What do you think are the advantages and disadvantages of this
-    approach?
+-   How does machine learning relate to the **"intelligent agents"**
+    concept (as in [AIMA](#org447b442))?<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
+-   What do you think are the **advantages** and **disadvantages** of
+    this approach?<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>
 -   Do you recognize these concepts in your own AI application
     (solo presentation or team project)? Does ML play a role here?
     Which one?
@@ -163,9 +169,15 @@ Image: illustration of a supervised learning algorithm.
 
 # References
 
-<a id="orgd7e39c8"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="orgb28993d"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
+Learning Platforms [Blog]. [Online: databaseline.tech.](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
+
+<a id="org1c34904"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
+
+<a id="org447b442"></a> Russel/Norvig (2021). AI a Modern Approach 4th
+ed. Pearson. [Online: aima.cs.berkeley.edu.](http://aima.cs.berkeley.edu/)
 
 
 # Footnotes
@@ -175,3 +187,20 @@ performance data. (2) Predicting how much/which products a customer
 will buy depending on his purchasing history. (3) Predicting if a
 customer will buy or bail. (3) Predicting if email is spam or not. (4)
 Predicting if an image is a cat or dog (or neither).
+
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> "As little as 5% of the actual code for machine learning
+production systems is the model itself. What turns a collection of
+machine learning solutions into an end-to-end machine learning
+platform is an architecture that embraces technologies designed to
+speed up modelling, automate the deployment, and ensure scalability
+and reliability in production." ([Hellstrom, 2020](#orgb28993d))
+
+<sup><a id="fn.3" href="#fnr.3">3</a></sup> The relationship between AI and ML is briefly explained in AIMA
+at the start. Part V of the book deals exclusively with machine
+learning. The distinctions (data science, AI, machine learning) are
+not precise at all though.
+
+<sup><a id="fn.4" href="#fnr.4">4</a></sup> We discussed some of them in class. Some issues were also
+mentioned by Andrew Ng: data validation and availability; change
+management (for deployment); scaling; value identification;
+maintenance/debugging.
