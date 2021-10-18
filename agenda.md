@@ -1,29 +1,31 @@
 
 # Table of Contents
 
--   [Week 2 - August 25](#orgabc5ac4)
--   [Week 2 - August 27](#org139dacb)
--   [Week 3 - August 30](#orgc2c2c4c)
--   [Week 4 - September 8](#org06e6389)
--   [Week 4 - September 10](#org7258d85)
--   [Week 5 - September 13](#org94143fa)
--   [Week 5 - September 15](#orgf1f1f0a)
--   [Week 5 - September 17](#org1a92c15)
--   [Week 6 - September 20/22](#orgf07c893)
--   [Week 6 - September 24](#org1780905)
--   [Week 7 - September 27](#org1552982)
--   [Week 7 - September 29](#orgb57cd18)
--   [Week 7 - October 1](#orgb69691a)
--   [Week 8 - October 6](#orgb3a97f7)
--   [Week 8 - October 8](#org9799454)
--   [Week 9 - October 11](#org8efc3b5)
--   [Week 9 - October 14](#org8500f05)
--   [Week 9 - October 15](#org177ab8e)
--   [References](#orgaac8e43)
+-   [Week 2 - August 25](#org904a37b)
+-   [Week 2 - August 27](#org7d28b6e)
+-   [Week 3 - August 30](#org845ddac)
+-   [Week 4 - September 8](#org9b95a90)
+-   [Week 4 - September 10](#org9927ae5)
+-   [Week 5 - September 13](#orgd05ac8c)
+-   [Week 5 - September 15](#org4af7d0c)
+-   [Week 5 - September 17](#orga01817d)
+-   [Week 6 - September 20/22](#orgc32856d)
+-   [Week 6 - September 24](#org877d1f8)
+-   [Week 7 - September 27](#org1d89d3e)
+-   [Week 7 - September 29](#org019928e)
+-   [Week 7 - October 1](#org5d16aa6)
+-   [Week 8 - October 6](#org1ba2250)
+-   [Week 8 - October 8](#org364f595)
+-   [Week 9 - October 11](#org39a3dad)
+-   [Week 9 - October 14](#org8ed30a9)
+-   [Week 9 - October 15](#org2b6f66c)
+-   [Week 10 - October 18](#orgef3ad04)
+-   [Week 10 - October 22](#orge4046f2)
+-   [References](#org45844c1)
 
 
 
-<a id="orgabc5ac4"></a>
+<a id="org904a37b"></a>
 
 # Week 2 - August 25
 
@@ -44,7 +46,7 @@
     -   Agendas will be posted
 
 
-<a id="org139dacb"></a>
+<a id="org7d28b6e"></a>
 
 # Week 2 - August 27
 
@@ -54,7 +56,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#orgaa46a89))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#orgbb25c70))*
 
 
 ## Housekeeping
@@ -79,11 +81,11 @@
 
 ## References
 
-<a id="orgaa46a89"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="orgbb25c70"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="orgc2c2c4c"></a>
+<a id="org845ddac"></a>
 
 # Week 3 - August 30
 
@@ -123,7 +125,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 
 
-<a id="org06e6389"></a>
+<a id="org9b95a90"></a>
 
 # Week 4 - September 8
 
@@ -189,7 +191,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 </table>
 
 
-<a id="org7258d85"></a>
+<a id="org9927ae5"></a>
 
 # Week 4 - September 10
 
@@ -201,7 +203,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Still no ideas? [See Stanford '21 conference](https://hai.stanford.edu/2021-spring-conference-agenda)
 
 
-<a id="org94143fa"></a>
+<a id="orgd05ac8c"></a>
 
 # Week 5 - September 13
 
@@ -241,7 +243,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Briefly present your findings
 
 
-<a id="orgf1f1f0a"></a>
+<a id="org4af7d0c"></a>
 
 # Week 5 - September 15
 
@@ -253,17 +255,17 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 ## Automatic creativity?
 
 
-### [Plotto book (Legro, 2012)](#orge86e9cf)
+### [Plotto book (Legro, 2012)](#org490090e)
 
 ![img](./img/cook.png)
 
 
-### [Wycliffe Hill's 1931 plot robot (Collins, 2009)](#org9857e16)
+### [Wycliffe Hill's 1931 plot robot (Collins, 2009)](#orgcd0ef3f)
 
 ![img](./img/plotto.jpg)
 
 
-### [Plotto game (Redgrave, 2018)](#org6d9007d)
+### [Plotto game (Redgrave, 2018)](#org250741e)
 
 ![img](./img/plottogame.png)
 
@@ -279,17 +281,17 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 
 ## References
 
-<a id="org9857e16"></a> Collins P (6 Jul 2009). The King of All Formulas
+<a id="orgcd0ef3f"></a> Collins P (6 Jul 2009). The King of All Formulas
 [Blog]. [Online: slate.com.](https://slate.com/news-and-politics/2009/07/the-man-who-invented-the-hollywood-schlock-machine.html)
 
-<a id="orge86e9cf"></a> Legro M (6 Jan 2012). Plotto: The Master Book of All
+<a id="org490090e"></a> Legro M (6 Jan 2012). Plotto: The Master Book of All
 Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01/06/plotto/)
 
-<a id="org6d9007d"></a> Redgrave AL (29 Apr 2018). Plotto Demo
+<a id="org250741e"></a> Redgrave AL (29 Apr 2018). Plotto Demo
 [Video]. [Online: youtube.com](https://youtu.be/VbWrs8wm5sA).
 
 
-<a id="org1a92c15"></a>
+<a id="orga01817d"></a>
 
 # Week 5 - September 17
 
@@ -299,7 +301,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Next: AI in Sales and Marketing (example)
 
 
-<a id="orgf07c893"></a>
+<a id="orgc32856d"></a>
 
 # Week 6 - September 20/22
 
@@ -307,7 +309,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   [Lectures in GitHub](https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents)
 
 
-<a id="org1780905"></a>
+<a id="org877d1f8"></a>
 
 # Week 6 - September 24
 
@@ -319,10 +321,10 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
     -   Part II: Change management
     -   Part III: Full cycle of ML projects
 
-*Image source: [Williams, 2020](#org73a7343).*
+*Image source: [Williams, 2020](#org9247b32).*
 
 
-<a id="org1552982"></a>
+<a id="org1d89d3e"></a>
 
 # Week 7 - September 27
 
@@ -337,7 +339,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 *Image: Two AIs talk about becoming human (Soslow, 2021)*
 
 
-<a id="orgb57cd18"></a>
+<a id="org019928e"></a>
 
 # Week 7 - September 29
 
@@ -348,7 +350,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   New diary entry: [taking stock](https://github.com/birkenkrahe/ai482/blob/main/diary.md#org1e569bc) (Sept 27)
 
 
-<a id="orgb69691a"></a>
+<a id="org5d16aa6"></a>
 
 # Week 7 - October 1
 
@@ -359,7 +361,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Oct 8: [Upload PDF here by 9 AM](https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review) (everybody)
 
 
-<a id="orgb3a97f7"></a>
+<a id="org1ba2250"></a>
 
 # Week 8 - October 6
 
@@ -371,7 +373,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Tell me your solo presentation topics!
 
 
-<a id="org9799454"></a>
+<a id="org364f595"></a>
 
 # Week 8 - October 8
 
@@ -382,7 +384,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Mon: [sprint review](https://github.com/birkenkrahe/org/blob/master/FAQ.md) critique
 
 
-<a id="org8efc3b5"></a>
+<a id="org39a3dad"></a>
 
 # Week 9 - October 11
 
@@ -397,7 +399,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
     2.  Emma on AI in soccer
 
 
-<a id="org8500f05"></a>
+<a id="org8ed30a9"></a>
 
 # Week 9 - October 14
 
@@ -407,18 +409,38 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Lecture: [Machine learning basics](https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing)<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 
 
-<a id="org177ab8e"></a>
+<a id="org2b6f66c"></a>
 
 # Week 9 - October 15
 
-![img](./img/solo.svg)
+![img](./img/brandes.png)
 
 -   Presentation Feedback ([protocols](https://github.com/birkenkrahe/ai482/tree/main/protocols#org8c0aa28))
 -   Presentation: AI in soccer playing (Emma Brandes)
 -   Lecture: [Machine learning basics](https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing)<sup><a id="fnr.2.100" class="footref" href="#fn.2">2</a></sup>
 
 
-<a id="orgaac8e43"></a>
+<a id="orgef3ad04"></a>
+
+# Week 10 - October 18
+
+![img](./img/chase.gif)
+
+-   Lecture: [Machine learning basics](https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing)
+-   [Protocols](https://github.com/birkenkrahe/ai482/tree/main/protocols) (extra credit!)
+
+
+<a id="orge4046f2"></a>
+
+# Week 10 - October 22
+
+![img](./img/solo.svg)
+
+-   [Presentation](https://github.com/birkenkrahe/ai482/tree/main/presentations): Search algorithms (Dat O)
+-   [Open AI and Neuralink](https://youtu.be/ISa10TrJK7w) (video, 3 Oct 2021)<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
+
+
+<a id="org45844c1"></a>
 
 # References
 
@@ -428,10 +450,13 @@ Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
 Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
 human. (GPT-3) [video]. [Online: youtube.com](https://youtu.be/jz78fSnBG0s).
 
+Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
+[video]. [Online: youtube.com.](https://youtu.be/ISa10TrJK7w)
+
 Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY?t=367).
 
-<a id="org73a7343"></a> Williams A (Jun 27, 2020). Riot Games give first clues
+<a id="org9247b32"></a> Williams A (Jun 27, 2020). Riot Games give first clues
 about new Valorant Agents and abilities [blog]. [Online: dexerto.com](https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/).
 
 
@@ -448,3 +473,9 @@ evaluated, not the quality of the result itself.
 either in a session (because your presentations are finished, and
 there is nothing else to discuss, or because you're all done
 presenting solo).
+
+<sup><a id="fn.3" href="#fnr.3">3</a></sup> If we've got extra time to spare after a presentation, or if we
+don't have a presenter, we'll work through this video to get a glimpse
+of some of the exciting new developments in AI. Neuralink is a company
+founded by Elon Musk that "is going to change how humans think, act,
+learn, and share information."

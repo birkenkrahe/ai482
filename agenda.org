@@ -332,6 +332,14 @@
   * Lecture: [[https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing][Machine learning basics]]
   * [[https://github.com/birkenkrahe/ai482/tree/main/protocols][Protocols]] (extra credit!)
 
+* Week 10 - October 22
+
+  #+attr_html: :width 600px
+  [[./img/solo.svg]]
+  
+  * [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]: Search algorithms (Dat O)
+  * [[https://youtu.be/ISa10TrJK7w][Open AI and Neuralink]] (video, 3 Oct 2021)[fn:3]
+
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
@@ -340,6 +348,9 @@
   Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
   human. (GPT-3) [video]. [[https://youtu.be/jz78fSnBG0s][Online: youtube.com]].
 
+  Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
+  [video]. [[https://youtu.be/ISa10TrJK7w][Online: youtube.com.]]
+  
   Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
   Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY?t=367][Online: youtube.com]].
 
@@ -347,6 +358,12 @@
   about new Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
 
 * Footnotes
+
+[fn:3]If we've got extra time to spare after a presentation, or if we
+don't have a presenter, we'll work through this video to get a glimpse
+of some of the exciting new developments in AI. Neuralink is a company
+founded by Elon Musk that "is going to change how humans think, act,
+learn, and share information."
 
 [fn:2]I will only give this lecture if we run out of presentations -
 either in a session (because your presentations are finished, and
