@@ -42,6 +42,28 @@
   throughout. Hope that others will ask more questions in future
   presentations!
 
+* AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)
+
+  Emma presented really interesting, current examples, compared them
+  and gave us a timeline for these performance and player
+  performance-oriented applications. She gathered primary data (from
+  team mates and from her own experience). Excellent amount of
+  material for session and discussion. The discussion focused on the
+  actual advantage of these applications for the player, and on the
+  potential loss of playing skills through data overload. Really
+  enjoyed the illustration through devices brought to class and
+  through the video selection.
+
+  Points of improvement:
+
+  1) when talking stats, *show* some stats (numbers, tables etc.)
+  2) give a better idea on how these devices yield better player
+     performance (beyond the commercial hype)
+  3) a little more *technical* insight - what exactly is AI here? One
+     could e.g. apply models that we have already learnt about, like
+     PEAS for intelligent agents. Are these intelligent agents?
+  4) *References* ought to include video and image material
+  
 * Footnotes
 
 [fn:3]I really don't have any excuses: foreigners and teachers should

@@ -318,11 +318,19 @@
 * Week 9 - October 15
 
   #+attr_html: :width 600px
-  [[./img/solo.svg]]
+  [[./img/brandes.png]]
 
   * Presentation Feedback ([[https://github.com/birkenkrahe/ai482/tree/main/protocols#org8c0aa28][protocols]])
   * Presentation: AI in soccer playing (Emma Brandes)
   * Lecture: [[https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing][Machine learning basics]][fn:2]
+
+* Week 10 - October 18
+
+  #+attr_html: :width 600px
+  [[./img/chase.gif]]
+  
+  * Lecture: [[https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing][Machine learning basics]]
+  * [[https://github.com/birkenkrahe/ai482/tree/main/protocols][Protocols]] (extra credit!)
 
 * References
 
