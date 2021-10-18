@@ -24,7 +24,7 @@ When a new house comes on the market, we want the AI to predict a
 price based on other comparable houses. The AI computes a similarity
 measure.
 
-Source of all images: [Mauro/Valigi, 2021](#org1c34904).
+Source of all images: [Mauro/Valigi, 2021](#org83ac9b7).
 
 
 ## Problem
@@ -159,7 +159,7 @@ Image: illustration of a supervised learning algorithm.
 ![img](./img/discussion.gif)
 
 -   How does machine learning relate to the **"intelligent agents"**
-    concept (as in [AIMA](#org447b442))?<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
+    concept (as in [AIMA](#org46838e0))?<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
 -   What do you think are the **advantages** and **disadvantages** of
     this approach?<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>
 -   Do you recognize these concepts in your own AI application
@@ -169,14 +169,17 @@ Image: illustration of a supervised learning algorithm.
 
 # References
 
-<a id="orgb28993d"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
+<a id="org1abb4f5"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
 Learning Platforms [Blog]. [Online: databaseline.tech.](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
 
-<a id="org1c34904"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="org83ac9b7"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
-<a id="org447b442"></a> Russel/Norvig (2021). AI a Modern Approach 4th
+<a id="org20d7acc"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
+
+<a id="org46838e0"></a> Russel/Norvig (2021). AI a Modern Approach 4th
 ed. Pearson. [Online: aima.cs.berkeley.edu.](http://aima.cs.berkeley.edu/)
 
 
@@ -193,7 +196,9 @@ production systems is the model itself. What turns a collection of
 machine learning solutions into an end-to-end machine learning
 platform is an architecture that embraces technologies designed to
 speed up modelling, automate the deployment, and ensure scalability
-and reliability in production." ([Hellstrom, 2020](#orgb28993d))
+and reliability in production." ([Hellstrom, 2020](#org1abb4f5)) All of the other
+items mentioned form part of the "MLOps" challenge that Andrew Ng also
+mentioned ([Ng, 2020](#org20d7acc)).
 
 <sup><a id="fn.3" href="#fnr.3">3</a></sup> The relationship between AI and ML is briefly explained in AIMA
 at the start. Part V of the book deals exclusively with machine
