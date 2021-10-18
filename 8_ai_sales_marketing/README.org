@@ -16,7 +16,7 @@
 
   #+attr_html: :width 300px
   [[./img/cover.jpeg]]
-  
+
   Following Mauro/Valigi (2021), we use an online real estate platform
   as an example to illustrate how machine learning can work.
 
@@ -29,7 +29,7 @@
   measure.
 
   Source of all images: [[zero2ai][Mauro/Valigi, 2021]].
-  
+
 ** Problem
 
    The machine learning problem - predict the best price for homes
@@ -39,7 +39,7 @@
    [[./img/problem.png]]
 
    /Which other *problems* suited for ML do you know?/[fn:1]
-   
+
 ** Process
 
    Image: Machine learning phases - training, deployment,
@@ -55,8 +55,8 @@
    Though the availability of data ("Big Data") drives much of the ML
    development, the basic data format and the way the data are used to
    establish ML models, are well known and have long been in use.
-   
-*** Data format   
+
+*** Data format
     Image: Table with features and labels for several examples.
 
     #+attr_html: :width 600px
@@ -66,20 +66,20 @@
     given/independent, and labels are targets/dependent. The label
     variables are what we want to predict.
 
-*** Data use    
+*** Data use
 
     #+attr_html: :width 600px
-     [[./img/data1.png]]
+    [[./img/data1.png]]
 
-     The available data is split into training and test sets. The
-     training data is used to make the model learn, and the test data is
-     used to test the model on unknown data, simulating the real-world
-     application.
-   
+    The available data is split into training and test sets. The
+    training data is used to make the model learn, and the test data is
+    used to test the model on unknown data, simulating the real-world
+    application.
+
 ** Programming
 
    How does this kind of program relate to traditional rule-based
-   programming?
+   programming?[fn:2]
 
    #+attr_html: :width 600px
    [[./img/programming.png]]
@@ -93,32 +93,57 @@
    | Model                   | Output of the training phase, capable of making predictions          |
    | Inference               | Phase in which the model is used with new examples                   |
    | Training data           | Data used to create the model ("learning")                           |
-   | Test data               | Data used to apply the model ("production")                          |
+   | Test data               | Data used to test the model                                          |
+   | Production data         | Data used to run the model in the field ("deployed")                 |
 
    Image: illustration of a supervised learning algorithm.
 
    #+attr_html: :width 600px
-   [[./img/supervised.png]]  
+   [[./img/supervised.png]]
 
 ** Discussion
 
    [[./img/discussion.gif]]
-   
-   * How does machine learning relate to the "intelligent agents"
-     concept?
-   * What do you think are the advantages and disadvantages of this
-     approach?
+
+   * How does machine learning relate to the *"intelligent agents"*
+     concept (as in [[aima][AIMA]])?[fn:4]
+   * What do you think are the *advantages* and *disadvantages* of
+     this approach?[fn:3]
    * Do you recognize these concepts in your own AI application
      (solo presentation or team project)? Does ML play a role here?
      Which one?
-   
+
 * References
+
+  <<mlops>> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
+  Learning Platforms [Blog]. [[https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/][Online: databaseline.tech.]]
 
   <<zero2ai>> Mauro/Valigi (2021). Zero to AI - a nontechnical,
   hype-free guide to prospering in the AI era. Manning. [[https://www.manning.com/books/zero-to-ai][Online:
   manning.com]].
 
+  <<aima>> Russel/Norvig (2021). AI a Modern Approach 4th
+  ed. Pearson. [[http://aima.cs.berkeley.edu/][Online: aima.cs.berkeley.edu.]]
+
+
 * Footnotes
+
+[fn:4]The relationship between AI and ML is briefly explained in AIMA
+at the start. Part V of the book deals exclusively with machine
+learning. The distinctions (data science, AI, machine learning) are
+not precise at all though.
+
+[fn:3]We discussed some of them in class. Some issues were also
+mentioned by Andrew Ng: data validation and availability; change
+management (for deployment); scaling; value identification;
+maintenance/debugging.
+
+[fn:2]"As little as 5% of the actual code for machine learning
+production systems is the model itself. What turns a collection of
+machine learning solutions into an end-to-end machine learning
+platform is an architecture that embraces technologies designed to
+speed up modelling, automate the deployment, and ensure scalability
+and reliability in production." ([[mlops][Hellstrom, 2020]])
 
 [fn:1](1) Predicting final grades from midterm and other student
 performance data. (2) Predicting how much/which products a customer
