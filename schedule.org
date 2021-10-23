@@ -37,10 +37,10 @@
    | 24 | Wed-13-Oct | +Jacob: AI in the military+                         | Protocol (MB)         |                      |
    | 25 | Fri-15-Oct | +Emma: AI in soccer (player performance)+           | Protocol (MB)         |                      |
    |----+------------+-----------------------------------------------------+-----------------------+----------------------|
-   | 26 | Mon-18-Oct | Machine learning (ML) basics (MB)                   | Session Protocol (X)  |                      |
+   | 26 | Mon-18-Oct | Machine learning (ML) basics (MB)                   |                       |                      |
    |    | Wed-20-Oct | --SERVICE DAY--                                     | --SERVICE DAY--       |                      |
-   | 27 | Fri-22-Oct | Dat O                                               | Session Protocol (X)  |                      |
    |----+------------+-----------------------------------------------------+-----------------------+----------------------|
+   | 27 | Fri-22-Oct | Dat O: Search algorithms                            | Protocol (MB)         |                      |
    | 28 | Mon-25-Oct | ML: Predicting churning customers (MB)              | Session Protocol (X)  |                      |
    | 29 | Wed-27-Oct | Malcolm Howard: How AI has improved player health   | Session Protocol (X)  |                      |
    | 30 | Fri-29-Oct | Fortunato: AI in soccer (player development)        | Session Protocol (X)  |                      |

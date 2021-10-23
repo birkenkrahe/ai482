@@ -1,22 +1,24 @@
 
 # Table of Contents
 
-1.  [Session Protocols](#org80f3467)
-2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#orgfbb795f)
-3.  [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](#orgea992cb)
+1.  [Session Protocols](#orga906037)
+2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#orga5a5a0d)
+3.  [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](#org3ac5aa4)
+4.  [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](#orga5340f7)
+5.  [Search](#org3367bbe)
 
 
 
-<a id="org80f3467"></a>
+<a id="orga906037"></a>
 
 # Session Protocols
 
 Post your protocol here. Take a look at [my example protocol](https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/protocol_23_aug.md).
 
 
-<a id="orgfbb795f"></a>
+<a id="orga5a5a0d"></a>
 
-# AI in the military (Jacob Sampley, 13-Oct-2021)
+# [AI in the military (Jacob Sampley, 13-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/Sampley_Autonomous%20Drones%20in%20the%20U.S.%20Military.pdf)
 
 This presentation was totally worth staying up for all night - very
 well done (apart from Jacob's time mgmt prior to the presentation
@@ -56,9 +58,9 @@ throughout. Hope that others will ask more questions in future
 presentations!
 
 
-<a id="orgea992cb"></a>
+<a id="org3ac5aa4"></a>
 
-# AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)
+# [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/AI%20in%20soccer%20to%20improve%20athlete%20performance%20DUE%20Nov%2015%20(1).pdf)
 
 Emma presented really interesting, current examples, compared them
 and gave us a timeline for these performance and player
@@ -81,6 +83,56 @@ Points of improvement:
 4.  **References** ought to include video and image material
 
 
+<a id="orga5340f7"></a>
+
+# [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/Presentation-DatO.pdf)
+
+This presentation was based on chapter 3 (pp. 81-128) of AIMA. Like
+all full chapters in the textbook, it packed a punch - I could
+easily lecture for a week on every one of the 6 sub chapters<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>.
+
+Dat did an amazing job of giving an overview of a vast field. He
+connected the presented material to previous courses (like
+algorithms, data structures etc.), and chose illustrations taken
+from educational videos.
+
+I thought it was a thorough introduction that left out exactly what
+needed to be left out. Dat used almost the entire time but we still
+got to discuss several interesting issues at the end, like:
+
+-   Which skills do you need to work with these algorithms in practice?
+-   How much research (if any) is still done in this area (much of it
+    is part of the compsci undergraduate curriculum)?
+-   Which algorithms are used in which current AI applications?
+
+Especially the last question will be relevant to other presenters as
+well. Because there is so much more in this chapter, it will be
+useful to you to read it - and much easier now that Dat has given us
+an overview.
+
+The solo presentation is also a good stepping stone on his way to
+the final presentation and prototype, which will deal with genetic
+algorithms.
+
+Points of improvement: almost none. I had wished to see some
+implementations (as in: code) for the benefit of those who know how
+to write and read code. In AIMA, this is done using pseudocode.
+
+A little more thought about how to get the audience involved would
+have improved this presentation even more. This could go as far as
+to give them a small task and ask for example, which algorithm would
+be suitable for a given sample problem.
+
+Lastly, the examples could have been presented in a closed form -
+such a slide would have been easy to memorize. A number of
+interesting examples were mentioned.
+
+
+<a id="org3367bbe"></a>
+
+# Search
+
+
 # Footnotes
 
 <sup><a id="fn.1" href="#fnr.1">1</a></sup> Remember: unless explicitly noted, the assumption is that lists
@@ -98,3 +150,13 @@ be held to much more stringent presentation standards. Alas, because
 we speak so much, and audiences are often silent and forgiving (unlike
 in business), bad habits tend to fester. Also, many teachers are
 resistant to change.
+
+<sup><a id="fn.4" href="#fnr.4">4</a></sup> I had meant to work through the chapter weeks ago but then one
+thing happened and then another and I didn't get to reading through it
+until shortly before the presentation, and I found it very difficult,
+even with my background. A lot of the descriptions and examples in
+AIMA are exceptionally dense. Several of the footnotes and the
+bibliography hide recent research and are state-of-the-art. AIMA is
+definitely not a typical textbook in this regard - just like AI is not
+a typical course topic (because it's evolving so fast in front of your
+very eyes!).
