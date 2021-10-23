@@ -104,7 +104,11 @@
 
   Lastly, the examples could have been presented in a closed form -
   such a slide would have been easy to memorize. A number of
-  interesting examples were mentioned.
+  interesting examples were mentioned. And also - storytelling - but
+  to turn the presentation of algorithms into a story would have been
+  a completely different presentation (the easiest way is probably by
+  presenting the development timeline - when an algorithm was first
+  developed, improved, used etc.)
 
 * Search 
 * Footnotes
