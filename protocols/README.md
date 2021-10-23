@@ -1,22 +1,22 @@
 
 # Table of Contents
 
-1.  [Session Protocols](#orga906037)
-2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#orga5a5a0d)
-3.  [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](#org3ac5aa4)
-4.  [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](#orga5340f7)
-5.  [Search](#org3367bbe)
+1.  [Session Protocols](#org6eb8957)
+2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#org4e395b3)
+3.  [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](#org6f158b7)
+4.  [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](#orgcad7132)
+5.  [Search](#org0177636)
 
 
 
-<a id="orga906037"></a>
+<a id="org6eb8957"></a>
 
 # Session Protocols
 
 Post your protocol here. Take a look at [my example protocol](https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/protocol_23_aug.md).
 
 
-<a id="orga5a5a0d"></a>
+<a id="org4e395b3"></a>
 
 # [AI in the military (Jacob Sampley, 13-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/Sampley_Autonomous%20Drones%20in%20the%20U.S.%20Military.pdf)
 
@@ -58,7 +58,7 @@ throughout. Hope that others will ask more questions in future
 presentations!
 
 
-<a id="org3ac5aa4"></a>
+<a id="org6f158b7"></a>
 
 # [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/AI%20in%20soccer%20to%20improve%20athlete%20performance%20DUE%20Nov%2015%20(1).pdf)
 
@@ -83,7 +83,7 @@ Points of improvement:
 4.  **References** ought to include video and image material
 
 
-<a id="orga5340f7"></a>
+<a id="orgcad7132"></a>
 
 # [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/Presentation-DatO.pdf)
 
@@ -125,10 +125,14 @@ be suitable for a given sample problem.
 
 Lastly, the examples could have been presented in a closed form -
 such a slide would have been easy to memorize. A number of
-interesting examples were mentioned.
+interesting examples were mentioned. And also - storytelling - but
+to turn the presentation of algorithms into a story would have been
+a completely different presentation (the easiest way is probably by
+presenting the development timeline - when an algorithm was first
+developed, improved, used etc.)
 
 
-<a id="org3367bbe"></a>
+<a id="org0177636"></a>
 
 # Search
 
