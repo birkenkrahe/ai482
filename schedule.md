@@ -274,7 +274,7 @@
 <td class="org-right">26</td>
 <td class="org-left">Mon-18-Oct</td>
 <td class="org-left">Machine learning (ML) basics (MB)</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -286,18 +286,18 @@
 <td class="org-left">&#x2013;SERVICE DAY--</td>
 <td class="org-left">&#xa0;</td>
 </tr>
-
-
-<tr>
-<td class="org-right">27</td>
-<td class="org-left">Fri-22-Oct</td>
-<td class="org-left">Dat O</td>
-<td class="org-left">Session Protocol (X)</td>
-<td class="org-left">&#xa0;</td>
-</tr>
 </tbody>
 
 <tbody>
+<tr>
+<td class="org-right">27</td>
+<td class="org-left">Fri-22-Oct</td>
+<td class="org-left">Dat O: Search algorithms</td>
+<td class="org-left">Protocol (MB)</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
 <tr>
 <td class="org-right">28</td>
 <td class="org-left">Mon-25-Oct</td>
