@@ -338,6 +338,8 @@
   [[./img/solo.svg]]
   
   * [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]: Search algorithms (Dat O)
+
+  * [[https://medium.com/ai2-blog/stay-up-to-date-with-the-latest-research-in-your-field-d237d643210][Research paper recommender at semantic scholar]]
   * [[https://youtu.be/ISa10TrJK7w][Open AI and Neuralink]] (video, 3 Oct 2021)[fn:3]
   * News: [[https://scitechdaily.com/a-new-nobel-computer-scientist-wins-1-million-artificial-intelligence-prize/][AAAI Squirrel AI Award for Cynthia Rudin]]
 
