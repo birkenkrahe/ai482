@@ -328,17 +328,22 @@
 
   #+attr_html: :width 600px
   [[./img/chase.gif]]
-  
-  * Lecture: [[https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing][Machine learning basics]]
+
+  * Lecture: [[https://github.com/birkenkrahe/ai482/tree/main/8_machine_learning][Machine learning basics]]
   * [[https://github.com/birkenkrahe/ai482/tree/main/protocols][Protocols]] (extra credit!)
 
 * Week 10 - October 22
 
   #+attr_html: :width 600px
   [[./img/solo.svg]]
-  
+
   * [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]: Search algorithms (Dat O)
 
+* Week 11 - October 25
+
+  
+  
+  * [[https://github.com/birkenkrahe/ai482/tree/main/9_ai_sales_marketing][AI for Sales and Marketing]] (Case Studies)
   * [[https://medium.com/ai2-blog/stay-up-to-date-with-the-latest-research-in-your-field-d237d643210][Research paper recommender at semantic scholar]]
   * [[https://youtu.be/ISa10TrJK7w][Open AI and Neuralink]] (video, 3 Oct 2021)[fn:3]
   * News: [[https://scitechdaily.com/a-new-nobel-computer-scientist-wins-1-million-artificial-intelligence-prize/][AAAI Squirrel AI Award for Cynthia Rudin]]
@@ -353,7 +358,7 @@
 
   Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
   [video]. [[https://youtu.be/ISa10TrJK7w][Online: youtube.com.]]
-  
+
   Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
   Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY?t=367][Online: youtube.com]].
 

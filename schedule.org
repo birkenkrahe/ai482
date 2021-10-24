@@ -1,70 +1,70 @@
 #+options: toc:nil
 * Schedule
-   | No | DATE       | PRESENTATIONS                                     | PROTOCOLS             | PROJECTS             |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   |  1 | Wed-18-Aug | Course overview (MB)                              |                       |                      |
-   |  2 | Fri-20-Aug | Course overview (MB)                              |                       |                      |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   |  3 | Mon-23-Aug | What is AI? (MB)                                  |                       |                      |
-   |  4 | Wed-25-Aug | What is AI? (MB)                                  | +Wyatt Frerichs+      |                      |
-   |  5 | Fri-27-Aug | What is AI? (MB)                                  | +Emma Brandes+        |                      |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   |  6 | Mon-30-Aug | Project Setup (FAQs)                              |                       |                      |
-   |  7 | Wed-1-Sep  | Project Setup (ideas)                             |                       | Presentation ideas   |
-   |  8 | Fri-3-Sep  | Project Setup (canvas)                            |                       | Team AI applications |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   |  9 | Mon-6-Sep  | --LABOR DAY--                                     | --LABOR DAY--         | --LABOR DAY--        |
-   | 10 | Wed-8-Sep  | History of AI (MB)                                | +Fortunato Hernandez+ |                      |
-   | 11 | Fri-10-Sep | APPLICATIONS                                      |                       | 1st sprint review    |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   | 12 | Mon-13-Sep | History of AI (MB)                                | +Malcolm Howard+      |                      |
-   | 13 | Wed-15-Sep | History of AI (MB)                                | +Amber McClurg+       |                      |
-   | 14 | Fri-17-Sep | History of AI (MB)                                | +Spencer Rhoden+      |                      |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   | 15 | Mon-20-Sep | Agent performance measures (MB)                   |                       |                      |
-   | 16 | Wed-22-Sep | Agent task environments (MB)                      | +Nick Norwood+        |                      |
-   | 17 | Fri-24-Sep | 5 Agents types & Small data issues (MB)           | +Hakeem Yatim+        |                      |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   | 18 | Mon-27-Sep | ML change management (MB)                         | +Jacob Sampley+       |                      |
-   | 19 | Wed-29-Sep | ML project cycle (MB)                             | +Dat O+               |                      |
-   | 20 | Fri-1-Oct  | AIMA exercises and midterm summary                |                       |                      |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   | 21 | Mon-4-Oct  | --FALL BREAK--                                    | --FALL BREAK--        |                      |
-   | 22 | Wed-6-Oct  | AI100 report 2021 (MB)                            |                       |                      |
-   | 23 | Fri-8-Oct  | APPLICATIONS (team projects)                      | --OPEN CLASS--        | 2nd sprint review    |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   | 24 | Mon-11-Oct | APPLICATIONS (team projects)                      |                       | 2nd sprint review    |
-   | 25 | Wed-13-Oct | +Jacob: AI in the military+                       | Protocol (MB)         |                      |
-   | 26 | Fri-15-Oct | +Emma: AI in soccer (player performance)+         | Protocol (MB)         |                      |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   | 27 | Mon-18-Oct | Machine learning (ML) basics (MB)                 |                       |                      |
-   | 28 | Wed-20-Oct | --SERVICE DAY--                                   | --SERVICE DAY--       |                      |
-   | 29 | Fri-22-Oct | Dat O: Search algorithms                          | Protocol (MB)         |                      |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   | 30 | Mon-25-Oct | ML: AI for sales and marketing (MB)               | Session Protocol (X)  |                      |
-   | 31 | Wed-27-Oct | Malcolm Howard: How AI has improved player health | Session Protocol (X)  |                      |
-   | 32 | Fri-29-Oct | Fortunato: AI in soccer (player development)      | Session Protocol (X)  |                      |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   | 33 | Mon-1-Nov  | ML: AI for Natural Language (MB)                  | Session Protocol (X)  |                      |
-   | 34 | Wed-3-Nov  | Wyatt Frerichs:?                                  | Session Protocol (X)  |                      |
-   | 35 | Fri-5-Nov  | APPLICATIONS                                      |                       | 3rd sprint review    |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   | 36 | Mon-8-Nov  | APPLICATIONS                                      |                       |                      |
-   | 37 | Wed-10-Nov | Spencer: Defining Intelligence                    | Session Protocol (X)  |                      |
-   | 38 | Fri-12-Nov | Amber McClurg:?                                   | Session Protocol (X)  |                      |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   | 39 | Mon-15-Nov | ML: AI for recommendations (MB)                   | Session Protocol (X)  |                      |
-   | 40 | Wed-17-Nov | Hakeem: AI in Baseball (player development)       | Session Protocol (X)  |                      |
-   | 41 | Fri-19-Nov | Nick Norwood:?                                    | Session Protocol (X)  |                      |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   | 42 | 22-Nov     | ML: finding AI opportunities (MB)                 | Session Protocol (X)  |                      |
-   | 43 | 24-Nov     | --THANKSGIVING--                                  | --THANKSGIVING--      |                      |
-   | 44 | 26-Nov     | --THANKSGIVING--                                  | --THANKSGIVING--      |                      |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
-   | 45 | 29-Nov     | PROJECT PRESENTATIONS                             |                       | 4th sprint review    |
-   | 46 | 1-Dec      | PROJECT PRESENTATIONS                             |                       | 4th sprint review    |
-   | 47 | 3-Dec      | PROJECT PRESENTATIONS & Course closing            |                       | 4th sprint review    |
-   |----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | Wk | No | DATE       | PRESENTATIONS                                     | PROTOCOLS             | PROJECTS             |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 1  |  1 | Wed-18-Aug | Course overview (MB)                              |                       |                      |
+   |    |  2 | Fri-20-Aug | Course overview (MB)                              |                       |                      |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 2  |  3 | Mon-23-Aug | What is AI? (MB)                                  |                       |                      |
+   |    |  4 | Wed-25-Aug | What is AI? (MB)                                  | +Wyatt Frerichs+      |                      |
+   |    |  5 | Fri-27-Aug | What is AI? (MB)                                  | +Emma Brandes+        |                      |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 3  |  6 | Mon-30-Aug | Project Setup (FAQs)                              |                       |                      |
+   |    |  7 | Wed-1-Sep  | Project Setup (ideas)                             |                       | Presentation ideas   |
+   |    |  8 | Fri-3-Sep  | Project Setup (canvas)                            |                       | Team AI applications |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 4  |  9 | Mon-6-Sep  | --LABOR DAY--                                     | --LABOR DAY--         | --LABOR DAY--        |
+   |    | 10 | Wed-8-Sep  | History of AI (MB)                                | +Fortunato Hernandez+ |                      |
+   |    | 11 | Fri-10-Sep | APPLICATIONS                                      |                       | 1st sprint review    |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 5  | 12 | Mon-13-Sep | History of AI (MB)                                | +Malcolm Howard+      |                      |
+   |    | 13 | Wed-15-Sep | History of AI (MB)                                | +Amber McClurg+       |                      |
+   |    | 14 | Fri-17-Sep | History of AI (MB)                                | +Spencer Rhoden+      |                      |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 6  | 15 | Mon-20-Sep | Agent performance measures (MB)                   |                       |                      |
+   |    | 16 | Wed-22-Sep | Agent task environments (MB)                      | +Nick Norwood+        |                      |
+   |    | 17 | Fri-24-Sep | 5 Agents types & Small data issues (MB)           | +Hakeem Yatim+        |                      |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 7  | 18 | Mon-27-Sep | ML change management (MB)                         | +Jacob Sampley+       |                      |
+   |    | 19 | Wed-29-Sep | ML project cycle (MB)                             | +Dat O+               |                      |
+   |    | 20 | Fri-1-Oct  | AIMA exercises and midterm summary                |                       |                      |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 8  | 21 | Mon-4-Oct  | --FALL BREAK--                                    | --FALL BREAK--        |                      |
+   |    | 22 | Wed-6-Oct  | AI100 report 2021 (MB)                            |                       |                      |
+   |    | 23 | Fri-8-Oct  | APPLICATIONS (team projects)                      | --OPEN CLASS--        | 2nd sprint review    |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 9  | 24 | Mon-11-Oct | APPLICATIONS (team projects)                      |                       | 2nd sprint review    |
+   |    | 25 | Wed-13-Oct | +Jacob: AI in the military+                       | Protocol (MB)         |                      |
+   |    | 26 | Fri-15-Oct | +Emma: AI in soccer (player performance)+         | Protocol (MB)         |                      |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 10 | 27 | Mon-18-Oct | Machine learning (ML) basics (MB)                 |                       |                      |
+   |    | 28 | Wed-20-Oct | --SERVICE DAY--                                   | --SERVICE DAY--       |                      |
+   |    | 29 | Fri-22-Oct | Dat O: Search algorithms                          | Protocol (MB)         |                      |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 11 | 30 | Mon-25-Oct | ML: AI for sales and marketing (MB)               | Session Protocol (X)  |                      |
+   |    | 31 | Wed-27-Oct | Malcolm Howard: How AI has improved player health | Session Protocol (X)  |                      |
+   |    | 32 | Fri-29-Oct | Fortunato: AI in soccer (player development)      | Session Protocol (X)  |                      |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 12 | 33 | Mon-1-Nov  | ML: AI for Natural Language (MB)                  | Session Protocol (X)  |                      |
+   |    | 34 | Wed-3-Nov  | Wyatt Frerichs:?                                  | Session Protocol (X)  |                      |
+   |    | 35 | Fri-5-Nov  | APPLICATIONS                                      |                       | 3rd sprint review    |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 13 | 36 | Mon-8-Nov  | APPLICATIONS                                      |                       |                      |
+   |    | 37 | Wed-10-Nov | Spencer: Defining Intelligence                    | Session Protocol (X)  |                      |
+   |    | 38 | Fri-12-Nov | Amber McClurg:?                                   | Session Protocol (X)  |                      |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 14 | 39 | Mon-15-Nov | ML: AI for recommendations (MB)                   | Session Protocol (X)  |                      |
+   |    | 40 | Wed-17-Nov | Hakeem: AI in Baseball (player development)       | Session Protocol (X)  |                      |
+   |    | 41 | Fri-19-Nov | Nick Norwood:?                                    | Session Protocol (X)  |                      |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 15 | 42 | 22-Nov     | ML: finding AI opportunities (MB)                 | Session Protocol (X)  |                      |
+   |    | 43 | 24-Nov     | --THANKSGIVING--                                  | --THANKSGIVING--      |                      |
+   |    | 44 | 26-Nov     | --THANKSGIVING--                                  | --THANKSGIVING--      |                      |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
+   | 16 | 45 | 29-Nov     | PROJECT PRESENTATIONS                             |                       | 4th sprint review    |
+   |    | 46 | 1-Dec      | PROJECT PRESENTATIONS                             |                       | 4th sprint review    |
+   |    | 47 | 3-Dec      | PROJECT PRESENTATIONS & Course closing            |                       | 4th sprint review    |
+   |----+----+------------+---------------------------------------------------+-----------------------+----------------------|
 
    (X) = Extra credit (5% or 5 points out of 100 available for
    participation in the 2nd part of term)
