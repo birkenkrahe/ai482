@@ -335,19 +335,29 @@
 * Week 10 - October 22
 
   #+attr_html: :width 600px
-  [[./img/solo.svg]]
+  [[./img/dat.png]]
 
   * [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]: Search algorithms (Dat O)
+  * [[https://github.com/birkenkrahe/ai482/tree/main/protocols#orgcad7132][Protocol/Feedback]] 
 
 * Week 11 - October 25
 
-  
+    #+attr_html: :width 600px
+    [[./img/neuralink.png]]
   
   * [[https://github.com/birkenkrahe/ai482/tree/main/9_ai_sales_marketing][AI for Sales and Marketing]] (Case Studies)
   * [[https://medium.com/ai2-blog/stay-up-to-date-with-the-latest-research-in-your-field-d237d643210][Research paper recommender at semantic scholar]]
   * [[https://youtu.be/ISa10TrJK7w][Open AI and Neuralink]] (video, 3 Oct 2021)[fn:3]
   * News: [[https://scitechdaily.com/a-new-nobel-computer-scientist-wins-1-million-artificial-intelligence-prize/][AAAI Squirrel AI Award for Cynthia Rudin]]
 
+* Week 11 - October 27+29
+
+  #+attr_html: :width 600px
+  [[./img/solo.svg]]
+
+  * [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]: AI and Football: player health (Malcolm)
+  * [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]: AI and Soccer: player development (Fortunato)
+  
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro

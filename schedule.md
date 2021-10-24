@@ -323,7 +323,7 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">29</td>
 <td class="org-left">Fri-22-Oct</td>
-<td class="org-left">Dat O: Search algorithms</td>
+<td class="org-left"><del>Dat O: Search algorithms</del></td>
 <td class="org-left">Protocol (MB)</td>
 <td class="org-left">&#xa0;</td>
 </tr>

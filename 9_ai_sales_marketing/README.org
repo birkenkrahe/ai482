@@ -12,23 +12,7 @@
   * Case study: using AI on electric grid data
   * Case study: mining retail analytics with AI
 
-* ML basics
-
-  #+attr_html: :width 300px
-  [[./img/cover.jpeg]]
-
-  Following Mauro/Valigi (2021), we use an online real estate platform
-  as an example to illustrate how machine learning can work.
-
-  The core business problem is matching sellers and buyers. The core
-  value is the house price. We want to build a machine learning (ML)
-  model that predicts house prices based on real estate market data.
-
-  When a new house comes on the market, we want the AI to predict a
-  price based on other comparable houses. The AI computes a similarity
-  measure.
-
-  Source of all images: [[zero2ai][Mauro/Valigi, 2021]].
+    Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 3
 
 ** Problem
 
@@ -97,7 +81,7 @@
     machine learning solutions into an end-to-end machine learning
     platform is an architecture that embraces technologies designed to
     speed up modelling, automate the deployment, and ensure scalability
-    and reliability in production." ([[mlops][Hellstrom, 2020]]) 
+    and reliability in production." ([[mlops][Hellstrom, 2020]])
     #+end_quote
 
     Te bulk of the activities listed in this quote form part of the
@@ -106,7 +90,7 @@
 
     #+attr_html: :width 600px
     [[./img/mlops.png]]
-    
+
 ** Concepts
 
    | ML algorithm ("the AI") | Allows computers to learn from data                                  |
