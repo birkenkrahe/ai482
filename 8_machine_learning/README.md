@@ -1,13 +1,34 @@
 
+# Table of Contents
+
+-   [What will you learn?](#orgbf79185)
+-   [ML basics](#orgc9ebed1)
+    -   [Problem](#org86aa004)
+    -   [Process](#orge337671)
+    -   [Data](#orgbc1c722)
+        -   [Data format](#org4ca30c9)
+        -   [Data use](#org2fc119c)
+    -   [Programming](#orgb0c844b)
+        -   [Rules vs. learning](#orga7f5a56)
+        -   [Research vs. deployment](#org3bed6ef)
+    -   [Concepts](#orgc41ed52)
+    -   [Discussion](#org4996f9b)
+-   [References](#org9d0c0be)
+
+
+
+<a id="orgbf79185"></a>
 
 # What will you learn?
 
 -   Machine learning (ML) modeling basics
--   <del>Using supervised and unsupervised ML</del>
--   <del>Identifying customer groups / churn / upselling</del>
--   <del>Case study: using AI on electric grid data</del>
--   <del>Case study: mining retail analytics with AI</del>
+-   Problems
+-   Process
+-   Data
+-   Programming
 
+
+<a id="orgc9ebed1"></a>
 
 # ML basics
 
@@ -24,8 +45,10 @@ When a new house comes on the market, we want the AI to predict a
 price based on other comparable houses. The AI computes a similarity
 measure.
 
-Source of all images: [Mauro/Valigi, 2021](#orgf82cfd7).
+Source of all images: [Mauro/Valigi, 2021](#org7f713be).
 
+
+<a id="org86aa004"></a>
 
 ## Problem
 
@@ -37,6 +60,8 @@ listed on a real estate platform. *Image: purchasing process.*
 *Which other **problems** suited for ML do you know?*<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
 
 
+<a id="orge337671"></a>
+
 ## Process
 
 Image: Machine learning phases - training, deployment,
@@ -47,12 +72,16 @@ inference.
 *Is this an **agile** process? Why or why not?*
 
 
+<a id="orgbc1c722"></a>
+
 ## Data
 
 Though the availability of data ("Big Data") drives much of the ML
 development, the basic data format and the way the data are used to
 establish ML models, are well known and have long been in use.
 
+
+<a id="org4ca30c9"></a>
 
 ### Data format
 
@@ -65,6 +94,8 @@ given/independent, and labels are targets/dependent. The label
 variables are what we want to predict.
 
 
+<a id="org2fc119c"></a>
+
 ### Data use
 
 ![img](./img/data1.png)
@@ -75,8 +106,12 @@ used to test the model on unknown data, simulating the real-world
 application.
 
 
+<a id="orgb0c844b"></a>
+
 ## Programming
 
+
+<a id="orga7f5a56"></a>
 
 ### Rules vs. learning
 
@@ -85,6 +120,8 @@ programming?
 
 ![img](./img/programming.png)
 
+
+<a id="org3bed6ef"></a>
 
 ### Research vs. deployment
 
@@ -96,14 +133,16 @@ here:
 > machine learning solutions into an end-to-end machine learning
 > platform is an architecture that embraces technologies designed to
 > speed up modelling, automate the deployment, and ensure scalability
-> and reliability in production." ([Hellstrom, 2020](#orgce534d1)) 
+> and reliability in production." ([Hellstrom, 2020](#orgda98491)) 
 
 Te bulk of the activities listed in this quote form part of the
-"MLOps" challenge that Andrew Ng also mentioned ([Ng, 2020](#org1252d5c)). The
+"MLOps" challenge that Andrew Ng also mentioned ([Ng, 2020](#orgd3a6d7e)). The
 figure below gives a schematic overview:
 
 ![img](./img/mlops.png)
 
+
+<a id="orgc41ed52"></a>
 
 ## Concepts
 
@@ -176,12 +215,14 @@ Image: illustration of a supervised learning algorithm.
 ![img](./img/supervised.png)
 
 
+<a id="org4996f9b"></a>
+
 ## Discussion
 
 ![img](./img/discussion.gif)
 
 -   How does machine learning relate to the **"intelligent agents"**
-    concept (as in [AIMA](#orgbfda195))?<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
+    concept (as in [AIMA](#org1331b61))?<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 -   What do you think are the **advantages** and **disadvantages** of
     this approach?<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
 -   Do you **recognize** any of these concepts in your own AI
@@ -189,19 +230,21 @@ Image: illustration of a supervised learning algorithm.
     role here?  Which one?
 
 
+<a id="org9d0c0be"></a>
+
 # References
 
-<a id="orgce534d1"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
+<a id="orgda98491"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
 Learning Platforms [Blog]. [Online: databaseline.tech.](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
 
-<a id="orgf82cfd7"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="org7f713be"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
-<a id="org1252d5c"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+<a id="orgd3a6d7e"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
 
-<a id="orgbfda195"></a> Russel/Norvig (2021). AI a Modern Approach 4th
+<a id="org1331b61"></a> Russel/Norvig (2021). AI a Modern Approach 4th
 ed. Pearson. [Online: aima.cs.berkeley.edu.](http://aima.cs.berkeley.edu/)
 
 
