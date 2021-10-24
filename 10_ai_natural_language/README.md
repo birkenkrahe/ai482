@@ -1,70 +1,95 @@
 
 # Table of Contents
 
--   [What will you learn?](#orgbba7be8)
-    -   [Example: Grammarly](#org3efa6d0)
-    -   [Problem](#org38dfc22)
-    -   [Process](#org0745031)
-    -   [Data](#orge22c2db)
-        -   [Data format](#org111a201)
-        -   [Data use](#org4d9d53d)
-    -   [Programming](#org1c028fb)
-    -   [Concepts](#orgbac1797)
-    -   [Discussion](#org66f48e1)
--   [References](#org313be34)
+-   [UNDER CONSTRUCTION](#orgdd24b00)
+-   [What will you learn?](#org32d25a2)
+    -   [Examples](#orgf09b9bb)
+        -   [Grammarly](#org153d6bf)
+        -   [NLP in the undergraduate CS curriculum](#orgd225903)
+    -   [Problem](#orgbb6137c)
+    -   [Process](#org2a7eddd)
+    -   [Data](#orgc6d9d5e)
+        -   [Data format](#orgdd85216)
+        -   [Data use](#org93c4b4b)
+    -   [Programming](#org47d8201)
+    -   [Concepts](#orgd05ccba)
+    -   [Discussion](#org33e21dc)
+-   [References](#org324bb90)
 
 
 
-<a id="orgbba7be8"></a>
+<a id="orgdd24b00"></a>
+
+# UNDER CONSTRUCTION
+
+![img](./img/underconstruction.gif)
+
+
+<a id="org32d25a2"></a>
 
 # What will you learn?
 
-Image source: [Mauro/Valigi (2021)](#orga2d05f5), chapter 5
+Image source: [Mauro/Valigi (2021)](#org380a444), chapter 5
 
 
-<a id="org3efa6d0"></a>
+<a id="orgf09b9bb"></a>
 
-## Example: Grammarly
+## Examples
+
+
+<a id="org153d6bf"></a>
+
+### Grammarly
 
 ["Edit essays faster" (Sept 21, 2021)](https://youtu.be/xmmfWcR65kI)
 
 
-<a id="org38dfc22"></a>
+<a id="orgd225903"></a>
+
+### NLP in the undergraduate CS curriculum
+
+-   [2003 article](https://www.researchgate.net/publication/2852540_Natural_Language_Processing_in_the_Undergraduate_Curriculum)
+-   [1981 article](https://dl.acm.org/doi/10.1145/800037.800988)
+    
+    Idea: write a 2022 update?
+
+
+<a id="orgbb6137c"></a>
 
 ## Problem
 
 
-<a id="org0745031"></a>
+<a id="org2a7eddd"></a>
 
 ## Process
 
 
-<a id="orge22c2db"></a>
+<a id="orgc6d9d5e"></a>
 
 ## Data
 
 
-<a id="org111a201"></a>
+<a id="orgdd85216"></a>
 
 ### Data format
 
 
-<a id="org4d9d53d"></a>
+<a id="org93c4b4b"></a>
 
 ### Data use
 
 
-<a id="org1c028fb"></a>
+<a id="org47d8201"></a>
 
 ## Programming
 
 
-<a id="orgbac1797"></a>
+<a id="orgd05ccba"></a>
 
 ## Concepts
 
 
-<a id="org66f48e1"></a>
+<a id="org33e21dc"></a>
 
 ## Discussion
 
@@ -73,20 +98,20 @@ Image source: [Mauro/Valigi (2021)](#orga2d05f5), chapter 5
 -   &#x2026;
 
 
-<a id="org313be34"></a>
+<a id="org324bb90"></a>
 
 # References
 
-<a id="orgaee0cea"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
+<a id="orgad74265"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
 Learning Platforms [Blog]. [Online: databaseline.tech.](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
 
-<a id="orga2d05f5"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="org380a444"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
-<a id="org24b3d3a"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+<a id="orgd444052"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
 
-<a id="orge48c869"></a> Russel/Norvig (2021). AI a Modern Approach 4th
+<a id="orgc7e2957"></a> Russel/Norvig (2021). AI a Modern Approach 4th
 ed. Pearson. [Online: aima.cs.berkeley.edu.](http://aima.cs.berkeley.edu/)
 

@@ -5,14 +5,25 @@
 #+OPTIONS:hideblocks
 #+OPTIONS: toc:nil num:nil ^:nil
 #+INFOJS_OPT: :view:info
+* UNDER CONSTRUCTION
+
+  [[./img/underconstruction.gif]]
+  
 * What will you learn?
 
 
     Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 5
-** Example: Grammarly
+** Examples
+*** Grammarly
 
    [[https://youtu.be/xmmfWcR65kI]["Edit essays faster" (Sept 21, 2021)]]
-   
+
+*** NLP in the undergraduate CS curriculum
+    * [[https://www.researchgate.net/publication/2852540_Natural_Language_Processing_in_the_Undergraduate_Curriculum][2003 article]]
+    * [[https://dl.acm.org/doi/10.1145/800037.800988][1981 article]]
+
+      Idea: write a 2022 update?
+      
 ** Problem
 
 ** Process
