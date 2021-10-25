@@ -18,7 +18,7 @@
   #+attr_html: :width 300px
   [[./img/cover.jpeg]]
 
-  Following Mauro/Valigi (2021), we use an online real estate platform
+  Following Mauro/Valigi (2020), we use an online real estate platform
   as an example to illustrate how machine learning can work.
 
   The core business problem is matching sellers and buyers. The core
@@ -142,7 +142,7 @@
   <<mlops>> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
   Learning Platforms [Blog]. [[https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/][Online: databaseline.tech.]]
 
-  <<zero2ai>> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+  <<zero2ai>> Mauro/Valigi (2020). Zero to AI - a nontechnical,
   hype-free guide to prospering in the AI era. Manning. [[https://www.manning.com/books/zero-to-ai][Online:
   manning.com]].
 

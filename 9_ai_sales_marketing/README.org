@@ -14,16 +14,30 @@
 
     Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 3
 
-** Problem
+** Problem: personalization at scale
 
-   The machine learning problem - predict the best price for homes
-   listed on a real estate platform. /Image: purchasing process./
+   * Customers respond best to personalized messages
+   * AI delivers personalization at scale
 
-   #+attr_html: :width 600px
-   [[./img/problem.png]]
+     #+attr_html:  :width 600px
+     [[./img/segmentation.png]]
+     
+     #+begin_quote
+     "With AI, you can reach personalization at scale, learning about
+     people from their specific actions and characteristics and targeting
+     them for who they really are and not for the handcrafted bucket they
+     fall into."
+     #+end_quote
 
-   /Which other *problems* suited for ML do you know?/[fn:1]
+     /Is this statement true? Is "who you really are" hidden in the
+     data that you generate as customers?/
+  
+** Marketing sample problems
 
+   * Identifying which customers are likely to leave your service ("churn")
+   * Identifying which customers are likely to buy a new service
+   * Identifying simlar customer groups (customer segmentation)
+     
 ** Process
 
    Image: Machine learning phases - training, deployment,
