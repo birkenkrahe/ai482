@@ -11,6 +11,7 @@
   * Measuring algorithm performance
   * Using supervised vs. unsupervised ML
 
+    -----
     Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 3
 
 ** Problem: personalization at scale
@@ -74,7 +75,7 @@
    errors. This is unfortunately not straightforward because of the
    stochastic nature of the methods. One has to come up with methods
    that eliminate false answers (conditional probabilities).
-   
+
 *** Definitions
 
     | Accuracy  | What's the ratio of correct vs total predictions?        |
@@ -100,7 +101,7 @@
     subscription service like Netflix or Spotify is very different
     from winning/retaining customers of a real retail location like a
     physical Walmart store.
-    
+
     #+attr_html:  :width 600px
     [[./img/business.png]]
     /Image: focus depends on cost of losing vs. retaining customers/
@@ -113,7 +114,7 @@
     #+attr_html:  :width 600px
     [[./img/cost.png]]
     /Image: Implications of confusion on cancer detection/
-     
+
 
 ** Perform automatic customer segmentation
 
@@ -147,7 +148,7 @@
     unsupervised learning/
     #+attr_html:  :width 600px
     [[./img/difference.png]]
-        
+
 
 ** Concepts
 
