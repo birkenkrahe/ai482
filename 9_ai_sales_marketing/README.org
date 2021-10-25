@@ -3,7 +3,7 @@
 #+SUBTITLE: AI Senior Seminar Fall 2021
 #+STARTUP:overview
 #+OPTIONS:hideblocks
-#+OPTIONS: toc:nil num:nil ^:nil
+#+OPTIONS: toc:1 num:nil ^:nil
 #+INFOJS_OPT: :view:info
 * What will you learn?
 
@@ -16,12 +16,12 @@
 
 ** Problem: personalization at scale
 
-   * Customers respond best to personalized messages
-   * AI delivers personalization at scale
+   * Customers respond best to *personalized* messages[fn:5]
+   * AI delivers personalization *at scale*[fn:4]
 
      #+attr_html:  :width 600px
      [[./img/segmentation.png]]
-     
+
      #+begin_quote
      "With AI, you can reach personalization at scale, learning about
      people from their specific actions and characteristics and targeting
@@ -31,108 +31,120 @@
 
      /Is this statement true? Is "who you really are" hidden in the
      data that you generate as customers?/
-  
+
 ** Marketing sample problems
 
-   * Identifying which customers are likely to leave your service ("churn")
+   * Identifying which customers are likely to leave your service
+     ("churn")
    * Identifying which customers are likely to buy a new service
    * Identifying simlar customer groups (customer segmentation)
+
+     Remember the basic process (as a BPMN diagram):
+
+     #+attr_html:  :width 600px
+     [[./img/ml.png]]
+
+** Predicting churning customers
+
+   | Churn | percentage of customers leaving a business over time |
+
+   * Label: customer belongs to one of two classes[fn:6]:
+     - Class 0 = not churned (still active)
+     - Class 1 = customer about to churn (jump ship)
+   * Identify features
+
+     #+attr_html:  :width 600px
+     [[./img/ml1.png]]
+
+     /Which phase is missing in this model?/
+
+** Measuring algorithm performance
+
+   * Statistical vs. practical metrics:
+     - Link between stats and decisions not obvious
+   * Dealing with errors:
+     - Not all errors are the same
+
+     /Table: confusion matrix - predictions vs. truth/
+     #+attr_html:  :width 600px
+     [[./img/confusion.png]]
+
+** Accuracy, precision and recall
+
+*** Definitions
+
+    | Accuracy  | What's the ratio of correct vs total predictions?        |
+    | Precision | How many predicted customers were really going to churn? |
+    | Recall    | How many customers who churned were predicted?           |
+
+    /Image: illustration of precision and recall metrics/
+    #+attr_html:  :width 600px
+    [[./img/precisionrecall.png]]
+
+    /Table: How to use accuracy, precision and recall metrics/
+    #+attr_html:  :width 600px
+    [[./img/metrics.png]]
+
+*** Business use
+
+    /Image: focus depends on cost of losing vs. retaining customers/
+    #+attr_html:  :width 600px
+    [[./img/business.png]]
+
+*** Health care application
+
+    /Image: Implications of confusion on cancer detection/
+    #+attr_html:  :width 600px
+    [[./img/cost.png]]
      
-** Process
+** Perform automatic customer segmentation
 
-   Image: Machine learning phases - training, deployment,
-   inference.
+   | Segmentation | Group customers who share behaviors and characteristics |
 
-   #+attr_html: :width 600px
-   [[./img/ml.png]]
+   Typical marketing questions:
+   * Should we group people aged 20-25 or those aged 20-29?
+   * Can we put large and small city students in one cluster?
+   * Should we put males and females in different clusters?
 
-   /Is this an *agile* process? Why or why not?/
+   Ways to decide all depend on *patterns*:
+   * Go by your gut feeling ("1980s")
+   * Look at the data (EDA) and let marketing decide
+   * Let AI cluster customer segments
 
-** Data
-
-   Though the availability of data ("Big Data") drives much of the ML
-   development, the basic data format and the way the data are used to
-   establish ML models, are well known and have long been in use.
-
-*** Data format
-    Image: Table with features and labels for several examples.
-
-    #+attr_html: :width 600px
-    [[./img/data.png]]
-
-    Both features and labels are variables. Features are
-    given/independent, and labels are targets/dependent. The label
-    variables are what we want to predict.
-
-*** Data use
-
-    #+attr_html: :width 600px
-    [[./img/data1.png]]
-
-    The available data is split into training and test sets. The
-    training data is used to make the model learn, and the test data is
-    used to test the model on unknown data, simulating the real-world
-    application.
-
-** Programming
-
-*** Rules vs. learning
-
-    How does this kind of program relate to traditional rule-based
-    programming?
-
-    #+attr_html: :width 600px
-    [[./img/programming.png]]
-
-*** Research vs. deployment
-
-    The story of deployment is a lot more complicated than shown
-    here:
+*** Unsupervised learning = finds labels
 
     #+begin_quote
-    "As little as 5% of the actual code for machine learning
-    production systems is the model itself. What turns a collection of
-    machine learning solutions into an end-to-end machine learning
-    platform is an architecture that embraces technologies designed to
-    speed up modelling, automate the deployment, and ensure scalability
-    and reliability in production." ([[mlops][Hellstrom, 2020]])
+    "In unsupervised learning, an algorithm is fed with unlabeled
+    examples, and is asked to devide the examples into groups that
+    share some similarities."
     #+end_quote
 
-    Te bulk of the activities listed in this quote form part of the
-    "MLOps" challenge that Andrew Ng also mentioned ([[ng][Ng, 2020]]). The
-    figure below gives a schematic overview:
+    /Image: How a clustering algorithm works/
+    #+attr_html:  :width 600px
+    [[./img/clustering.png]]
 
-    #+attr_html: :width 600px
-    [[./img/mlops.png]]
+*** Supervised vs. unsupervised learning
+
+    /Image: Input/output differences between supervised and
+    unsupervised learning/
+    #+attr_html:  :width 600px
+    [[./img/difference.png]]
+        
 
 ** Concepts
 
-   | ML algorithm ("the AI") | Allows computers to learn from data                                  |
-   | Features                | Model input, characteristics of an object that the AI can learn from |
-   | Label                   | Model output or target we want the AI to predict                     |
-   | Training                | Phase when the AI is fed with past features to learn patterns        |
-   | Model                   | Output of the training phase, capable of making predictions          |
-   | Inference               | Phase in which the model is used with new examples                   |
-   | Training data           | Data used to create the model ("learning")                           |
-   | Test data               | Data used to test the model                                          |
-   | Production data         | Data used to run the model in the field ("deployed")                 |
-
-   Image: illustration of a supervised learning algorithm.
-
-   #+attr_html: :width 600px
-   [[./img/supervised.png]]
+   ...
 
 ** Discussion
 
    [[./img/discussion.gif]]
 
-   * How does machine learning relate to the *"intelligent agents"*
-     concept (as in [[aima][AIMA]])?[fn:2]
-   * What do you think are the *advantages* and *disadvantages* of
-     this approach?[fn:3]
-   * Do you *recognize* any of these concepts in your own AI
-     application (solo presentation or team project)? Does ML play a
-     role here?  Which one?
+   * What are the issues with each of the pattern identification
+     methods listed above (gut feeling/EDA/AI)
+   * What are some principal technical issues with supervised and
+     unsupervised learning?
+   * What is the potential cost of letting AI make more and more
+     decisions in sales and marketing?
 
 * References
 
@@ -150,6 +162,25 @@
   ed. Pearson. [[http://aima.cs.berkeley.edu/][Online: aima.cs.berkeley.edu.]]
 
 * Footnotes
+
+[fn:6]Note that the choice of label depends on the underlying business
+model. Digital services like Netflix or Spotify are easier to deal
+with since customers have to actively unsubscribe. Food retail is not
+so easy: customers don't tell you that they don't intend to come
+back.
+
+[fn:5]It is worth noting that strict personalization is
+philosophically impossible because humans are not machines (or
+animals): our preferences change over time, often irrationally so.
+
+[fn:4]'Scaling' is a major efficiency quantity in our times of mass
+applications. It relates to the ability of anything to apply to large
+numbers - ideally at infinitum. "Scaling laws", or power laws,
+describe growth where one quantity grows with a power. Exponential
+growth is an example. In IT and application development, scaling is
+desired for the number of people - e.g. an application on your phone
+should scale to any number of concurrent users. This implies demands
+on storage, speed, usability, and other characteristics.
 
 [fn:2]The relationship between AI and ML is briefly explained in AIMA
 at the start. Part V of the book deals exclusively with machine
