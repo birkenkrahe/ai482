@@ -157,7 +157,7 @@
    and fun.
 
 * Monday, October 25
-
+** Curiosity
   The AI seminar is picking up speed. There is still so much to talk
   and learn about, but between my short lectures and the students'
   presentations, I think we'll be able to cover a fair amount of
@@ -167,7 +167,7 @@
   The first three student solo presentations were very encouraging!
   They were certainly as good as anything that I ever presented to
   this class.
-
+** Champions
   When I saw this list ([[neurapod][Neura Pod-Neuralink, 2021]]) of AI champions, I
   was wondering how many of them believed in the principal uniqueness
   of humans (e.g. because they are Christians). What do you think?
@@ -179,7 +179,14 @@
   you from a video we watched in class, Larry Page created a
   successful document search and retrieval algorithm (and founded
   Google), and Bill Gates is (indirectly) responsible for your OS.
-  
+** China
+
+   Scary stuff in this German documentary (by "Deutsche Welle", which
+   is Germany's BBC World) - use of surveillance technology and AI in
+   China today and tomorrow.
+
+   https://youtu.be/7gSU_Xes3GQ
+   
 * References
 
   <<buch>> Buchanan BG (1972). Review of Hubert Dreyfus' What
