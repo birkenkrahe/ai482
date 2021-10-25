@@ -346,11 +346,17 @@
   [[./img/neuralink.png]]
 
 ** Lecture
-  * [[https://github.com/birkenkrahe/ai482/tree/main/9_ai_sales_marketing][AI for Sales and Marketing]] (Zero to AI ch.3)
 
+   [[./img/machine_learning.png]]
+   
+   [[https://github.com/birkenkrahe/ai482/tree/main/9_ai_sales_marketing][AI for Sales and Marketing]] (Zero to AI ch.3)
+
+   /Image: [[https://xkcd.com/1838/][machine learning by xkcd]]/
+   
 ** Homework
-  * Please prepare our session on "AI for Natural Language" on
-    November 1 with some self-study:
+
+   Please prepare our session on "AI for Natural Language" on November
+   1 with some self-study:
 
    1) To get going, watch 5 minutes of this video (from [[https://youtu.be/ISa10TrJK7w?t=115][here]] to
       [[https://youtu.be/ISa10TrJK7w?t=367][here]]) - recent coding successes with AI using natural
