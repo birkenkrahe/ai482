@@ -156,7 +156,7 @@
    research point of view, and is also fairly easy to do, affordable
    and fun.
 
-* Monday, October 25
+* Monday, October 25 - Snapshot
 ** Curiosity
   The AI seminar is picking up speed. There is still so much to talk
   and learn about, but between my short lectures and the students'
@@ -186,6 +186,11 @@
    China today and tomorrow.
 
    https://youtu.be/7gSU_Xes3GQ
+
+   #+attr_html: :width 600px
+   [[./img/china.png]]
+
+   /Image: surveillance data center in Shanghai, China/
    
 * References
 
