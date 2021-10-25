@@ -8,22 +8,45 @@
 * UNDER CONSTRUCTION
 
   [[./img/underconstruction.gif]]
-  
+
+* Entry example: Open AI Codex
+
+  Assignment: To get going, watch 5 minutes of this video (from [[https://youtu.be/ISa10TrJK7w?t=115][here]] to [[https://youtu.be/ISa10TrJK7w?t=367][here]]) -
+  recent coding successes with AI using natural language ([[neurapod][Neura Pod,
+  2021]]).
+
+  The video reveals a particular (not uncommon) form of bias of what
+  AI can and should do for us. It is contained in this quote:
+
+  #+begin_quote
+  "Programming is two things - one is: understand your problem. That
+  includes talking to your users, thinking super hard about it,
+  decomposing it in smaller pieces - these are the really cognitive
+  aspects of building something. And then there's a second piece,
+  which is: map a small functionality to code, whether it's an
+  existing or an existing function, whether it's in your own codebase
+  or out there in the world. And this second part is where the model
+  really shines, like, I think it's better than I am at it, because it
+  really has seen the whole universe of how people use code
+  [...[fn:4]]. It really accelerates me as a programmer, and takes
+  away the boring stuff so I can focus on the fun ones."
+  #+end_quote
+
 * What will you learn?
 
 
-    Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 5
+  Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 5
 ** Examples
 *** Grammarly
 
-   [[https://youtu.be/xmmfWcR65kI]["Edit essays faster" (Sept 21, 2021)]]
+    [[https://youtu.be/xmmfWcR65kI]["Edit essays faster" (Sept 21, 2021)]]
 
 *** NLP in the undergraduate CS curriculum
     * [[https://www.researchgate.net/publication/2852540_Natural_Language_Processing_in_the_Undergraduate_Curriculum][2003 article]]
     * [[https://dl.acm.org/doi/10.1145/800037.800988][1981 article]]
 
       Idea: write a 2022 update?
-      
+
 ** Problem
 
 ** Process
@@ -44,23 +67,19 @@
    [[./img/discussion.gif]]
 
    * ...
-     
-* References
 
-  <<mlops>> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
-  Learning Platforms [Blog]. [[https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/][Online: databaseline.tech.]]
+* References
 
   <<zero2ai>> Mauro/Valigi (2021). Zero to AI - a nontechnical,
   hype-free guide to prospering in the AI era. Manning. [[https://www.manning.com/books/zero-to-ai][Online:
   manning.com]].
 
-  <<ng>> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
-  Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY][Online: youtube.com]].
-
-  <<aima>> Russel/Norvig (2021). AI a Modern Approach 4th
-  ed. Pearson. [[http://aima.cs.berkeley.edu/][Online: aima.cs.berkeley.edu.]]
+  <<neurapod>> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
+  [video]:1:55-6:05. [[https://youtu.be/ISa10TrJK7w][Online: youtube.com.]]
 
 * Footnotes
+
+[fn:4]Using the GPT-3 model. 
 
 [fn:2]The relationship between AI and ML is briefly explained in AIMA
 at the start. Part V of the book deals exclusively with machine
