@@ -338,17 +338,30 @@
   [[./img/dat.png]]
 
   * [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]: Search algorithms (Dat O)
-  * [[https://github.com/birkenkrahe/ai482/tree/main/protocols#orgcad7132][Protocol/Feedback]] 
+  * [[https://github.com/birkenkrahe/ai482/tree/main/protocols#orgcad7132][Protocol/Feedback]]
 
 * Week 11 - October 25
 
-    #+attr_html: :width 600px
-    [[./img/neuralink.png]]
-  
-  * [[https://github.com/birkenkrahe/ai482/tree/main/9_ai_sales_marketing][AI for Sales and Marketing]] (Case Studies)
+  #+attr_html: :width 600px
+  [[./img/neuralink.png]]
+
+    Lecture:
+  * [[https://github.com/birkenkrahe/ai482/tree/main/9_ai_sales_marketing][AI for Sales and Marketing]] (Zero to AI ch.3)
+
+    Homework: read ch.5 of "Zero to AI" ([[https://drive.google.com/file/d/1MVSgQhbCX5c2Km7Pjdcy6NiZp3RgauB3/view?usp=sharing][PDF]])
+    - Main challenges of NLP
+    - Introduction to Sentiment analysis
+    - Searching for content with natural queries
+    - Building chatbots[fn:4]
+
+    Happening:
   * [[https://medium.com/ai2-blog/stay-up-to-date-with-the-latest-research-in-your-field-d237d643210][Research paper recommender at semantic scholar]]
   * [[https://youtu.be/ISa10TrJK7w][Open AI and Neuralink]] (video, 3 Oct 2021)[fn:3]
   * News: [[https://scitechdaily.com/a-new-nobel-computer-scientist-wins-1-million-artificial-intelligence-prize/][AAAI Squirrel AI Award for Cynthia Rudin]]
+
+    /Image: Interesting choice of membership categories. (Neurapod)/
+  #+attr_html: :width 600px   
+  [[./img/neurapod.png]]
 
 * Week 11 - October 27+29
 
@@ -357,7 +370,11 @@
 
   * [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]: AI and Football: player health (Malcolm)
   * [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]: AI and Soccer: player development (Fortunato)
+
+* Week 12 -  November 1
+
   
+    
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
@@ -376,6 +393,11 @@
   about new Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
 
 * Footnotes
+
+[fn:4]See the [[https://youtu.be/ISa10TrJK7w?t=115][first minutes of this video]] for recent progress in
+machine translation using the new GPT-3 language generating
+algorithm. The GitHub pilot for this application (AI-supported coding
+with natural language) [[https://copilot.github.com/][is here]]. I am on the waiting list...
 
 [fn:3]If we've got extra time to spare after a presentation, or if we
 don't have a presenter, we'll work through this video to get a glimpse
