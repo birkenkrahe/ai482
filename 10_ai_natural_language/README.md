@@ -1,117 +1,79 @@
 
 # Table of Contents
 
--   [UNDER CONSTRUCTION](#orgdd24b00)
--   [What will you learn?](#org32d25a2)
-    -   [Examples](#orgf09b9bb)
-        -   [Grammarly](#org153d6bf)
-        -   [NLP in the undergraduate CS curriculum](#orgd225903)
-    -   [Problem](#orgbb6137c)
-    -   [Process](#org2a7eddd)
-    -   [Data](#orgc6d9d5e)
-        -   [Data format](#orgdd85216)
-        -   [Data use](#org93c4b4b)
-    -   [Programming](#org47d8201)
-    -   [Concepts](#orgd05ccba)
-    -   [Discussion](#org33e21dc)
--   [References](#org324bb90)
+-   [UNDER CONSTRUCTION](#org4934959)
+-   [Entry example: Open AI Codex](#org5465eaf)
+-   [What will you learn?](#org4feb64a)
+-   [Questions for discussion](#org711fbac)
+-   [References](#org4ce6e53)
 
 
 
-<a id="orgdd24b00"></a>
+<a id="org4934959"></a>
 
 # UNDER CONSTRUCTION
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="org32d25a2"></a>
+<a id="org5465eaf"></a>
+
+# Entry example: Open AI Codex
+
+**Assignment:** To get going, watch 5 minutes of this video (from [here](https://youtu.be/ISa10TrJK7w?t=115) to [here](https://youtu.be/ISa10TrJK7w?t=367)) -
+recent coding successes with AI using natural language ([Neura Pod,
+2021](#orgaffcdae)).
+
+The video reveals a particular (not uncommon) form of bias of what
+AI can and should do for us. It is contained in this quote:
+
+> "Programming is two things - one is: understand your problem. That
+> includes talking to your users, thinking super hard about it,
+> decomposing it in smaller pieces - these are the really cognitive
+> aspects of building something. And then there's a second piece,
+> which is: map a small functionality to code, whether it's an
+> existing or an existing function, whether it's in your own codebase
+> or out there in the world. And this second part is where the model
+> really shines, like, I think it's better than I am at it, because it
+> really has seen the whole universe of how people use code
+> [&#x2026;<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>]. It really accelerates me as a programmer, and takes
+> away the boring stuff so I can focus on the fun ones."
+
+
+<a id="org4feb64a"></a>
 
 # What will you learn?
 
-Image source: [Mauro/Valigi (2021)](#org380a444), chapter 5
+-   What is Natural Language Processing (NLP)?
+-   How is NLP success measured?
+-   What is sentiment analysis?
+-   How are chatbots designed?
+
+Image source: [Mauro/Valigi (2021)](#org80d0304), chapter 5
 
 
-<a id="orgf09b9bb"></a>
+<a id="org711fbac"></a>
 
-## Examples
+# Questions for discussion
 
-
-<a id="org153d6bf"></a>
-
-### Grammarly
-
-["Edit essays faster" (Sept 21, 2021)](https://youtu.be/xmmfWcR65kI)
+-   Which two metrics are used to measure NLP performance?
+-   Why is sentiment analysis a classification problem?
+-   What does OpenAI's GPT-2 model do?
+-   How does BrokerBot differ from Eliza the therapist bot?
 
 
-<a id="orgd225903"></a>
-
-### NLP in the undergraduate CS curriculum
-
--   [2003 article](https://www.researchgate.net/publication/2852540_Natural_Language_Processing_in_the_Undergraduate_Curriculum)
--   [1981 article](https://dl.acm.org/doi/10.1145/800037.800988)
-    
-    Idea: write a 2022 update?
-
-
-<a id="orgbb6137c"></a>
-
-## Problem
-
-
-<a id="org2a7eddd"></a>
-
-## Process
-
-
-<a id="orgc6d9d5e"></a>
-
-## Data
-
-
-<a id="orgdd85216"></a>
-
-### Data format
-
-
-<a id="org93c4b4b"></a>
-
-### Data use
-
-
-<a id="org47d8201"></a>
-
-## Programming
-
-
-<a id="orgd05ccba"></a>
-
-## Concepts
-
-
-<a id="org33e21dc"></a>
-
-## Discussion
-
-![img](./img/discussion.gif)
-
--   &#x2026;
-
-
-<a id="org324bb90"></a>
+<a id="org4ce6e53"></a>
 
 # References
 
-<a id="orgad74265"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
-Learning Platforms [Blog]. [Online: databaseline.tech.](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
-
-<a id="org380a444"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="org80d0304"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
-<a id="orgd444052"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
-Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
+<a id="orgaffcdae"></a> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
+[video]:1:55-6:05. [Online: youtube.com.](https://youtu.be/ISa10TrJK7w)
 
-<a id="orgc7e2957"></a> Russel/Norvig (2021). AI a Modern Approach 4th
-ed. Pearson. [Online: aima.cs.berkeley.edu.](http://aima.cs.berkeley.edu/)
 
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Using the GPT-3 model.

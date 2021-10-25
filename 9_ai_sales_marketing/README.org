@@ -7,10 +7,10 @@
 #+INFOJS_OPT: :view:info
 * What will you learn?
 
-  * Using supervised vs. unsupervised ML
   * Customer churn and segmentation decisions
   * Measuring algorithm performance
-    
+  * Using supervised vs. unsupervised ML
+
     Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 3
 
 ** Problem: personalization at scale
@@ -55,7 +55,7 @@
      #+attr_html:  :width 600px
      [[./img/ml1.png]]
 
-     /Which phase is missing in this model?/
+     /Which phase is missing in this model?[fn:7]/
 
 ** Measuring algorithm performance
 
@@ -70,6 +70,11 @@
 
 ** Accuracy, precision and recall
 
+   A critical part of developing ML models is to check for
+   errors. This is unfortunately not straightforward because of the
+   stochastic nature of the methods. One has to come up with methods
+   that eliminate false answers (conditional probabilities).
+   
 *** Definitions
 
     | Accuracy  | What's the ratio of correct vs total predictions?        |
@@ -86,16 +91,30 @@
 
 *** Business use
 
+    Depending on the model accuracy/recall/precision profile, the
+    model can be employed either to minimize costs of losing
+    customers, or of retaining customers. Which is more important
+    depends on the business model.
+
+    For example, the way of winning/retaining customers of a digital
+    subscription service like Netflix or Spotify is very different
+    from winning/retaining customers of a real retail location like a
+    physical Walmart store.
+    
     #+attr_html:  :width 600px
     [[./img/business.png]]
     /Image: focus depends on cost of losing vs. retaining customers/
 
 *** Health care application
 
+    This example illustrates that eliminating stochastic error can be
+    a life or death issue - it's not always about selling more stuff.
+
     #+attr_html:  :width 600px
     [[./img/cost.png]]
     /Image: Implications of confusion on cancer detection/
      
+
 ** Perform automatic customer segmentation
 
    | Segmentation | Group customers who share behaviors and characteristics |
@@ -132,7 +151,7 @@
 
 ** Concepts
 
-   ...
+   
 
 ** Discussion
 
@@ -161,6 +180,12 @@
   ed. Pearson. [[http://aima.cs.berkeley.edu/][Online: aima.cs.berkeley.edu.]]
 
 * Footnotes
+
+[fn:7]Answer: the testing phase. Once the model has been trained on a
+part (usually 75%) of the historic (accurate, real) data, it is tested
+using the remaining historic data. If it then performs according to
+expectation, it is released "into the wilde", that is deployed to
+identify labels from existing feature data sets.
 
 [fn:6]Note that the choice of label depends on the underlying business
 model. Digital services like Netflix or Spotify are easier to deal

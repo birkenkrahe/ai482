@@ -11,7 +11,7 @@
 
 * Entry example: Open AI Codex
 
-  Assignment: To get going, watch 5 minutes of this video (from [[https://youtu.be/ISa10TrJK7w?t=115][here]] to [[https://youtu.be/ISa10TrJK7w?t=367][here]]) -
+  *Assignment:* To get going, watch 5 minutes of this video (from [[https://youtu.be/ISa10TrJK7w?t=115][here]] to [[https://youtu.be/ISa10TrJK7w?t=367][here]]) -
   recent coding successes with AI using natural language ([[neurapod][Neura Pod,
   2021]]).
 
@@ -32,42 +32,23 @@
   away the boring stuff so I can focus on the fun ones."
   #+end_quote
 
+  
 * What will you learn?
 
+  * What is Natural Language Processing (NLP)?
+  * How is NLP success measured?
+  * What is sentiment analysis?
+  * How are chatbots designed?
 
   Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 5
-** Examples
-*** Grammarly
 
-    [[https://youtu.be/xmmfWcR65kI]["Edit essays faster" (Sept 21, 2021)]]
+* Questions for discussion
 
-*** NLP in the undergraduate CS curriculum
-    * [[https://www.researchgate.net/publication/2852540_Natural_Language_Processing_in_the_Undergraduate_Curriculum][2003 article]]
-    * [[https://dl.acm.org/doi/10.1145/800037.800988][1981 article]]
-
-      Idea: write a 2022 update?
-
-** Problem
-
-** Process
-
-** Data
-
-*** Data format
-
-*** Data use
-
-** Programming
-
-
-** Concepts
-
-** Discussion
-
-   [[./img/discussion.gif]]
-
-   * ...
-
+  * Which two metrics are used to measure NLP performance?
+  * Why is sentiment analysis a classification problem?
+  * What does OpenAI's GPT-2 model do?
+  * How does BrokerBot differ from Eliza the therapist bot?
+  
 * References
 
   <<zero2ai>> Mauro/Valigi (2021). Zero to AI - a nontechnical,
