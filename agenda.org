@@ -348,11 +348,22 @@
     Lecture:
   * [[https://github.com/birkenkrahe/ai482/tree/main/9_ai_sales_marketing][AI for Sales and Marketing]] (Zero to AI ch.3)
 
-    Homework: read ch.5 of "Zero to AI" ([[https://drive.google.com/file/d/1MVSgQhbCX5c2Km7Pjdcy6NiZp3RgauB3/view?usp=sharing][PDF]])
-    - Main challenges of NLP
-    - Introduction to Sentiment analysis
-    - Searching for content with natural queries
-    - Building chatbots[fn:4]
+    Homework:
+  * Please prepare our session on "AI for Natural Language" on
+    November 1 with some self-study:
+
+   1) To get going, watch 5 minutes of this video (from [[https://youtu.be/ISa10TrJK7w?t=115][here]] to
+      [[https://youtu.be/ISa10TrJK7w?t=367][here]]) - recent coding successes with AI using natural
+      language. This shows recent successes with the GPT-3 model.
+
+   2) Read pp. 91-112 of "Zero to AI" ([[https://drive.google.com/file/d/1MVSgQhbCX5c2Km7Pjdcy6NiZp3RgauB3/view?usp=sharing][PDF]]). This is a non-technical
+      discussion of different Natural Language Processing (NLP)
+      applications. Some questions that you should be able to answer
+      afterwards:
+      * Which two metrics are used to measure NLP performance?
+      * Why is sentiment analysis a classification problem?
+      * What does OpenAI's GPT-2 model do?
+      * How does ~BrokerBot~ differ from ~Eliza~ the therapist bot?
 
     Happening:
   * [[https://medium.com/ai2-blog/stay-up-to-date-with-the-latest-research-in-your-field-d237d643210][Research paper recommender at semantic scholar]]
