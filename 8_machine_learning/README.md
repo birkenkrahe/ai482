@@ -1,23 +1,23 @@
 
 # Table of Contents
 
--   [What will you learn?](#orgbf79185)
--   [ML basics](#orgc9ebed1)
-    -   [Problem](#org86aa004)
-    -   [Process](#orge337671)
-    -   [Data](#orgbc1c722)
-        -   [Data format](#org4ca30c9)
-        -   [Data use](#org2fc119c)
-    -   [Programming](#orgb0c844b)
-        -   [Rules vs. learning](#orga7f5a56)
-        -   [Research vs. deployment](#org3bed6ef)
-    -   [Concepts](#orgc41ed52)
-    -   [Discussion](#org4996f9b)
--   [References](#org9d0c0be)
+-   [What will you learn?](#orga1dcda6)
+-   [ML basics](#orgdbf858f)
+    -   [Problem](#org033dfac)
+    -   [Process](#org57d79e8)
+    -   [Data](#org4726e7d)
+        -   [Data format](#orge87f80a)
+        -   [Data use](#orgd8f9fef)
+    -   [Programming](#orga77d363)
+        -   [Rules vs. learning](#org457c378)
+        -   [Research vs. deployment](#org42630b1)
+    -   [Concepts](#org9508b59)
+    -   [Discussion](#org29b78ef)
+-   [References](#org3075190)
 
 
 
-<a id="orgbf79185"></a>
+<a id="orga1dcda6"></a>
 
 # What will you learn?
 
@@ -28,13 +28,13 @@
 -   Programming
 
 
-<a id="orgc9ebed1"></a>
+<a id="orgdbf858f"></a>
 
 # ML basics
 
 ![img](./img/cover.jpeg)
 
-Following Mauro/Valigi (2021), we use an online real estate platform
+Following Mauro/Valigi (2020), we use an online real estate platform
 as an example to illustrate how machine learning can work.
 
 The core business problem is matching sellers and buyers. The core
@@ -45,10 +45,10 @@ When a new house comes on the market, we want the AI to predict a
 price based on other comparable houses. The AI computes a similarity
 measure.
 
-Source of all images: [Mauro/Valigi, 2021](#org7f713be).
+Source of all images: [Mauro/Valigi, 2021](#org925ad9e).
 
 
-<a id="org86aa004"></a>
+<a id="org033dfac"></a>
 
 ## Problem
 
@@ -60,7 +60,7 @@ listed on a real estate platform. *Image: purchasing process.*
 *Which other **problems** suited for ML do you know?*<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
 
 
-<a id="orge337671"></a>
+<a id="org57d79e8"></a>
 
 ## Process
 
@@ -72,7 +72,7 @@ inference.
 *Is this an **agile** process? Why or why not?*
 
 
-<a id="orgbc1c722"></a>
+<a id="org4726e7d"></a>
 
 ## Data
 
@@ -81,7 +81,7 @@ development, the basic data format and the way the data are used to
 establish ML models, are well known and have long been in use.
 
 
-<a id="org4ca30c9"></a>
+<a id="orge87f80a"></a>
 
 ### Data format
 
@@ -94,7 +94,7 @@ given/independent, and labels are targets/dependent. The label
 variables are what we want to predict.
 
 
-<a id="org2fc119c"></a>
+<a id="orgd8f9fef"></a>
 
 ### Data use
 
@@ -106,12 +106,12 @@ used to test the model on unknown data, simulating the real-world
 application.
 
 
-<a id="orgb0c844b"></a>
+<a id="orga77d363"></a>
 
 ## Programming
 
 
-<a id="orga7f5a56"></a>
+<a id="org457c378"></a>
 
 ### Rules vs. learning
 
@@ -121,7 +121,7 @@ programming?
 ![img](./img/programming.png)
 
 
-<a id="org3bed6ef"></a>
+<a id="org42630b1"></a>
 
 ### Research vs. deployment
 
@@ -133,16 +133,16 @@ here:
 > machine learning solutions into an end-to-end machine learning
 > platform is an architecture that embraces technologies designed to
 > speed up modelling, automate the deployment, and ensure scalability
-> and reliability in production." ([Hellstrom, 2020](#orgda98491)) 
+> and reliability in production." ([Hellstrom, 2020](#org864c9ac)) 
 
 Te bulk of the activities listed in this quote form part of the
-"MLOps" challenge that Andrew Ng also mentioned ([Ng, 2020](#orgd3a6d7e)). The
+"MLOps" challenge that Andrew Ng also mentioned ([Ng, 2020](#orgef3756e)). The
 figure below gives a schematic overview:
 
 ![img](./img/mlops.png)
 
 
-<a id="orgc41ed52"></a>
+<a id="org9508b59"></a>
 
 ## Concepts
 
@@ -215,14 +215,14 @@ Image: illustration of a supervised learning algorithm.
 ![img](./img/supervised.png)
 
 
-<a id="org4996f9b"></a>
+<a id="org29b78ef"></a>
 
 ## Discussion
 
 ![img](./img/discussion.gif)
 
 -   How does machine learning relate to the **"intelligent agents"**
-    concept (as in [AIMA](#org1331b61))?<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
+    concept (as in [AIMA](#org34209de))?<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 -   What do you think are the **advantages** and **disadvantages** of
     this approach?<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
 -   Do you **recognize** any of these concepts in your own AI
@@ -230,21 +230,21 @@ Image: illustration of a supervised learning algorithm.
     role here?  Which one?
 
 
-<a id="org9d0c0be"></a>
+<a id="org3075190"></a>
 
 # References
 
-<a id="orgda98491"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
+<a id="org864c9ac"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
 Learning Platforms [Blog]. [Online: databaseline.tech.](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
 
-<a id="org7f713be"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="org925ad9e"></a> Mauro/Valigi (2020). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
-<a id="orgd3a6d7e"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+<a id="orgef3756e"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
 
-<a id="org1331b61"></a> Russel/Norvig (2021). AI a Modern Approach 4th
+<a id="org34209de"></a> Russel/Norvig (2021). AI a Modern Approach 4th
 ed. Pearson. [Online: aima.cs.berkeley.edu.](http://aima.cs.berkeley.edu/)
 
 
