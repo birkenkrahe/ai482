@@ -38,7 +38,7 @@
    * Identifying which customers are likely to buy a new service
    * Identifying simlar customer groups (customer segmentation)
 
-     Remember the basic process (as a BPMN diagram):
+     Remember the basic process:
 
      #+attr_html:  :width 600px
      [[./img/ml.png]]
