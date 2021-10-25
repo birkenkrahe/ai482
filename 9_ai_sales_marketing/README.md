@@ -1,36 +1,36 @@
 
 # Table of Contents
 
--   [What will you learn?](#org7f2c899)
-    -   [Problem: personalization at scale](#org9311390)
-    -   [Marketing sample problems](#org5366e68)
-    -   [Predicting churning customers](#org0eb9f33)
-    -   [Measuring algorithm performance](#org172a59d)
-    -   [Accuracy, precision and recall](#org24a33db)
-        -   [Definitions](#orge04de2f)
-        -   [Business use](#org94e865e)
-        -   [Health care application](#org4e11749)
-    -   [Perform automatic customer segmentation](#org47ff0b2)
-        -   [Unsupervised learning = finds labels](#org80f3e42)
-        -   [Supervised vs. unsupervised learning](#org6ad39f7)
-    -   [Concepts](#orgebac654)
-    -   [Discussion](#org3a8dfe4)
--   [References](#org2e1e5a8)
+-   [What will you learn?](#orge7058ab)
+    -   [Problem: personalization at scale](#orgcf654d7)
+    -   [Marketing sample problems](#orga6ffae9)
+    -   [Predicting churning customers](#org9c54326)
+    -   [Measuring algorithm performance](#org4b3e27a)
+    -   [Accuracy, precision and recall](#orgae643e5)
+        -   [Definitions](#org60fac4f)
+        -   [Business use](#orgfed807d)
+        -   [Health care application](#org43f133b)
+    -   [Perform automatic customer segmentation](#org4cc6bc1)
+        -   [Unsupervised learning = finds labels](#org18ba382)
+        -   [Supervised vs. unsupervised learning](#org001ba55)
+    -   [Concepts](#org46560e0)
+    -   [Discussion](#org34ecfb7)
+-   [References](#org3031734)
 
 
 
-<a id="org7f2c899"></a>
+<a id="orge7058ab"></a>
 
 # What will you learn?
 
--   Using supervised vs. unsupervised ML
 -   Customer churn and segmentation decisions
 -   Measuring algorithm performance
+-   Using supervised vs. unsupervised ML
     
-    Image source: [Mauro/Valigi (2021)](#org3efb1f7), chapter 3
+    Image source: [Mauro/Valigi (2021)](#orgb71ad76), chapter 3
 
 
-<a id="org9311390"></a>
+<a id="orgcf654d7"></a>
 
 ## Problem: personalization at scale
 
@@ -48,21 +48,21 @@
     data that you generate as customers?*
 
 
-<a id="org5366e68"></a>
+<a id="orga6ffae9"></a>
 
 ## Marketing sample problems
 
 -   Identifying which customers are likely to leave your service
     ("churn")
 -   Identifying which customers are likely to buy a new service
--   Identifying simlar customer groups (customer segmentation)
+-   Identifying similar customer groups (customer segmentation)
     
     Remember the basic process:
     
     ![img](./img/ml.png)
 
 
-<a id="org0eb9f33"></a>
+<a id="org9c54326"></a>
 
 ## Predicting churning customers
 
@@ -89,10 +89,10 @@
     
     ![img](./img/ml1.png)
     
-    *Which phase is missing in this model?*
+    *Which phase is missing in this model?<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>*
 
 
-<a id="org172a59d"></a>
+<a id="org4b3e27a"></a>
 
 ## Measuring algorithm performance
 
@@ -106,12 +106,17 @@
     *Table: confusion matrix - predictions vs. truth*
 
 
-<a id="org24a33db"></a>
+<a id="orgae643e5"></a>
 
 ## Accuracy, precision and recall
 
+A critical part of developing ML models is to check for
+errors. This is unfortunately not straightforward because of the
+stochastic nature of the methods. One has to come up with methods
+that eliminate false answers (conditional probabilities).
 
-<a id="orge04de2f"></a>
+
+<a id="org60fac4f"></a>
 
 ### Definitions
 
@@ -150,23 +155,36 @@
 *Table: How to use accuracy, precision and recall metrics*
 
 
-<a id="org94e865e"></a>
+<a id="orgfed807d"></a>
 
 ### Business use
+
+Depending on the model accuracy/recall/precision profile, the
+model can be employed either to minimize costs of losing
+customers, or of retaining customers. Which is more important
+depends on the business model.
+
+For example, the way of winning/retaining customers of a digital
+subscription service like Netflix or Spotify is very different
+from winning/retaining customers of a real retail location like a
+physical Walmart store.
 
 ![img](./img/business.png)
 *Image: focus depends on cost of losing vs. retaining customers*
 
 
-<a id="org4e11749"></a>
+<a id="org43f133b"></a>
 
 ### Health care application
+
+This example illustrates that eliminating stochastic error can be
+a life or death issue - it's not always about selling more stuff.
 
 ![img](./img/cost.png)
 *Image: Implications of confusion on cancer detection*
 
 
-<a id="org47ff0b2"></a>
+<a id="org4cc6bc1"></a>
 
 ## Perform automatic customer segmentation
 
@@ -199,7 +217,7 @@ Ways to decide all depend on **patterns**:
 -   Let AI cluster customer segments
 
 
-<a id="org80f3e42"></a>
+<a id="org18ba382"></a>
 
 ### Unsupervised learning = finds labels
 
@@ -212,7 +230,7 @@ Ways to decide all depend on **patterns**:
 ![img](./img/clustering.png)
 
 
-<a id="org6ad39f7"></a>
+<a id="org001ba55"></a>
 
 ### Supervised vs. unsupervised learning
 
@@ -222,14 +240,64 @@ unsupervised learning*
 ![img](./img/difference.png)
 
 
-<a id="orgebac654"></a>
+<a id="org46560e0"></a>
 
 ## Concepts
 
-&#x2026;
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<a id="org3a8dfe4"></a>
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Scaling</td>
+<td class="org-left">Speed, usability, storage, concurrent access</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Personalization</td>
+<td class="org-left">Opposite of standardization (or segmentation)</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Churning</td>
+<td class="org-left">Likelihood of losing a customer</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Error measures</td>
+<td class="org-left">Accuracy, precision, recall</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Confusion matrix</td>
+<td class="org-left">True and false positive or negative predictions</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Predictor</td>
+<td class="org-left">Label generated by a supervised learning algorithm</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Unsupervised learning</td>
+<td class="org-left">Clustering problem without labels</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="org34ecfb7"></a>
 
 ## Discussion
 
@@ -243,21 +311,21 @@ unsupervised learning*
     decisions in sales and marketing?
 
 
-<a id="org2e1e5a8"></a>
+<a id="org3031734"></a>
 
 # References
 
-<a id="orgb345d62"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
+<a id="org70f491e"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
 Learning Platforms [Blog]. [Online: databaseline.tech.](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
 
-<a id="org3efb1f7"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="orgb71ad76"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
-<a id="org519bc6e"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+<a id="org5140a8a"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
 
-<a id="org48aed6f"></a> Russel/Norvig (2021). AI a Modern Approach 4th
+<a id="orgfdefb60"></a> Russel/Norvig (2021). AI a Modern Approach 4th
 ed. Pearson. [Online: aima.cs.berkeley.edu.](http://aima.cs.berkeley.edu/)
 
 
@@ -281,3 +349,9 @@ model. Digital services like Netflix or Spotify are easier to deal
 with since customers have to actively unsubscribe. Food retail is not
 so easy: customers don't tell you that they don't intend to come
 back.
+
+<sup><a id="fn.4" href="#fnr.4">4</a></sup> Answer: the testing phase. Once the model has been trained on a
+part (usually 75%) of the historic (accurate, real) data, it is tested
+using the remaining historic data. If it then performs according to
+expectation, it is released "into the wilde", that is deployed to
+identify labels from existing feature data sets.
