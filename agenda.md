@@ -1,34 +1,34 @@
 
 # Table of Contents
 
--   [Week 2 - August 25](#org1e1146d)
--   [Week 2 - August 27](#orgd3c1798)
--   [Week 3 - August 30](#org3c69b55)
--   [Week 4 - September 8](#org066ccad)
--   [Week 4 - September 10](#orgd8a6426)
--   [Week 5 - September 13](#org5aa561b)
--   [Week 5 - September 15](#orgd22023e)
--   [Week 5 - September 17](#org00d90df)
--   [Week 6 - September 20/22](#org44687ce)
--   [Week 6 - September 24](#org19c702b)
--   [Week 7 - September 27](#org740952a)
--   [Week 7 - September 29](#orgbbc4f2c)
--   [Week 7 - October 1](#orgbf5497e)
--   [Week 8 - October 6](#org374040d)
--   [Week 8 - October 8](#org04d02ce)
--   [Week 9 - October 11](#org6542cfc)
--   [Week 9 - October 14](#orgb664579)
--   [Week 9 - October 15](#org1ee027b)
--   [Week 10 - October 18](#org507f074)
--   [Week 10 - October 22](#org71701ef)
--   [Week 11 - October 25](#org62b0e93)
--   [Week 11 - October 27+29](#org7aaefd1)
--   [Week 12 -  November 1](#org067ed77)
--   [References](#orgdcbd94e)
+-   [Week 2 - August 25](#org424f80e)
+-   [Week 2 - August 27](#org1854100)
+-   [Week 3 - August 30](#org3128ef5)
+-   [Week 4 - September 8](#orgce8e56d)
+-   [Week 4 - September 10](#org13a44c5)
+-   [Week 5 - September 13](#orgfeac752)
+-   [Week 5 - September 15](#orge9bab42)
+-   [Week 5 - September 17](#org880e24f)
+-   [Week 6 - September 20/22](#orgd8157e2)
+-   [Week 6 - September 24](#orgdd0e25a)
+-   [Week 7 - September 27](#org98ea166)
+-   [Week 7 - September 29](#orga5336ac)
+-   [Week 7 - October 1](#orgf13b0a3)
+-   [Week 8 - October 6](#org2b8059e)
+-   [Week 8 - October 8](#org19b151d)
+-   [Week 9 - October 11](#org2aaacd1)
+-   [Week 9 - October 14](#org5972140)
+-   [Week 9 - October 15](#org83fc1c2)
+-   [Week 10 - October 18](#orgb20f8b7)
+-   [Week 10 - October 22](#org2718c08)
+-   [Week 11 - October 25](#org80e8bae)
+-   [Week 11 - October 27+29](#org087ae3a)
+-   [Week 12 -  November 1](#org424acd5)
+-   [References](#org65e07f4)
 
 
 
-<a id="org1e1146d"></a>
+<a id="org424f80e"></a>
 
 # Week 2 - August 25
 
@@ -49,7 +49,7 @@
     -   Agendas will be posted
 
 
-<a id="orgd3c1798"></a>
+<a id="org1854100"></a>
 
 # Week 2 - August 27
 
@@ -59,7 +59,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org2e25ba1))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org312029d))*
 
 
 ## Housekeeping
@@ -84,11 +84,11 @@
 
 ## References
 
-<a id="org2e25ba1"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="org312029d"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="org3c69b55"></a>
+<a id="org3128ef5"></a>
 
 # Week 3 - August 30
 
@@ -128,7 +128,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 
 
-<a id="org066ccad"></a>
+<a id="orgce8e56d"></a>
 
 # Week 4 - September 8
 
@@ -194,7 +194,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 </table>
 
 
-<a id="orgd8a6426"></a>
+<a id="org13a44c5"></a>
 
 # Week 4 - September 10
 
@@ -206,7 +206,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Still no ideas? [See Stanford '21 conference](https://hai.stanford.edu/2021-spring-conference-agenda)
 
 
-<a id="org5aa561b"></a>
+<a id="orgfeac752"></a>
 
 # Week 5 - September 13
 
@@ -246,7 +246,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Briefly present your findings
 
 
-<a id="orgd22023e"></a>
+<a id="orge9bab42"></a>
 
 # Week 5 - September 15
 
@@ -258,17 +258,17 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 ## Automatic creativity?
 
 
-### [Plotto book (Legro, 2012)](#org87cb1c2)
+### [Plotto book (Legro, 2012)](#orgc1b0bb2)
 
 ![img](./img/cook.png)
 
 
-### [Wycliffe Hill's 1931 plot robot (Collins, 2009)](#org877b2e9)
+### [Wycliffe Hill's 1931 plot robot (Collins, 2009)](#org84ef416)
 
 ![img](./img/plotto.jpg)
 
 
-### [Plotto game (Redgrave, 2018)](#orga0b07f0)
+### [Plotto game (Redgrave, 2018)](#org98d04c2)
 
 ![img](./img/plottogame.png)
 
@@ -284,17 +284,17 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 
 ## References
 
-<a id="org877b2e9"></a> Collins P (6 Jul 2009). The King of All Formulas
+<a id="org84ef416"></a> Collins P (6 Jul 2009). The King of All Formulas
 [Blog]. [Online: slate.com.](https://slate.com/news-and-politics/2009/07/the-man-who-invented-the-hollywood-schlock-machine.html)
 
-<a id="org87cb1c2"></a> Legro M (6 Jan 2012). Plotto: The Master Book of All
+<a id="orgc1b0bb2"></a> Legro M (6 Jan 2012). Plotto: The Master Book of All
 Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01/06/plotto/)
 
-<a id="orga0b07f0"></a> Redgrave AL (29 Apr 2018). Plotto Demo
+<a id="org98d04c2"></a> Redgrave AL (29 Apr 2018). Plotto Demo
 [Video]. [Online: youtube.com](https://youtu.be/VbWrs8wm5sA).
 
 
-<a id="org00d90df"></a>
+<a id="org880e24f"></a>
 
 # Week 5 - September 17
 
@@ -304,7 +304,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Next: AI in Sales and Marketing (example)
 
 
-<a id="org44687ce"></a>
+<a id="orgd8157e2"></a>
 
 # Week 6 - September 20/22
 
@@ -312,7 +312,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   [Lectures in GitHub](https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents)
 
 
-<a id="org19c702b"></a>
+<a id="orgdd0e25a"></a>
 
 # Week 6 - September 24
 
@@ -324,10 +324,10 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
     -   Part II: Change management
     -   Part III: Full cycle of ML projects
 
-*Image source: [Williams, 2020](#org48d50d3).*
+*Image source: [Williams, 2020](#org4057ed3).*
 
 
-<a id="org740952a"></a>
+<a id="org98ea166"></a>
 
 # Week 7 - September 27
 
@@ -342,7 +342,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 *Image: Two AIs talk about becoming human (Soslow, 2021)*
 
 
-<a id="orgbbc4f2c"></a>
+<a id="orga5336ac"></a>
 
 # Week 7 - September 29
 
@@ -353,7 +353,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   New diary entry: [taking stock](https://github.com/birkenkrahe/ai482/blob/main/diary.md#org1e569bc) (Sept 27)
 
 
-<a id="orgbf5497e"></a>
+<a id="orgf13b0a3"></a>
 
 # Week 7 - October 1
 
@@ -364,7 +364,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Oct 8: [Upload PDF here by 9 AM](https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review) (everybody)
 
 
-<a id="org374040d"></a>
+<a id="org2b8059e"></a>
 
 # Week 8 - October 6
 
@@ -376,7 +376,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Tell me your solo presentation topics!
 
 
-<a id="org04d02ce"></a>
+<a id="org19b151d"></a>
 
 # Week 8 - October 8
 
@@ -387,7 +387,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Mon: [sprint review](https://github.com/birkenkrahe/org/blob/master/FAQ.md) critique
 
 
-<a id="org6542cfc"></a>
+<a id="org2aaacd1"></a>
 
 # Week 9 - October 11
 
@@ -402,7 +402,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
     2.  Emma on AI in soccer
 
 
-<a id="orgb664579"></a>
+<a id="org5972140"></a>
 
 # Week 9 - October 14
 
@@ -412,7 +412,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Lecture: [Machine learning basics](https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing)<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 
 
-<a id="org1ee027b"></a>
+<a id="org83fc1c2"></a>
 
 # Week 9 - October 15
 
@@ -423,7 +423,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Lecture: [Machine learning basics](https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing)<sup><a id="fnr.2.100" class="footref" href="#fn.2">2</a></sup>
 
 
-<a id="org507f074"></a>
+<a id="orgb20f8b7"></a>
 
 # Week 10 - October 18
 
@@ -433,7 +433,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   [Protocols](https://github.com/birkenkrahe/ai482/tree/main/protocols) (extra credit!)
 
 
-<a id="org71701ef"></a>
+<a id="org2718c08"></a>
 
 # Week 10 - October 22
 
@@ -443,7 +443,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   [Protocol/Feedback](https://github.com/birkenkrahe/ai482/tree/main/protocols#orgcad7132)
 
 
-<a id="org62b0e93"></a>
+<a id="org80e8bae"></a>
 
 # Week 11 - October 25
 
@@ -453,16 +453,26 @@ Lecture:
 
 -   [AI for Sales and Marketing](https://github.com/birkenkrahe/ai482/tree/main/9_ai_sales_marketing) (Zero to AI ch.3)
     
-    Homework: read ch.5 of "Zero to AI" ([PDF](https://drive.google.com/file/d/1MVSgQhbCX5c2Km7Pjdcy6NiZp3RgauB3/view?usp=sharing))
+    Homework:
+-   Please prepare our session on "AI for Natural Language" on
+    November 1 with some self-study:
+    1.  To get going, watch 5 minutes of this video (from [here](https://youtu.be/ISa10TrJK7w?t=115) to
+        [here](https://youtu.be/ISa10TrJK7w?t=367)) - recent coding successes with AI using natural
+        language. This shows recent successes with the GPT-3 model.
     
-    -   Main challenges of NLP
-    -   Introduction to Sentiment analysis
-    -   Searching for content with natural queries
-    -   Building chatbots<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
-    
-    Happening:
+    2.  Read pp. 91-112 of "Zero to AI" ([PDF](https://drive.google.com/file/d/1MVSgQhbCX5c2Km7Pjdcy6NiZp3RgauB3/view?usp=sharing)). This is a non-technical
+        discussion of different Natural Language Processing (NLP)
+        applications. Some questions that you should be able to answer
+        afterwards:
+        
+        -   Which two metrics are used to measure NLP performance?
+        -   Why is sentiment analysis a classification problem?
+        -   What does OpenAI's GPT-2 model do?
+        -   How does `BrokerBot` differ from `Eliza` the therapist bot?
+        
+        Happening:
 -   [Research paper recommender at semantic scholar](https://medium.com/ai2-blog/stay-up-to-date-with-the-latest-research-in-your-field-d237d643210)
--   [Open AI and Neuralink](https://youtu.be/ISa10TrJK7w) (video, 3 Oct 2021)<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>
+-   [Open AI and Neuralink](https://youtu.be/ISa10TrJK7w) (video, 3 Oct 2021)<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
 -   News: [AAAI Squirrel AI Award for Cynthia Rudin](https://scitechdaily.com/a-new-nobel-computer-scientist-wins-1-million-artificial-intelligence-prize/)
     
     *Image: Interesting choice of membership categories. (Neurapod)*
@@ -470,7 +480,7 @@ Lecture:
 ![img](./img/neurapod.png)
 
 
-<a id="org7aaefd1"></a>
+<a id="org087ae3a"></a>
 
 # Week 11 - October 27+29
 
@@ -480,14 +490,14 @@ Lecture:
 -   [Presentation](https://github.com/birkenkrahe/ai482/tree/main/presentations): AI and Soccer: player development (Fortunato)
 
 
-<a id="org067ed77"></a>
+<a id="org424acd5"></a>
 
 # Week 12 -  November 1
 
 -   AI for Natural Language (reading homework)
 
 
-<a id="orgdcbd94e"></a>
+<a id="org65e07f4"></a>
 
 # References
 
@@ -503,7 +513,7 @@ Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
 Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY?t=367).
 
-<a id="org48d50d3"></a> Williams A (Jun 27, 2020). Riot Games give first clues
+<a id="org4057ed3"></a> Williams A (Jun 27, 2020). Riot Games give first clues
 about new Valorant Agents and abilities [blog]. [Online: dexerto.com](https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/).
 
 
@@ -521,13 +531,7 @@ either in a session (because your presentations are finished, and
 there is nothing else to discuss, or because you're all done
 presenting solo).
 
-<sup><a id="fn.3" href="#fnr.3">3</a></sup> See the [first minutes of this video](https://youtu.be/ISa10TrJK7w?t=115) (Neura Pod, 2021) for recent
-progress in machine translation using the new GPT-3 language
-generating algorithm. The GitHub pilot for this application
-(AI-supported coding with natural language) [is here](https://copilot.github.com/). I am on the
-waiting list&#x2026;
-
-<sup><a id="fn.4" href="#fnr.4">4</a></sup> If we've got extra time to spare after a presentation, or if we
+<sup><a id="fn.3" href="#fnr.3">3</a></sup> If we've got extra time to spare after a presentation, or if we
 don't have a presenter, we'll work through this video to get a glimpse
 of some of the exciting new developments in AI. Neuralink is a company
 founded by Elon Musk that "is going to change how humans think, act,
