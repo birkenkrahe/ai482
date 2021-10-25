@@ -388,9 +388,9 @@
   #+attr_html: :width 600px
   [[./img/solo.svg]]
 
-  * [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]: AI and Football: player health (Malcolm)
-  * [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]: AI and Soccer: player development (Fortunato)
-  * New diary entry ([[https://github.com/birkenkrahe/ai482/blob/main/diary.md#monday-october-25][Mon 25]]): AI champion list 2021.
+  | [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]   | AI and Football: player health    | Malcolm   |
+  | [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]   | AI and Soccer: player development | Fortunato |
+  | Diary ([[https://github.com/birkenkrahe/ai482/blob/main/diary.md#monday-october-25][Mon 25]]) | Snapshot and surveillance         | MB        |
 
 * Week 12 -  November 1
 
