@@ -373,7 +373,7 @@
 
 * Week 12 -  November 1
 
-  
+  * AI for Natural Language (reading homework)
     
 * References
 
