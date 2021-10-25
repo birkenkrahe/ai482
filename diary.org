@@ -125,7 +125,7 @@
    excuses.
 
 
-** State of the Art of AI 
+** State of the Art of AI
 
    I'm using Andrew Ng's video lecture for [[ng][Stanford HAI (2020)]] as a
    source for discussion and presentation. Ng is an important
@@ -136,7 +136,7 @@
    himself an AI stakeholder and not an independent, impartial
    observer (bias!). However, he also seems to be a good scientist,
    with integrity and an ability to see his own achievements in the
-   cold light of truth. 
+   cold light of truth.
 
    I think the class is a representative sample of the general
    population and its (positive and negative) prejudices against AI. I
@@ -146,7 +146,7 @@
    Ng focuses on health care examples - this is a major future battle
    ground and I recommend listening to this panel discussion between
    three AI and healthcare experts ([[feifei][stanfordonline, 2021]]) to get a
-   better idea of the challenges and opportunities. 
+   better idea of the challenges and opportunities.
 
    As I said in the lecture, AI is already around us, and often
    embedded in our systems to a much greater extent than many
@@ -156,6 +156,26 @@
    research point of view, and is also fairly easy to do, affordable
    and fun.
 
+* Monday, October 25
+
+  The AI seminar is picking up speed. There is still so much to talk
+  and learn about, but between my short lectures and the students'
+  presentations, I think we'll be able to cover a fair amount of
+  current AI developments. Enough anyway for the students to go off
+  and satisfy their curiosity on their own.
+
+  When I saw this list ([[neurapod][Neura Pod-Neuralink, 2021]]) of AI champions, I
+  was wondering how many of them believed in the principal uniqueness
+  of humans (e.g. because they are Christians). What do you think?
+
+  #+attr_html: :width 600px
+  [[./img/champions.png]]
+
+  On this list, Russell is a co-author of AIMA, Andrew Ng is known to
+  you from a video we watched in class, Larry Page created a
+  successful document search and retrieval algorithm (and founded
+  Google), and Bill Gates is (indirectly) responsible for your OS.
+  
 * References
 
   <<buch>> Buchanan BG (1972). Review of Hubert Dreyfus' What
@@ -177,6 +197,9 @@
 
   <<feldman21>> Feldman A/Pratap A (2021). Bot Doc. In: Forbes,
   August/September 2021:37-39.
+
+  <<neurapod>> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
+  [video]:1:55-6:05. [[https://youtu.be/ISa10TrJK7w][Online: youtube.com.]]
 
   <<fraud>> Schmidhuber J (24 Sep 2021). Scientific Integrity, the
   2021 Turing Lecture, and the 2018 Turing Award for Deep Learning
