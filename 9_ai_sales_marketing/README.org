@@ -7,11 +7,10 @@
 #+INFOJS_OPT: :view:info
 * What will you learn?
 
-  * Using supervised and unsupervised ML
-  * Identifying customer groups / churn / upselling
-  * Case study: using AI on electric grid data
-  * Case study: mining retail analytics with AI
-
+  * Using supervised vs. unsupervised ML
+  * Customer churn and segmentation decisions
+  * Measuring algorithm performance
+    
     Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 3
 
 ** Problem: personalization at scale
