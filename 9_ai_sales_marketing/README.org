@@ -64,9 +64,9 @@
    * Dealing with errors:
      - Not all errors are the same
 
-     /Table: confusion matrix - predictions vs. truth/
      #+attr_html:  :width 600px
      [[./img/confusion.png]]
+     /Table: confusion matrix - predictions vs. truth/
 
 ** Accuracy, precision and recall
 
@@ -76,25 +76,25 @@
     | Precision | How many predicted customers were really going to churn? |
     | Recall    | How many customers who churned were predicted?           |
 
-    /Image: illustration of precision and recall metrics/
     #+attr_html:  :width 600px
     [[./img/precisionrecall.png]]
+    /Image: illustration of precision and recall metrics/
 
-    /Table: How to use accuracy, precision and recall metrics/
     #+attr_html:  :width 600px
     [[./img/metrics.png]]
+    /Table: How to use accuracy, precision and recall metrics/
 
 *** Business use
 
-    /Image: focus depends on cost of losing vs. retaining customers/
     #+attr_html:  :width 600px
     [[./img/business.png]]
+    /Image: focus depends on cost of losing vs. retaining customers/
 
 *** Health care application
 
-    /Image: Implications of confusion on cancer detection/
     #+attr_html:  :width 600px
     [[./img/cost.png]]
+    /Image: Implications of confusion on cancer detection/
      
 ** Perform automatic customer segmentation
 

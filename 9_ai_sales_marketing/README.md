@@ -1,25 +1,25 @@
 
 # Table of Contents
 
--   [What will you learn?](#org8f296a1)
-    -   [Problem: personalization at scale](#org9f7fc20)
-    -   [Marketing sample problems](#org36a6ff0)
-    -   [Predicting churning customers](#org1516bc6)
-    -   [Measuring algorithm performance](#org13265a5)
-    -   [Accuracy, precision and recall](#org4ca9ff5)
-        -   [Definitions](#org4ca450a)
-        -   [Business use](#org52d34bd)
-        -   [Health care application](#orgc5dbc62)
-    -   [Perform automatic customer segmentation](#org5fec382)
-        -   [Unsupervised learning = finds labels](#orgf01475b)
-        -   [Supervised vs. unsupervised learning](#orgd4259b8)
-    -   [Concepts](#org4f60397)
-    -   [Discussion](#org1f12d59)
--   [References](#org5d3e734)
+-   [What will you learn?](#org7f2c899)
+    -   [Problem: personalization at scale](#org9311390)
+    -   [Marketing sample problems](#org5366e68)
+    -   [Predicting churning customers](#org0eb9f33)
+    -   [Measuring algorithm performance](#org172a59d)
+    -   [Accuracy, precision and recall](#org24a33db)
+        -   [Definitions](#orge04de2f)
+        -   [Business use](#org94e865e)
+        -   [Health care application](#org4e11749)
+    -   [Perform automatic customer segmentation](#org47ff0b2)
+        -   [Unsupervised learning = finds labels](#org80f3e42)
+        -   [Supervised vs. unsupervised learning](#org6ad39f7)
+    -   [Concepts](#orgebac654)
+    -   [Discussion](#org3a8dfe4)
+-   [References](#org2e1e5a8)
 
 
 
-<a id="org8f296a1"></a>
+<a id="org7f2c899"></a>
 
 # What will you learn?
 
@@ -27,10 +27,10 @@
 -   Customer churn and segmentation decisions
 -   Measuring algorithm performance
     
-    Image source: [Mauro/Valigi (2021)](#org78ac6f5), chapter 3
+    Image source: [Mauro/Valigi (2021)](#org3efb1f7), chapter 3
 
 
-<a id="org9f7fc20"></a>
+<a id="org9311390"></a>
 
 ## Problem: personalization at scale
 
@@ -48,7 +48,7 @@
     data that you generate as customers?*
 
 
-<a id="org36a6ff0"></a>
+<a id="org5366e68"></a>
 
 ## Marketing sample problems
 
@@ -62,7 +62,7 @@
     ![img](./img/ml.png)
 
 
-<a id="org1516bc6"></a>
+<a id="org0eb9f33"></a>
 
 ## Predicting churning customers
 
@@ -92,7 +92,7 @@
     *Which phase is missing in this model?*
 
 
-<a id="org13265a5"></a>
+<a id="org172a59d"></a>
 
 ## Measuring algorithm performance
 
@@ -102,17 +102,16 @@
     
     -   Not all errors are the same
     
-    *Table: confusion matrix - predictions vs. truth*
-    
     ![img](./img/confusion.png)
+    *Table: confusion matrix - predictions vs. truth*
 
 
-<a id="org4ca9ff5"></a>
+<a id="org24a33db"></a>
 
 ## Accuracy, precision and recall
 
 
-<a id="org4ca450a"></a>
+<a id="orge04de2f"></a>
 
 ### Definitions
 
@@ -144,34 +143,30 @@
 </tbody>
 </table>
 
+![img](./img/precisionrecall.png)
 *Image: illustration of precision and recall metrics*
 
-![img](./img/precisionrecall.png)
-
+![img](./img/metrics.png)
 *Table: How to use accuracy, precision and recall metrics*
 
-![img](./img/metrics.png)
 
-
-<a id="org52d34bd"></a>
+<a id="org94e865e"></a>
 
 ### Business use
 
+![img](./img/business.png)
 *Image: focus depends on cost of losing vs. retaining customers*
 
-![img](./img/business.png)
 
-
-<a id="orgc5dbc62"></a>
+<a id="org4e11749"></a>
 
 ### Health care application
 
+![img](./img/cost.png)
 *Image: Implications of confusion on cancer detection*
 
-![img](./img/cost.png)
 
-
-<a id="org5fec382"></a>
+<a id="org47ff0b2"></a>
 
 ## Perform automatic customer segmentation
 
@@ -204,7 +199,7 @@ Ways to decide all depend on **patterns**:
 -   Let AI cluster customer segments
 
 
-<a id="orgf01475b"></a>
+<a id="org80f3e42"></a>
 
 ### Unsupervised learning = finds labels
 
@@ -217,7 +212,7 @@ Ways to decide all depend on **patterns**:
 ![img](./img/clustering.png)
 
 
-<a id="orgd4259b8"></a>
+<a id="org6ad39f7"></a>
 
 ### Supervised vs. unsupervised learning
 
@@ -227,14 +222,14 @@ unsupervised learning*
 ![img](./img/difference.png)
 
 
-<a id="org4f60397"></a>
+<a id="orgebac654"></a>
 
 ## Concepts
 
 &#x2026;
 
 
-<a id="org1f12d59"></a>
+<a id="org3a8dfe4"></a>
 
 ## Discussion
 
@@ -248,21 +243,21 @@ unsupervised learning*
     decisions in sales and marketing?
 
 
-<a id="org5d3e734"></a>
+<a id="org2e1e5a8"></a>
 
 # References
 
-<a id="org9a7ba63"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
+<a id="orgb345d62"></a> Hellstrom (21 Feb 2020). A Tour of End-to-End Machine
 Learning Platforms [Blog]. [Online: databaseline.tech.](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
 
-<a id="org78ac6f5"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="org3efb1f7"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
-<a id="org770b1ff"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+<a id="org519bc6e"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
 
-<a id="org7509fe3"></a> Russel/Norvig (2021). AI a Modern Approach 4th
+<a id="org48aed6f"></a> Russel/Norvig (2021). AI a Modern Approach 4th
 ed. Pearson. [Online: aima.cs.berkeley.edu.](http://aima.cs.berkeley.edu/)
 
 
