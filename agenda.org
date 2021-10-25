@@ -394,10 +394,11 @@
 
 * Footnotes
 
-[fn:4]See the [[https://youtu.be/ISa10TrJK7w?t=115][first minutes of this video]] for recent progress in
-machine translation using the new GPT-3 language generating
-algorithm. The GitHub pilot for this application (AI-supported coding
-with natural language) [[https://copilot.github.com/][is here]]. I am on the waiting list...
+[fn:4]See the [[https://youtu.be/ISa10TrJK7w?t=115][first minutes of this video]] (Neura Pod, 2021) for recent
+progress in machine translation using the new GPT-3 language
+generating algorithm. The GitHub pilot for this application
+(AI-supported coding with natural language) [[https://copilot.github.com/][is here]]. I am on the
+waiting list...
 
 [fn:3]If we've got extra time to spare after a presentation, or if we
 don't have a presenter, we'll work through this video to get a glimpse
