@@ -374,16 +374,16 @@
    /There's a case study at the end of the chapter but you need not
    read that for our session./
 
-** Happening
+** What's happening
 
    * [[https://medium.com/ai2-blog/stay-up-to-date-with-the-latest-research-in-your-field-d237d643210][Research paper recommender at semantic scholar]]
    * [[https://youtu.be/ISa10TrJK7w][Open AI and Neuralink]] (video, 3 Oct 2021)[fn:3]
    * News: [[https://scitechdaily.com/a-new-nobel-computer-scientist-wins-1-million-artificial-intelligence-prize/][AAAI Squirrel AI Award for Cynthia Rudin]]
- 
+
    #+attr_html: :width 600px
    [[./img/neurapod.png]]
-   
-  /Image: Interesting choice of membership categories. (Neurapod)/
+
+   /Image: Interesting choice of membership categories. (Neurapod)/
 * Week 11 - October 27+29
 
   #+attr_html: :width 600px
@@ -396,6 +396,21 @@
 * Week 12 -  November 1
 
   * AI for Natural Language (reading homework)
+** What's happening
+
+   * "Meet Moxie - The Revolutionary Robot Companion for
+     Social-Emotional Learning" - https://embodied.com/
+
+     Video: https://youtu.be/7-uBtY-MOdI "Because soft skills are
+     essential skills." (Which chain of causation is set up here?)
+
+     #+begin_quote
+     "Supporting parents and empowering children to build
+     social-emotional skills that promote confidence and
+     resilience. For children ages 5-10, Moxie’s play-based activities
+     use evidence-based techniques to build social-emotional skills
+     that promote mental well-being."
+     #+end_quote
 
 * References
 
