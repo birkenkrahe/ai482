@@ -158,6 +158,7 @@
 
 * Monday, October 25 - Snapshot
 ** Curiosity
+
   The AI seminar is picking up speed. There is still so much to talk
   and learn about, but between my short lectures and the students'
   presentations, I think we'll be able to cover a fair amount of
@@ -169,6 +170,7 @@
   this class. Keep it up!
   
 ** Champions
+
   When I saw this list ([[neurapod][Neura Pod-Neuralink, 2021]]) of AI champions, I
   was wondering how many of them believed in the principal uniqueness
   of humans (e.g. because they are Christians). What do you think?
@@ -180,6 +182,7 @@
   you from a video we watched in class, Larry Page created a
   successful document search and retrieval algorithm (and founded
   Google), and Bill Gates is (indirectly) responsible for your OS.
+
 ** China
 
    Scary stuff in this German documentary (by "Deutsche Welle", which
