@@ -1,28 +1,28 @@
 
 # Table of Contents
 
--   [UNDER CONSTRUCTION](#org4934959)
--   [Entry example: Open AI Codex](#org5465eaf)
--   [What will you learn?](#org4feb64a)
--   [Questions for discussion](#org711fbac)
--   [References](#org4ce6e53)
+-   [UNDER CONSTRUCTION](#orge17f216)
+-   [Entry example: Open AI Codex](#org7775ad4)
+-   [What will you learn?](#org55941f5)
+-   [Questions for discussion](#org64e2a83)
+-   [References](#org451f8bc)
 
 
 
-<a id="org4934959"></a>
+<a id="orge17f216"></a>
 
 # UNDER CONSTRUCTION
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="org5465eaf"></a>
+<a id="org7775ad4"></a>
 
 # Entry example: Open AI Codex
 
-**Assignment:** To get going, watch 5 minutes of this video (from [here](https://youtu.be/ISa10TrJK7w?t=115) to [here](https://youtu.be/ISa10TrJK7w?t=367)) -
-recent coding successes with AI using natural language ([Neura Pod,
-2021](#orgaffcdae)).
+**Assignment:** To get going, watch 5 minutes of this video (from [here](https://youtu.be/ISa10TrJK7w?t=115)
+to [here](https://youtu.be/ISa10TrJK7w?t=367)) - recent coding successes with AI using natural language
+([Neura Pod, 2021](#org8d94b20)).
 
 The video reveals a particular (not uncommon) form of bias of what
 AI can and should do for us. It is contained in this quote:
@@ -39,8 +39,11 @@ AI can and should do for us. It is contained in this quote:
 > [&#x2026;<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>]. It really accelerates me as a programmer, and takes
 > away the boring stuff so I can focus on the fun ones."
 
+I just got into the GitHub Copilot beta pilot for OpenAI Codex -
+will report if I learn anything!<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 
-<a id="org4feb64a"></a>
+
+<a id="org55941f5"></a>
 
 # What will you learn?
 
@@ -49,10 +52,10 @@ AI can and should do for us. It is contained in this quote:
 -   What is sentiment analysis?
 -   How are chatbots designed?
 
-Image source: [Mauro/Valigi (2021)](#org80d0304), chapter 5
+Image source: [Mauro/Valigi (2021)](#orgc351b0f), chapter 5
 
 
-<a id="org711fbac"></a>
+<a id="org64e2a83"></a>
 
 # Questions for discussion
 
@@ -62,18 +65,27 @@ Image source: [Mauro/Valigi (2021)](#org80d0304), chapter 5
 -   How does BrokerBot differ from Eliza the therapist bot?
 
 
-<a id="org4ce6e53"></a>
+<a id="org451f8bc"></a>
 
 # References
 
-<a id="org80d0304"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="orgc351b0f"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
-<a id="orgaffcdae"></a> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
+<a id="org8d94b20"></a> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
 [video]:1:55-6:05. [Online: youtube.com.](https://youtu.be/ISa10TrJK7w)
 
 
 # Footnotes
 
 <sup><a id="fn.1" href="#fnr.1">1</a></sup> Using the GPT-3 model.
+
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> "GitHub Copilot is an AI pair programmer which suggests line
+completions and entire function bodies as you type. GitHub Copilot is
+powered by the OpenAI Codex AI system, trained on public Internet text
+and billions of lines of code." ([Source](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)). Alas, I do not use Visual
+Code Studio - an editor from Microsoft (now it makes sense why GitHub,
+also owned by Microsoft, partners with OpenAI Codex - more customers
+for both their platforms and ultimately for their cloud business,
+Azure).

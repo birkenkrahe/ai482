@@ -11,10 +11,10 @@
 
 * Entry example: Open AI Codex
 
-  *Assignment:* To get going, watch 5 minutes of this video (from [[https://youtu.be/ISa10TrJK7w?t=115][here]] to [[https://youtu.be/ISa10TrJK7w?t=367][here]]) -
-  recent coding successes with AI using natural language ([[neurapod][Neura Pod,
-  2021]]).
-
+  *Assignment:* To get going, watch 5 minutes of this video (from [[https://youtu.be/ISa10TrJK7w?t=115][here]]
+  to [[https://youtu.be/ISa10TrJK7w?t=367][here]]) - recent coding successes with AI using natural language
+  ([[neurapod][Neura Pod, 2021]]).
+  
   The video reveals a particular (not uncommon) form of bias of what
   AI can and should do for us. It is contained in this quote:
 
@@ -32,6 +32,8 @@
   away the boring stuff so I can focus on the fun ones."
   #+end_quote
 
+  I just got into the GitHub Copilot beta pilot for OpenAI Codex -
+  will report if I learn anything![fn:5]
   
 * What will you learn?
 
@@ -59,6 +61,14 @@
   [video]:1:55-6:05. [[https://youtu.be/ISa10TrJK7w][Online: youtube.com.]]
 
 * Footnotes
+
+[fn:5]"GitHub Copilot is an AI pair programmer which suggests line
+completions and entire function bodies as you type. GitHub Copilot is
+powered by the OpenAI Codex AI system, trained on public Internet text
+and billions of lines of code." ([[https://marketplace.visualstudio.com/items?itemName=GitHub.copilot][Source]]). Alas, I do not use Visual
+Code Studio - an editor from Microsoft (now it makes sense why GitHub,
+also owned by Microsoft, partners with OpenAI Codex - more customers
+for both their platforms and ultimately for their cloud business, Azure).
 
 [fn:4]Using the GPT-3 model. 
 
