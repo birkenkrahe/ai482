@@ -1,28 +1,28 @@
 
 # Table of Contents
 
--   [UNDER CONSTRUCTION](#orge17f216)
--   [Entry example: Open AI Codex](#org7775ad4)
--   [What will you learn?](#org55941f5)
--   [Questions for discussion](#org64e2a83)
--   [References](#org451f8bc)
+-   [UNDER CONSTRUCTION](#orgd39fd54)
+-   [Entry example: Open AI Codex](#org78c3821)
+-   [What will you learn?](#orgf0c3a7f)
+-   [Questions for discussion](#org4a29084)
+-   [References](#org9f340b0)
 
 
 
-<a id="orge17f216"></a>
+<a id="orgd39fd54"></a>
 
 # UNDER CONSTRUCTION
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="org7775ad4"></a>
+<a id="org78c3821"></a>
 
 # Entry example: Open AI Codex
 
 **Assignment:** To get going, watch 5 minutes of this video (from [here](https://youtu.be/ISa10TrJK7w?t=115)
 to [here](https://youtu.be/ISa10TrJK7w?t=367)) - recent coding successes with AI using natural language
-([Neura Pod, 2021](#org8d94b20)).
+([Neura Pod, 2021](#orgbfe8feb)).
 
 The video reveals a particular (not uncommon) form of bias of what
 AI can and should do for us. It is contained in this quote:
@@ -43,7 +43,7 @@ I just got into the GitHub Copilot beta pilot for OpenAI Codex -
 will report if I learn anything!<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 
 
-<a id="org55941f5"></a>
+<a id="orgf0c3a7f"></a>
 
 # What will you learn?
 
@@ -52,10 +52,10 @@ will report if I learn anything!<sup><a id="fnr.2" class="footref" href="#fn.2">
 -   What is sentiment analysis?
 -   How are chatbots designed?
 
-Image source: [Mauro/Valigi (2021)](#orgc351b0f), chapter 5
+Image source: [Mauro/Valigi (2021)](#orgef8c6cb), chapter 5
 
 
-<a id="org64e2a83"></a>
+<a id="org4a29084"></a>
 
 # Questions for discussion
 
@@ -65,15 +65,15 @@ Image source: [Mauro/Valigi (2021)](#orgc351b0f), chapter 5
 -   How does BrokerBot differ from Eliza the therapist bot?
 
 
-<a id="org451f8bc"></a>
+<a id="org9f340b0"></a>
 
 # References
 
-<a id="orgc351b0f"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="orgef8c6cb"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
-<a id="org8d94b20"></a> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
+<a id="orgbfe8feb"></a> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
 [video]:1:55-6:05. [Online: youtube.com.](https://youtu.be/ISa10TrJK7w)
 
 
