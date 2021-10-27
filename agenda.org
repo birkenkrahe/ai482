@@ -348,11 +348,11 @@
 ** Lecture
 
    [[./img/machine_learning.png]]
-   
+
    [[https://github.com/birkenkrahe/ai482/tree/main/9_ai_sales_marketing][AI for Sales and Marketing]] (Zero to AI ch.3)
 
    /Image: [[https://xkcd.com/1838/][machine learning by xkcd]]/
-   
+
 ** Homework
 
    Please prepare our session on "AI for Natural Language" on November
@@ -373,29 +373,30 @@
 
    /There's a case study at the end of the chapter but you need not
    read that for our session./
-   
+
 ** Happening
-  * [[https://medium.com/ai2-blog/stay-up-to-date-with-the-latest-research-in-your-field-d237d643210][Research paper recommender at semantic scholar]]
-  * [[https://youtu.be/ISa10TrJK7w][Open AI and Neuralink]] (video, 3 Oct 2021)[fn:3]
-  * News: [[https://scitechdaily.com/a-new-nobel-computer-scientist-wins-1-million-artificial-intelligence-prize/][AAAI Squirrel AI Award for Cynthia Rudin]]
 
-    /Image: Interesting choice of membership categories. (Neurapod)/
-  #+attr_html: :width 600px   
-  [[./img/neurapod.png]]
-
+   * [[https://medium.com/ai2-blog/stay-up-to-date-with-the-latest-research-in-your-field-d237d643210][Research paper recommender at semantic scholar]]
+   * [[https://youtu.be/ISa10TrJK7w][Open AI and Neuralink]] (video, 3 Oct 2021)[fn:3]
+   * News: [[https://scitechdaily.com/a-new-nobel-computer-scientist-wins-1-million-artificial-intelligence-prize/][AAAI Squirrel AI Award for Cynthia Rudin]]
+ 
+   #+attr_html: :width 600px
+   [[./img/neurapod.png]]
+   
+  /Image: Interesting choice of membership categories. (Neurapod)/
 * Week 11 - October 27+29
 
   #+attr_html: :width 600px
   [[./img/solo.svg]]
 
-  | [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]   | AI and Football: player health    | Malcolm   |
-  | [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]   | AI and Soccer: player development | Fortunato |
-  | Diary ([[https://github.com/birkenkrahe/ai482/blob/main/diary.md#monday-october-25][Mon 25]]) | Snapshot and surveillance         | MB        |
+  | [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]   | AI and Football: player health     | Malcolm   |
+  | [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]   | AI and Soccer: player development  | Fortunato |
+  | Diary ([[https://github.com/birkenkrahe/ai482/blob/main/diary.md#monday-october-25][Mon 25]]) | Snapshot and surveillance in China | MB        |
 
 * Week 12 -  November 1
 
   * AI for Natural Language (reading homework)
-    
+
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
