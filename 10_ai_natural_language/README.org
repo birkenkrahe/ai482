@@ -9,6 +9,11 @@
 
   [[./img/underconstruction.gif]]
 
+* The nature of language
+
+** Artificial Intelligence Sheds Light on How the Brain Processes Language
+  https://neurosciencenews.com/ai-language-processing-19536/
+
 * Entry example: Open AI Codex
 
   *Assignment:* To get going, watch 5 minutes of this video (from [[https://youtu.be/ISa10TrJK7w?t=115][here]]
