@@ -68,7 +68,8 @@ powered by the OpenAI Codex AI system, trained on public Internet text
 and billions of lines of code." ([[https://marketplace.visualstudio.com/items?itemName=GitHub.copilot][Source]]). Alas, I do not use Visual
 Code Studio - an editor from Microsoft (now it makes sense why GitHub,
 also owned by Microsoft, partners with OpenAI Codex - more customers
-for both their platforms and ultimately for their cloud business, Azure).
+for both their platforms and ultimately for their cloud business,
+Azure).
 
 [fn:4]Using the GPT-3 model. 
 
