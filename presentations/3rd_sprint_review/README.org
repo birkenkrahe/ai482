@@ -1,0 +1,8 @@
+#+options: toc:nil
+* 3rd Sprint review presentations
+
+Upload your team presentation (on your AI application) for the 3rdnd
+sprint review here as a PDF file - *no later than Friday, November 5,
+2021, 9 AM*. You will present your project status in class. For
+details, [[https://github.com/birkenkrahe/org/blob/master/FAQ.md][check the FAQ]].
+
