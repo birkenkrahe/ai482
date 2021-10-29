@@ -344,7 +344,7 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">31</td>
 <td class="org-left">Wed-27-Oct</td>
-<td class="org-left">Malcolm Howard: How AI has improved player health</td>
+<td class="org-left"><del>Malcolm Howard: How AI has improved player health</del></td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -354,7 +354,7 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">32</td>
 <td class="org-left">Fri-29-Oct</td>
-<td class="org-left">Fortunato: AI in soccer (player development)</td>
+<td class="org-left"><del>Fortunato: AI in soccer (player development)</del></td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -375,7 +375,7 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">34</td>
 <td class="org-left">Wed-3-Nov</td>
-<td class="org-left">Wyatt Frerichs:?</td>
+<td class="org-left">Wyatt Frerichs: AI in Robotics</td>
 <td class="org-left">Session Protocol (X)</td>
 <td class="org-left">&#xa0;</td>
 </tr>
