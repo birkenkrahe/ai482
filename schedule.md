@@ -335,7 +335,7 @@
 <td class="org-right">30</td>
 <td class="org-left">Mon-25-Oct</td>
 <td class="org-left">ML: AI for sales and marketing (MB)</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -345,7 +345,7 @@
 <td class="org-right">31</td>
 <td class="org-left">Wed-27-Oct</td>
 <td class="org-left"><del>Malcolm Howard: How AI has improved player health</del></td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -355,7 +355,7 @@
 <td class="org-right">32</td>
 <td class="org-left">Fri-29-Oct</td>
 <td class="org-left"><del>Fortunato: AI in soccer (player development)</del></td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -365,8 +365,8 @@
 <td class="org-right">12</td>
 <td class="org-right">33</td>
 <td class="org-left">Mon-1-Nov</td>
-<td class="org-left">ML: AI for Natural Language (MB)</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left"><del>ML: AI for Natural Language (MB)</del></td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -376,7 +376,7 @@
 <td class="org-right">34</td>
 <td class="org-left">Wed-3-Nov</td>
 <td class="org-left">Wyatt Frerichs: AI in Robotics</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -407,7 +407,7 @@
 <td class="org-right">37</td>
 <td class="org-left">Wed-10-Nov</td>
 <td class="org-left">Spencer: Defining Intelligence</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -416,8 +416,8 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">38</td>
 <td class="org-left">Fri-12-Nov</td>
-<td class="org-left">Amber McClurg:?</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">Amber McClurg: Therapeutic Potential of VR</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -427,8 +427,8 @@
 <td class="org-right">14</td>
 <td class="org-right">39</td>
 <td class="org-left">Mon-15-Nov</td>
-<td class="org-left">ML: AI for recommendations (MB)</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">ML: AI for Natural Language 1(MB)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -438,7 +438,7 @@
 <td class="org-right">40</td>
 <td class="org-left">Wed-17-Nov</td>
 <td class="org-left">Hakeem: AI in Baseball (player development)</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 
@@ -448,7 +448,7 @@
 <td class="org-right">41</td>
 <td class="org-left">Fri-19-Nov</td>
 <td class="org-left">Nick Norwood:?</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
@@ -458,8 +458,8 @@
 <td class="org-right">15</td>
 <td class="org-right">42</td>
 <td class="org-left">22-Nov</td>
-<td class="org-left">ML: finding AI opportunities (MB)</td>
-<td class="org-left">Session Protocol (X)</td>
+<td class="org-left">ML: AI for Natural Language 2(MB)</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 

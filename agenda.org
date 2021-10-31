@@ -362,7 +362,7 @@
       [[https://youtu.be/ISa10TrJK7w?t=367][here]]) - recent coding successes with AI using natural
       language. This shows recent successes with the GPT-3 model.
 
-   2) Read pp. 91-112 of "Zero to AI" ([[https://drive.google.com/file/d/1MVSgQhbCX5c2Km7Pjdcy6NiZp3RgauB3/view?usp=sharing][PDF]]). This is a non-technical
+   2) Read chapter 5 of "Zero to AI" ([[https://drive.google.com/file/d/1MVSgQhbCX5c2Km7Pjdcy6NiZp3RgauB3/view?usp=sharing][PDF]]). This is a non-technical
       discussion of different Natural Language Processing (NLP)
       applications. Some questions that you should be able to answer
       afterwards:
@@ -370,9 +370,8 @@
       * Why is sentiment analysis a classification problem?
       * What does OpenAI's GPT-2 model do?
       * How does ~BrokerBot~ differ from ~Eliza~ the therapist bot?
-
-   /There's a case study at the end of the chapter but you need not
-   read that for our session./
+      * Which tasks can be automated by AI according to the founder of
+        the company featured in the case study at the end?
 
 ** What's happening
 
