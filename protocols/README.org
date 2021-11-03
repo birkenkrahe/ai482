@@ -3,6 +3,9 @@
 
   Post your protocol here. Take a look at [[https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/protocol_23_aug.md][my example protocol]].
 
+  I have not written protocols for every talk but every speaker should
+  have received feedback from me via email at least. 
+
 * [[https://github.com/birkenkrahe/ai482/blob/main/presentations/Sampley_Autonomous%20Drones%20in%20the%20U.S.%20Military.pdf][AI in the military (Jacob Sampley, 13-Oct-2021)]]
 
   This presentation was totally worth staying up for all night - very
@@ -110,7 +113,6 @@
   presenting the development timeline - when an algorithm was first
   developed, improved, used etc.)
 
-* Search 
 * Footnotes
 
 [fn:4]I had meant to work through the chapter weeks ago but then one

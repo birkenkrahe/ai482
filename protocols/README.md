@@ -1,22 +1,24 @@
 
 # Table of Contents
 
-1.  [Session Protocols](#org6eb8957)
-2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#org4e395b3)
-3.  [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](#org6f158b7)
-4.  [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](#orgcad7132)
-5.  [Search](#org0177636)
+1.  [Session Protocols](#org6a9c969)
+2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#org25a1a3e)
+3.  [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](#org5b04b62)
+4.  [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](#org6166568)
 
 
 
-<a id="org6eb8957"></a>
+<a id="org6a9c969"></a>
 
 # Session Protocols
 
 Post your protocol here. Take a look at [my example protocol](https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/protocol_23_aug.md).
 
+I have not written protocols for every talk but every speaker should
+have received feedback from me via email at least. 
 
-<a id="org4e395b3"></a>
+
+<a id="org25a1a3e"></a>
 
 # [AI in the military (Jacob Sampley, 13-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/Sampley_Autonomous%20Drones%20in%20the%20U.S.%20Military.pdf)
 
@@ -58,7 +60,7 @@ throughout. Hope that others will ask more questions in future
 presentations!
 
 
-<a id="org6f158b7"></a>
+<a id="org5b04b62"></a>
 
 # [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/AI%20in%20soccer%20to%20improve%20athlete%20performance%20DUE%20Nov%2015%20(1).pdf)
 
@@ -83,7 +85,7 @@ Points of improvement:
 4.  **References** ought to include video and image material
 
 
-<a id="orgcad7132"></a>
+<a id="org6166568"></a>
 
 # [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/Presentation-DatO.pdf)
 
@@ -130,11 +132,6 @@ to turn the presentation of algorithms into a story would have been
 a completely different presentation (the easiest way is probably by
 presenting the development timeline - when an algorithm was first
 developed, improved, used etc.)
-
-
-<a id="org0177636"></a>
-
-# Search
 
 
 # Footnotes
