@@ -433,7 +433,7 @@
 
 * Week 13 -  November 8 - NLP
 
-  * What is NLP? ([[nlp][IBM Technology, 2021]])
+  * What is NLP? ([[nlp][IBM Technology, 2021]])[fn:5]
   * AI for Natural Language (reading [[https://github.com/birkenkrahe/ai482/blob/main/agenda.md#homework][homework]]):
     - Main challenges
     - Sentiment analysis
@@ -445,16 +445,25 @@
   #+attr_html: :width 400px
   [[./img/watson.jpg]]
 
-  * Building a chatbot assistant with IBM Watson in 30 min ([[watson][Yates,
+  * Articles: Building a chatbot assistant with IBM Watson in 30 min ([[watson][Yates,
     2021]]; [[watson][McGregor, 2021]])
+  * Tutorial: [[https://www.ibm.com/products/watson-assistant/visual-builder][Visual chatbot builder for anyone to use]] ([[chatbot][IBM, 2021]])
   * Robotic Process Automation with UIPath (academic tutorials, [[uipath][UIPath
     2021]]).
+  * Workflow automation with Integromat ([[integromat][2020,2021]]).
 
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
   [video]. [[https://youtu.be/UjQ1AzSvCp8?t=1308][URL: youtu.be/UjQ1AzSvCp8?t=1308]].
 
+  <<ibm>> IBM (2021). Visual Chatbot Builder for Anyone to Use
+  [tutorial]. [[https://www.ibm.com/products/watson-assistant/visual-builder][URL: ibm.com.]]
+  
+  <<integromat>> Integromat (Oct 22, 2021). Getting started with
+  Telegram [video]. [[https://youtu.be/SEcA5ZWDkto][URL: youtu.be/SEcA5ZWDkto]]. Getting started with
+  the COVID-10 App [video]. [[https://youtu.be/aPdcjmG_kc4][URL: youtu.be/aPdcjmG_kc4]].
+  
   <<nlp>> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
   (Natural Language Processing)? [video]. URL:
 
@@ -479,6 +488,10 @@
   Watson Assistant: The Build Guide Part I. [[https://medium.com/ibm-watson/getting-started-with-the-new-watson-assistant-ff8cfcbf048f][URL: medium.com]]
 
 * Footnotes
+
+[fn:5]This is a really nice video that gives a little more insight
+into the technical aspects of NLP. Clearly an attempt to reroute
+people to IBM Watson, which you should check out.
 
 [fn:4]See the [[https://youtu.be/ISa10TrJK7w?t=115][first minutes of this video]] (Neura Pod, 2021) for recent
 progress in machine translation using the new GPT-3 language
