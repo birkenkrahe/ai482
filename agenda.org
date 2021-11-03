@@ -445,8 +445,8 @@
   #+attr_html: :width 600px
   [[./img/solo.svg]]
 
-  * Spencer's Solo:
-  * 
+  * Spencer's Solo: Defining Intelligence
+  * Amber's Solo: Therapeutic Potential of VR
 
 * Week 14 - November 15 - RPA???
 
