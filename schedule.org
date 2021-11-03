@@ -46,18 +46,18 @@
    |    | 32 | Fri-29-Oct | +Fortunato: AI in soccer (player development)+      |                       |                      |
    |----+----+------------+-----------------------------------------------------+-----------------------+----------------------|
    | 12 | 33 | Mon-1-Nov  | +ML: AI for Natural Language (MB)+                  |                       |                      |
-   |    | 34 | Wed-3-Nov  | Wyatt Frerichs: AI in Robotics                      |                       |                      |
+   |    | 34 | Wed-3-Nov  | +Wyatt Frerichs: Smart robots in industry+          |                       |                      |
    |    | 35 | Fri-5-Nov  | APPLICATIONS                                        |                       | 3rd sprint review    |
    |----+----+------------+-----------------------------------------------------+-----------------------+----------------------|
-   | 13 | 36 | Mon-8-Nov  | APPLICATIONS                                        |                       |                      |
+   | 13 | 36 | Mon-8-Nov  | ML: AI for Natural Language 1(MB)                   |                       |                      |
    |    | 37 | Wed-10-Nov | Spencer: Defining Intelligence                      |                       |                      |
    |    | 38 | Fri-12-Nov | Amber McClurg: Therapeutic Potential of VR          |                       |                      |
    |----+----+------------+-----------------------------------------------------+-----------------------+----------------------|
-   | 14 | 39 | Mon-15-Nov | ML: AI for Natural Language 1(MB)                      |                       |                      |
+   | 14 | 39 | Mon-15-Nov | ML: AI for Natural Language 2(MB)                   |                       |                      |
    |    | 40 | Wed-17-Nov | Hakeem: AI in Baseball (player development)         |                       |                      |
    |    | 41 | Fri-19-Nov | Nick Norwood:?                                      |                       |                      |
    |----+----+------------+-----------------------------------------------------+-----------------------+----------------------|
-   | 15 | 42 | 22-Nov     | ML: AI for Natural Language 2(MB)                                                     |                       |                      |
+   | 15 | 42 | 22-Nov     | Course summary (All)                                |                       |                      |
    |    | 43 | 24-Nov     | --THANKSGIVING--                                    | --THANKSGIVING--      |                      |
    |    | 44 | 26-Nov     | --THANKSGIVING--                                    | --THANKSGIVING--      |                      |
    |----+----+------------+-----------------------------------------------------+-----------------------+----------------------|
