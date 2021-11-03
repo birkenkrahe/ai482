@@ -400,7 +400,10 @@
   #+attr_html: :width 400px
   [[./img/robotics.gif]]
 
-  Wyatt's solo [[https://github.com/birkenkrahe/ai482/tree/main/presentations][presentation]]: AI in Robotics.
+  Wyatt's solo [[https://github.com/birkenkrahe/ai482/tree/main/presentations][presentation]]: Smart Robots in Industrial Production.
+
+  #+attr_html: :width 400px
+  [[./img/wyatt.png]]
 
 ** To get in the mood, meet Moxie...and despair
 
@@ -428,10 +431,11 @@
   #+attr_html: :width 400px
   [[./img/sprint3.gif]]
 
-* Week 12 -  November 15
+* Week 12 -  November 8
 
   * AI for Natural Language (reading [[https://github.com/birkenkrahe/ai482/blob/main/agenda.md#homework][homework]])
 
+  
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
@@ -442,7 +446,7 @@
 
   Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
   [video]. [[https://youtu.be/ISa10TrJK7w][Online: youtube.com.]]
-
+  
   Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
   Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY?t=367][Online: youtube.com]].
 
