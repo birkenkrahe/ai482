@@ -440,11 +440,21 @@
     - Document search and retrieval
     - Case study: Translated / machine translation
 
-* Week 14 - November 15 - RPA
+* Week 13 - November 10+12
+
+  #+attr_html: :width 600px
+  [[./img/solo.svg]]
+
+  * Spencer's Solo:
+  * 
+
+* Week 14 - November 15 - RPA???
 
   #+attr_html: :width 400px
   [[./img/watson.jpg]]
 
+  * How to Make a Simple Chatbot in Under 10 Minutes (No Coding
+    [Google] Dialogflow) ([[batir][Batir, 2020]]).
   * Articles: Building a chatbot assistant with IBM Watson in 30 min ([[watson][Yates,
     2021]]; [[watson][McGregor, 2021]])
   * Tutorial: [[https://www.ibm.com/products/watson-assistant/visual-builder][Visual chatbot builder for anyone to use]] ([[ibm][IBM, 2021]])
@@ -454,16 +464,20 @@
 
 * References
 
+  <<batir>> Batir S (Jul 5, 2020). How to Make a Simple Chatbot in
+  Under 10 Mintues (No Coding Dialogflow) [video]. [[https://youtu.be/Ua1pgeWg6vw][URL:
+  youtu.be/Ua1pgeWg6vw]]
+  
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
   [video]. [[https://youtu.be/UjQ1AzSvCp8?t=1308][URL: youtu.be/UjQ1AzSvCp8?t=1308]].
 
   <<ibm>> IBM (2021). Visual Chatbot Builder for Anyone to Use
   [tutorial]. [[https://www.ibm.com/products/watson-assistant/visual-builder][URL: ibm.com.]]
-  
+
   <<integromat>> Integromat (Oct 22, 2021). Getting started with
   Telegram [video]. [[https://youtu.be/SEcA5ZWDkto][URL: youtu.be/SEcA5ZWDkto]]. Getting started with
   the COVID-10 App [video]. [[https://youtu.be/aPdcjmG_kc4][URL: youtu.be/aPdcjmG_kc4]].
-  
+
   <<nlp>> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
   (Natural Language Processing)? [video]. URL:
 
@@ -478,7 +492,7 @@
   youtu.be/tsPuVAMaADY?t=367]].
 
   <<uipath>> UIPath Academy (2021). URL: academy.uipath.com.
-  
+
   <<williams>> Williams A (Jun 27, 2020). Riot Games give first clues
   about new Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
 
