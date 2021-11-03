@@ -402,7 +402,7 @@
 
   Wyatt's solo [[https://github.com/birkenkrahe/ai482/tree/main/presentations][presentation]]: AI in Robotics.
 
-** Meet Moxie...and despair
+** To get in the mood, meet Moxie...and despair
 
    * "Meet Moxie - The Revolutionary Robot Companion for
      Social-Emotional Learning" - https://embodied.com/
