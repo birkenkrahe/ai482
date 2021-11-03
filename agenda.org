@@ -385,17 +385,24 @@
    /Image: Interesting choice of membership categories. (Neurapod)/
 * Week 11 - October 27+29
 
-  #+attr_html: :width 600px
-  [[./img/solo.svg]]
+  #+attr_html: :width 400px
+  [[./img/malcolm.png]]
 
   | [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]   | AI and Football: player health     | Malcolm   |
   | [[https://github.com/birkenkrahe/ai482/tree/main/presentations][Presentation]]   | AI and Soccer: player development  | Fortunato |
   | Diary ([[https://github.com/birkenkrahe/ai482/blob/main/diary.md#monday-october-25][Mon 25]]) | Snapshot and surveillance in China | MB        |
 
-* Week 12 -  November 1
+  #+attr_html: :width 400px
+  [[./img/fortunato.png]]
+  
+* Week 12 - November 3
 
-  * AI for Natural Language (reading homework)
-** What's happening
+  #+attr_html: :width 400px
+  [[./img/robotics.gif]]
+
+  Wyatt's solo [[https://github.com/birkenkrahe/ai482/tree/main/presentations][presentation]]: AI in Robotics.
+
+** Meet Moxie...and despair
 
    * "Meet Moxie - The Revolutionary Robot Companion for
      Social-Emotional Learning" - https://embodied.com/
@@ -410,6 +417,18 @@
      use evidence-based techniques to build social-emotional skills
      that promote mental well-being."
      #+end_quote
+
+  
+* Week 12 - November 4
+
+  3rd sprint review!
+  
+  #+attr_html: :width 400px
+  [[./img/sprint3.gif]]
+  
+* Week 12 -  November 15
+
+  * AI for Natural Language (reading homework)
 
 * References
 
