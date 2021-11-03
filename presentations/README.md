@@ -1,5 +1,6 @@
-Upload your solo presentations here as a PDF or PPT, and the team
-presentations in the respective sprint review folder.   
+Upload your solo presentations in the [`solo`](https://github.com/birkenkrahe/ai482/tree/main/presentations/solo) folder, and the team
+presentations in the respective sprint review folder. Upload PDF or
+PPT files.
 
 
 # Team vs. Solo, Presentation vs. AI Application Project
