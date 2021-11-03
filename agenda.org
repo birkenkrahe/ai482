@@ -421,7 +421,7 @@
   
 * Week 12 - November 4
 
-  3rd sprint review!
+  3rd sprint review! ([[https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-third-sprint][See FAQ]])
   
   #+attr_html: :width 400px
   [[./img/sprint3.gif]]
