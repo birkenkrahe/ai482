@@ -375,7 +375,7 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">34</td>
 <td class="org-left">Wed-3-Nov</td>
-<td class="org-left">Wyatt Frerichs: AI in Robotics</td>
+<td class="org-left"><del>Wyatt Frerichs: Smart robots in industry</del></td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -396,7 +396,7 @@
 <td class="org-right">13</td>
 <td class="org-right">36</td>
 <td class="org-left">Mon-8-Nov</td>
-<td class="org-left">APPLICATIONS</td>
+<td class="org-left">ML: AI for Natural Language 1(MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -427,7 +427,7 @@
 <td class="org-right">14</td>
 <td class="org-right">39</td>
 <td class="org-left">Mon-15-Nov</td>
-<td class="org-left">ML: AI for Natural Language 1(MB)</td>
+<td class="org-left">ML: AI for Natural Language 2(MB)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -458,7 +458,7 @@
 <td class="org-right">15</td>
 <td class="org-right">42</td>
 <td class="org-left">22-Nov</td>
-<td class="org-left">ML: AI for Natural Language 2(MB)</td>
+<td class="org-left">Course summary (All)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>

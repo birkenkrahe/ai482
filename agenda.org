@@ -431,24 +431,38 @@
   #+attr_html: :width 400px
   [[./img/sprint3.gif]]
 
-* Week 12 -  November 8
+* Week 13 -  November 8 - NLP 1
 
-  * AI for Natural Language (reading [[https://github.com/birkenkrahe/ai482/blob/main/agenda.md#homework][homework]])
+  * What is NLP? ([[nlp][IBM Technology, 2021]])
+  * AI for Natural Language (reading [[https://github.com/birkenkrahe/ai482/blob/main/agenda.md#homework][homework]]):
+    - Main challenges
+    - Sentiment analysis
 
+* Week 14 - November 15 - NLP 2
+
+  * What's the Difference Between a Chatbot and Conversational AI?
+    (Amelia, 2020).
+  * AI for Natural Language (reading [[https://github.com/birkenkrahe/ai482/blob/main/agenda.md#homework][homework]]):
+    - Document search and retrieval
+    - Case study: Translated / machine translation
   
 * References
 
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
-  [video]. [[https://youtu.be/UjQ1AzSvCp8?t=1308][Online: youtube.com]].
+  [video]. [[https://youtu.be/UjQ1AzSvCp8?t=1308][URL: youtu.be/UjQ1AzSvCp8?t=1308]].
 
+  <<nlp>> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
+  (Natural Language Processing)? [video]. URL: 
+  
   Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
-  human. (GPT-3) [video]. [[https://youtu.be/jz78fSnBG0s][Online: youtube.com]].
+  human. (GPT-3) [video]. [[https://youtu.be/jz78fSnBG0s][URL: youtu.be/jz78fSnBG0s]].
 
   Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
-  [video]. [[https://youtu.be/ISa10TrJK7w][Online: youtube.com.]]
+  [video]. [[https://youtu.be/ISa10TrJK7w][URL: youtu.be/ISa10TrJK7w]]
   
   Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
-  Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY?t=367][Online: youtube.com]].
+  Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY?t=367][URL:
+  youtu.be/tsPuVAMaADY?t=367]].
 
   <<williams>> Williams A (Jun 27, 2020). Riot Games give first clues
   about new Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
