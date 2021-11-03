@@ -394,7 +394,7 @@
 
   #+attr_html: :width 400px
   [[./img/fortunato.png]]
-  
+
 * Week 12 - November 3
 
   #+attr_html: :width 400px
@@ -404,28 +404,30 @@
 
 ** To get in the mood, meet Moxie...and despair
 
-   * "Meet Moxie - The Revolutionary Robot Companion for
-     Social-Emotional Learning" - https://embodied.com/
+   #+attr_html: :width 200px
+   [[./img/moxie.jpg]]
 
-     Video: https://youtu.be/7-uBtY-MOdI "Because soft skills are
-     essential skills." (Which chain of causation is set up here?)
+   "Meet Moxie - The Revolutionary Robot Companion for
+   Social-Emotional Learning" - https://embodied.com/
 
-     #+begin_quote
-     "Supporting parents and empowering children to build
-     social-emotional skills that promote confidence and
-     resilience. For children ages 5-10, Moxie’s play-based activities
-     use evidence-based techniques to build social-emotional skills
-     that promote mental well-being."
-     #+end_quote
+   Video: https://youtu.be/7-uBtY-MOdI "Because soft skills are
+   essential skills." (Which chain of causation is set up here?)
 
-  
+   #+begin_quote
+   "Supporting parents and empowering children to build
+   social-emotional skills that promote confidence and
+   resilience. For children ages 5-10, Moxie’s play-based activities
+   use evidence-based techniques to build social-emotional skills
+   that promote mental well-being."
+   #+end_quote
+
 * Week 12 - November 4
 
   3rd sprint review! ([[https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-third-sprint][See FAQ]])
-  
+
   #+attr_html: :width 400px
   [[./img/sprint3.gif]]
-  
+
 * Week 12 -  November 15
 
   * AI for Natural Language (reading homework)
