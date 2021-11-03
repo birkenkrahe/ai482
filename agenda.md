@@ -1,36 +1,36 @@
 
 # Table of Contents
 
--   [Week 2 - August 25](#org802bb46)
--   [Week 2 - August 27](#org228ecef)
--   [Week 3 - August 30](#org8e7e9b1)
--   [Week 4 - September 8](#org993d567)
--   [Week 4 - September 10](#orgaaceb7c)
--   [Week 5 - September 13](#org4cf1cee)
--   [Week 5 - September 15](#orgf6bbbe3)
--   [Week 5 - September 17](#org459006e)
--   [Week 6 - September 20/22](#orgfb7af3b)
--   [Week 6 - September 24](#org9344a49)
--   [Week 7 - September 27](#orga76e830)
--   [Week 7 - September 29](#org3f4a1f0)
--   [Week 7 - October 1](#orgab62636)
--   [Week 8 - October 6](#org5f4919f)
--   [Week 8 - October 8](#org7a94fb8)
--   [Week 9 - October 11](#org42ba556)
--   [Week 9 - October 14](#orgbd40823)
--   [Week 9 - October 15](#orgd1612ae)
--   [Week 10 - October 18](#orgda182db)
--   [Week 10 - October 22](#org78c4347)
--   [Week 11 - October 25](#org80ec6d1)
--   [Week 11 - October 27+29](#org293eab8)
--   [Week 12 - November 3](#org34ea101)
--   [Week 12 - November 4](#orgdc30b10)
--   [Week 12 -  November 15](#org4063660)
--   [References](#org347ab48)
+-   [Week 2 - August 25](#org0132e6a)
+-   [Week 2 - August 27](#org1cf1ec7)
+-   [Week 3 - August 30](#orgd2d65e0)
+-   [Week 4 - September 8](#org051f015)
+-   [Week 4 - September 10](#orgbb56d30)
+-   [Week 5 - September 13](#orgfca698e)
+-   [Week 5 - September 15](#org7c21a80)
+-   [Week 5 - September 17](#org6b6183b)
+-   [Week 6 - September 20/22](#org1e260f5)
+-   [Week 6 - September 24](#org08b0e8b)
+-   [Week 7 - September 27](#orgfaa6acc)
+-   [Week 7 - September 29](#org4253242)
+-   [Week 7 - October 1](#org2c662b9)
+-   [Week 8 - October 6](#org86a6b2d)
+-   [Week 8 - October 8](#org6927f64)
+-   [Week 9 - October 11](#org1c69dd3)
+-   [Week 9 - October 14](#org0cdee59)
+-   [Week 9 - October 15](#orga6b0ebc)
+-   [Week 10 - October 18](#org583b024)
+-   [Week 10 - October 22](#org9401d35)
+-   [Week 11 - October 25](#org67b1867)
+-   [Week 11 - October 27+29](#org756df81)
+-   [Week 12 - November 3](#org30738fe)
+-   [Week 12 - November 4](#org8a8ef29)
+-   [Week 12 -  November 15](#orga96dc4b)
+-   [References](#org9d68c10)
 
 
 
-<a id="org802bb46"></a>
+<a id="org0132e6a"></a>
 
 # Week 2 - August 25
 
@@ -51,7 +51,7 @@
     -   Agendas will be posted
 
 
-<a id="org228ecef"></a>
+<a id="org1cf1ec7"></a>
 
 # Week 2 - August 27
 
@@ -61,7 +61,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#orgd637353))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#orgc8356ce))*
 
 
 ## Housekeeping
@@ -86,11 +86,11 @@
 
 ## References
 
-<a id="orgd637353"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="orgc8356ce"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="org8e7e9b1"></a>
+<a id="orgd2d65e0"></a>
 
 # Week 3 - August 30
 
@@ -130,7 +130,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 
 
-<a id="org993d567"></a>
+<a id="org051f015"></a>
 
 # Week 4 - September 8
 
@@ -196,7 +196,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 </table>
 
 
-<a id="orgaaceb7c"></a>
+<a id="orgbb56d30"></a>
 
 # Week 4 - September 10
 
@@ -208,7 +208,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Still no ideas? [See Stanford '21 conference](https://hai.stanford.edu/2021-spring-conference-agenda)
 
 
-<a id="org4cf1cee"></a>
+<a id="orgfca698e"></a>
 
 # Week 5 - September 13
 
@@ -248,7 +248,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Briefly present your findings
 
 
-<a id="orgf6bbbe3"></a>
+<a id="org7c21a80"></a>
 
 # Week 5 - September 15
 
@@ -260,17 +260,17 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 ## Automatic creativity?
 
 
-### [Plotto book (Legro, 2012)](#org4113a12)
+### [Plotto book (Legro, 2012)](#org4dd1037)
 
 ![img](./img/cook.png)
 
 
-### [Wycliffe Hill's 1931 plot robot (Collins, 2009)](#org9d562c9)
+### [Wycliffe Hill's 1931 plot robot (Collins, 2009)](#org111c222)
 
 ![img](./img/plotto.jpg)
 
 
-### [Plotto game (Redgrave, 2018)](#orge2162e1)
+### [Plotto game (Redgrave, 2018)](#orgb1ef6a9)
 
 ![img](./img/plottogame.png)
 
@@ -286,17 +286,17 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 
 ## References
 
-<a id="org9d562c9"></a> Collins P (6 Jul 2009). The King of All Formulas
+<a id="org111c222"></a> Collins P (6 Jul 2009). The King of All Formulas
 [Blog]. [Online: slate.com.](https://slate.com/news-and-politics/2009/07/the-man-who-invented-the-hollywood-schlock-machine.html)
 
-<a id="org4113a12"></a> Legro M (6 Jan 2012). Plotto: The Master Book of All
+<a id="org4dd1037"></a> Legro M (6 Jan 2012). Plotto: The Master Book of All
 Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01/06/plotto/)
 
-<a id="orge2162e1"></a> Redgrave AL (29 Apr 2018). Plotto Demo
+<a id="orgb1ef6a9"></a> Redgrave AL (29 Apr 2018). Plotto Demo
 [Video]. [Online: youtube.com](https://youtu.be/VbWrs8wm5sA).
 
 
-<a id="org459006e"></a>
+<a id="org6b6183b"></a>
 
 # Week 5 - September 17
 
@@ -306,7 +306,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Next: AI in Sales and Marketing (example)
 
 
-<a id="orgfb7af3b"></a>
+<a id="org1e260f5"></a>
 
 # Week 6 - September 20/22
 
@@ -314,7 +314,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   [Lectures in GitHub](https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents)
 
 
-<a id="org9344a49"></a>
+<a id="org08b0e8b"></a>
 
 # Week 6 - September 24
 
@@ -326,10 +326,10 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
     -   Part II: Change management
     -   Part III: Full cycle of ML projects
 
-*Image source: [Williams, 2020](#orgbacf52f).*
+*Image source: [Williams, 2020](#org16f0438).*
 
 
-<a id="orga76e830"></a>
+<a id="orgfaa6acc"></a>
 
 # Week 7 - September 27
 
@@ -344,7 +344,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 *Image: Two AIs talk about becoming human (Soslow, 2021)*
 
 
-<a id="org3f4a1f0"></a>
+<a id="org4253242"></a>
 
 # Week 7 - September 29
 
@@ -355,7 +355,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   New diary entry: [taking stock](https://github.com/birkenkrahe/ai482/blob/main/diary.md#org1e569bc) (Sept 27)
 
 
-<a id="orgab62636"></a>
+<a id="org2c662b9"></a>
 
 # Week 7 - October 1
 
@@ -366,7 +366,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Oct 8: [Upload PDF here by 9 AM](https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review) (everybody)
 
 
-<a id="org5f4919f"></a>
+<a id="org86a6b2d"></a>
 
 # Week 8 - October 6
 
@@ -378,7 +378,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Tell me your solo presentation topics!
 
 
-<a id="org7a94fb8"></a>
+<a id="org6927f64"></a>
 
 # Week 8 - October 8
 
@@ -389,7 +389,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Mon: [sprint review](https://github.com/birkenkrahe/org/blob/master/FAQ.md) critique
 
 
-<a id="org42ba556"></a>
+<a id="org1c69dd3"></a>
 
 # Week 9 - October 11
 
@@ -404,7 +404,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
     2.  Emma on AI in soccer
 
 
-<a id="orgbd40823"></a>
+<a id="org0cdee59"></a>
 
 # Week 9 - October 14
 
@@ -414,7 +414,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Lecture: [Machine learning basics](https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing)<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 
 
-<a id="orgd1612ae"></a>
+<a id="orga6b0ebc"></a>
 
 # Week 9 - October 15
 
@@ -425,7 +425,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Lecture: [Machine learning basics](https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing)<sup><a id="fnr.2.100" class="footref" href="#fn.2">2</a></sup>
 
 
-<a id="orgda182db"></a>
+<a id="org583b024"></a>
 
 # Week 10 - October 18
 
@@ -435,7 +435,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   [Protocols](https://github.com/birkenkrahe/ai482/tree/main/protocols) (extra credit!)
 
 
-<a id="org78c4347"></a>
+<a id="org9401d35"></a>
 
 # Week 10 - October 22
 
@@ -445,7 +445,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   [Protocol/Feedback](https://github.com/birkenkrahe/ai482/tree/main/protocols#orgcad7132)
 
 
-<a id="org80ec6d1"></a>
+<a id="org67b1867"></a>
 
 # Week 11 - October 25
 
@@ -493,7 +493,7 @@ Please prepare our session on "AI for Natural Language" on November
 *Image: Interesting choice of membership categories. (Neurapod)*
 
 
-<a id="org293eab8"></a>
+<a id="org756df81"></a>
 
 # Week 11 - October 27+29
 
@@ -535,7 +535,7 @@ Please prepare our session on "AI for Natural Language" on November
 ![img](./img/fortunato.png)
 
 
-<a id="org34ea101"></a>
+<a id="org30738fe"></a>
 
 # Week 12 - November 3
 
@@ -546,20 +546,22 @@ Wyatt's solo [presentation](https://github.com/birkenkrahe/ai482/tree/main/prese
 
 ## To get in the mood, meet Moxie&#x2026;and despair
 
--   "Meet Moxie - The Revolutionary Robot Companion for
-    Social-Emotional Learning" - <https://embodied.com/>
-    
-    Video: <https://youtu.be/7-uBtY-MOdI> "Because soft skills are
-    essential skills." (Which chain of causation is set up here?)
-    
-    > "Supporting parents and empowering children to build
-    > social-emotional skills that promote confidence and
-    > resilience. For children ages 5-10, Moxie’s play-based activities
-    > use evidence-based techniques to build social-emotional skills
-    > that promote mental well-being."
+![img](./img/moxie.jpg)
+
+"Meet Moxie - The Revolutionary Robot Companion for
+Social-Emotional Learning" - <https://embodied.com/>
+
+Video: <https://youtu.be/7-uBtY-MOdI> "Because soft skills are
+essential skills." (Which chain of causation is set up here?)
+
+> "Supporting parents and empowering children to build
+> social-emotional skills that promote confidence and
+> resilience. For children ages 5-10, Moxie’s play-based activities
+> use evidence-based techniques to build social-emotional skills
+> that promote mental well-being."
 
 
-<a id="orgdc30b10"></a>
+<a id="org8a8ef29"></a>
 
 # Week 12 - November 4
 
@@ -568,14 +570,14 @@ Wyatt's solo [presentation](https://github.com/birkenkrahe/ai482/tree/main/prese
 ![img](./img/sprint3.gif)
 
 
-<a id="org4063660"></a>
+<a id="orga96dc4b"></a>
 
 # Week 12 -  November 15
 
 -   AI for Natural Language (reading homework)
 
 
-<a id="org347ab48"></a>
+<a id="org9d68c10"></a>
 
 # References
 
@@ -591,7 +593,7 @@ Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
 Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY?t=367).
 
-<a id="orgbacf52f"></a> Williams A (Jun 27, 2020). Riot Games give first clues
+<a id="org16f0438"></a> Williams A (Jun 27, 2020). Riot Games give first clues
 about new Valorant Agents and abilities [blog]. [Online: dexerto.com](https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/).
 
 
