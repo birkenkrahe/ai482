@@ -430,7 +430,7 @@
 
 * Week 12 -  November 15
 
-  * AI for Natural Language (reading homework)
+  * AI for Natural Language (reading [[https://github.com/birkenkrahe/ai482/blob/main/agenda.md#homework][homework]])
 
 * References
 
