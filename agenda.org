@@ -458,7 +458,6 @@
     #+attr_html: :width 400px
     [[./img/chatbots.gif]]
 
-
   * How to Make a Simple Chatbot in Under 10 Minutes (No Coding
     [Google] Dialogflow) ([[batir][Batir, 2020]]).
   * Articles: Building a chatbot assistant with IBM Watson in 30 min ([[watson][Yates,
@@ -467,6 +466,7 @@
   * Robotic Process Automation with UIPath (academic tutorials, [[uipath][UIPath
     2021]]).
   * Workflow automation with Integromat ([[integromat][2020,2021]]).
+  * Workflow Automation with the IFTTT [[https://ifttt.com/explore/app-benefits][app]] (or [[https://ifttt.com/][webservice]]). 
 
 * References
 
