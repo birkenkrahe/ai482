@@ -424,7 +424,7 @@
    that promote mental well-being."
    #+end_quote
 
-* Week 12 - November 4
+* Week 12 - November 5
 
   3rd sprint review! ([[https://github.com/birkenkrahe/org/blob/master/FAQ.md#what-should-we-do-in-the-third-sprint][See FAQ]])
 
