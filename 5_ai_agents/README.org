@@ -309,6 +309,15 @@
 
    Example: vacuum robot (smart home).
 
+   The agent acts according to a ~rule~ whose condition
+   matches the current ~state~, as defined by the ~percept~.
+
+   Pseudocode:
+   #+attr_html: :width 450px
+   [[./img/simplecode.png]]
+
+   Figure:
+   #+attr_html: :width 450px
    [[./img/simple.png]]
 
 ** Model based agents
