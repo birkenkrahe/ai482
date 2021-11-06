@@ -438,12 +438,19 @@
 
 * Week 13 -  November 8 - NLP
 
+  #+attr_html: :width 400px
+  [[./img/nlp.png]]
+  
   * What is NLP? ([[nlp][IBM Technology, 2021]])[fn:5]
+    - Tokenization
+    - Lemmatization
+    - Part-Of-Sentence Tagging
+
   * AI for Natural Language (reading [[https://github.com/birkenkrahe/ai482/blob/main/agenda.md#homework][homework]]):
     - Main challenges
     - Sentiment analysis
     - Document search and retrieval
-    - Case study: Translated / machine translation
+    - Case study: Translated / machine translationi
 
 * Week 13 - November 10+12
 

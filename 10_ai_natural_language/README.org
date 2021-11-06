@@ -54,17 +54,19 @@
   "What is NLP?" in 10 minutes. Video by [[nlp][IBM Technology (2021]]) - [[https://youtu.be/fLvJ8VdHLA0][via
   YouTube]]
 
-  | Use case[fn:7]                | Algorithm      | Agent type |
-  |-------------------------------+----------------+------------|
-  | Machine translation           |                |            |
-  | Virtual assistants (chatbots) |                |            |
-  | Sentiment analysis            | Classification |            |
-  | Spam detection                | Classification |            |
+** Agent types
+   
+  | Use case[fn:7]                | [[https://github.com/birkenkrahe/ai482/tree/main/8_machine_learning][Algorithm]]      | [[https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents][Agent type]]     |
+  |-------------------------------+----------------+----------------|
+  | Machine translation           | Deep learning  | Learning agent |
+  | Virtual assistants (chatbots) | Decision trees | Utility-based  |
+  | Sentiment analysis            | Classification | Model-based    |
+  | Spam detection                | Classification | Goal-based     |
 
   #+attr_html: :width 500px
   [[./img/ibm.png]]
 
-** Machine translation - an experiment
+** Machine translation messing up
 
    #+attr_html: :width 500px
   [[./img/mt1.png]]
@@ -79,6 +81,21 @@
   [[./img/mt2.png]]
   /Image: DeepL translate messing up.[fn:6]/
 
+** NLP methods
+   
+   | METHOD                 | DEFINITION             | EXAMPLE                                           |
+   |------------------------+------------------------+---------------------------------------------------|
+   | Tokenization           | Breaking strings up    | ~"the" "boy's" "cars" "are" "different" "colors"~ |
+   | Stemming               | Identifying word stems | ~"car" "cars" "car's" "cars'"~: ~car~             |
+   | Lemmatization          | Morphological analysis | ~"am" "are "is"~: ~be~                            |
+   | Part of speech tagging | Syntactic analysis     | ~Time flies like an arrow.~                       |
+
+   Result of stemming and lemmatization ([[irb][Manning et al, 2008]]):
+   |"the boy's cars are different colors"|~the boy car be differ color~|
+
+   Resolving syntactic ambiguities using POS tags ([[pos][Godayal, 2018]]):
+   [[./img/pos.png]]
+   
 * Questions for discussion
 
   * Which two metrics are used to measure NLP performance?
@@ -97,6 +114,14 @@
 
   <<nlp>> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
   (Natural Language Processing)? [video]. URL: [[https://youtu.be/fLvJ8VdHLA0][youtu.be/fLvJ8VdHLA0]]
+
+  <<irb>> Manning/Raghavan/Schuetze (2008). Introduction to
+  Information Retrieval. Cambridge Univ Press ([[https://nlp.stanford.edu/IR-book/][PDF]]). [[https://nlp.stanford.edu/IR-book/][URL:
+  nlp.stanford.edu.]]
+
+  <<pos>> Godayal/Malhotra (June 8, 2018). An introduction to part of
+  speech tagging and the Hidden Markov Model [blog]. [[https://www.freecodecamp.org/news/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24/][URL:
+  freecodecamp.org]]
 
 * Footnotes
 
