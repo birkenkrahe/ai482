@@ -434,7 +434,7 @@
 ** [[https://github.com/birkenkrahe/org/blob/master/diary.md#join-me-in-spring-2022-nov-3][New ~org~ diary entry "Join me in spring 2022!"]]
 
    [[./img/joinme.gif]]
-    
+
 
 * Week 13 -  November 8 - NLP
 
@@ -455,8 +455,8 @@
 
 * Week 14 - November 15 - RPA???
 
-    #+attr_html: :width 400px
-    [[./img/chatbots.gif]]
+  #+attr_html: :width 400px
+  [[./img/chatbots.gif]]
 
   * How to Make a Simple Chatbot in Under 10 Minutes (No Coding
     [Google] Dialogflow) ([[batir][Batir, 2020]]).
@@ -466,14 +466,14 @@
   * Robotic Process Automation with UIPath (academic tutorials, [[uipath][UIPath
     2021]]).
   * Workflow automation with Integromat ([[integromat][2020,2021]]).
-  * Workflow Automation with the IFTTT [[https://ifttt.com/explore/app-benefits][app]] (or [[https://ifttt.com/][webservice]]). 
+  * Workflow Automation with the IFTTT [[https://ifttt.com/explore/app-benefits][app]] (or [[https://ifttt.com/][webservice]]).
 
 * References
 
   <<batir>> Batir S (Jul 5, 2020). How to Make a Simple Chatbot in
   Under 10 Mintues (No Coding Dialogflow) [video]. [[https://youtu.be/Ua1pgeWg6vw][URL:
   youtu.be/Ua1pgeWg6vw]]
-  
+
   Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
   [video]. [[https://youtu.be/UjQ1AzSvCp8?t=1308][URL: youtu.be/UjQ1AzSvCp8?t=1308]].
 
@@ -508,6 +508,13 @@
   Watson Assistant: The Build Guide Part I. [[https://medium.com/ibm-watson/getting-started-with-the-new-watson-assistant-ff8cfcbf048f][URL: medium.com]]
 
 * Footnotes
+
+[fn:6]Actually, "Du kannst mich mal gerne haben" (German) means "Bite
+me."  While "jemanden gerne haben" means "to like someone", the
+operational part of the German sentence is "Du kannst mich mal", which
+is correctly machine translated as "Bite me." But the last part is
+inserted to soften it (typically used like this in the South of
+Germany).
 
 [fn:5]This is a really nice video that gives a little more insight
 into the technical aspects of NLP. Clearly an attempt to reroute
