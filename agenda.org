@@ -434,8 +434,8 @@
 ** [[https://github.com/birkenkrahe/org/blob/master/diary.md#join-me-in-spring-2022-nov-3][New ~org~ diary entry "Join me in spring 2022!"]]
 
    [[./img/joinme.gif]]
-   
-  
+    
+
 * Week 13 -  November 8 - NLP
 
   * What is NLP? ([[nlp][IBM Technology, 2021]])[fn:5]
@@ -485,7 +485,7 @@
   the COVID-10 App [video]. [[https://youtu.be/aPdcjmG_kc4][URL: youtu.be/aPdcjmG_kc4]].
 
   <<nlp>> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
-  (Natural Language Processing)? [video]. URL:
+  (Natural Language Processing)? [video]. URL: [[https://youtu.be/fLvJ8VdHLA0][youtu.be/fLvJ8VdHLA0]]
 
   Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
   human. (GPT-3) [video]. [[https://youtu.be/jz78fSnBG0s][URL: youtu.be/jz78fSnBG0s]].
