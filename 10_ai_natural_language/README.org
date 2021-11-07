@@ -49,53 +49,68 @@
 
   Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 5
 
-* Overview
+* Overview of NLP uses and tools
 
   "What is NLP?" in 10 minutes. Video by [[nlp][IBM Technology (2021]]) - [[https://youtu.be/fLvJ8VdHLA0][via
   YouTube]]
 
 ** Agent types
-   
-  | Use case[fn:7]                | [[https://github.com/birkenkrahe/ai482/tree/main/8_machine_learning][Algorithm]]      | [[https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents][Agent type]]     |
-  |-------------------------------+----------------+----------------|
-  | Machine translation           | Deep learning  | Learning agent |
-  | Virtual assistants (chatbots) | Decision trees | Utility-based  |
-  | Sentiment analysis            | Classification | Model-based    |
-  | Spam detection                | Classification | Goal-based     |
 
-  #+attr_html: :width 500px
-  [[./img/ibm.png]]
+   | Use case[fn:7]                | [[https://github.com/birkenkrahe/ai482/tree/main/8_machine_learning][Algorithm]]      | [[https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents][Agent type]]     |
+   |-------------------------------+----------------+----------------|
+   | Machine translation           | Deep learning  | Learning agent |
+   | Virtual assistants (chatbots) | Decision trees | Utility-based  |
+   | Sentiment analysis            | Classification | Model-based    |
+   | Spam detection                | Classification | Goal-based     |
+
+   #+attr_html: :width 500px
+   [[./img/ibm.png]]
 
 ** Machine translation messing up
 
    #+attr_html: :width 500px
-  [[./img/mt1.png]]
+   [[./img/mt1.png]]
 
-  /Image: Google translate messing up.[fn:6]/
+   /Image: Google translate messing up.[fn:6]/
 
-  This is even worse - ~deepl~ is often really good when it comes to
-  longer texts, but as a machine it is more on its own than Google
-  Translate.
+   This is even worse - ~deepl~ is often really good when it comes to
+   longer texts, but as a machine it is more on its own than Google
+   Translate.
 
-  #+attr_html: :width 500px
-  [[./img/mt2.png]]
-  /Image: DeepL translate messing up.[fn:6]/
-
-** NLP methods
+   #+attr_html: :width 500px
+   [[./img/mt2.png]]
+   /Image: DeepL translate messing up.[fn:6]/
    
-   | METHOD                 | DEFINITION             | EXAMPLE                                           |
-   |------------------------+------------------------+---------------------------------------------------|
-   | Tokenization           | Breaking strings up    | ~"the" "boy's" "cars" "are" "different" "colors"~ |
-   | Stemming               | Identifying word stems | ~"car" "cars" "car's" "cars'"~: ~car~             |
-   | Lemmatization          | Morphological analysis | ~"am" "are "is"~: ~be~                            |
-   | Part of speech tagging | Syntactic analysis     | ~Time flies like an arrow.~                       |
+** NLP methods summary
+
+   | METHOD                   | DEFINITION             | EXAMPLE                                           |
+   |--------------------------+------------------------+---------------------------------------------------|
+   | Tokenization             | Breaking strings up    | ~"the" "boy's" "cars" "are" "different" "colors"~ |
+   | Stemming                 | Identifying word stems | ~"car" "cars" "car's" "cars'"~: ~car~             |
+   | Lemmatization            | Morphological analysis | ~"am" "are "is"~: ~be~                            |
+   | Part of speech tagging   | Syntactic analysis     | ~Time flies like an arrow.~                       |
+   | Named Entity Recognition | Text labelling         | Label token ~Arizona~ as ~US state~               |
 
    Result of stemming and lemmatization ([[irb][Manning et al, 2008]]):
    |"the boy's cars are different colors"|~the boy car be differ color~|
 
    Resolving syntactic ambiguities using POS tags ([[pos][Godayal, 2018]]):
-   [[./img/pos.png]]
+   #+attr_html: :width 500px
+   [[./img/pos.jpeg]]
+
+   | Time flies like an arrow | (1) Time is like an arrow, in that it passes fast             |
+   |                          | (2) "Time flies" (as in "fruit flies") like [to eat] an arrow |
+   |                          | (3) You can time flies like you can time runners              |
+
+   Named Entity Recognition (NER): labelling text data
+   #+attr_html: :width 500px
+   [[./img/ner.png]]
+  
+   * Named Entity Recognition - [[https://youtu.be/Ge-sXjgup6g][video]] ([[datasaura][Datasaur, 2021a]])
+   * ML-assisted text labeling - video (Datasaur, 2021b)
    
+   Further reading: [[nlpguide][Lee, 2020]].
+
 * Questions for discussion
 
   * Which two metrics are used to measure NLP performance?
@@ -123,13 +138,22 @@
   speech tagging and the Hidden Markov Model [blog]. [[https://www.freecodecamp.org/news/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24/][URL:
   freecodecamp.org]]
 
+  <<nlpguide>> Lee (Sep 3, 2020). Data Labeling for Natural Language
+  Processing: A Comprehensive Guide. [[https://medium.com/datasaur/data-labeling-for-natural-language-processing-a-comprehensive-guide-741343fea20e][URL: medium.com/datasaur]].
+
+  <<datasaura>> Datasaur (May 19, 2021). Datasaur Labeling
+  [video]. [[https://youtu.be/Ge-sXjgup6g][URL: youtu.be/Ge-sXjgup6g]]
+
+  <<datasaurb>> Datasaur (May 2, 2021). Datasaur.ai: ML-Assisted
+  Labeling [video]. [[https://youtu.be/Qsw7dhneBw4][URL: youtu.be/Qsw7dhneBw4]]
+
 * Footnotes
 
 [fn:7]We've used this term "use case" in class without definition. In
 the Unified Modeling Language (UML), a use case diagram shows all the
 different ways in which a user might interact with a system. The more
 colloquial use means that we look at all the different ways, in which
-a concept might be applied or used. 
+a concept might be applied or used.
 
 [fn:6]Actually, "Du kannst mich mal gerne haben" (German) means "Bite
 me."  While "jemanden gerne haben" means "to like someone", the
