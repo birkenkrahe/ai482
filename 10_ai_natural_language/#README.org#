@@ -1,0 +1,196 @@
+#+TITLE:AI for Natural Language
+#+AUTHOR:Marcus Birkenkrahe
+#+SUBTITLE: AI Senior Seminar Fall 2021
+#+STARTUP:overview
+#+OPTIONS:hideblocks
+#+OPTIONS: toc:nil num:nil ^:nil
+#+INFOJS_OPT: :view:info
+* UNDER CONSTRUCTION
+
+  [[./img/underconstruction.gif]]
+
+* The nature of language
+
+** Artificial Intelligence Sheds Light on How the Brain Processes Language
+   https://neurosciencenews.com/ai-language-processing-19536/
+* Can computers learn language? (2019)
+
+  * Mindmap
+  
+  ([[https://1drv.ms/u/s!AhEvK3qWokrvhIV2Jb0WEguMU8Du2A?e=wHOl3h][Link to folder]] with materials)
+   
+* Entry example: Open AI Codex
+
+  *Assignment:* To get going, watch 5 minutes of this video (from [[https://youtu.be/ISa10TrJK7w?t=115][here]]
+  to [[https://youtu.be/ISa10TrJK7w?t=367][here]]) - recent coding successes with AI using natural language
+  ([[neurapod][Neura Pod, 2021]]).
+
+  The video reveals a particular (not uncommon) form of bias of what
+  AI can and should do for us. It is contained in this quote:
+
+  #+begin_quote
+  "Programming is two things - one is: understand your problem. That
+  includes talking to your users, thinking super hard about it,
+  decomposing it in smaller pieces - these are the really cognitive
+  aspects of building something. And then there's a second piece,
+  which is: map a small functionality to code, whether it's an
+  existing or an existing function, whether it's in your own codebase
+  or out there in the world. And this second part is where the model
+  really shines, like, I think it's better than I am at it, because it
+  really has seen the whole universe of how people use code
+  [...[fn:4]]. It really accelerates me as a programmer, and takes
+  away the boring stuff so I can focus on the fun ones."
+  #+end_quote
+
+  I just got into the GitHub Copilot beta pilot for OpenAI Codex -
+  will report if I learn anything![fn:5]
+
+* What will you learn?
+
+  * What is Natural Language Processing (NLP)?
+  * How is NLP success measured?
+  * What is sentiment analysis?
+  * How are chatbots designed?
+
+  Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 5
+
+* Overview of NLP uses and tools
+
+  "What is NLP?" in 10 minutes. Video by [[nlp][IBM Technology (2021]]) - [[https://youtu.be/fLvJ8VdHLA0][via
+  YouTube]]
+
+** Agent types
+
+   | Use case[fn:7]                | [[https://github.com/birkenkrahe/ai482/tree/main/8_machine_learning][Algorithm]]      | [[https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents][Agent type]]     |
+   |-------------------------------+----------------+----------------|
+   | Machine translation           | Deep learning  | Learning agent |
+   | Virtual assistants (chatbots) | Decision trees | Utility-based  |
+   | Sentiment analysis            | Classification | Model-based    |
+   | Spam detection                | Classification | Goal-based     |
+
+   #+attr_html: :width 500px
+   [[./img/ibm.png]]
+
+** Machine translation messing up
+
+   #+attr_html: :width 500px
+   [[./img/mt1.png]]
+
+   /Image: Google translate messing up.[fn:6]/
+
+   This is even worse - ~deepl~ is often really good when it comes to
+   longer texts, but as a machine it is more on its own than Google
+   Translate.
+
+   #+attr_html: :width 500px
+   [[./img/mt2.png]]
+   /Image: DeepL translate messing up.[fn:6]/
+   
+** NLP methods summary
+
+   | METHOD                   | DEFINITION             | EXAMPLE                                           |
+   |--------------------------+------------------------+---------------------------------------------------|
+   | Tokenization             | Breaking strings up    | ~"the" "boy's" "cars" "are" "different" "colors"~ |
+   | Stemming                 | Identifying word stems | ~"car" "cars" "car's" "cars'"~: ~car~             |
+   | Lemmatization            | Morphological analysis | ~"am" "are "is"~: ~be~                            |
+   | Part of speech tagging   | Syntactic analysis     | ~Time flies like an arrow.~                       |
+   | Named Entity Recognition | Text labelling         | Label token ~Arizona~ as ~US state~               |
+
+   Result of stemming and lemmatization ([[irb][Manning et al, 2008]]):
+   |"the boy's cars are different colors"|~the boy car be differ color~|
+
+   Resolving syntactic ambiguities using POS tags ([[pos][Godayal, 2018]]):
+   #+attr_html: :width 500px
+   [[./img/pos.jpeg]]
+
+   | Time flies like an arrow | (1) Time is like an arrow, in that it passes fast             |
+   |                          | (2) "Time flies" (as in "fruit flies") like [to eat] an arrow |
+   |                          | (3) You can time flies like you can time runners              |
+
+   Named Entity Recognition (NER): labelling text data
+   #+attr_html: :width 500px
+   [[./img/ner.png]]
+  
+   * Named Entity Recognition - [[https://youtu.be/Ge-sXjgup6g][video]] ([[datasaura][Datasaur, 2021a]])
+   * ML-assisted text labeling - video (Datasaur, 2021b)
+   
+   Further reading: [[nlpguide][Lee, 2020]].
+
+* Questions for discussion
+
+  * Which two metrics are used to measure NLP performance?
+  * Why is sentiment analysis a classification problem?
+  * What does OpenAI's GPT-2 model do?
+  * How does BrokerBot differ from Eliza the therapist bot?
+
+* References
+
+  <<zero2ai>> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+  hype-free guide to prospering in the AI era. Manning. [[https://www.manning.com/books/zero-to-ai][Online:
+  manning.com]].
+
+  <<neurapod>> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
+  [video]:1:55-6:05. [[https://youtu.be/ISa10TrJK7w][Online: youtube.com.]]
+
+  <<nlp>> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
+  (Natural Language Processing)? [video]. URL: [[https://youtu.be/fLvJ8VdHLA0][youtu.be/fLvJ8VdHLA0]]
+
+  <<irb>> Manning/Raghavan/Schuetze (2008). Introduction to
+  Information Retrieval. Cambridge Univ Press ([[https://nlp.stanford.edu/IR-book/][PDF]]). [[https://nlp.stanford.edu/IR-book/][URL:
+  nlp.stanford.edu.]]
+
+  <<pos>> Godayal/Malhotra (June 8, 2018). An introduction to part of
+  speech tagging and the Hidden Markov Model [blog]. [[https://www.freecodecamp.org/news/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24/][URL:
+  freecodecamp.org]]
+
+  <<nlpguide>> Lee (Sep 3, 2020). Data Labeling for Natural Language
+  Processing: A Comprehensive Guide. [[https://medium.com/datasaur/data-labeling-for-natural-language-processing-a-comprehensive-guide-741343fea20e][URL: medium.com/datasaur]].
+
+  <<datasaura>> Datasaur (May 19, 2021). Datasaur Labeling
+  [video]. [[https://youtu.be/Ge-sXjgup6g][URL: youtu.be/Ge-sXjgup6g]]
+
+  <<datasaurb>> Datasaur (May 2, 2021). Datasaur.ai: ML-Assisted
+  Labeling [video]. [[https://youtu.be/Qsw7dhneBw4][URL: youtu.be/Qsw7dhneBw4]]
+
+  <<alice>> Birkenkrahe (14 Nov 
+* Footnotes
+
+[fn:7]We've used this term "use case" in class without definition. In
+the Unified Modeling Language (UML), a use case diagram shows all the
+different ways in which a user might interact with a system. The more
+colloquial use means that we look at all the different ways, in which
+a concept might be applied or used.
+
+[fn:6]Actually, "Du kannst mich mal gerne haben" (German) means "Bite
+me."  While "jemanden gerne haben" means "to like someone", the
+operational part of the German sentence is "Du kannst mich mal", which
+is correctly machine translated as "Bite me." But the last part is
+inserted to soften it (typically used like this in the South of
+Germany).
+
+[fn:5]"GitHub Copilot is an AI pair programmer which suggests line
+completions and entire function bodies as you type. GitHub Copilot is
+powered by the OpenAI Codex AI system, trained on public Internet text
+and billions of lines of code." ([[https://marketplace.visualstudio.com/items?itemName=GitHub.copilot][Source]]). Alas, I do not use Visual
+Code Studio - an editor from Microsoft (now it makes sense why GitHub,
+also owned by Microsoft, partners with OpenAI Codex - more customers
+for both their platforms and ultimately for their cloud business,
+Azure).
+
+[fn:4]Using the GPT-3 model.
+
+[fn:2]The relationship between AI and ML is briefly explained in AIMA
+at the start. Part V of the book deals exclusively with machine
+learning. The distinctions (data science, AI, machine learning) are
+not precise at all though.
+
+[fn:3]We discussed some of them in class. Some issues were also
+mentioned by Andrew Ng: data validation and availability; change
+management (for deployment); scaling; value identification;
+maintenance/debugging.
+
+[fn:1](1) Predicting final grades from midterm and other student
+performance data. (2) Predicting how much/which products a customer
+will buy depending on his purchasing history. (3) Predicting if a
+customer will buy or bail. (3) Predicting if email is spam or not. (4)
+Predicting if an image is a cat or dog (or neither).
