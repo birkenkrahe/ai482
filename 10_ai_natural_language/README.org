@@ -15,9 +15,7 @@
    https://neurosciencenews.com/ai-language-processing-19536/
 * Can computers learn language? (2019)
 
-
-  
-  ([[https://1drv.ms/u/s!AhEvK3qWokrvhIV2Jb0WEguMU8Du2A?e=wHOl3h][Link to folder]] with materials)
+  * Mindmap and lecture notes @GitHub
    
 * Entry example: Open AI Codex
 
@@ -151,6 +149,9 @@
 
   <<datasaurb>> Datasaur (May 2, 2021). Datasaur.ai: ML-Assisted
   Labeling [video]. [[https://youtu.be/Qsw7dhneBw4][URL: youtu.be/Qsw7dhneBw4]]
+
+  <<alice>> Birkenkrahe (14 Nov 2021). Can Computers Learn Language?
+  Talk at West Chester U. [mindmap]. [[https://tinyurl.com/sn5hqh2][URL: tinyurl.com]]
 
 * Footnotes
 
