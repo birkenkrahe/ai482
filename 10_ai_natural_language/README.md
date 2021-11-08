@@ -1,32 +1,32 @@
 
 # Table of Contents
 
--   [UNDER CONSTRUCTION](#org05fe9d1)
--   [What will you learn?](#org04286af)
--   [The nature of language](#org208845b)
-    -   [AI Sheds Light on How the Brain Processes Language](#org89adb3a)
-    -   [Can computers learn language? (2019)](#org4b325a2)
-    -   [OpenAI codex: automatic coding](#org4c51e91)
--   [Overview of NLP uses and tools](#org57f22d6)
-    -   [Agent types](#org9827d3a)
-    -   [Machine translation messing up](#orgb5ac462)
-    -   [NLP methods summary](#org32494b3)
--   [AI for natural language](#orga053833)
-    -   [Measuring language complexity](#orga784fea)
-    -   [Broker bot](#org9cc7196)
--   [Questions for discussion](#org6b02e86)
--   [References](#org13bcd46)
+-   [UNDER CONSTRUCTION](#orge653a14)
+-   [What will you learn?](#org9d18373)
+-   [The nature of language](#org19f6922)
+    -   [AI Sheds Light on How the Brain Processes Language](#orgf7c5cbc)
+    -   [Can computers learn language? (2019)](#org1c155ea)
+    -   [OpenAI codex: automatic coding](#org43859cc)
+-   [Overview of NLP uses and tools](#org832a058)
+    -   [Agent types](#orgdfae8dc)
+    -   [Machine translation messing up](#orgd0b1217)
+    -   [NLP methods summary](#orgb9b26a2)
+-   [Zero to AI: AI for natural language](#orgea95059)
+    -   [Measuring language complexity](#orgd345413)
+    -   [NLP application scenarios](#org1253170)
+-   [Questions for discussion](#org3c8bf7e)
+-   [References](#orgdcf5d00)
 
 
 
-<a id="org05fe9d1"></a>
+<a id="orge653a14"></a>
 
 # UNDER CONSTRUCTION
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="org04286af"></a>
+<a id="org9d18373"></a>
 
 # What will you learn?
 
@@ -37,12 +37,12 @@
 -   How are chatbots designed?
 
 
-<a id="org208845b"></a>
+<a id="org19f6922"></a>
 
 # The nature of language
 
 
-<a id="org89adb3a"></a>
+<a id="orgf7c5cbc"></a>
 
 ## [AI Sheds Light on How the Brain Processes Language](https://neurosciencenews.com/ai-language-processing-19536/)
 
@@ -60,17 +60,17 @@
 > have been previously proposed that prediction is one of the key
 > functions in language processing, he says."
 
-Source: [MIT, 2021](#org0563380).
+Source: [MIT, 2021](#org1b2c985).
 
 
-<a id="org4b325a2"></a>
+<a id="org1c155ea"></a>
 
 ## Can computers learn language? (2019)
 
 In 2019, my sister, who is a professor of linguistics at West
 Chester U., asked me to talk to her students about NLP. This is when
 I began to get interested in it. The [mindmap](https://github.com/birkenkrahe/ai482/blob/main/10_ai_natural_language/can_computers_learn_languages.xmind) and [lecture notes](https://github.com/birkenkrahe/ai482/blob/main/10_ai_natural_language/can_computers_learn_languages_notes.pdf) for
-this talk are in GitHub<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>.
+this talk are in GitHub, and here is a [screenshot](https://github.com/birkenkrahe/ai482/blob/main/10_ai_natural_language/can_computers_learn_languages.png)<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>.
 
 This is also when I realized what a mess NLP was and how incomplete
 our understanding of perhaps our most privileged ability, language,
@@ -79,13 +79,13 @@ stil is!
 ![img](./img/mess.jpg)
 
 
-<a id="org4c51e91"></a>
+<a id="org43859cc"></a>
 
 ## OpenAI codex: automatic coding
 
 **Assignment:** To get going, watch 5 minutes of this video (from [here](https://youtu.be/ISa10TrJK7w?t=115)
 to [here](https://youtu.be/ISa10TrJK7w?t=367)) - recent coding successes with AI using natural language
-([Neura Pod, 2021](#org3388e9e)).
+([Neura Pod, 2021](#orgac8e789)).
 
 The video reveals a particular (not uncommon) form of bias of what
 AI can and should do for us. It is contained in this quote:
@@ -106,15 +106,15 @@ I just got into the GitHub Copilot beta pilot for OpenAI Codex -
 will report if I learn anything!<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
 
 
-<a id="org57f22d6"></a>
+<a id="org832a058"></a>
 
 # Overview of NLP uses and tools
 
-"What is NLP?" in 10 minutes. Video by [IBM Technology (2021](#org58ab61f)) - [via
+"What is NLP?" in 10 minutes. Video by [IBM Technology (2021](#org6bb3fa8)) - [via
 YouTube](https://youtu.be/fLvJ8VdHLA0)
 
 
-<a id="org9827d3a"></a>
+<a id="orgdfae8dc"></a>
 
 ## Agent types
 
@@ -169,7 +169,7 @@ YouTube](https://youtu.be/fLvJ8VdHLA0)
 ![img](./img/ibm.png)
 
 
-<a id="orgb5ac462"></a>
+<a id="orgd0b1217"></a>
 
 ## Machine translation messing up
 
@@ -185,7 +185,7 @@ Translate.
 *Image: DeepL translate messing up.<sup><a id="fnr.5.100" class="footref" href="#fn.5">5</a></sup>*
 
 
-<a id="org32494b3"></a>
+<a id="orgb9b26a2"></a>
 
 ## NLP methods summary
 
@@ -244,7 +244,7 @@ Translate.
 </tbody>
 </table>
 
-Result of stemming and lemmatization ([Manning et al, 2008](#org89b8cd9)):
+Result of stemming and lemmatization ([Manning et al, 2008](#org9a07b75)):
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -262,7 +262,7 @@ Result of stemming and lemmatization ([Manning et al, 2008](#org89b8cd9)):
 </tbody>
 </table>
 
-Resolving syntactic ambiguities using POS tags ([Godayal, 2018](#org0e9949a)):
+Resolving syntactic ambiguities using POS tags ([Godayal, 2018](#orgeb7b2e7)):
 
 ![img](./img/pos.jpeg)
 
@@ -298,20 +298,20 @@ Named Entity Recognition (NER): labelling text data
 
 ![img](./img/ner.png)
 
--   Named Entity Recognition - [video](https://youtu.be/Ge-sXjgup6g) ([Datasaur, 2021a](#org4657233))
+-   Named Entity Recognition - [video](https://youtu.be/Ge-sXjgup6g) ([Datasaur, 2021a](#org83d6b62))
 -   ML-assisted text labeling - video (Datasaur, 2021b)
 
-Further reading: [Lee, 2020](#org5e5d301).
+Further reading: [Lee, 2020](#orgdd121a4).
 
 
-<a id="orga053833"></a>
+<a id="orgea95059"></a>
 
-# AI for natural language
+# Zero to AI: AI for natural language
 
-Image source: [Mauro/Valigi (2021)](#orgb2961f7), chapter 5
+Image source: [Mauro/Valigi (2021)](#org67d10ac), chapter 5
 
 
-<a id="orga784fea"></a>
+<a id="orgd345413"></a>
 
 ## Measuring language complexity
 
@@ -364,17 +364,21 @@ Image source: [Mauro/Valigi (2021)](#orgb2961f7), chapter 5
 
 ![img](./img/nlp.png)
 
-*What is for example not captured with this measure?*<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup>
-
-
-<a id="org9cc7196"></a>
-
-## Broker bot
+Greater area corresponds to greater "complexity"<sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup>.
 
 ![img](./img/nlp1.png)
 
+*What is for example not captured with this measure?*<sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup>
 
-<a id="org6b02e86"></a>
+
+<a id="org1253170"></a>
+
+## NLP application scenarios
+
+![img](./img/nlp2.png)
+
+
+<a id="org3c8bf7e"></a>
 
 # Questions for discussion
 
@@ -384,42 +388,45 @@ Image source: [Mauro/Valigi (2021)](#orgb2961f7), chapter 5
 -   How does BrokerBot differ from Eliza the therapist bot?
 
 
-<a id="org13bcd46"></a>
+<a id="orgdcf5d00"></a>
 
 # References
 
-<a id="org0563380"></a> MIT (Oct 25, 2021). Artificial Intelligence Sheds Light on
+<a id="org1b2c985"></a> MIT (Oct 25, 2021). Artificial Intelligence Sheds Light on
 How the Brain Processes Language [news]. [URL: neurosciencenews.com.](https://neurosciencenews.com/ai-language-processing-19536/)
 
-<a id="orgb2961f7"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="org67d10ac"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
-<a id="org3388e9e"></a> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
+<a id="orgac8e789"></a> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
 [video]:1:55-6:05. [Online: youtube.com.](https://youtu.be/ISa10TrJK7w)
 
-<a id="org58ab61f"></a> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
+<a id="org6bb3fa8"></a> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
 (Natural Language Processing)? [video]. URL: [youtu.be/fLvJ8VdHLA0](https://youtu.be/fLvJ8VdHLA0)
 
-<a id="org89b8cd9"></a> Manning/Raghavan/Schuetze (2008). Introduction to
+<a id="org9a07b75"></a> Manning/Raghavan/Schuetze (2008). Introduction to
 Information Retrieval. Cambridge Univ Press ([PDF](https://nlp.stanford.edu/IR-book/)). [URL:
 nlp.stanford.edu.](https://nlp.stanford.edu/IR-book/)
 
-<a id="org0e9949a"></a> Godayal/Malhotra (June 8, 2018). An introduction to part of
+<a id="orgeb7b2e7"></a> Godayal/Malhotra (June 8, 2018). An introduction to part of
 speech tagging and the Hidden Markov Model [blog]. [URL:
 freecodecamp.org](https://www.freecodecamp.org/news/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24/)
 
-<a id="org5e5d301"></a> Lee (Sep 3, 2020). Data Labeling for Natural Language
+<a id="orgdd121a4"></a> Lee (Sep 3, 2020). Data Labeling for Natural Language
 Processing: A Comprehensive Guide. [URL: medium.com/datasaur](https://medium.com/datasaur/data-labeling-for-natural-language-processing-a-comprehensive-guide-741343fea20e).
 
-<a id="org4657233"></a> Datasaur (May 19, 2021). Datasaur Labeling
+<a id="org83d6b62"></a> Datasaur (May 19, 2021). Datasaur Labeling
 [video]. [URL: youtu.be/Ge-sXjgup6g](https://youtu.be/Ge-sXjgup6g)
 
-<a id="org0fab159"></a> Datasaur (May 2, 2021). Datasaur.ai: ML-Assisted
+<a id="org76f674c"></a> Datasaur (May 2, 2021). Datasaur.ai: ML-Assisted
 Labeling [video]. [URL: youtu.be/Qsw7dhneBw4](https://youtu.be/Qsw7dhneBw4)
 
-<a id="org1666647"></a> Birkenkrahe (14 Nov 2021). Can Computers Learn Language?
+<a id="orgd893621"></a> Birkenkrahe (14 Nov 2021). Can Computers Learn Language?
 Talk at West Chester U. [mindmap]. [URL: tinyurl.com](https://tinyurl.com/sn5hqh2)
+
+<a id="org142ff62"></a> Dorner (1990). The logic of failure. In:
+Phil. Trans.R. Soc. Lond. B 327:463-473 (1990).] [URL: gwern.net.](https://www.gwern.net/docs/existential-risk/1990-dorner.pdf)
 
 
 # Footnotes
@@ -451,7 +458,13 @@ is correctly machine translated as "Bite me." But the last part is
 inserted to soften it (typically used like this in the South of
 Germany).
 
-<sup><a id="fn.6" href="#fnr.6">6</a></sup> Language ambiguities (overlaps). Different meaning as the result
+<sup><a id="fn.6" href="#fnr.6">6</a></sup> In quotes because this is an almost trivial notion of
+complexity. Compare it with the complexity defined by [Dorner (1990)](#org142ff62) as
+a function of dynamic variables.
+
+<sup><a id="fn.7" href="#fnr.7">7</a></sup> Language ambiguities (overlaps). Different meaning as the result
 of interaction (over time, space). Example: how language changes in
 the course of a telephone conversation, a talk between lovers, or in
-the course of a hostile company takeover or a conquest in war.
+the course of a hostile company takeover or a conquest in war. More
+generally, any features that cannot easily be captured with a feature
+vector (e.g. because we don't even know what the variables are).

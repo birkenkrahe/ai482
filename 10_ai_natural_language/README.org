@@ -44,8 +44,8 @@
    In 2019, my sister, who is a professor of linguistics at West
    Chester U., asked me to talk to her students about NLP. This is when
    I began to get interested in it. The [[https://github.com/birkenkrahe/ai482/blob/main/10_ai_natural_language/can_computers_learn_languages.xmind][mindmap]] and [[https://github.com/birkenkrahe/ai482/blob/main/10_ai_natural_language/can_computers_learn_languages_notes.pdf][lecture notes]] for
-   this talk are in GitHub[fn:8].
-
+   this talk are in GitHub, and here is a [[https://github.com/birkenkrahe/ai482/blob/main/10_ai_natural_language/can_computers_learn_languages.png][screenshot]][fn:8].
+   
    This is also when I realized what a mess NLP was and how incomplete
    our understanding of perhaps our most privileged ability, language,
    stil is!
