@@ -13,39 +13,20 @@
 
   * What is the nature of language?
   * What is Natural Language Processing (NLP)?
+  * What are some NLP tools?
   * How is NLP success measured?
-  * What is sentiment analysis?
-  * How are chatbots designed?
+  * Different current NLP application scenarios
 
 * The nature of language
-
-** [[https://neurosciencenews.com/ai-language-processing-19536/][AI Sheds Light on How the Brain Processes Language]]
-
-   #+begin_quote
-   "One of the key computational features of predictive models such as
-   GPT-3 is an element known as a forward one-way predictive
-   transformer. This kind of transformer is able to make predictions
-   of what is going to come next, based on previous sequences. A
-   significant feature of this transformer is that it can make
-   predictions based on a very long prior context (hundreds of words),
-   not just the last few words.
-
-   Scientists have not found any brain circuits or learning mechanisms
-   that correspond to this type of processing, Tenenbaum
-   says. However, the new findings are consistent with hypotheses that
-   have been previously proposed that prediction is one of the key
-   functions in language processing, he says."
-   #+end_quote
-
-   Source: [[mit][MIT, 2021]].
 
 ** Can computers learn language? (2019)
 
    In 2019, my sister, who is a professor of linguistics at West
-   Chester U., asked me to talk to her students about NLP. This is when
-   I began to get interested in it. The [[https://github.com/birkenkrahe/ai482/blob/main/10_ai_natural_language/can_computers_learn_languages.xmind][mindmap]] and [[https://github.com/birkenkrahe/ai482/blob/main/10_ai_natural_language/can_computers_learn_languages_notes.pdf][lecture notes]] for
-   this talk are in GitHub, and here is a [[https://github.com/birkenkrahe/ai482/blob/main/10_ai_natural_language/can_computers_learn_languages.png][screenshot]][fn:8].
-   
+   Chester U., asked me to talk to her students about NLP. This is
+   when I began to get interested in it. The [[https://github.com/birkenkrahe/ai482/blob/main/10_ai_natural_language/can_computers_learn_languages.xmind][mindmap]] and [[https://github.com/birkenkrahe/ai482/blob/main/10_ai_natural_language/can_computers_learn_languages_notes.pdf][lecture notes]]
+   for this talk are in GitHub, and here is a [[https://github.com/birkenkrahe/ai482/blob/main/10_ai_natural_language/can_computers_learn_languages.png][large screenshot]] for
+   download[fn:8].
+
    This is also when I realized what a mess NLP was and how incomplete
    our understanding of perhaps our most privileged ability, language,
    stil is!
@@ -144,6 +125,12 @@
 
   Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 5
 
+  For this lecture, I have merely extracted what I think are the most
+  interesting features of this chapter. Overall, it gives a fair
+  impression of the state of the art without getting bogged down in
+  technical detail (true to the expected non-technical business
+  audience).
+
 ** Measuring language complexity
 
    | METRIC        | TARGET                   | ORIGIN           | METAPHOR    |
@@ -162,10 +149,111 @@
 
    /What is for example not captured with this measure?/[fn:9]
 
-** NLP application scenarios   
+   Two application examples:
+
+   | Application                          | Depth                                  | Width                         |
+   |--------------------------------------+----------------------------------------+-------------------------------|
+   | Sentiment analysis on tweets         | low: positive or negative review label | high: many different subjects |
+   | Classifying customer support tickets | high: many different support types     | low: all tasks in one domain  |
+
+** NLP application scenarios
 
    #+attr_html: :width 400px
    [[./img/nlp2.png]]
+
+   This is a bit of a downer but not surprising: the application of
+   machine "intelligence" is a function of our understanding of an
+   entity. In the case of natural (i.e. human) language, this
+   understanding is not forthcoming:
+
+   #+begin_quote
+   "In the last 40 years, there has been an explosion of research on
+   [the] problem [of language evolution] as well as a sense that
+   considerable progress has been made. We argue instead that the
+   richness of ideas is accompanied by a poverty of evidence, with
+   essentially no explanation of how and why our linguistic
+   computations and representations evolved." ([[hauser][Hauser et al, 2014]]).
+   #+end_quote
+
+   However, notice advances with rational agents despite our inability
+   to understand, or define, human intelligence (which is an even
+   larger canvas than language).
+
+   Also, understanding of the "evolution of language" is not the same
+   as understanding of language. Another possibility is here that our
+   understanding of evolution as a concept (or theory) is incomplete
+   or erroneous. Cp. [[wolfe][Wolfe (2016)]] for some heretic thoughts on the
+   matter.
+
+** Sentiment analysis and autonomous spam detection
+
+   * Classification problems
+   * Statistical method: naive Bayes[fn:11]
+   * "Learning by experience beats hand-coded rules"
+
+   #+attr_html: :width 400px
+   [[./img/sentiment.png]]
+
+** Text classification and document search and retrieval
+
+
+** Natural conversation and transformer models
+
+   * GPT-3 powers fast apps like [[viable][~viable~]] ([[https://askviable.com/][1 min video]])
+   * GPT-3 does not really understand what it's saying
+   * GPT-3 can get stuck on a loop or produce gibberish
+   * Probabilistic reasoning is not the same as understanding
+
+*** Insight generation with Viable
+
+    #+begin_quote
+    Using GPT-3, Viable identifies themes, emotions, and sentiment
+    from surveys, help desk tickets, live chat logs, reviews, and
+    more. It then pulls insights from this aggregated feedback and
+    provides a summary in seconds.
+
+    For example, if asked, “What’s frustrating our customers about the
+    checkout experience?”, Viable might provide the insight:
+    “Customers are frustrated with the checkout flow because it takes
+    too long to load. They also want a way to edit their address in
+    checkout and save multiple payment methods.” (Source: [[gpt3][OpenAI]])
+    #+end_quote
+
+
+    #+attr_html: :width 600px
+    [[./img/viable.png]]
+
+    Image: Viable sample feedback summary. Source: [[gpt3][OpenAI]].
+
+*** [[https://neurosciencenews.com/ai-language-processing-19536/][AI Sheds Light on How the Brain Processes Language]]
+
+    | MIT team analyzed different language models (incl. GPT-3[fn:12])                                                                                                                                                                                                                              |
+    | "Best-performing next-word prediction models activity patterns resemble those seen in the human brain."                                                                                                                                                                                       |
+    | "We found that the models that predict the neural responses well also tend to best predict human behavior responses, in the form of reading times. And then both of these are explained by the model performance on next-word prediction. This triangle really connects everything together." |
+
+    #+attr_html: :width 600px
+    [[./img/mit.png]]
+
+    #+begin_quote
+    "One of the key computational features of predictive models such
+    as GPT-3 is an element known as a forward one-way predictive
+    transformer. This kind of transformer is able to make predictions
+    of what is going to come next, based on previous sequences. A
+    significant feature of this transformer is that it can make
+    predictions based on a very long prior context (hundreds of
+    words), not just the last few words.
+
+    Scientists have not found any brain circuits or learning
+    mechanisms that correspond to this type of processing, Tenenbaum
+    says. However, the new findings are consistent with hypotheses
+    that have been previously proposed that prediction is one of the
+    key functions in language processing, he says."
+    #+end_quote
+
+    Source: [[mit][MIT, 2021]].
+
+
+** Case study: Translated
 
 
 * Questions for discussion
@@ -213,7 +301,39 @@
   <<dorner>> Dorner (1990). The logic of failure. In:
   Phil. Trans.R. Soc. Lond. B 327:463-473 (1990).] [[https://www.gwern.net/docs/existential-risk/1990-dorner.pdf][URL: gwern.net.]]
 
+  <<hauser>> Hauser et al (2014). The mystery of language
+  evolution. Front.Psychol. 7
+  May 2014. https://doi.org/10.3389/fpsyg.2014.00401
+
+  <<wolfe>> Wolfe (2016). The Kingdom of Speech. Little, Brown and
+  Company. [[https://en.wikipedia.org/wiki/The_Kingdom_of_Speech][URL: wikipedia.org.]]
+
+  <<serrano19>> Luis Serrano (Feb 10, 2019). Naive Bayes classifier: A
+  friendly approach. [[https://youtu.be/Q8l0Vip5YUw][URL: youtu.be/Q8l0Vip5YUw]]
+
+  <<serrano21>> Serrano (2021). Grokking Machine
+  Learning. Manning. [[https://www.manning.com/books/grokking-machine-learning][URL: bit.ly/grokkingML]]
+
+  <<spam>> Graham (Aug 2002). A Plan for Spam [Blog]. [[http://www.paulgraham.com/spam.html][URL:
+  paulgraham.com]]
+
+  <<gpt3>> openai.com (March 25, 2021). GPT-3 Powers the Next
+  Generation of Apps [blog]. URL: [[https://openai.com/blog/gpt-3-apps/][openai.com]]
+
+  <<viable>> askviable.com (2021). It used to take hours to find
+  insights in customer feedback.  Now it takes seconds [website]. URL:
+  askviable.com.
+
 * Footnotes
+
+[fn:12]"Generative Pre-trained Transformer 3" created by OpenAI
+([[gpt3][2021]]).
+
+[fn:11]Here is an [[https://youtu.be/Q8l0Vip5YUw][excellent video]] ([[serrano19][Serrano, 2019]]) explaining this
+important statistical theorem about conditional probabilities. The
+creator of the video has also just (Oct 21) published a well reviewed
+book on machine learning (Serrano, 2021). You should also read the
+original article by Paul Graham on spam detection ([[spam][2002]]).
 
 [fn:10]In quotes because this is an almost trivial notion of
 complexity. Compare it with the complexity defined by [[dorner][Dorner (1990)]] as
