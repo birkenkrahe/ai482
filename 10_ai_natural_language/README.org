@@ -5,10 +5,6 @@
 #+OPTIONS:hideblocks
 #+OPTIONS: toc:nil num:nil ^:nil
 #+INFOJS_OPT: :view:info
-* UNDER CONSTRUCTION
-
-  [[./img/underconstruction.gif]]
-
 * What will you learn?
 
   * What is the nature of language?
