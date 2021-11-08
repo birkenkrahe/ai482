@@ -1,37 +1,37 @@
 
 # Table of Contents
 
--   [UNDER CONSTRUCTION](#org54812a9)
--   [What will you learn?](#org8cf2a11)
--   [The nature of language](#org3aef56b)
-    -   [Can computers learn language? (2019)](#orgdc53526)
-    -   [OpenAI codex: automatic coding](#org14c026f)
--   [Overview of NLP uses and tools](#org208582a)
-    -   [Agent types](#org63104eb)
-    -   [Machine translation messing up](#orgff198ec)
-    -   [NLP methods summary](#org4d2ef40)
--   [Zero to AI: AI for natural language](#orgd113cc7)
-    -   [Measuring language complexity](#org5adc6c2)
-    -   [NLP application scenarios](#org1b63a08)
-    -   [Sentiment analysis and autonomous spam detection](#org7dd7f40)
-    -   [Text classification and document search and retrieval](#org9a5bd41)
-    -   [Natural conversation and transformer models](#orgf46bae9)
-        -   [Insight generation with Viable](#orgfc0605d)
-        -   [AI Sheds Light on How the Brain Processes Language](#org5ee1b54)
-    -   [Case study: Translated](#orgb9aa16f)
--   [Questions for discussion](#org9023f09)
--   [References](#org09e3e1a)
+-   [UNDER CONSTRUCTION](#org18edd73)
+-   [What will you learn?](#orgeb18a8e)
+-   [The nature of language](#org65dc838)
+    -   [Can computers learn language? (2019)](#org3308de0)
+    -   [OpenAI codex: automatic coding](#org0774f81)
+-   [Overview of NLP uses and tools](#orge9552ab)
+    -   [Agent types](#org94f5fb0)
+    -   [Machine translation messing up](#org55b53ba)
+    -   [NLP methods summary](#org360ff3d)
+-   [Zero to AI: AI for natural language](#org095d23f)
+    -   [Measuring language complexity](#org4318d12)
+    -   [NLP application scenarios](#orgcae150f)
+    -   [Sentiment analysis and autonomous spam detection](#orgfb7f515)
+    -   [Text classification and document search and retrieval](#org0424487)
+    -   [Natural conversation and transformer models](#org341bbee)
+        -   [Insight generation with Viable](#org076aa3c)
+        -   [AI Sheds Light on How the Brain Processes Language](#org668ea65)
+    -   [Case study: Translated](#org17950e0)
+-   [Questions for discussion](#orgdb47f6f)
+-   [References](#org066a5f3)
 
 
 
-<a id="org54812a9"></a>
+<a id="org18edd73"></a>
 
 # UNDER CONSTRUCTION
 
 ![img](./img/underconstruction.gif)
 
 
-<a id="org8cf2a11"></a>
+<a id="orgeb18a8e"></a>
 
 # What will you learn?
 
@@ -42,12 +42,12 @@
 -   Different current NLP application scenarios
 
 
-<a id="org3aef56b"></a>
+<a id="org65dc838"></a>
 
 # The nature of language
 
 
-<a id="orgdc53526"></a>
+<a id="org3308de0"></a>
 
 ## Can computers learn language? (2019)
 
@@ -64,13 +64,13 @@ stil is!
 ![img](./img/mess.jpg)
 
 
-<a id="org14c026f"></a>
+<a id="org0774f81"></a>
 
 ## OpenAI codex: automatic coding
 
 **Assignment:** To get going, watch 5 minutes of this video (from [here](https://youtu.be/ISa10TrJK7w?t=115)
 to [here](https://youtu.be/ISa10TrJK7w?t=367)) - recent coding successes with AI using natural language
-([Neura Pod, 2021](#orgbe6b486)).
+([Neura Pod, 2021](#orgbfc3afb)).
 
 The video reveals a particular (not uncommon) form of bias of what
 AI can and should do for us. It is contained in this quote:
@@ -91,15 +91,15 @@ I just got into the GitHub Copilot beta pilot for OpenAI Codex -
 will report if I learn anything!<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>
 
 
-<a id="org208582a"></a>
+<a id="orge9552ab"></a>
 
 # Overview of NLP uses and tools
 
-"What is NLP?" in 10 minutes. Video by [IBM Technology (2021](#orgedbc58f)) - [via
+"What is NLP?" in 10 minutes. Video by [IBM Technology (2021](#orgf6448c4)) - [via
 YouTube](https://youtu.be/fLvJ8VdHLA0)
 
 
-<a id="org63104eb"></a>
+<a id="org94f5fb0"></a>
 
 ## Agent types
 
@@ -154,7 +154,7 @@ YouTube](https://youtu.be/fLvJ8VdHLA0)
 ![img](./img/ibm.png)
 
 
-<a id="orgff198ec"></a>
+<a id="org55b53ba"></a>
 
 ## Machine translation messing up
 
@@ -170,7 +170,7 @@ Translate.
 *Image: DeepL translate messing up.<sup><a id="fnr.5.100" class="footref" href="#fn.5">5</a></sup>*
 
 
-<a id="org4d2ef40"></a>
+<a id="org360ff3d"></a>
 
 ## NLP methods summary
 
@@ -229,7 +229,7 @@ Translate.
 </tbody>
 </table>
 
-Result of stemming and lemmatization ([Manning et al, 2008](#orgcd389b3)):
+Result of stemming and lemmatization ([Manning et al, 2008](#org53fd11c)):
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -247,7 +247,7 @@ Result of stemming and lemmatization ([Manning et al, 2008](#orgcd389b3)):
 </tbody>
 </table>
 
-Resolving syntactic ambiguities using POS tags ([Godayal, 2018](#org34d2d10)):
+Resolving syntactic ambiguities using POS tags ([Godayal, 2018](#orgd718965)):
 
 ![img](./img/pos.jpeg)
 
@@ -283,17 +283,17 @@ Named Entity Recognition (NER): labelling text data
 
 ![img](./img/ner.png)
 
--   Named Entity Recognition - [video](https://youtu.be/Ge-sXjgup6g) ([Datasaur, 2021a](#org35c8e4f))
+-   Named Entity Recognition - [video](https://youtu.be/Ge-sXjgup6g) ([Datasaur, 2021a](#org7523bbc))
 -   ML-assisted text labeling - video (Datasaur, 2021b)
 
-Further reading: [Lee, 2020](#orgb2574a3).
+Further reading: [Lee, 2020](#org07c58cd).
 
 
-<a id="orgd113cc7"></a>
+<a id="org095d23f"></a>
 
 # Zero to AI: AI for natural language
 
-Image source: [Mauro/Valigi (2021)](#orgf3a81ae), chapter 5
+Image source: [Mauro/Valigi (2021)](#orgfe07490), chapter 5
 
 For this lecture, I have merely extracted what I think are the most
 interesting features of this chapter. Overall, it gives a fair
@@ -302,7 +302,7 @@ technical detail (true to the expected non-technical business
 audience).
 
 
-<a id="org5adc6c2"></a>
+<a id="org4318d12"></a>
 
 ## Measuring language complexity
 
@@ -398,7 +398,7 @@ Two application examples:
 </table>
 
 
-<a id="org1b63a08"></a>
+<a id="orgcae150f"></a>
 
 ## NLP application scenarios
 
@@ -414,7 +414,7 @@ understanding is not forthcoming:
 > considerable progress has been made. We argue instead that the
 > richness of ideas is accompanied by a poverty of evidence, with
 > essentially no explanation of how and why our linguistic
-> computations and representations evolved." ([Hauser et al, 2014](#org83ea95b)).
+> computations and representations evolved." ([Hauser et al, 2014](#orgd206ddf)).
 
 However, notice advances with rational agents despite our inability
 to understand, or define, human intelligence (which is an even
@@ -423,11 +423,11 @@ larger canvas than language).
 Also, understanding of the "evolution of language" is not the same
 as understanding of language. Another possibility is here that our
 understanding of evolution as a concept (or theory) is incomplete
-or erroneous. Cp. [Wolfe (2016)](#org148eed4) for some heretic thoughts on the
+or erroneous. Cp. [Wolfe (2016)](#org67bda7e) for some heretic thoughts on the
 matter.
 
 
-<a id="org7dd7f40"></a>
+<a id="orgfb7f515"></a>
 
 ## Sentiment analysis and autonomous spam detection
 
@@ -438,22 +438,41 @@ matter.
 ![img](./img/sentiment.png)
 
 
-<a id="org9a5bd41"></a>
+<a id="org0424487"></a>
 
 ## Text classification and document search and retrieval
 
+This NLP workflow diagram includes some of the tools explained
+earlier, showing the transfer from model training to deployment.
 
-<a id="orgf46bae9"></a>
+![img](./img/pipe.png)
+
+For document search, documents are looked up that have similar
+embeddings as the query. The model is trained on existing
+documents.
+
+![img](./img/search.png)
+
+Success depends on the accuracy of the embeddings (the labelling
+for training and testing). An important technical detail is
+reduction of dimensions - the longer the embedding information
+vector the better the search but the worse the algorithm performs.
+
+Popular methods to achieve this reduction are [Singular Value
+Decomposition (SVD)](https://www.displayr.com/singular-value-decomposition-in-r/) and [Principal Component Analysis (PCA)](https://www.datacamp.com/community/tutorials/pca-analysis-r)<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup>.
+
+
+<a id="org341bbee"></a>
 
 ## Natural conversation and transformer models
 
--   GPT-3 powers fast apps like [`viable`](#orgf8e3a87) ([1 min video](https://askviable.com/))
+-   GPT-3 powers fast apps like [`viable`](#orgc38d392) ([1 min video](https://askviable.com/))
 -   GPT-3 does not really understand what it's saying
 -   GPT-3 can get stuck on a loop or produce gibberish
 -   Probabilistic reasoning is not the same as understanding
 
 
-<a id="orgfc0605d"></a>
+<a id="org076aa3c"></a>
 
 ### Insight generation with Viable
 
@@ -466,14 +485,14 @@ matter.
 > checkout experience?”, Viable might provide the insight:
 > “Customers are frustrated with the checkout flow because it takes
 > too long to load. They also want a way to edit their address in
-> checkout and save multiple payment methods.” (Source: [OpenAI](#org645ffb5))
+> checkout and save multiple payment methods.” (Source: [OpenAI](#org761522f))
 
 ![img](./img/viable.png)
 
-Image: Viable sample feedback summary. Source: [OpenAI](#org645ffb5).
+Image: Viable sample feedback summary. Source: [OpenAI](#org761522f).
 
 
-<a id="org5ee1b54"></a>
+<a id="org668ea65"></a>
 
 ### [AI Sheds Light on How the Brain Processes Language](https://neurosciencenews.com/ai-language-processing-19536/)
 
@@ -485,7 +504,7 @@ Image: Viable sample feedback summary. Source: [OpenAI](#org645ffb5).
 </colgroup>
 <tbody>
 <tr>
-<td class="org-left">MIT team analyzed different language models (incl. GPT-3<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup>)</td>
+<td class="org-left">MIT team analyzed different language models (incl. GPT-3<sup><a id="fnr.10" class="footref" href="#fn.10">10</a></sup>)</td>
 </tr>
 
 
@@ -516,84 +535,102 @@ Image: Viable sample feedback summary. Source: [OpenAI](#org645ffb5).
 > that have been previously proposed that prediction is one of the
 > key functions in language processing, he says."
 
-Source: [MIT, 2021](#org9fe74f4).
+Source: [MIT, 2021](#orgf57ae9d).
 
 
-<a id="orgb9aa16f"></a>
+<a id="org17950e0"></a>
 
 ## Case study: Translated
 
+> "Lok at the tasks that a company could perform using 1,000
+> untrained interns. These are tasks that can be automated by AI."
+> (Trombetti in [Zero to AI](#orgfe07490), p. 118)
 
-<a id="org9023f09"></a>
+`Translated` uses AI for binary classification of documents&#x2026;
+
+![img](./img/t1.png)
+
+&#x2026;but also to match customers and translators (greater depth)&#x2026;
+
+![img](./img/t2.png)
+
+&#x2026;and to improve translations in concert with humans (greater
+width):
+
+![img](./img/t3.png)
+
+
+<a id="orgdb47f6f"></a>
 
 # Questions for discussion
 
--   Which two metrics are used to measure NLP performance?
--   Why is sentiment analysis a classification problem?
--   What does OpenAI's GPT-2 model do?
--   How does BrokerBot differ from Eliza the therapist bot?
+-   How does (the idealized) BrokerBot differ from (the implemented)
+    Eliza, the therapist bot?
+-   Can the different AI applications of the `Translated` case study
+    be transferred to other industries besides translation?
+-   What stops us from getting better at Natural Language Processing?
 
 
-<a id="org09e3e1a"></a>
+<a id="org066a5f3"></a>
 
 # References
 
-<a id="org9fe74f4"></a> MIT (Oct 25, 2021). Artificial Intelligence Sheds Light on
+<a id="orgf57ae9d"></a> MIT (Oct 25, 2021). Artificial Intelligence Sheds Light on
 How the Brain Processes Language [news]. [URL: neurosciencenews.com.](https://neurosciencenews.com/ai-language-processing-19536/)
 
-<a id="orgf3a81ae"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
+<a id="orgfe07490"></a> Mauro/Valigi (2021). Zero to AI - a nontechnical,
 hype-free guide to prospering in the AI era. Manning. [Online:
 manning.com](https://www.manning.com/books/zero-to-ai).
 
-<a id="orgbe6b486"></a> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
+<a id="orgbfc3afb"></a> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
 [video]:1:55-6:05. [Online: youtube.com.](https://youtu.be/ISa10TrJK7w)
 
-<a id="orgedbc58f"></a> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
+<a id="orgf6448c4"></a> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
 (Natural Language Processing)? [video]. URL: [youtu.be/fLvJ8VdHLA0](https://youtu.be/fLvJ8VdHLA0)
 
-<a id="orgcd389b3"></a> Manning/Raghavan/Schuetze (2008). Introduction to
+<a id="org53fd11c"></a> Manning/Raghavan/Schuetze (2008). Introduction to
 Information Retrieval. Cambridge Univ Press ([PDF](https://nlp.stanford.edu/IR-book/)). [URL:
 nlp.stanford.edu.](https://nlp.stanford.edu/IR-book/)
 
-<a id="org34d2d10"></a> Godayal/Malhotra (June 8, 2018). An introduction to part of
+<a id="orgd718965"></a> Godayal/Malhotra (June 8, 2018). An introduction to part of
 speech tagging and the Hidden Markov Model [blog]. [URL:
 freecodecamp.org](https://www.freecodecamp.org/news/an-introduction-to-part-of-speech-tagging-and-the-hidden-markov-model-953d45338f24/)
 
-<a id="orgb2574a3"></a> Lee (Sep 3, 2020). Data Labeling for Natural Language
+<a id="org07c58cd"></a> Lee (Sep 3, 2020). Data Labeling for Natural Language
 Processing: A Comprehensive Guide. [URL: medium.com/datasaur](https://medium.com/datasaur/data-labeling-for-natural-language-processing-a-comprehensive-guide-741343fea20e).
 
-<a id="org35c8e4f"></a> Datasaur (May 19, 2021). Datasaur Labeling
+<a id="org7523bbc"></a> Datasaur (May 19, 2021). Datasaur Labeling
 [video]. [URL: youtu.be/Ge-sXjgup6g](https://youtu.be/Ge-sXjgup6g)
 
-<a id="orgddeae6c"></a> Datasaur (May 2, 2021). Datasaur.ai: ML-Assisted
+<a id="org5890bc0"></a> Datasaur (May 2, 2021). Datasaur.ai: ML-Assisted
 Labeling [video]. [URL: youtu.be/Qsw7dhneBw4](https://youtu.be/Qsw7dhneBw4)
 
-<a id="org079cccf"></a> Birkenkrahe (14 Nov 2021). Can Computers Learn Language?
+<a id="org52b39ba"></a> Birkenkrahe (14 Nov 2021). Can Computers Learn Language?
 Talk at West Chester U. [mindmap]. [URL: tinyurl.com](https://tinyurl.com/sn5hqh2)
 
-<a id="org7aae621"></a> Dorner (1990). The logic of failure. In:
+<a id="orgc958cdf"></a> Dorner (1990). The logic of failure. In:
 Phil. Trans.R. Soc. Lond. B 327:463-473 (1990).] [URL: gwern.net.](https://www.gwern.net/docs/existential-risk/1990-dorner.pdf)
 
-<a id="org83ea95b"></a> Hauser et al (2014). The mystery of language
+<a id="orgd206ddf"></a> Hauser et al (2014). The mystery of language
 evolution. Front.Psychol. 7
 May 2014. <https://doi.org/10.3389/fpsyg.2014.00401>
 
-<a id="org148eed4"></a> Wolfe (2016). The Kingdom of Speech. Little, Brown and
+<a id="org67bda7e"></a> Wolfe (2016). The Kingdom of Speech. Little, Brown and
 Company. [URL: wikipedia.org.](https://en.wikipedia.org/wiki/The_Kingdom_of_Speech)
 
-<a id="org517710a"></a> Luis Serrano (Feb 10, 2019). Naive Bayes classifier: A
+<a id="org6498007"></a> Luis Serrano (Feb 10, 2019). Naive Bayes classifier: A
 friendly approach. [URL: youtu.be/Q8l0Vip5YUw](https://youtu.be/Q8l0Vip5YUw)
 
-<a id="org0dfafc1"></a> Serrano (2021). Grokking Machine
+<a id="orge676f67"></a> Serrano (2021). Grokking Machine
 Learning. Manning. [URL: bit.ly/grokkingML](https://www.manning.com/books/grokking-machine-learning)
 
-<a id="org96a937f"></a> Graham (Aug 2002). A Plan for Spam [Blog]. [URL:
+<a id="org02ca630"></a> Graham (Aug 2002). A Plan for Spam [Blog]. [URL:
 paulgraham.com](http://www.paulgraham.com/spam.html)
 
-<a id="org645ffb5"></a> openai.com (March 25, 2021). GPT-3 Powers the Next
+<a id="org761522f"></a> openai.com (March 25, 2021). GPT-3 Powers the Next
 Generation of Apps [blog]. URL: [openai.com](https://openai.com/blog/gpt-3-apps/)
 
-<a id="orgf8e3a87"></a> askviable.com (2021). It used to take hours to find
+<a id="orgc38d392"></a> askviable.com (2021). It used to take hours to find
 insights in customer feedback.  Now it takes seconds [website]. URL:
 askviable.com.
 
@@ -628,7 +665,7 @@ inserted to soften it (typically used like this in the South of
 Germany).
 
 <sup><a id="fn.6" href="#fnr.6">6</a></sup> In quotes because this is an almost trivial notion of
-complexity. Compare it with the complexity defined by [Dorner (1990)](#org7aae621) as
+complexity. Compare it with the complexity defined by [Dorner (1990)](#orgc958cdf) as
 a function of dynamic variables.
 
 <sup><a id="fn.7" href="#fnr.7">7</a></sup> Language ambiguities (overlaps). Different meaning as the result
@@ -638,11 +675,18 @@ the course of a hostile company takeover or a conquest in war. More
 generally, any features that cannot easily be captured with a feature
 vector (e.g. because we don't even know what the variables are).
 
-<sup><a id="fn.8" href="#fnr.8">8</a></sup> Here is an [excellent video](https://youtu.be/Q8l0Vip5YUw) ([Serrano, 2019](#org517710a)) explaining this
+<sup><a id="fn.8" href="#fnr.8">8</a></sup> Here is an [excellent video](https://youtu.be/Q8l0Vip5YUw) ([Serrano, 2019](#org6498007)) explaining this
 important statistical theorem about conditional probabilities. The
 creator of the video has also just (Oct 21) published a well reviewed
 book on machine learning (Serrano, 2021). You should also read the
-original article by Paul Graham on spam detection ([2002](#org96a937f)).
+original article by Paul Graham on spam detection ([2002](#org02ca630)).
 
-<sup><a id="fn.9" href="#fnr.9">9</a></sup> "Generative Pre-trained Transformer 3" created by OpenAI
-([2021](#org645ffb5)).
+<sup><a id="fn.9" href="#fnr.9">9</a></sup> The links go to two articles on doing this stuff using the
+statistical programming language R. I prefer explaining and studying
+these methods in concert with actual computations (instead of only
+mathematically). However, if you can take the time, you should dive
+into the mathematics, too (or suggest it as an example in a linear
+algebra class).
+
+<sup><a id="fn.10" href="#fnr.10">10</a></sup> "Generative Pre-trained Transformer 3" created by OpenAI
+([2021](#org761522f)).

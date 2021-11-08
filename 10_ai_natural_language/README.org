@@ -196,6 +196,26 @@
 
 ** Text classification and document search and retrieval
 
+   This NLP workflow diagram includes some of the tools explained
+   earlier, showing the transfer from model training to deployment.
+
+   #+attr_html: :width 400px
+   [[./img/pipe.png]]
+
+   For document search, documents are looked up that have similar
+   embeddings as the query. The model is trained on existing
+   documents.
+
+   #+attr_html: :width 400px
+   [[./img/search.png]]
+
+   Success depends on the accuracy of the embeddings (the labelling
+   for training and testing). An important technical detail is
+   reduction of dimensions - the longer the embedding information
+   vector the better the search but the worse the algorithm performs.
+
+   Popular methods to achieve this reduction are [[https://www.displayr.com/singular-value-decomposition-in-r/][Singular Value
+   Decomposition (SVD)]] and [[https://www.datacamp.com/community/tutorials/pca-analysis-r][Principal Component Analysis (PCA)]][fn:13].
 
 ** Natural conversation and transformer models
 
@@ -218,7 +238,6 @@
     too long to load. They also want a way to edit their address in
     checkout and save multiple payment methods.” (Source: [[gpt3][OpenAI]])
     #+end_quote
-
 
     #+attr_html: :width 600px
     [[./img/viable.png]]
@@ -255,13 +274,35 @@
 
 ** Case study: Translated
 
+   #+begin_quote
+   "Lok at the tasks that a company could perform using 1,000
+   untrained interns. These are tasks that can be automated by AI."
+   (Trombetti in [[zero2ai][Zero to AI]], p. 118)
+   #+end_quote
+
+   ~Translated~ uses AI for binary classification of documents...
+
+    #+attr_html: :width 600px
+    [[./img/t1.png]]
+
+    ...but also to match customers and translators (greater depth)...
+
+    #+attr_html: :width 600px
+    [[./img/t2.png]]
+
+    ...and to improve translations in concert with humans (greater
+    width):
+
+    #+attr_html: :width 600px
+    [[./img/t3.png]]
 
 * Questions for discussion
 
-  * Which two metrics are used to measure NLP performance?
-  * Why is sentiment analysis a classification problem?
-  * What does OpenAI's GPT-2 model do?
-  * How does BrokerBot differ from Eliza the therapist bot?
+  * How does (the idealized) BrokerBot differ from (the implemented)
+    Eliza, the therapist bot?
+  * Can the different AI applications of the ~Translated~ case study
+    be transferred to other industries besides translation?
+  * What stops us from getting better at Natural Language Processing?
 
 * References
 
@@ -325,6 +366,13 @@
   askviable.com.
 
 * Footnotes
+
+[fn:13]The links go to two articles on doing this stuff using the
+statistical programming language R. I prefer explaining and studying
+these methods in concert with actual computations (instead of only
+mathematically). However, if you can take the time, you should dive
+into the mathematics, too (or suggest it as an example in a linear
+algebra class).
 
 [fn:12]"Generative Pre-trained Transformer 3" created by OpenAI
 ([[gpt3][2021]]).
