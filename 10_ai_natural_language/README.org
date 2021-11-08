@@ -1,4 +1,4 @@
-#+TITLE:AI for Natural Language
+#+TITLE:Natural Language Processing with AI
 #+AUTHOR:Marcus Birkenkrahe
 #+SUBTITLE: AI Senior Seminar Fall 2021
 #+STARTUP:overview
@@ -140,9 +140,10 @@
    * ML-assisted text labeling - video (Datasaur, 2021b)
 
    Further reading: [[nlpguide][Lee, 2020]].
-* AI for natural language
+* Zero to AI: AI for natural language
 
   Image source: [[zero2ai][Mauro/Valigi (2021)]], chapter 5
+
 ** Measuring language complexity
 
    | METRIC        | TARGET                   | ORIGIN           | METAPHOR    |
