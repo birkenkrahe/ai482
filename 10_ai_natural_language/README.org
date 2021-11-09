@@ -56,6 +56,7 @@
    I just got into the GitHub Copilot beta pilot for OpenAI Codex -
    will report if I learn anything![fn:5]
 
+
 * Overview of NLP uses and tools
 
   "What is NLP?" in 10 minutes. Video by [[nlp][IBM Technology (2021]]) - [[https://youtu.be/fLvJ8VdHLA0][via
@@ -87,6 +88,25 @@
    #+attr_html: :width 500px
    [[./img/mt2.png]]
    /Image: DeepL translate messing up.[fn:6]/
+
+** Idioms and similes
+
+   As briefly discussed on Nov 8. It seems the situation is dire but
+   not hopeless: new research using OpenAI's GPT-2 ([[idioms][2021]]) improves
+   recognition of idioms by up to 15%, but still not without human
+   help:
+
+   #+begin_quote
+   "When chatbots are faced with human interaction containing similes and
+   idioms, their performance falls to between 10 to 20%. [...] The
+   researchers still had to partially rely on human observers to identify
+   figurative language within the dataset, before the text could be
+   converted. Further study is needed in this area."
+   #+end_quote
+
+   #+attr_html: :width 600px
+   [[./img/idioms.png]]
+   
 
 ** NLP methods summary
 
@@ -278,19 +298,19 @@
 
    ~Translated~ uses AI for binary classification of documents...
 
-    #+attr_html: :width 600px
-    [[./img/t1.png]]
+   #+attr_html: :width 600px
+   [[./img/t1.png]]
 
-    ...but also to match customers and translators (greater depth)...
+   ...but also to match customers and translators (greater depth)...
 
-    #+attr_html: :width 600px
-    [[./img/t2.png]]
+   #+attr_html: :width 600px
+   [[./img/t2.png]]
 
-    ...and to improve translations in concert with humans (greater
-    width):
+   ...and to improve translations in concert with humans (greater
+   width):
 
-    #+attr_html: :width 600px
-    [[./img/t3.png]]
+   #+attr_html: :width 600px
+   [[./img/t3.png]]
 
 * Questions for discussion
 
@@ -360,6 +380,10 @@
   <<viable>> askviable.com (2021). It used to take hours to find
   insights in customer feedback.  Now it takes seconds [website]. URL:
   askviable.com.
+
+  <<idioms>> Neuroscience News (November 8, 2021). Want to Throw off
+  Your Chatbot? Use Figurative Language [blog]. URL:
+  [[https://neurosciencenews.com/chatbot-figurative-language-19613/][neurosciencenews.com]].
 
 * Footnotes
 
