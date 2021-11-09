@@ -56,7 +56,6 @@
    I just got into the GitHub Copilot beta pilot for OpenAI Codex -
    will report if I learn anything![fn:5]
 
-
 * Overview of NLP uses and tools
 
   "What is NLP?" in 10 minutes. Video by [[nlp][IBM Technology (2021]]) - [[https://youtu.be/fLvJ8VdHLA0][via
@@ -237,6 +236,7 @@
 ** Natural conversation and transformer models
 
    * GPT-3 powers fast apps like [[viable][~viable~]] ([[https://askviable.com/][1 min video]])
+   * Massive token base (500 bn), ANN of nearly 100 layers deep[fn:14]
    * GPT-3 does not really understand what it's saying
    * GPT-3 can get stuck on a loop or produce gibberish
    * Probabilistic reasoning is not the same as understanding
@@ -386,7 +386,15 @@
   Your Chatbot? Use Figurative Language [blog]. URL:
   [[https://neurosciencenews.com/chatbot-figurative-language-19613/][neurosciencenews.com]].
 
+  <<li>> Li (June 03, 2020). OpenAI's GPT-3 Language Model: A
+  Technical Overview [blog]. URL: [[https://lambdalabs.com/blog/demystifying-gpt-3/][URL: lambdalabs.com]].
+
 * Footnotes
+
+[fn:14][[li][Li (2020)]] has an excellent summary of GPT-3's technical
+specs. In the last paragraph, the author speculates that the
+transformer model is beginning to approach the structural capacity of
+the human brain.
 
 [fn:13]The links go to two articles on doing this stuff using the
 statistical programming language R. I prefer explaining and studying
