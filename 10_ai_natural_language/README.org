@@ -106,7 +106,8 @@
 
    #+attr_html: :width 600px
    [[./img/idioms.png]]
-   
+
+   (Source: [[https://neurosciencenews.com/chatbot-figurative-language-19613/][Neuroscience news, 8 Nov 2021]])
 
 ** NLP methods summary
 
