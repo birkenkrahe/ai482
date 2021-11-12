@@ -61,7 +61,7 @@
   |    | 43 | 24-Nov     | --THANKSGIVING--                                    | --THANKSGIVING--      |                      |
   |    | 44 | 26-Nov     | --THANKSGIVING--                                    | --THANKSGIVING--      |                      |
   |----+----+------------+-----------------------------------------------------+-----------------------+----------------------|
-  | 16 | 45 | 29-Nov     | PROJECT PRESENTATIONS (Online[fn:1])                      |                       | 4th sprint review    |
+  | 16 | 45 | 29-Nov     | PROJECT PRESENTATIONS (Online[fn:1])                |                       | 4th sprint review    |
   |    | 46 | 1-Dec      | PROJECT PRESENTATIONS (Online)                      |                       | 4th sprint review    |
   |    | 47 | 3-Dec      | PROJECT PRESENTATIONS & Course closing (Online)     |                       | 4th sprint review    |
   |----+----+------------+-----------------------------------------------------+-----------------------+----------------------|

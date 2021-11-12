@@ -487,6 +487,10 @@
   | Workflow automation with Integromat ([[integromat][2020,2021]]).                         |
   | Workflow Automation with the IFTTT [[https://ifttt.com/explore/app-benefits][app]] (or [[https://ifttt.com/][webservice]]).                                                                         |
 
+* Week 16 - Nov 29-Dec 3  
+
+  [[./img/noclass.gif]]
+  
 * References
 
   <<batir>> Batir S (Jul 5, 2020). How to Make a Simple Chatbot in
