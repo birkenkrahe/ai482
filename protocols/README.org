@@ -4,7 +4,7 @@
   Post your protocol here. Take a look at [[https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/protocol_23_aug.md][my example protocol]].
 
   I have not written protocols for every talk but every speaker should
-  have received feedback from me via email at least. 
+  have received feedback from me via email at least.
 
 * [[https://github.com/birkenkrahe/ai482/blob/main/presentations/Sampley_Autonomous%20Drones%20in%20the%20U.S.%20Military.pdf][AI in the military (Jacob Sampley, 13-Oct-2021)]]
 
@@ -39,7 +39,7 @@
 
   All in all, this was a fantastic presentation, excellently sourced
   and delivered, and the questions were well answered and dealt with.
-  
+
   I really enjoyed it - I'm only sorry that I talked so much. You
   opened that Pandora box when you permitted questions
   throughout. Hope that others will ask more questions in future
@@ -64,9 +64,9 @@
      performance (beyond the commercial hype)
   3) a little more *technical* insight - what exactly is AI here? One
      could e.g. apply models that we have already learnt about, like
-     PEAS for intelligent agents. Are these intelligent agents? 
+     PEAS for intelligent agents. Are these intelligent agents?
   4) *References* ought to include video and image material
-  
+
 * [[https://github.com/birkenkrahe/ai482/blob/main/presentations/Presentation-DatO.pdf][Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)]]
 
   This presentation was based on chapter 3 (pp. 81-128) of AIMA. Like
@@ -122,7 +122,9 @@
   This is Mark Zuckerberg's presentation on the "metaverse" project(s)
   for developers and tech people rather than consumers (at least I
   think that's the target audience because it's longer and much more
-  detailed).
+  detailed): "[[https://youtu.be/gElfIo6uw4g][Everything Facebook revealed about the Metaverse in 11
+  minutes" (2021)]]. I found it via this very negative review ("[[https://onezero.medium.com/i-want-no-part-of-our-impending-metaverse-future-459678bb3cc5][The demo
+  of Zuckerberg's dream was a nightmare]]")
 
   And here is [[https://vimeo.com/46304267]["Sight" (2012)]]. While dated as a film, it is astonishing
   how Facebook (and others) are only now talking about getting this
@@ -130,10 +132,30 @@
   augmented, but neurally linked, wearable technology. The film's
   ending is ultimately terribly depressing.
 
+  I mentioned my experiments with an internship course of
+  internationally placed seniors in Germany, which took place in
+  Second Life. I made [[https://vimeo.com/19037369][this video]] for a conference and to attract
+  students (2011). My own avatar was a bearded centaur with wings.
+
+  I remain un/surprised that VR/AR has not become more
+  widespread. This is not our primary concern for this course, since
+  the overlap with AI is sporadic at best, but it could be a possible
+  scenario for many AI apps whose appeal rests on a similar value
+  proposition: to take people out of their real lives and insert them
+  into a virtual reality (which the internet, by the way, is not
+  because it is not fully immersive).
+
 * References
 
-  Sight
-  
+  CNET (Oct 28, 2021). Everything Facebook revealed about the
+  Metaverse in 11 minutes [video]. [[https://youtu.be/gElfIo6uw4g][URL: youtu.be/gElfIo6uw4g]].
+
+  Robot Genius (2012). Sight [video]. [[https://vimeo.com/46304267][URL: vimeo.com.]]
+
+  Stephen Moore (Oct 29 2021). I Want No Part of Our Impending
+  Metaverse Future The demo of Zuckerberg’s dream was a nightmare
+  [blog]. URL: [[https://onezero.medium.com/i-want-no-part-of-our-impending-metaverse-future-459678bb3cc5][onezero.medium.com.]]
+
 * Footnotes
 
 [fn:4]I had meant to work through the chapter weeks ago but then one
