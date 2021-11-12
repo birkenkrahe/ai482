@@ -113,6 +113,27 @@
   presenting the development timeline - when an algorithm was first
   developed, improved, used etc.)
 
+* Augmented reality (Amber McClurg, 12-Nov-2021)
+
+  After Amber's presentation on the [[https://github.com/birkenkrahe/ai482/blob/main/presentations/solo/Therapeutic%20Potential%20of%20VR%20McClurg.pdf][therapeutic potential of VR]], we
+  watched a couple of stupid Facebook (aka "Meta") videos. Here are
+  the two films that I kept talking about and did not show:
+
+  This is Mark Zuckerberg's presentation on the "metaverse" project(s)
+  for developers and tech people rather than consumers (at least I
+  think that's the target audience because it's longer and much more
+  detailed).
+
+  And here is [[https://vimeo.com/46304267]["Sight" (2012)]]. While dated as a film, it is astonishing
+  how Facebook (and others) are only now talking about getting this
+  type of technology into the home. Really, this is not just
+  augmented, but neurally linked, wearable technology. The film's
+  ending is ultimately terribly depressing.
+
+* References
+
+  Sight
+  
 * Footnotes
 
 [fn:4]I had meant to work through the chapter weeks ago but then one

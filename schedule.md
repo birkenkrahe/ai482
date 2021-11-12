@@ -489,7 +489,7 @@
 <td class="org-right">16</td>
 <td class="org-right">45</td>
 <td class="org-left">29-Nov</td>
-<td class="org-left">PROJECT PRESENTATIONS</td>
+<td class="org-left">PROJECT PRESENTATIONS (Online<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">4th sprint review</td>
 </tr>
@@ -499,7 +499,7 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">46</td>
 <td class="org-left">1-Dec</td>
-<td class="org-left">PROJECT PRESENTATIONS</td>
+<td class="org-left">PROJECT PRESENTATIONS (Online)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">4th sprint review</td>
 </tr>
@@ -509,7 +509,7 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">47</td>
 <td class="org-left">3-Dec</td>
-<td class="org-left">PROJECT PRESENTATIONS &amp; Course closing</td>
+<td class="org-left">PROJECT PRESENTATIONS &amp; Course closing (Online)</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">4th sprint review</td>
 </tr>
@@ -519,3 +519,9 @@
 (X) = Extra credit (5% or 5 points out of 100 available for
 participation in the 2nd part of term)
 
+
+# Footnotes
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> I have been invited to my green card interview in Frankfurt,
+Germany, for December 3rd. This means that you will need to submit
+online presentations in the form of videos. Details in class.
