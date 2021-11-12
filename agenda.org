@@ -440,7 +440,7 @@
 
   #+attr_html: :width 400px
   [[./img/nlp.png]]
-  
+
   * What is NLP? ([[nlp][IBM Technology, 2021]])[fn:5]
     - Tokenization
     - Lemmatization
@@ -454,26 +454,38 @@
 
 * Week 13 - November 10+12
 
-  #+attr_html: :width 600px
-  [[./img/solo.svg]]
+  #+attr_html: :width 400px
+  [[./img/spencer.png]]
 
-  * Spencer's Solo: Defining Intelligence
-  * Amber's Solo: Therapeutic Potential of VR
-
-* Week 14 - November 15 - RPA???
+  * [[https://github.com/birkenkrahe/ai482/blob/main/presentations/solo/Spencer%20-%20Intelligence%20and%20AI%20.pdf][Spencer's Solo]]: Defining Intelligence
+  * [[https://github.com/birkenkrahe/ai482/blob/main/presentations/solo/Therapeutic%20Potential%20of%20VR%20McClurg.pdf][Amber's Solo]]: Therapeutic Potential of VR
 
   #+attr_html: :width 400px
-  [[./img/chatbots.gif]]
+  [[./img/amber.png]]
 
-  * How to Make a Simple Chatbot in Under 10 Minutes (No Coding
-    [Google] Dialogflow) ([[batir][Batir, 2020]]).
-  * Articles: Building a chatbot assistant with IBM Watson in 30 min ([[watson][Yates,
-    2021]]; [[watson][McGregor, 2021]])
-  * Tutorial: [[https://www.ibm.com/products/watson-assistant/visual-builder][Visual chatbot builder for anyone to use]] ([[ibm][IBM, 2021]])
-  * Robotic Process Automation with UIPath (academic tutorials, [[uipath][UIPath
-    2021]]).
-  * Workflow automation with Integromat ([[integromat][2020,2021]]).
-  * Workflow Automation with the IFTTT [[https://ifttt.com/explore/app-benefits][app]] (or [[https://ifttt.com/][webservice]]).
+* Week 14 - November 15 - RPA
+** Scots
+   #+attr_html: :width 400px
+  [[./img/scots.png]]
+
+** Agenda
+   #+attr_html: :width 400px
+   [[./img/chatbots.gif]]
+
+   | Lecture  | AI with Natural Language Part 2                                                                 |
+   | CHATBOTS |                                                                                                 |
+   | Video    | How to Make a Simple Chatbot in Under 10 Minutes (No Coding [Google] Dialogflow) ([[batir][Batir, 2020]]). |
+   | Article  | Building a chatbot assistant with IBM Watson in 30 min ([[watson][Yates, 2021]]; [[watson][McGregor, 2021]])            |
+   | Tutorial | [[https://www.ibm.com/products/watson-assistant/visual-builder][Visual chatbot builder for anyone to use]] ([[ibm][IBM, 2021]])                                            |
+
+* Week 15 - November 22 - RPA
+
+  #+attr_html: :width 400px
+  [[./img/rpa.jpg]]
+
+  | Robotic Process Automation with UIPath (academic tutorials, [[uipath][UIPath 2021]]) |
+  | Workflow automation with Integromat ([[integromat][2020,2021]]).                         |
+  | Workflow Automation with the IFTTT [[https://ifttt.com/explore/app-benefits][app]] (or [[https://ifttt.com/][webservice]]).                                                                         |
 
 * References
 
