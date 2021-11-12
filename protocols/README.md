@@ -1,24 +1,26 @@
 
 # Table of Contents
 
-1.  [Session Protocols](#orgd6770b0)
-2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#orge4f3fae)
-3.  [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](#org0aade2e)
-4.  [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](#org5dbbdeb)
+1.  [Session Protocols](#org952a03d)
+2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#orgf29730d)
+3.  [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](#org0ea909b)
+4.  [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](#orgeda510a)
+5.  [Augmented reality (Amber McClurg, 12-Nov-2021)](#org28a0ae3)
+6.  [References](#org02cefe7)
 
 
 
-<a id="orgd6770b0"></a>
+<a id="org952a03d"></a>
 
 # Session Protocols
 
 Post your protocol here. Take a look at [my example protocol](https://github.com/birkenkrahe/ai482/blob/main/2_what_is_ai/protocol_23_aug.md).
 
 I have not written protocols for every talk but every speaker should
-have received feedback from me via email at least. 
+have received feedback from me via email at least.
 
 
-<a id="orge4f3fae"></a>
+<a id="orgf29730d"></a>
 
 # [AI in the military (Jacob Sampley, 13-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/Sampley_Autonomous%20Drones%20in%20the%20U.S.%20Military.pdf)
 
@@ -60,7 +62,7 @@ throughout. Hope that others will ask more questions in future
 presentations!
 
 
-<a id="org0aade2e"></a>
+<a id="org0ea909b"></a>
 
 # [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/AI%20in%20soccer%20to%20improve%20athlete%20performance%20DUE%20Nov%2015%20(1).pdf)
 
@@ -85,7 +87,7 @@ Points of improvement:
 4.  **References** ought to include video and image material
 
 
-<a id="org5dbbdeb"></a>
+<a id="orgeda510a"></a>
 
 # [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/Presentation-DatO.pdf)
 
@@ -132,6 +134,55 @@ to turn the presentation of algorithms into a story would have been
 a completely different presentation (the easiest way is probably by
 presenting the development timeline - when an algorithm was first
 developed, improved, used etc.)
+
+
+<a id="org28a0ae3"></a>
+
+# Augmented reality (Amber McClurg, 12-Nov-2021)
+
+After Amber's presentation on the [therapeutic potential of VR](https://github.com/birkenkrahe/ai482/blob/main/presentations/solo/Therapeutic%20Potential%20of%20VR%20McClurg.pdf), we
+watched a couple of stupid Facebook (aka "Meta") videos. Here are
+the two films that I kept talking about and did not show:
+
+This is Mark Zuckerberg's presentation on the "metaverse" project(s)
+for developers and tech people rather than consumers (at least I
+think that's the target audience because it's longer and much more
+detailed): "[Everything Facebook revealed about the Metaverse in 11
+minutes" (2021)](https://youtu.be/gElfIo6uw4g). I found it via this very negative review ("[The demo
+of Zuckerberg's dream was a nightmare](https://onezero.medium.com/i-want-no-part-of-our-impending-metaverse-future-459678bb3cc5)")
+
+And here is ["Sight" (2012)](https://vimeo.com/46304267). While dated as a film, it is astonishing
+how Facebook (and others) are only now talking about getting this
+type of technology into the home. Really, this is not just
+augmented, but neurally linked, wearable technology. The film's
+ending is ultimately terribly depressing.
+
+I mentioned my experiments with an internship course of
+internationally placed seniors in Germany, which took place in
+Second Life. I made [this video](https://vimeo.com/19037369) for a conference and to attract
+students (2011). My own avatar was a bearded centaur with wings.
+
+I remain un/surprised that VR/AR has not become more
+widespread. This is not our primary concern for this course, since
+the overlap with AI is sporadic at best, but it could be a possible
+scenario for many AI apps whose appeal rests on a similar value
+proposition: to take people out of their real lives and insert them
+into a virtual reality (which the internet, by the way, is not
+because it is not fully immersive).
+
+
+<a id="org02cefe7"></a>
+
+# References
+
+CNET (Oct 28, 2021). Everything Facebook revealed about the
+Metaverse in 11 minutes [video]. [URL: youtu.be/gElfIo6uw4g](https://youtu.be/gElfIo6uw4g).
+
+Robot Genius (2012). Sight [video]. [URL: vimeo.com.](https://vimeo.com/46304267)
+
+Stephen Moore (Oct 29 2021). I Want No Part of Our Impending
+Metaverse Future The demo of Zuckerberg’s dream was a nightmare
+[blog]. URL: [onezero.medium.com.](https://onezero.medium.com/i-want-no-part-of-our-impending-metaverse-future-459678bb3cc5)
 
 
 # Footnotes
