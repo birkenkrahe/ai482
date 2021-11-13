@@ -473,6 +473,7 @@
    [[./img/chatbots.gif]]
 
    | Lecture  | AI with Natural Language Part 2                                                                 |
+   | Project  | Feedback for the final presentations                                                            |
    | CHATBOTS |                                                                                                 |
    | Video    | How to Make a Simple Chatbot in Under 10 Minutes (No Coding [Google] Dialogflow) ([[batir][Batir, 2020]]). |
    | Article  | Building a chatbot assistant with IBM Watson in 30 min ([[watson][Yates, 2021]]; [[watson][McGregor, 2021]])            |
