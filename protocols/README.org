@@ -148,8 +148,9 @@
 
 * Complexity measures / Logic of Failure
 
-  Follow-up from the brief discussion about "complexity", which is
-  harder to measure than "Zero to AI" makes it look.
+  Follow-up from the brief discussion about "complexity" (during the
+  NLP lectures, which is harder to measure than some AI authors make
+  it look.
   
 *** The Logic of Failure
 
