@@ -1,20 +1,17 @@
 
 # Table of Contents
 
-1.  [Session Protocols](#org10f0c9a)
-2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#org60ed662)
-3.  [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](#orga6f4b12)
-4.  [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](#org36d4076)
-5.  [Augmented reality (Amber McClurg, 12-Nov-2021)](#orgd2787fb)
-6.  [Complexity measures / Logic of Failure](#org196ef37)
-        1.  [The Logic of Failure](#org68e1fac)
-        2.  [Complex systems](#org7a037fd)
-        3.  [References](#org8f82e66)
-7.  [References](#org2ddae17)
+1.  [Session Protocols](#org544a39b)
+2.  [AI in the military (Jacob Sampley, 13-Oct-2021)](#org4d62692)
+3.  [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](#org0a06c21)
+4.  [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](#org383928f)
+5.  [Augmented reality (Amber McClurg, 12-Nov-2021)](#org65dec9d)
+6.  [Complexity measures / Logic of Failure](#org1162b00)
+7.  [References](#orgccedc87)
 
 
 
-<a id="org10f0c9a"></a>
+<a id="org544a39b"></a>
 
 # Session Protocols
 
@@ -24,7 +21,7 @@ I have not written protocols for every talk but every speaker should
 have received feedback from me via email at least.
 
 
-<a id="org60ed662"></a>
+<a id="org4d62692"></a>
 
 # [AI in the military (Jacob Sampley, 13-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/Sampley_Autonomous%20Drones%20in%20the%20U.S.%20Military.pdf)
 
@@ -66,7 +63,7 @@ throughout. Hope that others will ask more questions in future
 presentations!
 
 
-<a id="orga6f4b12"></a>
+<a id="org0a06c21"></a>
 
 # [AI in soccer to improve athlete performance (Emma Brandes, 15-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/AI%20in%20soccer%20to%20improve%20athlete%20performance%20DUE%20Nov%2015%20(1).pdf)
 
@@ -91,7 +88,7 @@ Points of improvement:
 4.  **References** ought to include video and image material
 
 
-<a id="org36d4076"></a>
+<a id="org383928f"></a>
 
 # [Problem Solving & Searching Algorithms (Dat O, 22-Oct-2021)](https://github.com/birkenkrahe/ai482/blob/main/presentations/Presentation-DatO.pdf)
 
@@ -140,7 +137,7 @@ presenting the development timeline - when an algorithm was first
 developed, improved, used etc.)
 
 
-<a id="orgd2787fb"></a>
+<a id="org65dec9d"></a>
 
 # Augmented reality (Amber McClurg, 12-Nov-2021)
 
@@ -175,7 +172,7 @@ into a virtual reality (which the internet, by the way, is not
 because it is not fully immersive).
 
 
-<a id="org196ef37"></a>
+<a id="org1162b00"></a>
 
 # Complexity measures / Logic of Failure
 
@@ -183,16 +180,14 @@ Follow-up from the brief discussion about "complexity", which is
 harder to measure than "Zero to AI" makes it look.
 
 
-<a id="org68e1fac"></a>
-
 ### The Logic of Failure
 
 Dietrich Dörner is a theoretical (i.e. computational) psychologist
 from Bamberg University (Bavaria, Germany) and author of the
-influential book "The Logic of Failure" ([Dörner, 1997](#org43a4477)). See also:
-review ([Kirkus, 2010](#org38277b7)).
+influential book "The Logic of Failure" ([Dörner, 1997](#org28f0a7c)). See also:
+review ([Kirkus, 2010](#orgb7f775a)).
 
-An article by [Dörner (1990)](#org7580814) precedes the book and presents the
+An article by [Dörner (1990)](#orgeb29339) precedes the book and presents the
 main arguments with excellent illustrations - from the abstract:
 
 > "Unlike other living creatures, humans can adapt to
@@ -228,8 +223,6 @@ little clearer, why he used the term "logic":
 > given circumstances in the most sophisticated ways."
 
 
-<a id="org7a037fd"></a>
-
 ### Complex systems
 
 Page (in The Model Thinker) mentions 'complexity' but does not
@@ -264,28 +257,26 @@ four, and it introduces the important term "uncertainty". Complex
 systems carry uncertainty, but not all uncertainty is due to
 complexity.
 
-For more details, see [Frensch & Funke (1995)](#org0752d15) on complex problem
+For more details, see [Frensch & Funke (1995)](#org8e1f7f5) on complex problem
 solving.
 
 
-<a id="org8f82e66"></a>
-
 ### References
 
-<a id="org7580814"></a> [Dörner, D (1990). The logic of failure. In:
+<a id="orgeb29339"></a> [Dörner, D (1990). The logic of failure. In:
 Phil. Trans.R. Soc. Lond. B 327:463-473 (1990).](https://www.gwern.net/docs/existential-risk/1990-dorner.pdf)
 
-<a id="org43a4477"></a> [Dörner, D (1997). The Logic of Failure> Recognizing
+<a id="org28f0a7c"></a> [Dörner, D (1997). The Logic of Failure> Recognizing
 And Avoiding Error In Complex Situations. Basic Books.](https://www.amazon.com/Logic-Failure-Recognizing-Avoiding-Situations/dp/0201479486)
 
-<a id="org0752d15"></a> [Frensch P, Funke J (1995). Complex Problem Solving:
+<a id="org8e1f7f5"></a> [Frensch P, Funke J (1995). Complex Problem Solving:
 The European Perspective. Hillsdale NJ: Lawrence Erlbaum.](https://www.researchgate.net/publication/200134353_Complex_Problem_Solving-The_European_Perspective)
 
-<a id="org38277b7"></a> [NA (20 May 2010). The Logic of Failure: Why things go
+<a id="orgb7f775a"></a> [NA (20 May 2010). The Logic of Failure: Why things go
 wrong and what we can do to make them right. In: Kirkus Review.](https://www.kirkusreviews.com/book-reviews/dietrich-dorner/the-logic-of-failure/)
 
 
-<a id="org2ddae17"></a>
+<a id="orgccedc87"></a>
 
 # References
 
