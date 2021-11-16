@@ -479,6 +479,14 @@
    | Article  | Building a chatbot assistant with IBM Watson in 30 min ([[watson][Yates, 2021]]; [[watson][McGregor, 2021]])            |
    | Tutorial | [[https://www.ibm.com/products/watson-assistant/visual-builder][Visual chatbot builder for anyone to use]] ([[ibm][IBM, 2021]])                                            |
 
+* Week 14 - November 17
+
+  #+attr_html: :width 300px
+  [[./img/baseball.gif]]
+  
+  | Complexity | See [[https://github.com/birkenkrahe/ai482/tree/main/protocols#orgf3aee84][protocol 15-Nov-2021]] |
+  | Hakeem     |                          |
+
 ** Data science guest speaker, November 18, 11:45 Maxwell Room
 
    From Dr. Wesley Beal (Lyon):
