@@ -146,7 +146,7 @@
   into a virtual reality (which the internet, by the way, is not
   because it is not fully immersive).
 
-* Complexity measures / Logic of Failure
+* Complexity measures (NLP 2, 15-Nov-2021)
 
   Follow-up from the brief discussion about "complexity" (during the
   NLP lectures, which is harder to measure than some AI authors make
