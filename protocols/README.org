@@ -145,6 +145,111 @@
   into a virtual reality (which the internet, by the way, is not
   because it is not fully immersive).
 
+* Complexity measures / Logic of Failure
+
+  Follow-up from the brief discussion about "complexity", which is
+  harder to measure than "Zero to AI" makes it look.
+  
+*** The Logic of Failure
+
+    Dietrich Dörner is a theoretical (i.e. computational) psychologist
+    from Bamberg University (Bavaria, Germany) and author of the
+    influential book "The Logic of Failure" ([[dorner96][Dörner, 1997]]). See also:
+    review ([[kirkus10][Kirkus, 2010]]).
+
+    An article by [[dorner90][Dörner (1990)]] precedes the book and presents the
+    main arguments with excellent illustrations - from the abstract:
+
+    #+begin_quote
+    "Unlike other living creatures, humans can adapt to
+    uncertainty. They can form hypotheses about situations marked by
+    uncertainty and can anticipate their actions by planning. They can
+    expect the unexpected and take precautions against it. In numerous
+    experiments, we have investigated the manner in which humans deal
+    with these demands. In these experiments, we used computer
+    simulated scenarios representing, for example, a small town,
+    ecological or economic systems or political systems such as a
+    Third World country.
+    #+end_quote
+
+    Here is the map of the fictitious town of Lohhausen, which Dörner
+    simulated, followed by the system model used for the simulation.
+
+    #+attr_html: :width 600px
+    [[./img/lohhausen.png]]
+
+    #+attr_html: :width 600px
+    [[./img/lohhausen1.png]]
+
+    I always find the very concept of a "logic of failure" quite
+    puzzling - isn't logic independent of success or failure but
+    describes just "what is"? The article's conclusions make it a
+    little clearer, why he used the term "logic":
+
+    #+begin_quote
+    "It is possible to learn strategic flexibility. I believe,
+    however, that it is difficult to teach it. It is not a matter of
+    learning a few readily grasped general principles, but of learning
+    a lot of small, 'local' rules, each of which is applicable in a
+    limited area. The point is not to learn how to drive a steamroller
+    with which one can flatten all problems in the same way, but to
+    learn the adroitness of the puppeteer, who at one time holds many
+    strings in his hands and who is able to adapt his movements to the
+    given circumstances in the most sophisticated ways."
+    #+end_quote
+
+*** Complex systems
+
+    Page (in The Model Thinker) mentions 'complexity' but does not
+    define it except through examples. Dörner made an attempt at a
+    definition, which we talked about it class (and applied it).
+
+    * "A system is complex when it consists of a great variety of
+      variables."
+    * "All these variables are closely tied to one another, they
+      mutually affect each other and constitute a network of
+      independencies."
+    * "The system is dynamic, which means that it develops further,
+      even without interventions."
+    * "The system is intransparent [because] many of the variables
+      defy direct observation."
+    * "The system is uncertain [because] the acting subject has no
+      complete knowledge about the system, about its variables and
+      their interdependencies."
+
+      #+attr_html: :width 600px
+      [[./img/moro.png]]
+
+    To summarize: complex problems (in complex systems) mean
+
+    1) large number of variables
+    2) large network of interdependent variables
+    3) dynamic evolution without intervention
+    4) intransparency to direct observation
+    5) great uncertainty due to incomplete knowledge
+
+    The last criterion is actually more like a summary of the previous
+    four, and it introduces the important term "uncertainty". Complex
+    systems carry uncertainty, but not all uncertainty is due to
+    complexity.
+
+    For more details, see [[funke95][Frensch & Funke (1995)]] on complex problem
+    solving.
+
+*** References
+
+    <<dorner90>> [[https://www.gwern.net/docs/existential-risk/1990-dorner.pdf][Dörner, D (1990). The logic of failure. In:
+    Phil. Trans.R. Soc. Lond. B 327:463-473 (1990).]]
+
+    <<dorner96>> [[https://www.amazon.com/Logic-Failure-Recognizing-Avoiding-Situations/dp/0201479486][Dörner, D (1997). The Logic of Failure> Recognizing
+    And Avoiding Error In Complex Situations. Basic Books.]]
+
+    <<funke95>> [[https://www.researchgate.net/publication/200134353_Complex_Problem_Solving-The_European_Perspective][Frensch P, Funke J (1995). Complex Problem Solving:
+    The European Perspective. Hillsdale NJ: Lawrence Erlbaum.]]
+
+    <<kirkus10>> [[https://www.kirkusreviews.com/book-reviews/dietrich-dorner/the-logic-of-failure/][NA (20 May 2010). The Logic of Failure: Why things go
+    wrong and what we can do to make them right. In: Kirkus Review.]]
+  
 * References
 
   CNET (Oct 28, 2021). Everything Facebook revealed about the
