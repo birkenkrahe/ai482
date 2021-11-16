@@ -436,7 +436,7 @@
    [[./img/joinme.gif]]
 
 
-* Week 13 -  November 8 - NLP
+* Week 13 -  November 8 - NLP 1
 
   #+attr_html: :width 400px
   [[./img/nlp.png]]
@@ -463,7 +463,7 @@
   #+attr_html: :width 400px
   [[./img/amber.png]]
 
-* Week 14 - November 15 - RPA
+* Week 14 - November 15 - NLP 2
 ** Scots
    #+attr_html: :width 400px
   [[./img/scots.png]]
@@ -478,6 +478,34 @@
    | Video    | How to Make a Simple Chatbot in Under 10 Minutes (No Coding [Google] Dialogflow) ([[batir][Batir, 2020]]). |
    | Article  | Building a chatbot assistant with IBM Watson in 30 min ([[watson][Yates, 2021]]; [[watson][McGregor, 2021]])            |
    | Tutorial | [[https://www.ibm.com/products/watson-assistant/visual-builder][Visual chatbot builder for anyone to use]] ([[ibm][IBM, 2021]])                                            |
+
+** Data science guest speaker, November 18, 11:45 Maxwell Room
+
+   From Dr. Wesley Beal (Lyon):
+
+   #+begin_quote
+   I'm hosting a speaker for the HFP on Thursday, and if you or any of
+   your students would be interested in his talk you're more than
+   welcome to attend. Please consider spreading the word.
+
+   * Michael Simeone, director of Data Science and Analytics at
+     Arizona State University, will deliver a talk entitled “Beyond
+     ‘Fake News’: A Study in How to Study Misinformation" on Thursday,
+     Nov 18 from 11:45-12:50. We will meet in the Maxfield Room, and
+     he will join us remotely; we're allowed to bring lunches
+     downstairs from the cafeteria. Dr. Simeone will discuss current,
+     data-driven research on misinformation. Dr. Simeone also co-hosts
+     a podcast, Misinfo Weekly. I asked him which episodes he would
+     recommend for students interested in getting a head start on his
+     talk, and here's what he suggested:
+   * S1E1 on Information literacy:  https://play.acast.com/s/misinfo-weekly/episode-1
+   * S1E8 on Instagram and "COVID parties": https://play.acast.com/s/misinfo-weekly/covid-parties
+   * S1E7 on the Wayfair furniture conspiracy: https://play.acast.com/s/misinfo-weekly/the-wayfair-conspiracy-expensive-furniture-or-a-front-for-ch
+
+   May or may not be the kind of content you're interested in, but I
+   thought I'd at least offer!
+   #+end_quote
+
 
 * Week 15 - November 22 - RPA
 
