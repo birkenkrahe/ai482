@@ -525,4 +525,5 @@ participation in the 2nd part of term)
 
 <sup><a id="fn.1" href="#fnr.1">1</a></sup> I have been invited to my green card interview in Frankfurt,
 Germany, for December 3rd. This means that you will need to submit
-online presentations in the form of videos. Details in class.
+online presentations in the form of videos. Details in class and via
+email.
