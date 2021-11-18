@@ -406,7 +406,7 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">37</td>
 <td class="org-left">Wed-10-Nov</td>
-<td class="org-left">Spencer: Defining Intelligence</td>
+<td class="org-left"><del>Spencer: Defining Intelligence</del></td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -416,7 +416,7 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">38</td>
 <td class="org-left">Fri-12-Nov</td>
-<td class="org-left">Amber McClurg: Therapeutic Potential of VR</td>
+<td class="org-left"><del>Amber McClurg: Therapeutic Potential of VR</del></td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -437,7 +437,7 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">40</td>
 <td class="org-left">Wed-17-Nov</td>
-<td class="org-left">Hakeem: AI in Baseball (player development)</td>
+<td class="org-left"><del>Hakeem: AI in Baseball (player development)</del></td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -447,7 +447,7 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">41</td>
 <td class="org-left">Fri-19-Nov</td>
-<td class="org-left">Nick Norwood:?</td>
+<td class="org-left">&#x2013;CANCELLED--</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -458,7 +458,8 @@
 <td class="org-right">15</td>
 <td class="org-right">42</td>
 <td class="org-left">22-Nov</td>
-<td class="org-left">Course summary (All)</td>
+<td class="org-left">Nick Norwood</td>
+<td class="org-left">Course summary</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
