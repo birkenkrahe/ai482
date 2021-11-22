@@ -19,11 +19,11 @@ This text is available as:
     The deadline for submitting the presentation is **December 5, 12AM
     CST** (Sunday midnight in Batesville).
     
-    1.  **Sign** this honor sheet and write **"pledged"** next to your
+    1.  **Sign** [this honor sheet](https://docs.google.com/document/d/1rWpwkoosCnDGbXTxBztUQU-RjGY0NMqg/edit?usp=sharing&ouid=102963037093118135110&rtpof=true&sd=true) and write **"pledged"** next to your
         name.
     
     2.  Upload your **presentation documents** and the **scan of the
-        signed honor sheet** to this GitHub folder - please put your
+        signed honor sheet** [to this GitHub folder](https://github.com/birkenkrahe/ai482/tree/main/presentations/4th_sprint_review) - please put your
         name(s) into the title.
     
     3.  Post the **link** to your video presentation [to the discussion
