@@ -459,7 +459,6 @@
 <td class="org-right">42</td>
 <td class="org-left">22-Nov</td>
 <td class="org-left">Nick Norwood</td>
-<td class="org-left">Course summary</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
@@ -469,8 +468,8 @@
 <td class="org-right">&#xa0;</td>
 <td class="org-right">43</td>
 <td class="org-left">24-Nov</td>
-<td class="org-left">&#x2013;THANKSGIVING--</td>
-<td class="org-left">&#x2013;THANKSGIVING--</td>
+<td class="org-left">Course summary</td>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
 

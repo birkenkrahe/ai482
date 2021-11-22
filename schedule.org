@@ -57,8 +57,8 @@
   |    | 40 | Wed-17-Nov | +Hakeem: AI in Baseball (player development)+       |                       |                      |
   |    | 41 | Fri-19-Nov | --CANCELLED--                                       |                       |                      |
   |----+----+------------+-----------------------------------------------------+-----------------------+----------------------|
-  | 15 | 42 | 22-Nov     | Nick Norwood | Course summary                        |                       |                      |
-  |    | 43 | 24-Nov     | --THANKSGIVING--                                    | --THANKSGIVING--      |                      |
+  | 15 | 42 | 22-Nov     | Nick Norwood                                        |                       |                      |
+  |    | 43 | 24-Nov     | Course summary                                      |                       |                      |
   |    | 44 | 26-Nov     | --THANKSGIVING--                                    | --THANKSGIVING--      |                      |
   |----+----+------------+-----------------------------------------------------+-----------------------+----------------------|
   | 16 | 45 | 29-Nov     | PROJECT PRESENTATIONS (Online[fn:1])                |                       | 4th sprint review    |
