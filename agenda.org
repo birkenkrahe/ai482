@@ -514,9 +514,18 @@
    thought I'd at least offer!
    #+end_quote
 
+* Week 16 - Nov 19
 
-* Week 15 - November 22 - RPA
+  [[./img/noclass.gif]]
 
+* Week 15 - November 22
+
+  [[./img/end.gif]]
+
+  | Evaluation   | Online            |
+  | Nick Norwood | Solo presentation |
+
+* Future...videos?
   #+attr_html: :width 400px
   [[./img/rpa.jpg]]
 
