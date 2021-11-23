@@ -46,7 +46,7 @@ i.e. how you split the work up among yourselves.
 participants, FAQ in GitHub (AI).
 
 <sup><a id="fn.2" href="#fnr.2">2</a></sup> Please be advised that I'm traveling in Europe between November
-29 and December 15 (communication of final rades), and will not be
+29 and December 15 (communication of final grades), and will not be
 easily reachable.
 
 <sup><a id="fn.3" href="#fnr.3">3</a></sup> Start a `New discussion` and make sure that your name(s) appear
