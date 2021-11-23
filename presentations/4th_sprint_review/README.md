@@ -33,7 +33,8 @@ CST** (Sunday midnight in Batesville).
 
 # Footnotes
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> This text is available as: Update in Schoology, Email to  participants, FAQ in GitHub (AI).
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> This text is available as: Update in Schoology, Email to
+participants, FAQ in GitHub (AI).
 
 <sup><a id="fn.2" href="#fnr.2">2</a></sup> Please be advised that I'm traveling in Europe between November
 29 and December 15 (communication of final rades), and will not be

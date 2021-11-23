@@ -31,7 +31,8 @@
 
 * Footnotes
 
-[fn:1] This text is available as: Update in Schoology, Email to  participants, FAQ in GitHub (AI).
+[fn:1] This text is available as: Update in Schoology, Email to
+participants, FAQ in GitHub (AI).
 
 [fn:2]Please be advised that I'm traveling in Europe between November
 29 and December 15 (communication of final rades), and will not be
