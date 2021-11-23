@@ -1,12 +1,13 @@
 
 # Table of Contents
 
-1.  [What is this?](#orga27c9b6)
-2.  [Can we use any AI application for our presentation?](#orgf021dd2)
-3.  [References](#org554cd47)
+1.  [What is this?](#org34771c9)
+2.  [Can we use any AI application for our presentation?](#orgaa6c42b)
+3.  [How do we submit the final presentations online?](#org045d791)
+4.  [References](#orge18c71a)
 
 
-<a id="orga27c9b6"></a>
+<a id="org34771c9"></a>
 
 # What is this?
 
@@ -15,7 +16,7 @@ seminar on "Artificial Intelligence" (CSC 482.01). For the FAQs
 across courses, see the [org repo](https://github.com/birkenkrahe/org).
 
 
-<a id="orgf021dd2"></a>
+<a id="orgaa6c42b"></a>
 
 # Can we use any AI application for our presentation?
 
@@ -28,10 +29,10 @@ Several alternatives were listed in the syllabus:
 -   Present a (sub)chapter from AIMA (or from another book),
     e.g. chapter 13.5 on "Causal Networks". These few pages pack a
     punch, and to understand and unpack them, you may need to read
-    some of the "Book of Why" by Judeah Pearl ([Pearl, 2018](#org0154a8b))
+    some of the "Book of Why" by Judeah Pearl ([Pearl, 2018](#org12d650a))
 -   Review and present an AI research paper - this could e.g. be a
     historical article, like Samuel's seminal paper on AI ([Samuel,
-    1957](#orgcb92a71)).
+    1957](#org4d23068)).
 -   Find an interesting application and research it. Your emphasis
     could be technical ("how/why does it work?"), commercial
     ("what's the business model?"), philosophical ("what does this
@@ -48,13 +49,48 @@ interesting articles that you might use for your presentation. Check
 it out.
 
 
-<a id="org554cd47"></a>
+<a id="org045d791"></a>
+
+# How do we submit the final presentations online?
+
+These are the instructions<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup> for handing in the final presentation
+material. Please read them carefully, follow them to the letter
+and contact me immediately if there are issues or
+mistakes<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>. Submit earlier, not in the last minute, to be on
+the safe side!
+
+The deadline for submitting the presentation is **December 5, 12AM
+CST** (Sunday midnight in Batesville).
+
+1.  **Fill in and sign** [this honor sheet (PDF)](https://github.com/birkenkrahe/org/blob/master/Honor_pledge.pdf) and write
+    **"pledged"** next to your name in the column "Honor Pledge".
+
+2.  Upload your **presentation documents** and the **scan of the
+    signed honor sheet** [to this GitHub folder](https://github.com/birkenkrahe/ai482/tree/main/presentations/4th_sprint_review) - please add your
+    name(s) to the title of the file.
+
+3.  Post the **link** to your video presentation [to the discussion
+    forum](https://github.com/birkenkrahe/ai482/discussions) in GitHub<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>. Test the link before posting it!
+
+4.  When you're done, **send me an email** (birkenkrahe@lyon.edu)
+    confirming that you've done all of this, including which
+    course you're in.
+
+5.  Await my formative (comments) and summative (grade) feedback
+    (via email) based on [this presentation assessment form](https://github.com/birkenkrahe/org/blob/master/Presentation_Assessment_Form.pdf) (PDF).
+    
+    Cheers, and have a good Thanksgiving break & a successful exam period!
+
+Marcus Birkenkrahe
+
+
+<a id="orge18c71a"></a>
 
 # References
 
-<a id="org0154a8b"></a> [Pearl J, Mackenzie D (2018). The Book of Why. Penguin.](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/1541698967/)
+<a id="org12d650a"></a> [Pearl J, Mackenzie D (2018). The Book of Why. Penguin.](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/1541698967/)
 
-<a id="orgcb92a71"></a> [Samuel A L (1959). Some Studies in Machine Learning
+<a id="org4d23068"></a> [Samuel A L (1959). Some Studies in Machine Learning
 Using the Game of Checkers. IBM Journal 3(3) 1959:535-554.](https://www.cs.virginia.edu/~evans/greatworks/samuel.pdf)
 
 
@@ -63,3 +99,15 @@ Using the Game of Checkers. IBM Journal 3(3) 1959:535-554.](https://www.cs.virgi
 <sup><a id="fn.1" href="#fnr.1">1</a></sup> You'll still need to do some research: the AIMA chapters are
 quite densely written, and need to be unpacked. The chapters have
 their own references, which you should look up and check, too.
+
+<sup><a id="fn.2" href="#fnr.2">2</a></sup> This text is available as: Update in Schoology, Email to
+participants, FAQ in GitHub (AI).
+
+<sup><a id="fn.3" href="#fnr.3">3</a></sup> Please be advised that I'm traveling in Europe between November
+29 and December 15 (communication of final rades), and will not be
+easily reachable.
+
+<sup><a id="fn.4" href="#fnr.4">4</a></sup> Start a `New discussion` and make sure that your name(s) appear
+in the subject line of the post. Do **not post the video itself** since
+GitHub has limited space available. Use GDrive, Vimeo or YouTube
+(unlisted) instead.
