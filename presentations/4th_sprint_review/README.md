@@ -28,7 +28,7 @@ CST** (Sunday midnight in Batesville).
     course you're in.
 
 5.  Await my formative (comments) and summative (grade) feedback
-    (via email) based on this rubric.
+    (via email) based on [this presentation assessment form](https://github.com/birkenkrahe/org/blob/master/Presentation_Assessment_Form.pdf) (PDF).
 
 
 # Footnotes

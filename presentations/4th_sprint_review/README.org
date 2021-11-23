@@ -27,7 +27,7 @@
         course you're in.
 
      5) Await my formative (comments) and summative (grade) feedback
-        (via email) based on this rubric.
+        (via email) based on [[https://github.com/birkenkrahe/org/blob/master/Presentation_Assessment_Form.pdf][this presentation assessment form]] (PDF).
 
 * Footnotes
 
