@@ -33,6 +33,38 @@
   interesting articles that you might use for your presentation. Check
   it out.
 
+* How do we submit the final presentations online?
+
+  These are the instructions[fn:2] for handing in the final presentation
+  material. Please read them carefully, follow them to the letter
+  and contact me immediately if there are issues or
+  mistakes[fn:3]. Submit earlier, not in the last minute, to be on
+  the safe side!
+
+  The deadline for submitting the presentation is *December 5, 12AM
+  CST* (Sunday midnight in Batesville).
+
+  1) *Fill in and sign* [[https://github.com/birkenkrahe/org/blob/master/Honor_pledge.pdf][this honor sheet (PDF)]] and write
+     *"pledged"* next to your name in the column "Honor Pledge".
+
+  2) Upload your *presentation documents* and the *scan of the
+     signed honor sheet* [[https://github.com/birkenkrahe/ai482/tree/main/presentations/4th_sprint_review][to this GitHub folder]] - please add your
+     name(s) to the title of the file.
+
+  3) Post the *link* to your video presentation [[https://github.com/birkenkrahe/ai482/discussions][to the discussion
+     forum]] in GitHub[fn:4]. Test the link before posting it!
+
+  4) When you're done, *send me an email* (birkenkrahe@lyon.edu)
+     confirming that you've done all of this, including which
+     course you're in.
+
+  5) Await my formative (comments) and summative (grade) feedback
+     (via email) based on [[https://github.com/birkenkrahe/org/blob/master/Presentation_Assessment_Form.pdf][this presentation assessment form]] (PDF).
+
+     Cheers, and have a good Thanksgiving break & a successful exam period!
+  Marcus Birkenkrahe
+
+
 * References
 
   <<pearl19>> [[https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/1541698967/][Pearl J, Mackenzie D (2018). The Book of Why. Penguin.]]
@@ -45,3 +77,15 @@
 [fn:1]You'll still need to do some research: the AIMA chapters are
 quite densely written, and need to be unpacked. The chapters have
 their own references, which you should look up and check, too.
+
+[fn:2] This text is available as: Update in Schoology, Email to
+participants, FAQ in GitHub (AI).
+
+[fn:3]Please be advised that I'm traveling in Europe between November
+29 and December 15 (communication of final rades), and will not be
+easily reachable.
+
+[fn:4]Start a ~New discussion~ and make sure that your name(s) appear
+in the subject line of the post. Do *not post the video itself* since
+GitHub has limited space available. Use GDrive, Vimeo or YouTube
+(unlisted) instead.
