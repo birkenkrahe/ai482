@@ -29,6 +29,15 @@ CST** (Sunday midnight in Batesville).
 
 5.  Await my formative (comments) and summative (grade) feedback
     (via email) based on [this presentation assessment form](https://github.com/birkenkrahe/org/blob/master/Presentation_Assessment_Form.pdf) (PDF).
+    
+    Cheers, and have a good Thanksgiving break & a successful exam period!
+    Marcus Birkenkrahe
+
+PS. There is no strict upper or lower time limit for your
+presentation. Take all the time that you need to answer your
+research question. Also, you submit as a team if you worked on the
+project as a team - I don't care who gives the presentation,
+i.e. how you split the work up among yourselves.
 
 
 # Footnotes
