@@ -535,7 +535,9 @@
   * What were the main messages and lessons?
   * What next?
   * NLP - [[https://towardsdatascience.com/how-ai21-labs-is-reimagining-the-way-we-read-and-write-e5e8ecb05dc][AI21: OpenAI is not the only game in town]] ([[romero][Romero,
-    7-Dec-2021]])
+    7-Dec-2021]]) 
+  * [[https://e2eml.school/transformers.html][Transformers from Scratch]] 
+  * [[https://snyk.io/lp/snyk-code-scan-your-code/][Free code quality and vulnerability checker]]
 
 * AI present = RPA...videos?
   #+attr_html: :width 400px
