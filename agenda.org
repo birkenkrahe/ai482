@@ -540,12 +540,16 @@
   * NLP - [[https://towardsdatascience.com/how-ai21-labs-is-reimagining-the-way-we-read-and-write-e5e8ecb05dc][AI21: OpenAI is not the only game in town]] ([[romero][Romero,
     7-Dec-2021]])
   * [[https://e2eml.school/transformers.html][Transformers from Scratch]]
-  * [[https://snyk.io/lp/snyk-code-scan-your-code/][Free code quality and vulnerability checker]]
+  * [[https://snyk.io/lp/snyk-code-scan-your-code/][Free code quality and vulnerability checker]] (Snyk, 2021)
   * [[https://ai.facebook.com/blog/building-a-conversational-parser-for-on-device-voice-assistants][Building a conversational parser for on-device voice assistants]]
   * [[https://www.ncronline.org/news/opinion/7-lessons-learned-vaticans-artificial-intelligence-symposium][7 lessons learned from the Vatican's artificial intelligence
-    symposium]] (Keegan, 2021)
+    symposium]] (Keegan, 2-Nov-2021)
 
-  /Image: Palazzo della Cancelleria, Rome, Italy/
+  #+begin_quote
+  Image: Palazzo della Cancelleria, Rome, Italy - fittingly, the
+  palace is home to a permanent exhibition of replicas of many of
+  Leonardo da Vinci's machines and designs.
+  #+end_quote
 
 * AI present = RPA...videos?
   #+attr_html: :width 400px
@@ -585,6 +589,9 @@
 
   <<romero>> Alberto Romero (7 Dec 2021). How AI21 Labs Is Reimagining
   the Way We Read and Write [blog]. [[https://towardsdatascience.com/how-ai21-labs-is-reimagining-the-way-we-read-and-write-e5e8ecb05dc][URL: towardsdatascience.com]]
+
+  Snyk (2021). Free code quality & vulnerability checker
+  [website]. [[https://snyk.io/lp/snyk-code-scan-your-code/][URL: snyk.io.]]
 
   Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
   Proof-of-Concept to Production Gap [video]. [[https://youtu.be/tsPuVAMaADY?t=367][URL:
