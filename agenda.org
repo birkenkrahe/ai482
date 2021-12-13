@@ -532,6 +532,9 @@
 * TODO Week 17 - Goodbye video
   DEADLINE: <2021-12-15 Wed>
 
+  #+attr_html: :width 500px
+  [[./img/palazzo.jpg]]
+
   * What were the main messages and lessons?
   * What next?
   * NLP - [[https://towardsdatascience.com/how-ai21-labs-is-reimagining-the-way-we-read-and-write-e5e8ecb05dc][AI21: OpenAI is not the only game in town]] ([[romero][Romero,
@@ -539,7 +542,10 @@
   * [[https://e2eml.school/transformers.html][Transformers from Scratch]]
   * [[https://snyk.io/lp/snyk-code-scan-your-code/][Free code quality and vulnerability checker]]
   * [[https://ai.facebook.com/blog/building-a-conversational-parser-for-on-device-voice-assistants][Building a conversational parser for on-device voice assistants]]
-  * [[https://www.ncronline.org/news/opinion/7-lessons-learned-vaticans-artificial-intelligence-symposium][7 lessons learned from the Vatican's artificial intelligence symposium]]
+  * [[https://www.ncronline.org/news/opinion/7-lessons-learned-vaticans-artificial-intelligence-symposium][7 lessons learned from the Vatican's artificial intelligence
+    symposium]] (Keegan, 2021)
+
+  /Image: Palazzo della Cancelleria, Rome, Italy/
 
 * AI present = RPA...videos?
   #+attr_html: :width 400px
