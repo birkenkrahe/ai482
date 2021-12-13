@@ -538,6 +538,7 @@
     7-Dec-2021]]) 
   * [[https://e2eml.school/transformers.html][Transformers from Scratch]] 
   * [[https://snyk.io/lp/snyk-code-scan-your-code/][Free code quality and vulnerability checker]]
+  * [[https://ai.facebook.com/blog/building-a-conversational-parser-for-on-device-voice-assistants][Building a conversational parser for on-device voice assistants]]
 
 * AI present = RPA...videos?
   #+attr_html: :width 400px
