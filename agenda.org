@@ -466,7 +466,7 @@
 * Week 14 - November 15 - NLP 2
 ** Scots
    #+attr_html: :width 400px
-  [[./img/scots.png]]
+   [[./img/scots.png]]
 
 ** Agenda
    #+attr_html: :width 400px
@@ -483,7 +483,7 @@
 
   #+attr_html: :width 300px
   [[./img/baseball.gif]]
-  
+
   | Complexity | See [[https://github.com/birkenkrahe/ai482/tree/main/protocols#orgf3aee84][protocol 15-Nov-2021]] |
   | Hakeem     |                          |
 
@@ -525,20 +525,21 @@
   | Evaluation   | Online            |
   | Nick Norwood | Solo presentation |
 
-* Week 16 - Nov 29-Dec 3  
+* Week 16 - Nov 29-Dec 3
 
   [[./img/noclass.gif]]
-  
+
 * TODO Week 17 - Goodbye video
   DEADLINE: <2021-12-15 Wed>
 
   * What were the main messages and lessons?
   * What next?
   * NLP - [[https://towardsdatascience.com/how-ai21-labs-is-reimagining-the-way-we-read-and-write-e5e8ecb05dc][AI21: OpenAI is not the only game in town]] ([[romero][Romero,
-    7-Dec-2021]]) 
-  * [[https://e2eml.school/transformers.html][Transformers from Scratch]] 
+    7-Dec-2021]])
+  * [[https://e2eml.school/transformers.html][Transformers from Scratch]]
   * [[https://snyk.io/lp/snyk-code-scan-your-code/][Free code quality and vulnerability checker]]
   * [[https://ai.facebook.com/blog/building-a-conversational-parser-for-on-device-voice-assistants][Building a conversational parser for on-device voice assistants]]
+  * [[https://www.ncronline.org/news/opinion/7-lessons-learned-vaticans-artificial-intelligence-symposium][7 lessons learned from the Vatican's artificial intelligence symposium]]
 
 * AI present = RPA...videos?
   #+attr_html: :width 400px
@@ -567,6 +568,9 @@
   <<nlp>> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
   (Natural Language Processing)? [video]. URL: [[https://youtu.be/fLvJ8VdHLA0][youtu.be/fLvJ8VdHLA0]]
 
+  James F. Keenan (Nov 2, 2021). 7 lessons learned from the Vatican's
+  artificial intelligence symposium [Blog]. [[https://www.ncronline.org/news/opinion/7-lessons-learned-vaticans-artificial-intelligence-symposium][URL: ncronline.org.]]
+
   Jack Soslow (Apr 13, 2021). Two AIs talk about becoming
   human. (GPT-3) [video]. [[https://youtu.be/jz78fSnBG0s][URL: youtu.be/jz78fSnBG0s]].
 
@@ -582,7 +586,7 @@
 
   <<uipath>> UIPath Academy (2021). URL: academy.uipath.com.
 
-  <<williams>> Williams A (Jun 27, 2020). Riot Games give first clues
+  Williams A (Jun 27, 2020). Riot Games give first clues
   about new Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
 
   <<watson>> Yates R (Apr 8, 2021). Getting Started with the New
