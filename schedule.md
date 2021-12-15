@@ -458,7 +458,7 @@
 <td class="org-right">15</td>
 <td class="org-right">42</td>
 <td class="org-left">22-Nov</td>
-<td class="org-left">Nick Norwood</td>
+<td class="org-left"><del>Nick Norwood: AI in video games</del></td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
