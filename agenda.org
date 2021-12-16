@@ -435,7 +435,6 @@
 
    [[./img/joinme.gif]]
 
-
 * Week 13 -  November 8 - NLP 1
 
   #+attr_html: :width 400px
@@ -529,8 +528,7 @@
 
   [[./img/noclass.gif]]
 
-* TODO Week 17 - Goodbye video
-  DEADLINE: <2021-12-15 Wed>
+* Week 17 - Goodbye video
 
   #+attr_html: :width 500px
   [[./img/palazzo.jpg]]
@@ -554,6 +552,9 @@
 * AI present = RPA...videos?
   #+attr_html: :width 400px
   [[./img/rpa.jpg]]
+
+  Something for you to check out...not quite "intelligence", but RPA
+  is the AI that shapes the work place today!
 
   | Robotic Process Automation with UIPath (academic tutorials, [[uipath][UIPath 2021]]) |
   | Workflow automation with Integromat ([[integromat][2020,2021]]).                         |
@@ -599,7 +600,7 @@
 
   <<uipath>> UIPath Academy (2021). URL: academy.uipath.com.
 
-  Williams A (Jun 27, 2020). Riot Games give first clues
+  <<williams>> Williams A (Jun 27, 2020). Riot Games give first clues
   about new Valorant Agents and abilities [blog]. [[https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/][Online: dexerto.com]].
 
   <<watson>> Yates R (Apr 8, 2021). Getting Started with the New
