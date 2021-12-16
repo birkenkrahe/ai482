@@ -1,44 +1,44 @@
 
 # Table of Contents
 
--   [Week 2 - August 25](#orgfb3fcab)
--   [Week 2 - August 27](#org429e22d)
--   [Week 3 - August 30](#org1b92c1b)
--   [Week 4 - September 8](#org31f328d)
--   [Week 4 - September 10](#org6c81925)
--   [Week 5 - September 13](#orge8fd957)
--   [Week 5 - September 15](#org2f8a28e)
--   [Week 5 - September 17](#org8d56def)
--   [Week 6 - September 20/22](#org911fc70)
--   [Week 6 - September 24](#org0a7099f)
--   [Week 7 - September 27](#org9e18f30)
--   [Week 7 - September 29](#org68f2512)
--   [Week 7 - October 1](#org4105556)
--   [Week 8 - October 6](#orgfebc6ae)
--   [Week 8 - October 8](#orgaa4e0ff)
--   [Week 9 - October 11](#org38b2fbc)
--   [Week 9 - October 14](#orge5b9e22)
--   [Week 9 - October 15](#orgf19412f)
--   [Week 10 - October 18](#orgb182e5e)
--   [Week 10 - October 22](#org60071da)
--   [Week 11 - October 25](#org4f044b4)
--   [Week 11 - October 27+29](#org45061b2)
--   [Week 12 - November 3](#orga1eceb8)
--   [Week 12 - November 5](#org6375676)
--   [Week 13 -  November 8 - NLP 1](#org80e4923)
--   [Week 13 - November 10+12](#orgf6fd9d5)
--   [Week 14 - November 15 - NLP 2](#org1f39ec0)
--   [Week 14 - November 17](#orgbdf2024)
--   [Week 16 - Nov 19](#orgca0a6aa)
--   [Week 15 - November 22](#org4ce73b8)
--   [Week 16 - Nov 29-Dec 3](#org77dea94)
--   [Week 17 - Goodbye video](#org038a463)
--   [AI present = RPA&#x2026;videos?](#org3b0216a)
--   [References](#org2860e68)
+-   [Week 2 - August 25](#org4c813aa)
+-   [Week 2 - August 27](#org418992f)
+-   [Week 3 - August 30](#org35d1d12)
+-   [Week 4 - September 8](#org68cebac)
+-   [Week 4 - September 10](#org1c30a9d)
+-   [Week 5 - September 13](#org83bce06)
+-   [Week 5 - September 15](#org4e2d847)
+-   [Week 5 - September 17](#org73eea8d)
+-   [Week 6 - September 20/22](#org0c2f484)
+-   [Week 6 - September 24](#org543347f)
+-   [Week 7 - September 27](#orgc9031d9)
+-   [Week 7 - September 29](#org987401f)
+-   [Week 7 - October 1](#org13d2197)
+-   [Week 8 - October 6](#org129986e)
+-   [Week 8 - October 8](#org3e062b6)
+-   [Week 9 - October 11](#org3174e43)
+-   [Week 9 - October 14](#orge29d21b)
+-   [Week 9 - October 15](#orgfab5c5e)
+-   [Week 10 - October 18](#orgc79ad27)
+-   [Week 10 - October 22](#org5bfea7c)
+-   [Week 11 - October 25](#org1c6cca5)
+-   [Week 11 - October 27+29](#orgee3487d)
+-   [Week 12 - November 3](#orgf5d2421)
+-   [Week 12 - November 5](#orgcaa4b53)
+-   [Week 13 -  November 8 - NLP 1](#orgb1764c7)
+-   [Week 13 - November 10+12](#org7988a36)
+-   [Week 14 - November 15 - NLP 2](#org1be2516)
+-   [Week 14 - November 17](#orgc9588f4)
+-   [Week 16 - Nov 19](#orgf55b377)
+-   [Week 15 - November 22](#org8fe2c4f)
+-   [Week 16 - Nov 29-Dec 3](#orgcb87558)
+-   [Week 17 - Goodbye video!](#org4b82c6a)
+-   [AI present = RPA&#x2026;videos?](#orgc01ce7f)
+-   [References](#org7db5630)
 
 
 
-<a id="orgfb3fcab"></a>
+<a id="org4c813aa"></a>
 
 # Week 2 - August 25
 
@@ -59,7 +59,7 @@
     -   Agendas will be posted
 
 
-<a id="org429e22d"></a>
+<a id="org418992f"></a>
 
 # Week 2 - August 27
 
@@ -69,7 +69,7 @@
 -   Rational agents
 -   Major issues
     
-    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org2e31808))*
+    *Image: "Grace, the ultra-lifelike nurse robot" ([Cairns, 2021](#org209e6ff))*
 
 
 ## Housekeeping
@@ -94,11 +94,11 @@
 
 ## References
 
-<a id="org2e31808"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
+<a id="org209e6ff"></a> [Cairns, R (19 Aug 2021). Meet Grace, the
 ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asia/grace-hanson-robotics-android-nurse-hnk-spc-intl/index.html)
 
 
-<a id="org1b92c1b"></a>
+<a id="org35d1d12"></a>
 
 # Week 3 - August 30
 
@@ -138,7 +138,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   [Present and discuss in class](https://github.com/birkenkrahe/ai482/blob/main/3_ai_projects/AI_approaches_pros_cons.pdf)
 
 
-<a id="org31f328d"></a>
+<a id="org68cebac"></a>
 
 # Week 4 - September 8
 
@@ -204,7 +204,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 </table>
 
 
-<a id="org6c81925"></a>
+<a id="org1c30a9d"></a>
 
 # Week 4 - September 10
 
@@ -216,7 +216,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Still no ideas? [See Stanford '21 conference](https://hai.stanford.edu/2021-spring-conference-agenda)
 
 
-<a id="orge8fd957"></a>
+<a id="org83bce06"></a>
 
 # Week 5 - September 13
 
@@ -256,7 +256,7 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 -   Briefly present your findings
 
 
-<a id="org2f8a28e"></a>
+<a id="org4e2d847"></a>
 
 # Week 5 - September 15
 
@@ -268,17 +268,17 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 ## Automatic creativity?
 
 
-### [Plotto book (Legro, 2012)](#org16d551f)
+### [Plotto book (Legro, 2012)](#org1dd6cdd)
 
 ![img](./img/cook.png)
 
 
-### [Wycliffe Hill's 1931 plot robot (Collins, 2009)](#orgd14596d)
+### [Wycliffe Hill's 1931 plot robot (Collins, 2009)](#org2fd2c3e)
 
 ![img](./img/plotto.jpg)
 
 
-### [Plotto game (Redgrave, 2018)](#orgc7ce7b9)
+### [Plotto game (Redgrave, 2018)](#org342be22)
 
 ![img](./img/plottogame.png)
 
@@ -294,17 +294,17 @@ ultra-lifelike nurse robot. Online: cnn.com.](https://www.cnn.com/2021/08/19/asi
 
 ## References
 
-<a id="orgd14596d"></a> Collins P (6 Jul 2009). The King of All Formulas
+<a id="org2fd2c3e"></a> Collins P (6 Jul 2009). The King of All Formulas
 [Blog]. [Online: slate.com.](https://slate.com/news-and-politics/2009/07/the-man-who-invented-the-hollywood-schlock-machine.html)
 
-<a id="org16d551f"></a> Legro M (6 Jan 2012). Plotto: The Master Book of All
+<a id="org1dd6cdd"></a> Legro M (6 Jan 2012). Plotto: The Master Book of All
 Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01/06/plotto/)
 
-<a id="orgc7ce7b9"></a> Redgrave AL (29 Apr 2018). Plotto Demo
+<a id="org342be22"></a> Redgrave AL (29 Apr 2018). Plotto Demo
 [Video]. [Online: youtube.com](https://youtu.be/VbWrs8wm5sA).
 
 
-<a id="org8d56def"></a>
+<a id="org73eea8d"></a>
 
 # Week 5 - September 17
 
@@ -314,7 +314,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Next: AI in Sales and Marketing (example)
 
 
-<a id="org911fc70"></a>
+<a id="org0c2f484"></a>
 
 # Week 6 - September 20/22
 
@@ -322,7 +322,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   [Lectures in GitHub](https://github.com/birkenkrahe/ai482/tree/main/5_ai_agents)
 
 
-<a id="org0a7099f"></a>
+<a id="org543347f"></a>
 
 # Week 6 - September 24
 
@@ -334,10 +334,10 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
     -   Part II: Change management
     -   Part III: Full cycle of ML projects
 
-*Image source: [Williams, 2020](#org9b78b34).*
+*Image source: [Williams, 2020](#orgb3ab511).*
 
 
-<a id="org9e18f30"></a>
+<a id="orgc9031d9"></a>
 
 # Week 7 - September 27
 
@@ -352,7 +352,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 *Image: Two AIs talk about becoming human (Soslow, 2021)*
 
 
-<a id="org68f2512"></a>
+<a id="org987401f"></a>
 
 # Week 7 - September 29
 
@@ -363,7 +363,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   New diary entry: [taking stock](https://github.com/birkenkrahe/ai482/blob/main/diary.md#org1e569bc) (Sept 27)
 
 
-<a id="org4105556"></a>
+<a id="org13d2197"></a>
 
 # Week 7 - October 1
 
@@ -374,7 +374,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Oct 8: [Upload PDF here by 9 AM](https://github.com/birkenkrahe/ai482/tree/main/presentations/2nd_sprint_review) (everybody)
 
 
-<a id="orgfebc6ae"></a>
+<a id="org129986e"></a>
 
 # Week 8 - October 6
 
@@ -386,7 +386,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Tell me your solo presentation topics!
 
 
-<a id="orgaa4e0ff"></a>
+<a id="org3e062b6"></a>
 
 # Week 8 - October 8
 
@@ -397,7 +397,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Mon: [sprint review](https://github.com/birkenkrahe/org/blob/master/FAQ.md) critique
 
 
-<a id="org38b2fbc"></a>
+<a id="org3174e43"></a>
 
 # Week 9 - October 11
 
@@ -412,7 +412,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
     2.  Emma on AI in soccer
 
 
-<a id="orge5b9e22"></a>
+<a id="orge29d21b"></a>
 
 # Week 9 - October 14
 
@@ -422,7 +422,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Lecture: [Machine learning basics](https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing)<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 
 
-<a id="orgf19412f"></a>
+<a id="orgfab5c5e"></a>
 
 # Week 9 - October 15
 
@@ -433,7 +433,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   Lecture: [Machine learning basics](https://github.com/birkenkrahe/ai482/tree/main/8_ai_sales_marketing)<sup><a id="fnr.2.100" class="footref" href="#fn.2">2</a></sup>
 
 
-<a id="orgb182e5e"></a>
+<a id="orgc79ad27"></a>
 
 # Week 10 - October 18
 
@@ -443,7 +443,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   [Protocols](https://github.com/birkenkrahe/ai482/tree/main/protocols) (extra credit!)
 
 
-<a id="org60071da"></a>
+<a id="org5bfea7c"></a>
 
 # Week 10 - October 22
 
@@ -453,7 +453,7 @@ Plots [Blog]. [Online: brainpickings.org.](https://www.brainpickings.org/2012/01
 -   [Protocol/Feedback](https://github.com/birkenkrahe/ai482/tree/main/protocols#orgcad7132)
 
 
-<a id="org4f044b4"></a>
+<a id="org1c6cca5"></a>
 
 # Week 11 - October 25
 
@@ -501,7 +501,7 @@ Please prepare our session on "AI for Natural Language" on November
 *Image: Interesting choice of membership categories. (Neurapod)*
 
 
-<a id="org45061b2"></a>
+<a id="orgee3487d"></a>
 
 # Week 11 - October 27+29
 
@@ -543,7 +543,7 @@ Please prepare our session on "AI for Natural Language" on November
 ![img](./img/fortunato.png)
 
 
-<a id="orga1eceb8"></a>
+<a id="orgf5d2421"></a>
 
 # Week 12 - November 3
 
@@ -571,7 +571,7 @@ essential skills." (Which chain of causation is set up here?)
 > that promote mental well-being."
 
 
-<a id="org6375676"></a>
+<a id="orgcaa4b53"></a>
 
 # Week 12 - November 5
 
@@ -585,13 +585,13 @@ essential skills." (Which chain of causation is set up here?)
 ![img](./img/joinme.gif)
 
 
-<a id="org80e4923"></a>
+<a id="orgb1764c7"></a>
 
 # Week 13 -  November 8 - NLP 1
 
 ![img](./img/nlp.png)
 
--   What is NLP? ([IBM Technology, 2021](#orgf3fbe0f))<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>
+-   What is NLP? ([IBM Technology, 2021](#orge500b67))<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>
     -   Tokenization
     -   Lemmatization
     -   Part-Of-Sentence Tagging
@@ -603,7 +603,7 @@ essential skills." (Which chain of causation is set up here?)
     -   Case study: Translated / machine translationi
 
 
-<a id="orgf6fd9d5"></a>
+<a id="org7988a36"></a>
 
 # Week 13 - November 10+12
 
@@ -615,7 +615,7 @@ essential skills." (Which chain of causation is set up here?)
 ![img](./img/amber.png)
 
 
-<a id="org1f39ec0"></a>
+<a id="org1be2516"></a>
 
 # Week 14 - November 15 - NLP 2
 
@@ -658,25 +658,25 @@ essential skills." (Which chain of causation is set up here?)
 
 <tr>
 <td class="org-left">Video</td>
-<td class="org-left">How to Make a Simple Chatbot in Under 10 Minutes (No Coding [Google] Dialogflow) (<a href="#orgf0e7292">Batir, 2020</a>).</td>
+<td class="org-left">How to Make a Simple Chatbot in Under 10 Minutes (No Coding [Google] Dialogflow) (<a href="#orga722232">Batir, 2020</a>).</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Article</td>
-<td class="org-left">Building a chatbot assistant with IBM Watson in 30 min (<a href="#orgac5d61f">Yates, 2021</a>; <a href="#orgac5d61f">McGregor, 2021</a>)</td>
+<td class="org-left">Building a chatbot assistant with IBM Watson in 30 min (<a href="#orgfe05bd0">Yates, 2021</a>; <a href="#orgfe05bd0">McGregor, 2021</a>)</td>
 </tr>
 
 
 <tr>
 <td class="org-left">Tutorial</td>
-<td class="org-left"><a href="https://www.ibm.com/products/watson-assistant/visual-builder">Visual chatbot builder for anyone to use</a> (<a href="#orgf728c8d">IBM, 2021</a>)</td>
+<td class="org-left"><a href="https://www.ibm.com/products/watson-assistant/visual-builder">Visual chatbot builder for anyone to use</a> (<a href="#org2a0f4e9">IBM, 2021</a>)</td>
 </tr>
 </tbody>
 </table>
 
 
-<a id="orgbdf2024"></a>
+<a id="orgc9588f4"></a>
 
 # Week 14 - November 17
 
@@ -731,14 +731,14 @@ From Dr. Wesley Beal (Lyon):
 > thought I'd at least offer!
 
 
-<a id="orgca0a6aa"></a>
+<a id="orgf55b377"></a>
 
 # Week 16 - Nov 19
 
 ![img](./img/noclass.gif)
 
 
-<a id="org4ce73b8"></a>
+<a id="org8fe2c4f"></a>
 
 # Week 15 - November 22
 
@@ -767,35 +767,43 @@ From Dr. Wesley Beal (Lyon):
 </table>
 
 
-<a id="org77dea94"></a>
+<a id="orgcb87558"></a>
 
 # Week 16 - Nov 29-Dec 3
 
 ![img](./img/noclass.gif)
 
 
-<a id="org038a463"></a>
+<a id="org4b82c6a"></a>
 
-# Week 17 - Goodbye video
+# Week 17 - Goodbye video!
 
 ![img](./img/palazzo.jpg)
 
--   What were the main messages and lessons?
--   What next?
--   NLP - [AI21: OpenAI is not the only game in town](https://towardsdatascience.com/how-ai21-labs-is-reimagining-the-way-we-read-and-write-e5e8ecb05dc) ([Romero,
-    7-Dec-2021](#org3187eb1))
--   [Transformers from Scratch](https://e2eml.school/transformers.html)
--   [Free code quality and vulnerability checker](https://snyk.io/lp/snyk-code-scan-your-code/) (Snyk, 2021)
--   [Building a conversational parser for on-device voice assistants](https://ai.facebook.com/blog/building-a-conversational-parser-for-on-device-voice-assistants)
--   [7 lessons learned from the Vatican's artificial intelligence
-    symposium](https://www.ncronline.org/news/opinion/7-lessons-learned-vaticans-artificial-intelligence-symposium) (Keegan, 2-Nov-2021)
+See good-bye video link. 
+
+1.  What does it all mean?
+2.  What next?
+3.  What about the course?
+    
+    Some recent findings:
+
+4.  NLP - [AI21: OpenAI is not the only game in town](https://towardsdatascience.com/how-ai21-labs-is-reimagining-the-way-we-read-and-write-e5e8ecb05dc) ([Romero,
+    7-Dec-2021](#orgceb7b40))
+5.  NLP tutorial: [Transformers from Scratch](https://e2eml.school/transformers.html)
+6.  Cool application: [Free code quality and vulnerability checker](https://snyk.io/lp/snyk-code-scan-your-code/)
+    (Snyk, 2021)
+7.  Current NLP research from "Meta" (formerly Facebook): [Building a
+    conversational parser for on-device voice assistants](https://ai.facebook.com/blog/building-a-conversational-parser-for-on-device-voice-assistants)
+8.  Philosophical: [7 lessons learned from the Vatican's artificial
+    intelligence symposium](https://www.ncronline.org/news/opinion/7-lessons-learned-vaticans-artificial-intelligence-symposium) (Keegan, 2-Nov-2021)
 
 > Image: Palazzo della Cancelleria, Rome, Italy - fittingly, the
 > palace is home to a permanent exhibition of replicas of many of
 > Leonardo da Vinci's machines and designs.
 
 
-<a id="org3b0216a"></a>
+<a id="orgc01ce7f"></a>
 
 # AI present = RPA&#x2026;videos?
 
@@ -812,12 +820,12 @@ is the AI that shapes the work place today!
 </colgroup>
 <tbody>
 <tr>
-<td class="org-left">Robotic Process Automation with UIPath (academic tutorials, <a href="#orgb2b0480">UIPath 2021</a>)</td>
+<td class="org-left">Robotic Process Automation with UIPath (academic tutorials, <a href="#org27df5d7">UIPath 2021</a>)</td>
 </tr>
 
 
 <tr>
-<td class="org-left">Workflow automation with Integromat (<a href="#orgca0eb45">2020,2021</a>).</td>
+<td class="org-left">Workflow automation with Integromat (<a href="#orgbb872be">2020,2021</a>).</td>
 </tr>
 
 
@@ -828,25 +836,25 @@ is the AI that shapes the work place today!
 </table>
 
 
-<a id="org2860e68"></a>
+<a id="org7db5630"></a>
 
 # References
 
-<a id="orgf0e7292"></a> Batir S (Jul 5, 2020). How to Make a Simple Chatbot in
+<a id="orga722232"></a> Batir S (Jul 5, 2020). How to Make a Simple Chatbot in
 Under 10 Mintues (No Coding Dialogflow) [video]. [URL:
 youtu.be/Ua1pgeWg6vw](https://youtu.be/Ua1pgeWg6vw)
 
 Francisco Iacobelli (May 15, 2021). intelligent Agents Intro
 [video]. [URL: youtu.be/UjQ1AzSvCp8?t=1308](https://youtu.be/UjQ1AzSvCp8?t=1308).
 
-<a id="orgf728c8d"></a> IBM (2021). Visual Chatbot Builder for Anyone to Use
+<a id="org2a0f4e9"></a> IBM (2021). Visual Chatbot Builder for Anyone to Use
 [tutorial]. [URL: ibm.com.](https://www.ibm.com/products/watson-assistant/visual-builder)
 
-<a id="orgca0eb45"></a> Integromat (Oct 22, 2021). Getting started with
+<a id="orgbb872be"></a> Integromat (Oct 22, 2021). Getting started with
 Telegram [video]. [URL: youtu.be/SEcA5ZWDkto](https://youtu.be/SEcA5ZWDkto). Getting started with
 the COVID-10 App [video]. [URL: youtu.be/aPdcjmG<sub>kc4</sub>](https://youtu.be/aPdcjmG_kc4).
 
-<a id="orgf3fbe0f"></a> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
+<a id="orge500b67"></a> IBM Technology/Martin Keen (Aug 11, 2021). What is NLP
 (Natural Language Processing)? [video]. URL: [youtu.be/fLvJ8VdHLA0](https://youtu.be/fLvJ8VdHLA0)
 
 James F. Keenan (Nov 2, 2021). 7 lessons learned from the Vatican's
@@ -858,7 +866,7 @@ human. (GPT-3) [video]. [URL: youtu.be/jz78fSnBG0s](https://youtu.be/jz78fSnBG0s
 Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
 [video]. [URL: youtu.be/ISa10TrJK7w](https://youtu.be/ISa10TrJK7w)
 
-<a id="org3187eb1"></a> Alberto Romero (7 Dec 2021). How AI21 Labs Is Reimagining
+<a id="orgceb7b40"></a> Alberto Romero (7 Dec 2021). How AI21 Labs Is Reimagining
 the Way We Read and Write [blog]. [URL: towardsdatascience.com](https://towardsdatascience.com/how-ai21-labs-is-reimagining-the-way-we-read-and-write-e5e8ecb05dc)
 
 Snyk (2021). Free code quality & vulnerability checker
@@ -868,12 +876,12 @@ Stanford HAI (Sep 23, 2021). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [URL:
 youtu.be/tsPuVAMaADY?t=367](https://youtu.be/tsPuVAMaADY?t=367).
 
-<a id="orgb2b0480"></a> UIPath Academy (2021). URL: academy.uipath.com.
+<a id="org27df5d7"></a> UIPath Academy (2021). URL: academy.uipath.com.
 
-<a id="org9b78b34"></a> Williams A (Jun 27, 2020). Riot Games give first clues
+<a id="orgb3ab511"></a> Williams A (Jun 27, 2020). Riot Games give first clues
 about new Valorant Agents and abilities [blog]. [Online: dexerto.com](https://www.dexerto.com/valorant/riot-games-give-first-clues-about-new-valorant-agents-and-abilities-1385396/).
 
-<a id="orgac5d61f"></a> Yates R (Apr 8, 2021). Getting Started with the New
+<a id="orgfe05bd0"></a> Yates R (Apr 8, 2021). Getting Started with the New
 Watson Assistant: Plan It - Start Small, Go Fast [blog].  [URL:
 medium.com](https://medium.com/ibm-watson/post-1-plan-e13ce8dd2787); McGregor R (Oct 7, 2021). Getting Started with the New
 Watson Assistant: The Build Guide Part I. [URL: medium.com](https://medium.com/ibm-watson/getting-started-with-the-new-watson-assistant-ff8cfcbf048f)
