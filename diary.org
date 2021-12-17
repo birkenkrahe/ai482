@@ -1,4 +1,4 @@
-#+TITLE:DSC101 Diary
+#+TITLE:CSC 482.01 (AI) Diary
 #+AUTHOR: Marcus Birkenkrahe
 #+SUBTITLE: DSC101 Diary
 #+STARTUP: hideblocks
