@@ -528,7 +528,11 @@
 
   [[./img/noclass.gif]]
 
-* Week 17 - Goodbye video!
+* Week 17 - Final exams
+
+  [[./img/finals.gif]]
+
+* Week 18 - Goodbye video!
 
   #+attr_html: :width 500px
   [[./img/palazzo.jpg]]
