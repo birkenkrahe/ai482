@@ -539,20 +539,23 @@
 
   [[https://youtu.be/IxyqEW9-12s][See good-bye video link.]] 
 
+  [[https://github.com/birkenkrahe/ai482/blob/main/diary.md#thursday-december-16][See last diary entry:]]
+
   1) What does it all mean?
   2) What next?
-  3) What about the course?
+  3) What about the conrse?
+  4) Final words.
 
     Some recent findings:
 
-  4) NLP - [[https://towardsdatascience.com/how-ai21-labs-is-reimagining-the-way-we-read-and-write-e5e8ecb05dc][AI21: OpenAI is not the only game in town]] ([[romero][Romero,
+  5) NLP - [[https://towardsdatascience.com/how-ai21-labs-is-reimagining-the-way-we-read-and-write-e5e8ecb05dc][AI21: OpenAI is not the only game in town]] ([[romero][Romero,
      7-Dec-2021]])
-  5) NLP tutorial: [[https://e2eml.school/transformers.html][Transformers from Scratch]]
-  6) Cool application: [[https://snyk.io/lp/snyk-code-scan-your-code/][Free code quality and vulnerability checker]]
+  6) NLP tutorial: [[https://e2eml.school/transformers.html][Transformers from Scratch]]
+  7) Cool application: [[https://snyk.io/lp/snyk-code-scan-your-code/][Free code quality and vulnerability checker]]
      (Snyk, 2021)
-  7) Current NLP research from "Meta" (formerly Facebook): [[https://ai.facebook.com/blog/building-a-conversational-parser-for-on-device-voice-assistants][Building a
+  8) Current NLP research from "Meta" (formerly Facebook): [[https://ai.facebook.com/blog/building-a-conversational-parser-for-on-device-voice-assistants][Building a
      conversational parser for on-device voice assistants]]
-  8) Philosophical: [[https://www.ncronline.org/news/opinion/7-lessons-learned-vaticans-artificial-intelligence-symposium][7 lessons learned from the Vatican's artificial
+  9) Philosophical: [[https://www.ncronline.org/news/opinion/7-lessons-learned-vaticans-artificial-intelligence-symposium][7 lessons learned from the Vatican's artificial
      intelligence symposium]] (Keegan, 2-Nov-2021)
 
   #+begin_quote
