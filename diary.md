@@ -1,16 +1,16 @@
 
 # Table of Contents
 
-1.  [What is this?](#org9a7ce3b)
-2.  [Friday, August 27 - Buns & Books](#org884c68e)
-3.  [Monday, September 27 - Deep Learning](#orgf30b3db)
-4.  [Monday, October 25 - Snapshot](#org8f730fd)
-5.  [Thursday, December 16](#orga26f873)
-6.  [References](#org9746b81)
+1.  [What is this?](#orgd9628de)
+2.  [Friday, August 27 - Buns & Books](#org30e4309)
+3.  [Monday, September 27 - Deep Learning](#orga3ce067)
+4.  [Monday, October 25 - Snapshot](#org5b86bcf)
+5.  [Thursday, December 16](#org0e0d9a5)
+6.  [References](#org9d03b8d)
 
 
 
-<a id="org9a7ce3b"></a>
+<a id="orgd9628de"></a>
 
 # What is this?
 
@@ -20,7 +20,7 @@ Intelligence", mostly to avoid lengthy emails and to park content
 that I may want to develop later on, if I find the time.
 
 
-<a id="org884c68e"></a>
+<a id="org30e4309"></a>
 
 # Friday, August 27 - Buns & Books
 
@@ -39,7 +39,7 @@ library to drink my coffee: the armchairs near the entrance are
 fantastic<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>. Since I was in a library, I put my phone away and
 picked up a magazine. Guess what I found? An really interesting
 article on AI: "Bot Doc", on a miniature surgical robot
-([Feldman/Pratap, 2021](#orgad56e5b)). [I took pictures](https://drive.google.com/drive/folders/1pi3qw5vlkWoChkLqOwOTXOewcGJ2hXrc?usp=sharing) but, of course, to have the
+([Feldman/Pratap, 2021](#org940605a)). [I took pictures](https://drive.google.com/drive/folders/1pi3qw5vlkWoChkLqOwOTXOewcGJ2hXrc?usp=sharing) but, of course, to have the
 full experience, you should go to the library! This is an example
 for a new AI application that you could feature in a presentation
 and/or for your own AI application project<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>.
@@ -51,15 +51,15 @@ You should do that in any case: they have a great collection of
 books on AI. I really don't know why! The books are mostly dated,
 but that does not matter so much. I borrowed two, which are
 relevant to the next few weeks - "AI - A Philosophical
-Introduction" ([Copeland, 1993](#org337c8b7)), by a professor of logic (now you
+Introduction" ([Copeland, 1993](#org8a1e778)), by a professor of logic (now you
 know in which quadrant of the graph we are, right?), and "Computers
-and Thought" ([Feigenbaum/Feldman eds., 1963](#org81c1f5e)).
+and Thought" ([Feigenbaum/Feldman eds., 1963](#orgdf8645f)).
 
 I had only been aware of one book on the philosophy of AI, by
-H.L. Dreyfus, "What Computers Still Can't Do" ([1992](#orgdd4520d)), a pessimistic
+H.L. Dreyfus, "What Computers Still Can't Do" ([1992](#org3c2b478)), a pessimistic
 account of the progress of AI since its beginnings. Here is a
 conversation with Dreyfus on "why machines cannot become human."
-([UCTV, 2008](#org764bdaa))<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>:
+([UCTV, 2008](#orgc5c4d8e))<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>:
 
 > "At a time when researchers were proposing grand plans for general
 > problem solvers and automatic translation machines, Dreyfus
@@ -98,7 +98,7 @@ I'll dive into these over the weekend when I prepare my upcoming
 lectures.
 
 
-<a id="orgf30b3db"></a>
+<a id="orga3ce067"></a>
 
 # Monday, September 27 - Deep Learning
 
@@ -127,7 +127,7 @@ sometimes, results already known have to be rediscovered - and not
 crediting first researchers is a form of fraud, too. I became aware
 of this for Deep Learning (the topic that Andrew Ng is wrestling
 with in his video) via this recent [blog post](https://people.idsia.ch/~juergen/scientific-integrity-turing-award-deep-learning.html) by Schmidhuber
-([2021](#org28e973d)). Himself an expert, he documents how the recipients of the
+([2021](#org0443156)). Himself an expert, he documents how the recipients of the
 2018 Turing Award (for progress in deep learning), all three of them
 giants in their field, were standing on the shoulders of earlier
 giants whom they apparently failed to mention.
@@ -142,7 +142,7 @@ excuses.
 
 ## State of the Art of AI
 
-I'm using Andrew Ng's video lecture for [Stanford HAI (2020)](#org910fe98) as a
+I'm using Andrew Ng's video lecture for [Stanford HAI (2020)](#org1c63418) as a
 source for discussion and presentation. Ng is an important
 influencer in this space. His company [DeepLearning.ai](https://www.deeplearning.ai/) is focused on
 educating large audiences (he is one of the founders of Coursera).
@@ -160,7 +160,7 @@ about how to increase AI literacy in society and in organizations.
 
 Ng focuses on health care examples - this is a major future battle
 ground and I recommend listening to this panel discussion between
-three AI and healthcare experts ([stanfordonline, 2021](#org3320748)) to get a
+three AI and healthcare experts ([stanfordonline, 2021](#orgffb924a)) to get a
 better idea of the challenges and opportunities.
 
 As I said in the lecture, AI is already around us, and often
@@ -172,7 +172,7 @@ research point of view, and is also fairly easy to do, affordable
 and fun.
 
 
-<a id="org8f730fd"></a>
+<a id="org5b86bcf"></a>
 
 # Monday, October 25 - Snapshot
 
@@ -192,7 +192,7 @@ this class. Keep it up!
 
 ## Champions
 
-When I saw this list ([Neura Pod-Neuralink, 2021](#org574cbca)) of AI champions, I
+When I saw this list ([Neura Pod-Neuralink, 2021](#orgbb29cb9)) of AI champions, I
 was wondering how many of them believed in the principal uniqueness
 of humans (e.g. because they are Christians). What do you think?
 
@@ -217,7 +217,7 @@ China today and tomorrow.
 *Image: surveillance data center in Shanghai, China*
 
 
-<a id="orga26f873"></a>
+<a id="org0e0d9a5"></a>
 
 # Thursday, December 16
 
@@ -259,9 +259,9 @@ so relentlessly oversold. I have a bag full of personal opinions
 why this is so, and I won't bore you with them now.
 
 Most importantly, don't mistake critical thinking for negative or
-pessimistic. You got to know me: I am really optimistic about
+pessimistic. You know me better: I am really optimistic about
 technology in general, and computing and AI in particular, but I am
-allergic against snake oil salesmen.
+also allergic against snake oil salesmen.
 
 Regrettably, the gap between those who know (even a little) about
 AI and those who don't, is quickly widening and turning into a
@@ -348,45 +348,45 @@ of you again next term!
 ![img](./img/ty.gif)
 
 
-<a id="org9746b81"></a>
+<a id="org9d03b8d"></a>
 
 # References
 
-<a id="org1f430a2"></a> Buchanan BG (1972). Review of Hubert Dreyfus' What
+<a id="org9e65cb0"></a> Buchanan BG (1972). Review of Hubert Dreyfus' What
 Computers Can't Do: A Critique of Artificial Reason. In: SAIP Memo
 AIM-181, Stanford Comp Sci Dept Report STAN-CS-72-325,
 Nov 1972. [Online: stanford.edu](http://i.stanford.edu/pub/cstr/reports/cs/tr/72/325/CS-TR-72-325.pdf).
 
-<a id="org337c8b7"></a> [Copeland J (1993). Artificial Intelligence> A
+<a id="org8a1e778"></a> [Copeland J (1993). Artificial Intelligence> A
 Philosophical Introduction. Wiley-Blackwell.](https://www.wiley.com/en-us/Artificial+Intelligence%3A+A+Philosophical+Introduction-p-9780631183853)
 
-<a id="org7017c9a"></a> Dreyfus HL. What Computers Can't Do. New York: Harper
+<a id="orgeee3b35"></a> Dreyfus HL. What Computers Can't Do. New York: Harper
 & Row (1972).
 
-<a id="orgdd4520d"></a> [Dreyfus HL. What Computers Still Can't Do. Boston:
+<a id="org3c2b478"></a> [Dreyfus HL. What Computers Still Can't Do. Boston:
 MIT Press (1992).](https://mitpress.mit.edu/books/what-computers-still-cant-do)
 
-<a id="org81c1f5e"></a> Feigenbaum EA, Feldman J (eds.). Computers and
+<a id="orgdf8645f"></a> Feigenbaum EA, Feldman J (eds.). Computers and
 thought. New York: McGraw-Hill (1963). [Online: archive.org.](https://archive.org/details/computersthought00feig)
 
-<a id="orgad56e5b"></a> Feldman A/Pratap A (2021). Bot Doc. In: Forbes,
+<a id="org940605a"></a> Feldman A/Pratap A (2021). Bot Doc. In: Forbes,
 August/September 2021:37-39.
 
-<a id="org574cbca"></a> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
+<a id="orgbb29cb9"></a> Neura Pod - Neuralink (Oct 3, 2021). OpenAI&Neuralink
 [video]:1:55-6:05. [Online: youtube.com.](https://youtu.be/ISa10TrJK7w)
 
-<a id="org28e973d"></a> Schmidhuber J (24 Sep 2021). Scientific Integrity, the
+<a id="org0443156"></a> Schmidhuber J (24 Sep 2021). Scientific Integrity, the
 2021 Turing Lecture, and the 2018 Turing Award for Deep Learning
 [Blog]. [Online: people.idsia.ch](https://people.idsia.ch/~juergen/scientific-integrity-turing-award-deep-learning.html).
 
-<a id="org910fe98"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
+<a id="org1c63418"></a> Stanford HAI (Sep 23, 2020). Andrew Ng: Bridging AI's
 Proof-of-Concept to Production Gap [video]. [Online: youtube.com](https://youtu.be/tsPuVAMaADY).
 
-<a id="org3320748"></a> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford
+<a id="orgffb924a"></a> stanfordonline (Apr 17, 2020). Lecture 1 - Stanford
 CS229: Machine Learning - Andrew Ng (Autumn 2018) [video]. [Online:
 youtube.com](https://youtu.be/jGwO_UgTS7I?t=2180).
 
-<a id="org764bdaa"></a> [University of California Television (1 May
+<a id="orgc5c4d8e"></a> [University of California Television (1 May
 2008). Conversations with History: Hubert Dreyfus [Video]. Online:
 YouTube.](https://youtu.be/-CHgt2Szk-I)
 
@@ -408,8 +408,8 @@ like "bariatric surgeon" and "laparoscopy". So much for having studied
 Latin and Greek, I suppose. Where are the words when you need them?
 
 <sup><a id="fn.3" href="#fnr.3">3</a></sup> The 1992 book is an update of the classic "What Computers Can't
-Do" ([1972](#org7017c9a)), which was the earliest philosophical attack on AI (not
-without pushback, cp. [Buchanan, 1972](#org1f430a2)). Twenty years later, the author
+Do" ([1972](#orgeee3b35)), which was the earliest philosophical attack on AI (not
+without pushback, cp. [Buchanan, 1972](#org9e65cb0)). Twenty years later, the author
 remained unrelenting in his critique of AI. Dreyfus and I share a love
 for the religious philosopher Soren Kierkegaard, and an awe of the
 German phenomenologist Heidegger. Dreyfus' YouTube lectures on these

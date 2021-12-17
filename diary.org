@@ -235,9 +235,9 @@
    why this is so, and I won't bore you with them now.
 
    Most importantly, don't mistake critical thinking for negative or
-   pessimistic. You got to know me: I am really optimistic about
+   pessimistic. You know me better: I am really optimistic about
    technology in general, and computing and AI in particular, but I am
-   allergic against snake oil salesmen.
+   also allergic against snake oil salesmen.
 
    Regrettably, the gap between those who know (even a little) about
    AI and those who don't, is quickly widening and turning into a
