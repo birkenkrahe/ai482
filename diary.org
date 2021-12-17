@@ -202,6 +202,9 @@
   transcript for that video. Let me begin by saying that I had an
   absolute blast in this class - and I hadn't expected to have one.
 
+  #+attr_html: :width 500px
+  [[./img/awesome.png]]
+
 ** What does it all mean?
 
    Of course I know that AI is hot, perhaps the hottest topic next to
