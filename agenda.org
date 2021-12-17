@@ -533,7 +533,7 @@
   #+attr_html: :width 500px
   [[./img/palazzo.jpg]]
 
-  See good-bye video link. 
+  [[https://youtu.be/IxyqEW9-12s][See good-bye video link.]] 
 
   1) What does it all mean?
   2) What next?
