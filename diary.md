@@ -290,7 +290,7 @@ going to get better.
 Which is why my main advice on "what next" is:
 
 1.  learn to read more, and faster (while developing your critical
-    faculties, which will speed you up). Here are the [textbooks](https://github.com/birkenkrahe/org/blob/master/booklist.md) that
+    faculties, which will speed you up). Here are the [textbooks](https://github.com/birkenkrahe/org/blob/master/booklist.org) that
     I intend to read (not just, but also for course development).
 2.  Talk to other people often about AI - what they think, what they
     want, what they know - and follow up on these
