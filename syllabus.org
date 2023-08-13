@@ -85,7 +85,6 @@
     |   49-0 | F               | F             |
     |--------+-----------------+---------------|
 
-
 *** Presentation (30%)
 
     * Present part of a chapter from AIMA, OR
