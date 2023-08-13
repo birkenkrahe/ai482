@@ -2,6 +2,7 @@
 #+AUTHOR: Marcus Birkenkrahe
 #+Subtitle: Seminar on Artificial Intelligence
 #+OPTIONS: toc:nil num:nil ^:nil
+#+startup: overview hideblocks inlineimages indent
 #+INFOJS_OPT: :view:info
 * AI applications that might change the world[fn:4]
 

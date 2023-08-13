@@ -1,0 +1,106 @@
+#+TITLE:DSC/CSC 482.01 Fall 2023 Syllabus
+#+AUTHOR: Marcus Birkenkrahe
+#+SUBTITLE: Artificial Intelligence
+#+startup: overview hideblocks indent inlineimages
+#+options: toc:nil
+* General Course Information
+
+- Meeting Times: Monday/Wednesday/Friday, 09:00-09:50 hrs
+- Meeting place: Lyon Building computer lab room 104
+- Professor: Marcus Birkenkrahe
+- Office: Derby Science Center room 210
+- Office hours: Mon/Wed 2-3pm, Tue 4-4.45pm, Thu 9.30-10:45am
+- Phone: (870) 307-7254
+- Textbooks we'll be using (among others) - no need to buy:
+  1) [[https://aima.cs.berkeley.edu/][AIMA - /Artificial Intelligence - A Modern Approach]] (4th
+     edition)/, by Stuart Russell and Peter Norvig, Pearson 2021.
+  2) [[https://www.manning.com/books/learn-ai-assisted-python-programming][Learn AI-Assisted Python Programming]] - With GitHub Copilot and
+     ChatGPT, by Leo Porter and Daniel Zingaro, Manning 2023.
+
+* Objectives
+
+Artificial intelligence has been a goal of computer science (CS)
+since the early days of the field in the 1950s. Unlike other areas
+of CS, it has undergone major trend swings. Currently, AI enjoys
+another (its third) spring. In truth, though, AI is not just one
+field, but several interconnected fields. In this seminar, we will
+work together to identify and understand the AI subfields that are
+industrially relevant, and separate them from the more arcane areas
+that may, or may not be relevant in the near future. This special
+topic seminar is for everyone who is interested in AI. We will
+discuss algorithmic, social, philosophical, commercial and
+technical aspects of AI.
+
+* Student Learning Outcomes
+
+Students who complete DSC 482.01 "Artificial Intelligence", will be
+able to:
+
+- understand the history and importance of AI for society
+- know how to solve problems in complex environments
+- know how AI can be used for sales and marketing
+- understand agent-based technologies for different applications
+- understand the conceptual basics of machine learning techniques
+- design an own application using AI principles and techniques
+
+* Course requirements
+
+No prior knowledge required. Some knowledge of, and experience with
+algorithms is useful but not critical. Curiosity is essential. You
+will gain data literacy skills by taking this course. The course
+will prepare you for further studies in machine learning and deep
+learning, but also in conceptual applications of AI, like machine
+ethics.
+
+* Grading system
+
+| When   | Description          | Impact | Mode   |
+|--------+----------------------+--------+--------|
+| Weekly | DataCamp assignments |    25% | Single |
+| TBD    | Presentation         |    25% | Single |
+| TBD    | Session protocol     |    25% | Single |
+| TBD    | AI application       |    25% | Team   |
+
+Notes:
+- To pass: 60%
+- DataCamp assignments: there are 16 assignments spread out over 5
+  courses. Each assignment contributes 1.5625% (25/16) to your final
+  grade. Late assignments are counted as 60% complete only.
+- Session protocol: every participant completes 1 protocol for the
+  topical presentation of another participant.
+- Presentation: by individual course participants on AI topics
+  (articles and supervision from the instructor).
+- AI application: a customer-focused team effort resulting in a new AI
+  application using e.g. ChatGPT. Includes 4 Scrum sprint reviews.
+
+* Dates and class schedule
+
+| Week | Date          | Assignments       | Datacamp         | Proj |
+|------+---------------+-------------------+------------------+------|
+|    1 | Aug 21-Aug 25 | Intro to AI       |                  |      |
+|    2 | Aug 28-Sep 01 | AI History        |                  |      |
+|    3 | Sep 04-Sep 08 | AI agents         |                  |      |
+|    4 | Sep 11-Sep 15 | State-of-the-Art  | Understanding AI | 1st  |
+|    5 | Sep 18-Sep 22 | Future of AI      |                  |      |
+|    6 | Sep 25-Sep 29 | Machine Learning  | Intro to ChatGPT |      |
+|    7 | Oct 02-Oct 06 | Sales/marketing   |                  |      |
+|    8 | Oct 09-Oct 13 | Natural Language  | Understanding ML | 2nd  |
+|    9 | Oct 16-Oct 20 | Medical AI        |                  |      |
+|   10 | Oct 23-Oct 27 | AI coding, Pres 1 |                  |      |
+|   11 | Oct 30-Nov 03 | Pres 2,3,4        |                  |      |
+|   12 | Nov 06-Nov 10 | Pres 5,6,7        | LLM Concepts     | 3rd  |
+|   13 | Nov 13-Nov 17 | Pres 8,9,10       |                  |      |
+|   14 | Nov 20-Nov 24 | Pres 11           |                  |      |
+|   15 | Nov 27-Dec 01 | Pres 12,13,14     |                  |      |
+|   16 | Dec 04-Dec 08 | PROJECTS          | Generative AI    | 4th  |
+
+#+begin_notes
+- NO CLASSES: Aug 21, Oct 9 (Fall break), Nov 22 + 24
+  (Thanksgiving). See [[https://catalog.lyon.edu/202324-academic-calendar][2023-2024 academic calendar]].
+- ONLINE CLASSES: Sept 15 + 22.
+#+end_notes
+
+* [[https://docs.google.com/document/d/1ZaoAIX7rdBOsRntBxPk7TK77Vld9NXECVLvT9_Jovwc/edit?usp=sharing][Lyon College Standard Policies (Fall 2023)]]
+
+Online: https://tinyurl.com/LyonPolicyF23, see also [[https://catalog.lyon.edu/class-attendance][Class Attendance]]
+
