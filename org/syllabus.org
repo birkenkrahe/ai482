@@ -100,6 +100,27 @@ Notes:
 - ONLINE CLASSES: Sept 15 + 22.
 #+end_notes
 
+* Learning management system
+
+- We use Lyon's Canvas installation for this course.
+- The home page contains: assignments, grades, pages, people,
+  syllabus, quizzes, Google Drive, Course evaluation and Zoom.
+- The Zoom page includes cloud recordings of all past sessions.
+- Recorded sessions will be deleted after the last class.
+
+* DataCamp
+
+The course includes a free subscription to the DataCamp classroom at
+[[https://datacamp.com/][datacamp.com]] for further study, and for the opportunity to earn
+certificates. DataCamp is a popular data science online learning
+platform.
+
+* GitHub
+
+All course materials are available in a public GitHub repository
+([[https://github.com/birkenkrahe/ds1][github.com/birkenkrahe/ds1]]). GitHub is the worldwide largest online
+platform for software development.
+
 * [[https://docs.google.com/document/d/1ZaoAIX7rdBOsRntBxPk7TK77Vld9NXECVLvT9_Jovwc/edit?usp=sharing][Lyon College Standard Policies (Fall 2023)]]
 
 Online: https://tinyurl.com/LyonPolicyF23, see also [[https://catalog.lyon.edu/class-attendance][Class Attendance]]
