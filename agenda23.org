@@ -1,0 +1,7 @@
+#+TITLE:Agenda
+#+AUTHOR:Marcus Birkenkrahe
+#+SUBTITLE: AI seminar 482.01 Fall 2023
+#+OPTIONS: toc:1 num:nil fig:nil
+#+STARTUP: overview
+#+attr_latex: :width 400px
+[[./img/chatgpt_bankrupt.png]]
